@@ -27,7 +27,7 @@ A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boon
 You start with *3 Qi and 1 Harmony* per session. You can add *Qi* to any roll result *except a 1* to *increase the result* by 1 per *Qi* spent. You gain 1 *Qi* on *ANY failed roll* (once per turn) or when the GM awards it. A *Harmony* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Qi* to buy back.
 
 ### Corruption
-  *Corruption rolls* happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Corruption*. At *3 Corruption*, your Corruption manifests in a way related to the last *Corruption* inflicted. Reduce *Corruption* by gaining *Cultivation*.
+  *Corruption* rolls happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Corruption*. At *3 Corruption*, your Corruption manifests in a way related to the last *Corruption* inflicted, typically resulting in your end. Reduce *Corruption* by gaining *Cultivation*.
 
 ### Cultivation
 Gain *Cultivation* from mystical entities, encounters and artefacts. At *3 Cultivation*, evolve a new *Cultivation Ability*, then reset Cultivation to zero.
@@ -281,7 +281,7 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | **Puppeteering** | As an Action, you can control small creatures, dolls, or other similar objects to act as you direct. You can see through their eyes, hear through their ears, and communicate through them. You can control up to 6 at one time. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
 | **Blood Sigil** | You can use your own blood as ink to create Mystical inscriptions and signs. Use an Action to create a Blood Sigil, which will either Shield yourself or an ally from a single Strike, render a target Near to you as Stunned, prevent anyone you designate entering an area Close to the Blood Sigil or make a target take a single Action you determine against their will. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
 | **Qi Thief** | Siphon energy from the living. On a successful hit, you can choose deal no damage but regain 2 Qi. You can drain additional Qi from the target for each Confirmed Crit. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
-| **Soul Blade** | Manifest a weapon forged from the souls of the damned. As an Action, you can create a Soul Blade in your hand that lasts until the end of the scene. It is a melee weapon that attacks with a Boon, deals 1 Strike and has the special property of being able to strike incorporeal entities and bypass Mystical defenses. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. | Soul Blade Attacks [Corruption] |
+| **Blade of the Damned** | Manifest a weapon forged from the souls of the damned. As an Action, you can create a Blade of the Damned in your hand that lasts until the end of the scene. It is a melee weapon that attacks with a Boon, deals 1 Strike and has the special property of being able to strike incorporeal entities and bypass Mystical defenses. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. | Blade of the Damned Attacks [Corruption] |
 | **Blood Drain** | As an Action, target a single enemy you can see who must make a Resistance Save. If they fail, they lose 1 Strike and you heal 1 yourself. If they suceed, you take a Corruption with no save. |  |
 | **Soul Devourer** | As an Action, after defeating an enemy, you can choose to consume their soul. If you do, you gain 1 Cultivation, but must also take 1 Corruption with no save. |  |
 | **Vengeful Spirits** | As an Action, you can call forth the vengeful spirits of those you have wronged or slain. All enemies within Long Range must make a Resistance Save or be Terrified. The first time you use this ability each session, make a Resistance Save or take 1 Corruption.  |  |
@@ -370,7 +370,7 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 | Name | Description | Quantity | Rarity |
 |------|-------------|----------|--------|
 | **Arrows** |  | 12 | Common |
-| **Bolts** |  | 12 | Common |
+| **Bolts** | Standard bolts for crossbows. | 12 | Common |
 
 ## Reference Tables
 

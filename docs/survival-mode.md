@@ -27,7 +27,7 @@ A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boon
 You start with no *Stress* and a *Fate* per session. You can *take Stress* to add 1 per Stress taken to any roll *except a 1*. Taking *3 Stress* inflicts a *Strike* and clears all your *Stress*. *Stress* can be removed by items, relaxation, downtime, or a good night's sleep. A *Fate* is a coin flip to determine critical success or critical failure on *ANY* failed roll, *including 1s*.
 
 ### Doom
-  *Doom rolls* happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Doom*. At *3 Doom*, your Doom manifests in a way related to the last *Doom* inflicted. Reduce *Doom* by dealing with major threats.
+  *Doom* rolls happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Doom*. At *3 Doom*, your Doom manifests in a way related to the last *Doom* inflicted, typically resulting in your end. Reduce *Doom* by dealing with major threats.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
