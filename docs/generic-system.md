@@ -118,10 +118,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
-| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
-| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
 | **Cover Specialist** | When in cover, you always count as being in one level higher cover than you actually are. |  |
-| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
@@ -146,6 +143,9 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Careful Aim** | Take extra time to aim carefully before making a ranged attack, gaining increased accuracy. | The following Ranged Attack Action |
 | **Trick Shooter** | Can perform trick shots to disarm enemies, shoot items from their hands, or ricochet bullets to make otherwise impossible shots. | Trick Shots |
 | **Demolition Man** | Can safely set and disarm explosives on anything but a 1. Know how to maximize blast effectiveness and improvise explosive devices. The higher the roll, the better it goes. |  |
+| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
+| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
+| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 
 #### High Tech Inclinations
 
@@ -236,7 +236,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Prime Specimen** (+1 Strike) | Can take +1 Strikes. |  |
+| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
@@ -245,7 +245,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. | Final Turn Before Death |
 | **Adrenaline Surge** | Once per session, when you drop to 1 Health, immediately take a free Action with a Boon to whatever you do. |  |
-| **Berserker** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Pulp Inclinations
@@ -263,7 +263,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Duplicitous** | Skilled at deception, gambling, and sleight of hand. | Deception, Gambling, Sleight of Hand |
 | **Interrogator** | Skilled at extracting information from people through questioning, intimidation, or trickery on anything but a 1. The higher the result, the better it goes. |  |
 | **Intimidating Presence** | Boon to Intimidation. Can use an Action to inflict Terrified on a target who fails a Resistance Save. | Intimidation |
-| **Hype Master** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
+| **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
 | **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
@@ -732,8 +732,6 @@ Roll or choose a Personality Trait to define how your character behaves, reacts 
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 2**
-
 | d100 | Result |
 |------|--------|
 | 1 | Actions speak louder than words. |
@@ -745,202 +743,97 @@ Roll or choose a Motto: a phrase your character lives by. Use it for inspiration
 | 7 | Better safe than sorry. |
 | 8 | Live and let live. |
 | 9 | An eye for an eye. |
-| 10 | Do unto others... |
+| 10 | Do unto others. |
 | 11 | Every person for themselves. |
 | 12 | We're in this together. |
 | 13 | Know when to hold 'em, know when to fold 'em. |
 | 14 | Strike first, ask questions later. |
-| 15 | Look before you leap. |
-| 16 | Nothing ventured, nothing gained. |
-| 17 | Slow and steady wins the race. |
-| 18 | The ends justify the means. |
-| 19 | The road to hell is paved with good intentions. |
-| 20 | What doesn't kill you makes you stronger. |
-| 21 | Knowledge is power. |
-| 22 | Ignorance is bliss. |
-| 23 | The pen is mightier than the sword. |
-| 24 | Might makes right. |
-| 25 | Two wrongs don't make a right. |
-| 26 | There's no honor among thieves. |
-| 27 | A promise is a promise. |
-| 28 | Never look back. |
-| 29 | Learn from the past. |
-| 30 | Seize the day. |
-| 31 | Patience is a virtue. |
-| 32 | Good things come to those who wait. |
-| 33 | If you want something done right, do it yourself. |
-| 34 | United we stand, divided we fall. |
-| 35 | Keep your friends close and your enemies closer. |
-| 36 | Revenge is a dish best served cold. |
-| 37 | Forgive and forget. |
-| 38 | Never forgive, never forget. |
-| 39 | Blood is thicker than water. |
-| 40 | Family first. |
-| 41 | You can't choose your family. |
-| 42 | Home is where the heart is. |
-| 43 | There's no place like home. |
-| 44 | The truth will set you free. |
-| 45 | What they don't know won't hurt them. |
-| 46 | Honesty is the best policy. |
-| 47 | All's fair in love and war. |
-| 48 | Love conquers all. |
-| 49 | Better to have loved and lost... |
-| 50 | Pride goes before a fall. |
-| 51 | Humility is strength. |
-| 52 | Never show weakness. |
-| 53 | Stand your ground. |
-| 54 | Pick your battles. |
-| 55 | Discretion is the better part of valor. |
-| 56 | No sacrifice, no victory. |
-| 57 | The needs of the many outweigh the needs of the few. |
-| 58 | Look out for number one. |
-| 59 | Do no harm. |
-| 60 | Survival of the fittest. |
-| 61 | Adapt or die. |
-| 62 | Change is the only constant. |
-| 63 | This too shall pass. |
-| 64 | What goes around comes around. |
-| 65 | You reap what you sow. |
-| 66 | Life isn't fair. |
-| 67 | Make your own luck. |
-| 68 | Everything happens for a reason. |
-| 69 | There are no accidents. |
-| 70 | Expect the unexpected. |
-| 71 | Hope for the best. |
-| 72 | Prepare for the worst. |
-| 73 | Stay alert, stay alive. |
-| 74 | Never let them see you sweat. |
-| 75 | Keep calm and carry on. |
-| 76 | When in doubt, run. |
-| 77 | Stand and fight. |
-| 78 | Live to fight another day. |
-| 79 | Death before dishonor. |
-| 80 | Better dead than a coward. |
-| 81 | I didn't come this far to give up now. |
-| 82 | Whatever it takes. |
-| 83 | By any means necessary. |
-| 84 | The mission comes first. |
-| 85 | No one gets left behind. |
-| 86 | We finish this together. |
-| 87 | I work alone. |
-| 88 | Teamwork makes the dream work. |
-| 89 | If it ain't broke, don't fix it. |
-| 90 | There's always room for improvement. |
-| 91 | Practice makes perfect. |
-| 92 | Nobody's perfect. |
-| 93 | Done is better than perfect. |
-| 94 | Measure twice, cut once. |
-| 95 | Shoot first, ask questions later. |
-| 96 | Question everything. |
-| 97 | Follow orders. |
-| 98 | Rules are made to be broken. |
-| 99 | Play by the rules. |
-| 100 | Honor above all. |
-
-**Table 2 of 2**
-
-| d100 | Result |
-|------|--------|
-| 1 | Survival above all. |
-| 2 | Never tell me the odds. |
-| 3 | Trust the process. |
-| 4 | Embrace the chaos. |
-| 5 | Control what you can control. |
-| 6 | Let it go. |
-| 7 | Never surrender. |
-| 8 | Know when to quit. |
-| 9 | Quitters never win. |
-| 10 | Winning isn't everything. |
-| 11 | Second place is the first loser. |
-| 12 | It's not whether you win or lose, it's how you play the game. |
-| 13 | Play to win. |
-| 14 | The best defense is a good offense. |
-| 15 | An ounce of prevention is worth a pound of cure. |
-| 16 | Strike while the iron is hot. |
-| 17 | Good things come in small packages. |
-| 18 | Size doesn't matter. |
-| 19 | The bigger they are, the harder they fall. |
-| 20 | Speak softly and carry a big stick. |
-| 21 | Actions have consequences. |
-| 22 | No regrets. |
-| 23 | Learn from your mistakes. |
-| 24 | Don't cry over spilled milk. |
-| 25 | If at first you don't succeed, try, try again. |
-| 26 | Third time's the charm. |
-| 27 | Once bitten, twice shy. |
-| 28 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 29 | I've got no choice but to be strong. |
-| 30 | I've got too much blood on my hands to quit now. |
-| 31 | Keep moving. |
-| 32 | Lead by example. |
-| 33 | Choose your hard. |
-| 34 | Be useful. |
-| 35 | Stay curious. |
-| 36 | Small steps, every day. |
-| 37 | Progress over drama. |
-| 38 | Calm is a choice. |
-| 39 | Protect your peace. |
-| 40 | Win with consistency. |
-| 41 | Kind, not weak. |
-| 42 | Sharp mind, soft ego. |
-| 43 | Make it count. |
-| 44 | Less talk, more proof. |
-| 45 | Carry your own weight. |
-| 46 | Start before you're ready. |
-| 47 | Finish what you start. |
-| 48 | Grace under pressure. |
-| 49 | Stay teachable. |
-| 50 | Solve the problem in front of you. |
-| 51 | Do hard things well. |
-| 52 | No panic, just priorities. |
-| 53 | Respect is rented daily. |
-| 54 | Energy follows focus. |
-| 55 | Truth over comfort. |
-| 56 | Aim true. |
-| 57 | Own the outcome. |
-| 58 | Pressure reveals habits. |
-| 59 | Choose clarity. |
-| 60 | Keep promises to yourself. |
-| 61 | Courage with compassion. |
-| 62 | Stay dangerous, stay decent. |
-| 63 | Respond, don't react. |
-| 64 | Consistency beats intensity. |
-| 65 | Build, don't brag. |
-| 66 | Guard your time. |
-| 67 | Care enough to improve. |
-| 68 | Set the tone. |
-| 69 | Do less, better. |
-| 70 | Hard facts, open mind. |
-| 71 | Strong back, stronger character. |
-| 72 | Patience with purpose. |
-| 73 | When it matters, show up. |
-| 74 | Earn trust slowly. |
-| 75 | Leave it better. |
-| 76 | Cut the noise. |
-| 77 | Use what you have. |
-| 78 | Prepared is powerful. |
-| 79 | Adapt with intent. |
-| 80 | Keep your edge. |
-| 81 | Stay humble, stay hungry. |
-| 82 | Learn faster than the problem changes. |
-| 83 | Take the next right step. |
-| 84 | Discipline buys freedom. |
-| 85 | Clarity beats speed. |
-| 86 | Raise your standards quietly. |
-| 87 | No shortcuts worth taking. |
-| 88 | Protect the vulnerable. |
-| 89 | Be hard to shake. |
-| 90 | Think long, act now. |
-| 91 | Practice courage daily. |
-| 92 | Standards over moods. |
-| 93 | Simple is strong. |
-| 94 | Own your mistakes quickly. |
-| 95 | Speak less, listen deeper. |
-| 96 | Choose effort over excuses. |
-| 97 | Be where your feet are. |
-| 98 | Leave ego at the door. |
-| 99 | The right thing, especially then. |
-| 100 | Steady wins storms. |
+| 15 | Nothing ventured, nothing gained. |
+| 16 | The ends justify the means. |
+| 17 | The road to hell is paved with good intentions. |
+| 18 | What doesn't kill you makes you stronger. |
+| 19 | Knowledge is power. |
+| 20 | Might makes right. |
+| 21 | There's no honor among thieves. |
+| 22 | A promise is a promise. |
+| 23 | Seize the day. |
+| 24 | Patience is a virtue. |
+| 25 | If you want something done right, do it yourself. |
+| 26 | United we stand, divided we fall. |
+| 27 | Keep your friends close and your enemies closer. |
+| 28 | Revenge is a dish best served cold. |
+| 29 | Never forgive, never forget. |
+| 30 | Blood is thicker than water. |
+| 31 | Family first. |
+| 32 | The truth will set you free. |
+| 33 | Honesty is the best policy. |
+| 34 | All's fair in love and war. |
+| 35 | Pride goes before a fall. |
+| 36 | Never show weakness. |
+| 37 | Stand your ground. |
+| 38 | Discretion is the better part of valor. |
+| 39 | No sacrifice, no victory. |
+| 40 | The needs of the many outweigh the needs of the few. |
+| 41 | Look out for number one. |
+| 42 | Do no harm. |
+| 43 | Survival of the fittest. |
+| 44 | Adapt or die. |
+| 45 | Change is the only constant. |
+| 46 | This too shall pass. |
+| 47 | What goes around comes around. |
+| 48 | You reap what you sow. |
+| 49 | Make your own luck. |
+| 50 | Everything happens for a reason. |
+| 51 | Expect the unexpected. |
+| 52 | Stay alert, stay alive. |
+| 53 | Never let them see you sweat. |
+| 54 | Keep calm and carry on. |
+| 55 | Live to fight another day. |
+| 56 | Death before dishonor. |
+| 57 | Whatever it takes. |
+| 58 | By any means necessary. |
+| 59 | The mission comes first. |
+| 60 | No one gets left behind. |
+| 61 | I work alone. |
+| 62 | If it ain't broke, don't fix it. |
+| 63 | Measure twice, cut once. |
+| 64 | Question everything. |
+| 65 | Follow orders. |
+| 66 | Rules are made to be broken. |
+| 67 | Honor above all. |
+| 68 | Survival above all. |
+| 69 | Never tell me the odds. |
+| 70 | Embrace the chaos. |
+| 71 | Never surrender. |
+| 72 | Know when to quit. |
+| 73 | The best defense is a good offense. |
+| 74 | Strike while the iron is hot. |
+| 75 | The bigger they are, the harder they fall. |
+| 76 | Speak softly and carry a big stick. |
+| 77 | Actions have consequences. |
+| 78 | No regrets. |
+| 79 | Learn from your mistakes. |
+| 80 | Once bitten, twice shy. |
+| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
+| 82 | Lead by example. |
+| 83 | Be useful. |
+| 84 | Finish what you start. |
+| 85 | Grace under pressure. |
+| 86 | Stay teachable. |
+| 87 | No panic, just priorities. |
+| 88 | Truth over comfort. |
+| 89 | Aim true. |
+| 90 | Own the outcome. |
+| 91 | Respond, don't react. |
+| 92 | Prepared is powerful. |
+| 93 | Keep your edge. |
+| 94 | Discipline buys freedom. |
+| 95 | Raise your standards quietly. |
+| 96 | Protect the vulnerable. |
+| 97 | Simple is strong. |
+| 98 | Own your mistakes quickly. |
+| 99 | Steady wins storms. |
+| 100 | Leave it better. |
 
 ### Secrets
 

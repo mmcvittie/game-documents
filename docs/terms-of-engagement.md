@@ -129,10 +129,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
-| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
-| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
 | **Cover Specialist** | When in cover, you always count as being in one level higher cover than you actually are. |  |
-| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
@@ -150,6 +147,9 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Careful Aim** | Take extra time to aim carefully before making a ranged attack, gaining increased accuracy. | The following Ranged Attack Action |
 | **Trick Shooter** | Can perform trick shots to disarm enemies, shoot items from their hands, or ricochet bullets to make otherwise impossible shots. | Trick Shots |
 | **Demolition Man** | Can safely set and disarm explosives on anything but a 1. Know how to maximize blast effectiveness and improvise explosive devices. The higher the roll, the better it goes. |  |
+| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
+| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
+| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 
 #### Grit Inclinations
 
@@ -200,7 +200,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Prime Specimen** (+1 Strike) | Can take +1 Strikes. |  |
+| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
@@ -209,7 +209,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. | Final Turn Before Death |
 | **Adrenaline Surge** | Once per session, when you drop to 1 Health, immediately take a free Action with a Boon to whatever you do. |  |
-| **Berserker** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -220,7 +220,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Duplicitous** | Skilled at deception, gambling, and sleight of hand. | Deception, Gambling, Sleight of Hand |
 | **Interrogator** | Skilled at extracting information from people through questioning, intimidation, or trickery on anything but a 1. The higher the result, the better it goes. |  |
 | **Intimidating Presence** | Boon to Intimidation. Can use an Action to inflict Terrified on a target who fails a Resistance Save. | Intimidation |
-| **Hype Master** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
+| **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
 | **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
@@ -544,7 +544,7 @@ Aspects define who your character is beyond raw stats. Choose one from each cate
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-**Table 1 of 2**
+**Table 1 of 3**
 
 | d100 | Result |
 |------|--------|
@@ -570,86 +570,191 @@ Roll or choose a Background to establish your character's history, origin, and t
 | 20 | Field Medic |
 | 21 | Combat Lifesaver |
 | 22 | Security Contractor |
-| 23 | Bounty Hunter |
-| 24 | Gun for Hire |
-| 25 | Smuggler |
-| 26 | Blockade Runner |
-| 27 | Data Broker |
-| 28 | Info Courier |
-| 29 | Corporate Fixer |
-| 30 | Salvage Diver |
-| 31 | Derelict Scavenger |
-| 32 | Artifact Prospector |
-| 33 | Relic Curator |
-| 34 | Colony Marshal |
-| 35 | Habitat Warden |
-| 36 | Rimworld Ranger |
-| 37 | Tunnel Scout |
-| 38 | Vacuum Welder |
-| 39 | Power Systems Tech |
-| 40 | Sensor Analyst |
-| 41 | Long-Range Sniper |
-| 42 | Demolitions Specialist |
-| 43 | Electronic Warfare Officer |
-| 44 | Mech Pilot |
-| 45 | Frame Commander |
-| 46 | Dropship Pilot |
-| 47 | Cargo Master |
-| 48 | Supply Quartermaster |
-| 49 | Orbital Traffic Control |
-| 50 | AI Ethics Officer |
-| 51 | Diplomatic Attaché |
-| 52 | Cultural Liaison |
-| 53 | Corporate Heir |
-| 54 | Indenture Escapee |
-| 55 | Black Market Surgeon |
-| 56 | Cybernetics Tech |
-| 57 | Neurolink Operator |
-| 58 | Zero-G Acrobat |
-| 59 | Starport Dispatcher |
-| 60 | Quantum Network Auditor |
-| 61 | Cryo Bay Attendant |
-| 62 | Nanoforge Specialist |
-| 63 | Habitat Structural Analyst |
-| 64 | Fusion Reactor Tender |
-| 65 | Orbital Surveyor |
-| 66 | Deep Void Prospector |
-| 67 | Debris Field Navigator |
-| 68 | Grav Bike Courier |
-| 69 | Synthetic Tissue Grower |
-| 70 | Memory Archive Curator |
-| 71 | Gene Vault Custodian |
-| 72 | Atmospheric Processor Tech |
-| 73 | Shield Grid Operator |
-| 74 | Telemetry Officer |
-| 75 | Probe Recovery Specialist |
-| 76 | Drone Swarm Coordinator |
-| 77 | Autonomous Vehicle Wrangler |
-| 78 | Holo Stage Producer |
-| 79 | Sensory Sim Designer |
-| 80 | Language Model Trainer |
-| 81 | Civilian Evacuation Planner |
-| 82 | Colony Mediator |
-| 83 | Trade Corridor Broker |
-| 84 | Stellar Cartography Cadet |
-| 85 | Wormgate Traffic Marshal |
-| 86 | Radiation Safety Inspector |
-| 87 | Cryonics Counselor |
-| 88 | Exosuit Calibrator |
-| 89 | Tactical AI Wrangler |
-| 90 | Drone Racing Champion |
-| 91 | Lagrange Station Clerk |
-| 92 | Hull Plating Technician |
-| 93 | Biofilter Maintainer |
-| 94 | Water Reclamation Supervisor |
-| 95 | Food Printer Operator |
-| 96 | Solar Sail Rigger |
-| 97 | Planetfall Pathfinder |
-| 98 | Blackbox Investigator |
-| 99 | Interstellar Notary |
-| 100 | Grav Lift Mechanic |
+| 23 | Gun for Hire |
+| 24 | Blockade Runner |
+| 25 | Data Broker |
+| 26 | Info Courier |
+| 27 | Corporate Fixer |
+| 28 | Salvage Diver |
+| 29 | Derelict Scavenger |
+| 30 | Artifact Prospector |
+| 31 | Relic Curator |
+| 32 | Colony Marshal |
+| 33 | Habitat Warden |
+| 34 | Rimworld Ranger |
+| 35 | Tunnel Scout |
+| 36 | Vacuum Welder |
+| 37 | Power Systems Tech |
+| 38 | Sensor Analyst |
+| 39 | Long-Range Sniper |
+| 40 | Demolitions Specialist |
+| 41 | Electronic Warfare Officer |
+| 42 | Mech Pilot |
+| 43 | Frame Commander |
+| 44 | Dropship Pilot |
+| 45 | Cargo Master |
+| 46 | Supply Quartermaster |
+| 47 | Orbital Traffic Control |
+| 48 | AI Ethics Officer |
+| 49 | Diplomatic Attaché |
+| 50 | Cultural Liaison |
+| 51 | Corporate Heir |
+| 52 | Indenture Escapee |
+| 53 | Black Market Surgeon |
+| 54 | Cybernetics Tech |
+| 55 | Neurolink Operator |
+| 56 | Zero-G Acrobat |
+| 57 | Starport Dispatcher |
+| 58 | Quantum Network Auditor |
+| 59 | Cryo Bay Attendant |
+| 60 | Nanoforge Specialist |
+| 61 | Habitat Structural Analyst |
+| 62 | Fusion Reactor Tender |
+| 63 | Orbital Surveyor |
+| 64 | Deep Void Prospector |
+| 65 | Debris Field Navigator |
+| 66 | Grav Bike Courier |
+| 67 | Synthetic Tissue Grower |
+| 68 | Memory Archive Curator |
+| 69 | Gene Vault Custodian |
+| 70 | Atmospheric Processor Tech |
+| 71 | Shield Grid Operator |
+| 72 | Telemetry Officer |
+| 73 | Probe Recovery Specialist |
+| 74 | Drone Swarm Coordinator |
+| 75 | Autonomous Vehicle Wrangler |
+| 76 | Holo Stage Producer |
+| 77 | Sensory Sim Designer |
+| 78 | Language Model Trainer |
+| 79 | Civilian Evacuation Planner |
+| 80 | Colony Mediator |
+| 81 | Trade Corridor Broker |
+| 82 | Stellar Cartography Cadet |
+| 83 | Wormgate Traffic Marshal |
+| 84 | Radiation Safety Inspector |
+| 85 | Cryonics Counselor |
+| 86 | Exosuit Calibrator |
+| 87 | Tactical AI Wrangler |
+| 88 | Drone Racing Champion |
+| 89 | Lagrange Station Clerk |
+| 90 | Hull Plating Technician |
+| 91 | Biofilter Maintainer |
+| 92 | Water Reclamation Supervisor |
+| 93 | Food Printer Operator |
+| 94 | Solar Sail Rigger |
+| 95 | Planetfall Pathfinder |
+| 96 | Blackbox Investigator |
+| 97 | Interstellar Notary |
+| 98 | Grav Lift Mechanic |
+| 99 | Bulk Freighter Captain |
+| 100 | Fuel Refinery Technician |
 
-**Table 2 of 2**
+**Table 2 of 3**
+
+| d100 | Result |
+|------|--------|
+| 1 | Ice Hauler |
+| 2 | Orbital Scaffolder |
+| 3 | Plasma Torch Operator |
+| 4 | Pressurized Cargo Handler |
+| 5 | Reactor Shielding Specialist |
+| 6 | Sludge Tank Cleaner |
+| 7 | Space Elevator Attendant |
+| 8 | Space Tug Pilot |
+| 9 | Titanium Smelter |
+| 10 | Vacuum Suit Tailor |
+| 11 | Anomalous Signal Analyst |
+| 12 | Black Hole Researcher |
+| 13 | Dark Matter Physicist |
+| 14 | Deep Space Signal Decoder |
+| 15 | Exoplanetary Meteorologist |
+| 16 | Extreme Environment Tester |
+| 17 | First Contact Protocolist |
+| 18 | Gravitational Wave Observer |
+| 19 | High-Gravity Biologist |
+| 20 | Interstellar Mycologist |
+| 21 | Magnetosphere Engineer |
+| 22 | Nebula Gas Harvester |
+| 23 | Sub-Surface Ocean Diver |
+| 24 | Temporal Physicist |
+| 25 | Aegis Shield Technician |
+| 26 | Boarding Party Breacher |
+| 27 | Clandestine Insertion Pilot |
+| 28 | Combat Synthetic Handler |
+| 29 | Counter-Intelligence Agent |
+| 30 | Deep Cover Operative |
+| 31 | Drone Hive Strategist |
+| 32 | Kinetic Bombardment Spotter |
+| 33 | Military AI Psychologist |
+| 34 | Neural Interface Commando |
+| 35 | Orbital Drop Trooper |
+| 36 | Planetary Defense Cannoneer |
+| 37 | Point Defense Gunner |
+| 38 | Power-Armor Calibrator |
+| 39 | Sedition Investigator |
+| 40 | Zero-G Brawler |
+| 41 | Augmented Reality Architect |
+| 42 | Cloud City Systems Admin |
+| 43 | Code Archaeologist |
+| 44 | Cyber-Defense Consultant |
+| 45 | Digital Ghost Hunter |
+| 46 | Encryption Cracker |
+| 47 | Holographic Interface Designer |
+| 48 | Mainframe Cooling Engineer |
+| 49 | Neural Network Gardener |
+| 50 | Optic Fiber Splicer |
+| 51 | Quantum Cryptographer |
+| 52 | Server Farm Guardian |
+| 53 | Sub-Ethernet Technician |
+| 54 | Virtual Reality Worldbuilder |
+| 55 | Augmentation Surgeon |
+| 56 | Bionic Limb Fitter |
+| 57 | Clone Batch Supervisor |
+| 58 | Cryogenic Revivalist |
+| 59 | DNA Sequence Editor |
+| 60 | Epidemiologist (Exo-Virus) |
+| 61 | Implant Rejection Specialist |
+| 62 | Memory Extraction Tech |
+| 63 | Neuro-Splicer |
+| 64 | Organ Printer Technician |
+| 65 | Parasite Removalist |
+| 66 | Psychotropic Chemist |
+| 67 | Radiation Sickness Specialist |
+| 68 | Rehabilitation Therapist |
+| 69 | Anti-Trust Enforcer |
+| 70 | Asteroid Claim Lawyer |
+| 71 | Bureau of Statistics Analyst |
+| 72 | Colony Charter Drafter |
+| 73 | Corporate Espionage Specialist |
+| 74 | Debt Collection Agent |
+| 75 | Extradition Officer |
+| 76 | Federation Tax Auditor |
+| 77 | Hegemony News Anchor |
+| 78 | High-Society Escort |
+| 79 | Intergalactic Peacebroker |
+| 80 | Labor Union Organizer |
+| 81 | Megacorp Brand Ambassador |
+| 82 | Mercantile Exchange Trader |
+| 83 | Private Security Consultant |
+| 84 | Terraforming Project Manager |
+| 85 | Airlock Maintenance Worker |
+| 86 | Artificial Intelligence Chaplain |
+| 87 | Biosphere Maintenance Crew |
+| 88 | Carbon Sequestration Tech |
+| 89 | Colony Entertainment Director |
+| 90 | Exo-Wildlife Wrangler |
+| 91 | Freight Mag-Lev Driver |
+| 92 | Hydro-Plant Diver |
+| 93 | In-System Ferry Pilot |
+| 94 | Mining Laser Calibrationist |
+| 95 | Mobile Habitat Pilot |
+| 96 | Orbital Sanitation Engineer |
+| 97 | Recycling Reclamation Tech |
+| 98 | Synth-Food Flavorist |
+| 99 | Gravity Well Architect |
+| 100 | Solar Flare Forecaster |
+
+**Table 3 of 3**
 
 | d100 | Result |
 |------|--------|
@@ -691,72 +796,74 @@ Roll or choose a Background to establish your character's history, origin, and t
 | 36 | Engineer |
 | 37 | Tinkerer |
 | 38 | Gambler |
-| 39 | Thief |
-| 40 | Con Artist |
-| 41 | Fence |
-| 42 | Explorer |
-| 43 | Cartographer |
-| 44 | Navigator |
-| 45 | Sailor |
-| 46 | Fisher |
-| 47 | Farmer |
-| 48 | Rancher |
-| 49 | Herder |
-| 50 | Beast Handler |
-| 51 | Animal Trainer |
-| 52 | Hermit |
-| 53 | Exile |
-| 54 | Refugee |
-| 55 | Orphan |
-| 56 | Street Urchin |
-| 57 | Nobility |
-| 58 | Fallen Noble |
-| 59 | Servant |
-| 60 | Worker |
-| 61 | Foreman |
-| 62 | Guard |
-| 63 | Sentry |
-| 64 | Protector |
-| 65 | Caretaker |
-| 66 | Medic |
-| 67 | Poisoner |
-| 68 | Assassin |
-| 69 | Infiltrator |
-| 70 | Saboteur |
-| 71 | Revolutionary |
-| 72 | Rebel |
-| 73 | Loyalist |
-| 74 | Patriot |
-| 75 | Deserter |
-| 76 | Turncoat |
-| 77 | Fugitive |
-| 78 | Prisoner |
-| 79 | Escapee |
-| 80 | Vagabond |
-| 81 | Drifter |
-| 82 | Nomad |
-| 83 | Pilgrim |
-| 84 | Seeker |
-| 85 | Mystic |
-| 86 | Visionary |
-| 87 | Prophet |
-| 88 | Cultist |
-| 89 | Believer |
-| 90 | Skeptic |
-| 91 | Philosopher |
-| 92 | Poet |
-| 93 | Artist |
-| 94 | Musician |
-| 95 | Dancer |
-| 96 | Mediator |
-| 97 | Researcher |
-| 98 | Specialist |
+| 39 | Smuggler |
+| 40 | Thief |
+| 41 | Con Artist |
+| 42 | Fence |
+| 43 | Bounty Hunter |
+| 44 | Explorer |
+| 45 | Cartographer |
+| 46 | Navigator |
+| 47 | Sailor |
+| 48 | Fisher |
+| 49 | Farmer |
+| 50 | Rancher |
+| 51 | Herder |
+| 52 | Beast Handler |
+| 53 | Animal Trainer |
+| 54 | Hermit |
+| 55 | Exile |
+| 56 | Refugee |
+| 57 | Orphan |
+| 58 | Street Urchin |
+| 59 | Nobility |
+| 60 | Fallen Noble |
+| 61 | Servant |
+| 62 | Worker |
+| 63 | Foreman |
+| 64 | Guard |
+| 65 | Sentry |
+| 66 | Protector |
+| 67 | Caretaker |
+| 68 | Medic |
+| 69 | Poisoner |
+| 70 | Assassin |
+| 71 | Infiltrator |
+| 72 | Saboteur |
+| 73 | Revolutionary |
+| 74 | Rebel |
+| 75 | Loyalist |
+| 76 | Patriot |
+| 77 | Deserter |
+| 78 | Turncoat |
+| 79 | Fugitive |
+| 80 | Prisoner |
+| 81 | Escapee |
+| 82 | Vagabond |
+| 83 | Drifter |
+| 84 | Nomad |
+| 85 | Pilgrim |
+| 86 | Seeker |
+| 87 | Mystic |
+| 88 | Visionary |
+| 89 | Prophet |
+| 90 | Cultist |
+| 91 | Believer |
+| 92 | Skeptic |
+| 93 | Philosopher |
+| 94 | Poet |
+| 95 | Artist |
+| 96 | Musician |
+| 97 | Dancer |
+| 98 | Mediator |
+| 99 | Researcher |
+| 100 | Specialist |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 3**
+**Table 1 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -861,7 +968,7 @@ Roll or choose a Personality Trait to define how your character behaves, reacts 
 | 99 | Nimble |
 | 100 | Noble |
 
-**Table 2 of 3**
+**Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -966,192 +1073,116 @@ Roll or choose a Personality Trait to define how your character behaves, reacts 
 | 99 | Self Directed |
 | 100 | Stable |
 
-**Table 3 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Systematic |
-| 2 | Adaptive |
-| 3 | Mission Focused |
-| 4 | Protocol Aware |
-| 5 | Data Literate |
-| 6 | Calm Under Pressure |
-| 7 | Signal Attentive |
-| 8 | Tactically Patient |
-| 9 | Efficient |
-| 10 | Modular Thinking |
-| 11 | Iterative |
-| 12 | Contingency Minded |
-| 13 | Risk Modeled |
-| 14 | Ethically Grounded |
-| 15 | Team Synchronized |
-| 16 | Interface Fluent |
-| 17 | Network Savvy |
-| 18 | Resource Optimizing |
-| 19 | Evidence Led |
-| 20 | Innovative |
-| 21 | Forward Looking |
-| 22 | Scenario Planning |
-| 23 | Pattern Reading |
-| 24 | Rapid Learning |
-| 25 | Problem Solving |
-| 26 | Clear Communicator |
-| 27 | Cross Cultural |
-| 28 | Boundary Respecting |
-| 29 | Augment Friendly |
-| 30 | Cyber Aware |
-| 31 | Drone Coordinated |
-| 32 | Low Latency Thinking |
-| 33 | Sensor Trusting |
-| 34 | Sensor Skeptical |
-| 35 | Redundancy Minded |
-| 36 | Fail Safe Oriented |
-| 37 | Task Prioritizing |
-| 38 | Load Balanced |
-| 39 | Stress Tolerant |
-| 40 | Time Disciplined |
-| 41 | Orbit Calm |
-| 42 | Vacuum Ready |
-| 43 | Gravity Adaptive |
-| 44 | Habitat Courteous |
-| 45 | Crew Reliant |
-| 46 | Command Reliable |
-| 47 | Conflict Deescalating |
-| 48 | Security Conscious |
-| 49 | Privacy Respecting |
-| 50 | Systems Curious |
-| 51 | Maintenance Diligent |
-| 52 | Tool Competent |
-| 53 | Field Repair Minded |
-| 54 | Navigation Sure |
-| 55 | Interoperable |
-| 56 | Transparent |
-| 57 | Accountable |
-| 58 | Inclusive |
-| 59 | Deliberate |
-| 60 | Unbiased |
-| 61 | Evidence Seeking |
-| 62 | Prepared |
-| 63 | Thorough |
-| 64 | Future Proof |
-| 65 | Outcome Driven |
-| 66 | Collaborative |
-| 67 | Command Calm |
-| 68 | Restraint Oriented |
-| 69 | Duty Reliable |
-| 70 | Plan Flexible |
-| 71 | Execution Strong |
-
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 3**
+**Table 1 of 2**
 
 | d100 | Result |
 |------|--------|
 | 1 | Victory or death! |
 | 2 | No surrender! |
 | 3 | We fight so others don't have to. |
-| 4 | Death before dishonor. |
-| 5 | One shot, one kill. Precision is everything. |
-| 6 | Adapt, improvise, overcome. |
-| 7 | Fortune favors the bold, but discipline favors the living. |
-| 8 | No mission too difficult, no sacrifice too great. |
-| 9 | We are the shield between chaos and civilization. |
-| 10 | Duty first, always. |
-| 11 | The only easy day was yesterday. |
-| 12 | Hold the line. No matter the cost! |
-| 13 | Through fire and darkness, we endure. |
-| 14 | Failure is not an option. |
-| 15 | We few, we happy few. |
-| 16 | Leave no one behind. |
-| 17 | Advance or die. There is no retreat. |
-| 18 | Death smiles at us all; all we can do is smile back. |
-| 19 | Through hardships to the stars. |
-| 20 | When the going gets tough, the tough get going. |
-| 21 | Steady hands, steady hearts. |
-| 22 | In the face of impossible odds, we are inevitable. |
-| 23 | We are the hammer against the anvil of war. |
-| 24 | Blood, sweat, and glory. |
-| 25 | Courage is not the absence of fear, it's action despite it. |
-| 26 | Stand fast. Fight hard. Win at all costs. |
-| 27 | The mission comes first. |
-| 28 | We are soldiers. Our duty defines us. |
-| 29 | No rest for the righteous. |
-| 30 | We do the impossible before breakfast. |
-| 31 | When life gives you lemons, shove the lemons back. |
-| 32 | Train hard. Fight easy. |
-| 33 | Order in chaos. |
-| 34 | Discipline is a force multiplier. |
-| 35 | Sweat in peace, bleed less in war. |
-| 36 | Secure the objective, then the credit. |
-| 37 | Calm is contagious. |
-| 38 | Check your gear, then check your team. |
-| 39 | Speed, surprise, violence of action. |
-| 40 | Hold fast under pressure. |
-| 41 | Complacency kills. |
-| 42 | Eyes up, sectors clear. |
-| 43 | No plan survives first contact; good leaders do. |
-| 44 | Move with purpose. |
-| 45 | Courage is contagious too. |
-| 46 | Win the next minute. |
-| 47 | Short commands, long memories. |
-| 48 | We don't rise to occasion; we fall to training. |
-| 49 | Protect the flank. |
-| 50 | Ammo low means creativity high. |
-| 51 | Silence on comms, focus on mission. |
-| 52 | Every meter earned. |
-| 53 | Cover and maneuver. |
-| 54 | Initiative beats hesitation. |
-| 55 | Read terrain, not tea leaves. |
-| 56 | Pressure makes professionals. |
-| 57 | Never outrun your logistics. |
-| 58 | Bravery without discipline is just noise. |
-| 59 | Respect the enemy, defeat the enemy. |
-| 60 | Sharp kit, sharper mind. |
-| 61 | Take ground, hold ground. |
-| 62 | First in, last out. |
-| 63 | Plans are tools, not religion. |
-| 64 | Know your role; own your lane. |
-| 65 | Trust is built in rehearsals. |
-| 66 | One team, one standard. |
-| 67 | Don't admire the blast radius. |
-| 68 | Information wins firefights. |
-| 69 | Keep it simple under fire. |
-| 70 | We move as one weapon. |
-| 71 | No glory in friendly fire. |
-| 72 | Hard choices, clear orders. |
-| 73 | Lead from the front when it matters. |
-| 74 | Distance favors the prepared. |
-| 75 | Fatigue lies; standards don't. |
-| 76 | Always be ready to fix bayonets. |
-| 77 | Weather is not an excuse. |
-| 78 | Tempo is a weapon. |
-| 79 | Rehearse until boring, execute until done. |
-| 80 | Fight tonight. |
-| 81 | Leave excuses at the wire. |
-| 82 | Dominate the decisive point. |
-| 83 | If you can breathe, you can push. |
-| 84 | Discipline turns fear into function. |
-| 85 | Crisis reveals character. |
-| 86 | Secure people, then position. |
-| 87 | Aggressive patience wins battles. |
-| 88 | No rank in incoming fire. |
-| 89 | Hard ground makes hard soldiers. |
-| 90 | Clarity saves lives. |
-| 91 | A good retreat is still a plan. |
-| 92 | Hit, assess, adapt. |
-| 93 | Honor the fallen by finishing. |
-| 94 | Aim small, miss small. |
-| 95 | Courage with competence. |
-| 96 | Keep your head when rounds crack. |
-| 97 | Fear less, prepare more. |
-| 98 | Take the hill. Keep the hill. |
-| 99 | Mission complete means everyone home. |
-| 100 | Steel nerves, steady trigger. |
+| 4 | One strike, one kill. Precision is everything. |
+| 5 | Adapt, improvise, overcome. |
+| 6 | Fortune favors the bold, but discipline favors the living. |
+| 7 | No mission too difficult, no sacrifice too great. |
+| 8 | We are the shield between chaos and civilization. |
+| 9 | Duty first, always. |
+| 10 | The only easy day was yesterday. |
+| 11 | Hold the line, no matter the cost. |
+| 12 | Through fire and darkness, we endure. |
+| 13 | Failure is not an option. |
+| 14 | We few, we happy few. |
+| 15 | Leave no one behind. |
+| 16 | Advance or die. There is no retreat. |
+| 17 | Death smiles at us all; all we can do is smile back. |
+| 18 | Through hardships to the stars. |
+| 19 | When the going gets tough, the tough get going. |
+| 20 | Steady hands, steady hearts. |
+| 21 | In the face of impossible odds, we are inevitable. |
+| 22 | We are the hammer against the anvil of war. |
+| 23 | Blood, sweat, and glory. |
+| 24 | Courage is not the absence of fear, it is action despite it. |
+| 25 | Stand fast. Fight hard. Win at all costs. |
+| 26 | We are soldiers. Our duty defines us. |
+| 27 | No rest for the righteous. |
+| 28 | We do the impossible before dawn. |
+| 29 | Strike hard, strike fast. |
+| 30 | Train hard. Fight easy. |
+| 31 | Order in chaos. |
+| 32 | Discipline is a force multiplier. |
+| 33 | Sweat in peace, bleed less in war. |
+| 34 | Secure the objective, then the credit. |
+| 35 | Calm is contagious. |
+| 36 | Check your kit, then check your team. |
+| 37 | Speed, surprise, violence of action. |
+| 38 | Hold fast under pressure. |
+| 39 | Complacency kills. |
+| 40 | Eyes up, watch the horizon. |
+| 41 | No plan survives first contact; good leaders do. |
+| 42 | Move with purpose. |
+| 43 | Courage is contagious too. |
+| 44 | Win the next minute. |
+| 45 | Short commands, long memories. |
+| 46 | We don't rise to the occasion; we fall to our training. |
+| 47 | Protect the flank. |
+| 48 | Supplies low means creativity high. |
+| 49 | Silence in the ranks, focus on the task. |
+| 50 | Every step earned. |
+| 51 | Cover and maneuver. |
+| 52 | Initiative beats hesitation. |
+| 53 | Read terrain, not tea leaves. |
+| 54 | Pressure makes professionals. |
+| 55 | Never outrun your supplies. |
+| 56 | Bravery without discipline is just noise. |
+| 57 | Respect the enemy, defeat the enemy. |
+| 58 | Sharp kit, sharper mind. |
+| 59 | Take ground, hold ground. |
+| 60 | First in, last out. |
+| 61 | Plans are tools, not religion. |
+| 62 | Know your role; own your lane. |
+| 63 | Trust is built in rehearsals. |
+| 64 | One team, one standard. |
+| 65 | Do not look back at the ruin. |
+| 66 | Knowledge wins the day. |
+| 67 | Keep it simple under attack. |
+| 68 | We move as one weapon. |
+| 69 | No glory in friendly fire. |
+| 70 | Hard choices, clear orders. |
+| 71 | Lead from the front when it matters. |
+| 72 | Distance favors the prepared. |
+| 73 | Fatigue lies; standards don't. |
+| 74 | Always be ready for the charge. |
+| 75 | Weather is not an excuse. |
+| 76 | Tempo is a weapon. |
+| 77 | Rehearse until boring, execute until done. |
+| 78 | Fight tonight. |
+| 79 | Leave excuses at the gate. |
+| 80 | Dominate the decisive point. |
+| 81 | If you can breathe, you can push. |
+| 82 | Discipline turns fear into function. |
+| 83 | Crisis reveals character. |
+| 84 | Secure people, then position. |
+| 85 | Aggressive patience wins battles. |
+| 86 | Death knows no rank. |
+| 87 | Hard ground makes hard soldiers. |
+| 88 | Clarity saves lives. |
+| 89 | A good retreat is still a plan. |
+| 90 | Hit, assess, adapt. |
+| 91 | Honor the fallen by finishing. |
+| 92 | Aim small, miss small. |
+| 93 | Courage with competence. |
+| 94 | Keep your head when the iron flies. |
+| 95 | Fear less, prepare more. |
+| 96 | Take the hill. Keep the hill. |
+| 97 | Mission complete means everyone home. |
+| 98 | Steel nerves, steady hand. |
+| 99 | Peace through superior strength. |
+| 100 | Suffer in silence, strike with noise. |
 
-**Table 2 of 3**
+**Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -1164,200 +1195,97 @@ Roll or choose a Motto: a phrase your character lives by. Use it for inspiration
 | 7 | Better safe than sorry. |
 | 8 | Live and let live. |
 | 9 | An eye for an eye. |
-| 10 | Do unto others... |
+| 10 | Do unto others. |
 | 11 | Every person for themselves. |
 | 12 | We're in this together. |
 | 13 | Know when to hold 'em, know when to fold 'em. |
 | 14 | Strike first, ask questions later. |
-| 15 | Look before you leap. |
-| 16 | Nothing ventured, nothing gained. |
-| 17 | Slow and steady wins the race. |
-| 18 | The ends justify the means. |
-| 19 | The road to hell is paved with good intentions. |
-| 20 | What doesn't kill you makes you stronger. |
-| 21 | Knowledge is power. |
-| 22 | Ignorance is bliss. |
-| 23 | The pen is mightier than the sword. |
-| 24 | Might makes right. |
-| 25 | Two wrongs don't make a right. |
-| 26 | There's no honor among thieves. |
-| 27 | A promise is a promise. |
-| 28 | Never look back. |
-| 29 | Learn from the past. |
-| 30 | Seize the day. |
-| 31 | Patience is a virtue. |
-| 32 | Good things come to those who wait. |
-| 33 | If you want something done right, do it yourself. |
-| 34 | United we stand, divided we fall. |
-| 35 | Keep your friends close and your enemies closer. |
-| 36 | Revenge is a dish best served cold. |
-| 37 | Forgive and forget. |
-| 38 | Never forgive, never forget. |
-| 39 | Blood is thicker than water. |
-| 40 | Family first. |
-| 41 | You can't choose your family. |
-| 42 | Home is where the heart is. |
-| 43 | There's no place like home. |
-| 44 | The truth will set you free. |
-| 45 | What they don't know won't hurt them. |
-| 46 | Honesty is the best policy. |
-| 47 | All's fair in love and war. |
-| 48 | Love conquers all. |
-| 49 | Better to have loved and lost... |
-| 50 | Pride goes before a fall. |
-| 51 | Humility is strength. |
-| 52 | Never show weakness. |
-| 53 | Stand your ground. |
-| 54 | Pick your battles. |
-| 55 | Discretion is the better part of valor. |
-| 56 | No sacrifice, no victory. |
-| 57 | The needs of the many outweigh the needs of the few. |
-| 58 | Look out for number one. |
-| 59 | Do no harm. |
-| 60 | Survival of the fittest. |
-| 61 | Adapt or die. |
-| 62 | Change is the only constant. |
-| 63 | This too shall pass. |
-| 64 | What goes around comes around. |
-| 65 | You reap what you sow. |
-| 66 | Life isn't fair. |
-| 67 | Make your own luck. |
-| 68 | Everything happens for a reason. |
-| 69 | There are no accidents. |
-| 70 | Expect the unexpected. |
-| 71 | Hope for the best. |
-| 72 | Prepare for the worst. |
-| 73 | Stay alert, stay alive. |
-| 74 | Never let them see you sweat. |
-| 75 | Keep calm and carry on. |
-| 76 | When in doubt, run. |
-| 77 | Stand and fight. |
-| 78 | Live to fight another day. |
-| 79 | Better dead than a coward. |
-| 80 | I didn't come this far to give up now. |
-| 81 | Whatever it takes. |
-| 82 | By any means necessary. |
-| 83 | No one gets left behind. |
-| 84 | We finish this together. |
-| 85 | I work alone. |
-| 86 | Teamwork makes the dream work. |
-| 87 | If it ain't broke, don't fix it. |
-| 88 | There's always room for improvement. |
-| 89 | Practice makes perfect. |
-| 90 | Nobody's perfect. |
-| 91 | Done is better than perfect. |
-| 92 | Measure twice, cut once. |
-| 93 | Shoot first, ask questions later. |
-| 94 | Question everything. |
-| 95 | Follow orders. |
-| 96 | Rules are made to be broken. |
-| 97 | Play by the rules. |
-| 98 | Honor above all. |
-| 99 | Survival above all. |
-| 100 | Never tell me the odds. |
-
-**Table 3 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Trust the process. |
-| 2 | Embrace the chaos. |
-| 3 | Control what you can control. |
-| 4 | Let it go. |
-| 5 | Never surrender. |
-| 6 | Know when to quit. |
-| 7 | Quitters never win. |
-| 8 | Winning isn't everything. |
-| 9 | Second place is the first loser. |
-| 10 | It's not whether you win or lose, it's how you play the game. |
-| 11 | Play to win. |
-| 12 | The best defense is a good offense. |
-| 13 | An ounce of prevention is worth a pound of cure. |
-| 14 | Strike while the iron is hot. |
-| 15 | Good things come in small packages. |
-| 16 | Size doesn't matter. |
-| 17 | The bigger they are, the harder they fall. |
-| 18 | Speak softly and carry a big stick. |
-| 19 | Actions have consequences. |
-| 20 | No regrets. |
-| 21 | Learn from your mistakes. |
-| 22 | Don't cry over spilled milk. |
-| 23 | If at first you don't succeed, try, try again. |
-| 24 | Third time's the charm. |
-| 25 | Once bitten, twice shy. |
-| 26 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 27 | I've got no choice but to be strong. |
-| 28 | I've got too much blood on my hands to quit now. |
-| 29 | Keep moving. |
-| 30 | Lead by example. |
-| 31 | Choose your hard. |
-| 32 | Be useful. |
-| 33 | Stay curious. |
-| 34 | Small steps, every day. |
-| 35 | Progress over drama. |
-| 36 | Calm is a choice. |
-| 37 | Protect your peace. |
-| 38 | Win with consistency. |
-| 39 | Kind, not weak. |
-| 40 | Sharp mind, soft ego. |
-| 41 | Make it count. |
-| 42 | Less talk, more proof. |
-| 43 | Carry your own weight. |
-| 44 | Start before you're ready. |
-| 45 | Finish what you start. |
-| 46 | Grace under pressure. |
-| 47 | Stay teachable. |
-| 48 | Solve the problem in front of you. |
-| 49 | Do hard things well. |
-| 50 | No panic, just priorities. |
-| 51 | Respect is rented daily. |
-| 52 | Energy follows focus. |
-| 53 | Truth over comfort. |
-| 54 | Aim true. |
-| 55 | Own the outcome. |
-| 56 | Pressure reveals habits. |
-| 57 | Choose clarity. |
-| 58 | Keep promises to yourself. |
-| 59 | Courage with compassion. |
-| 60 | Stay dangerous, stay decent. |
-| 61 | Respond, don't react. |
-| 62 | Consistency beats intensity. |
-| 63 | Build, don't brag. |
-| 64 | Guard your time. |
-| 65 | Care enough to improve. |
-| 66 | Set the tone. |
-| 67 | Do less, better. |
-| 68 | Hard facts, open mind. |
-| 69 | Strong back, stronger character. |
-| 70 | Patience with purpose. |
-| 71 | When it matters, show up. |
-| 72 | Earn trust slowly. |
-| 73 | Leave it better. |
-| 74 | Cut the noise. |
-| 75 | Use what you have. |
-| 76 | Prepared is powerful. |
-| 77 | Adapt with intent. |
-| 78 | Keep your edge. |
-| 79 | Stay humble, stay hungry. |
-| 80 | Learn faster than the problem changes. |
-| 81 | Take the next right step. |
-| 82 | Discipline buys freedom. |
-| 83 | Clarity beats speed. |
-| 84 | Raise your standards quietly. |
-| 85 | No shortcuts worth taking. |
-| 86 | Protect the vulnerable. |
-| 87 | Be hard to shake. |
-| 88 | Think long, act now. |
-| 89 | Practice courage daily. |
-| 90 | Standards over moods. |
-| 91 | Simple is strong. |
-| 92 | Own your mistakes quickly. |
-| 93 | Speak less, listen deeper. |
-| 94 | Choose effort over excuses. |
-| 95 | Be where your feet are. |
-| 96 | Leave ego at the door. |
-| 97 | The right thing, especially then. |
-| 98 | Steady wins storms. |
+| 15 | Nothing ventured, nothing gained. |
+| 16 | The ends justify the means. |
+| 17 | The road to hell is paved with good intentions. |
+| 18 | What doesn't kill you makes you stronger. |
+| 19 | Knowledge is power. |
+| 20 | Might makes right. |
+| 21 | There's no honor among thieves. |
+| 22 | A promise is a promise. |
+| 23 | Seize the day. |
+| 24 | Patience is a virtue. |
+| 25 | If you want something done right, do it yourself. |
+| 26 | United we stand, divided we fall. |
+| 27 | Keep your friends close and your enemies closer. |
+| 28 | Revenge is a dish best served cold. |
+| 29 | Never forgive, never forget. |
+| 30 | Blood is thicker than water. |
+| 31 | Family first. |
+| 32 | The truth will set you free. |
+| 33 | Honesty is the best policy. |
+| 34 | All's fair in love and war. |
+| 35 | Pride goes before a fall. |
+| 36 | Never show weakness. |
+| 37 | Stand your ground. |
+| 38 | Discretion is the better part of valor. |
+| 39 | No sacrifice, no victory. |
+| 40 | The needs of the many outweigh the needs of the few. |
+| 41 | Look out for number one. |
+| 42 | Do no harm. |
+| 43 | Survival of the fittest. |
+| 44 | Adapt or die. |
+| 45 | Change is the only constant. |
+| 46 | This too shall pass. |
+| 47 | What goes around comes around. |
+| 48 | You reap what you sow. |
+| 49 | Make your own luck. |
+| 50 | Everything happens for a reason. |
+| 51 | Expect the unexpected. |
+| 52 | Stay alert, stay alive. |
+| 53 | Never let them see you sweat. |
+| 54 | Keep calm and carry on. |
+| 55 | Live to fight another day. |
+| 56 | Death before dishonor. |
+| 57 | Whatever it takes. |
+| 58 | By any means necessary. |
+| 59 | The mission comes first. |
+| 60 | No one gets left behind. |
+| 61 | I work alone. |
+| 62 | If it ain't broke, don't fix it. |
+| 63 | Measure twice, cut once. |
+| 64 | Question everything. |
+| 65 | Follow orders. |
+| 66 | Rules are made to be broken. |
+| 67 | Honor above all. |
+| 68 | Survival above all. |
+| 69 | Never tell me the odds. |
+| 70 | Embrace the chaos. |
+| 71 | Never surrender. |
+| 72 | Know when to quit. |
+| 73 | The best defense is a good offense. |
+| 74 | Strike while the iron is hot. |
+| 75 | The bigger they are, the harder they fall. |
+| 76 | Speak softly and carry a big stick. |
+| 77 | Actions have consequences. |
+| 78 | No regrets. |
+| 79 | Learn from your mistakes. |
+| 80 | Once bitten, twice shy. |
+| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
+| 82 | Lead by example. |
+| 83 | Be useful. |
+| 84 | Finish what you start. |
+| 85 | Grace under pressure. |
+| 86 | Stay teachable. |
+| 87 | No panic, just priorities. |
+| 88 | Truth over comfort. |
+| 89 | Aim true. |
+| 90 | Own the outcome. |
+| 91 | Respond, don't react. |
+| 92 | Prepared is powerful. |
+| 93 | Keep your edge. |
+| 94 | Discipline buys freedom. |
+| 95 | Raise your standards quietly. |
+| 96 | Protect the vulnerable. |
+| 97 | Simple is strong. |
+| 98 | Own your mistakes quickly. |
+| 99 | Steady wins storms. |
+| 100 | Leave it better. |
 
 ### Secrets
 

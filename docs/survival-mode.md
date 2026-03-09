@@ -122,10 +122,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
-| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
-| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
 | **Cover Specialist** | When in cover, you always count as being in one level higher cover than you actually are. |  |
-| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
@@ -143,6 +140,9 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Careful Aim** | Take extra time to aim carefully before making a ranged attack, gaining increased accuracy. | The following Ranged Attack Action |
 | **Trick Shooter** | Can perform trick shots to disarm enemies, shoot items from their hands, or ricochet bullets to make otherwise impossible shots. | Trick Shots |
 | **Demolition Man** | Can safely set and disarm explosives on anything but a 1. Know how to maximize blast effectiveness and improvise explosive devices. The higher the roll, the better it goes. |  |
+| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
+| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
+| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 
 #### Stress Inclinations
 
@@ -199,7 +199,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Prime Specimen** (+1 Strike) | Can take +1 Strikes. |  |
+| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
@@ -208,7 +208,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. | Final Turn Before Death |
 | **Adrenaline Surge** | Once per session, when you drop to 1 Health, immediately take a free Action with a Boon to whatever you do. |  |
-| **Berserker** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -219,7 +219,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Duplicitous** | Skilled at deception, gambling, and sleight of hand. | Deception, Gambling, Sleight of Hand |
 | **Interrogator** | Skilled at extracting information from people through questioning, intimidation, or trickery on anything but a 1. The higher the result, the better it goes. |  |
 | **Intimidating Presence** | Boon to Intimidation. Can use an Action to inflict Terrified on a target who fails a Resistance Save. | Intimidation |
-| **Hype Master** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
+| **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
 | **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
@@ -497,482 +497,424 @@ Roll or choose a Background to establish your character's history, origin, and t
 | 5 | Paranoid Prepper |
 | 6 | Outdoorsman |
 | 7 | Survivalist |
-| 8 | Search and Rescue |
-| 9 | Electronics Expert |
-| 10 | Self-Defense Trainer |
-| 11 | Experienced Hunter |
-| 12 | Student |
-| 13 | Lab Technician |
-| 14 | Pharmacist |
-| 15 | EMT |
-| 16 | Paramedic |
-| 17 | Medical Professional |
-| 18 | Doctor |
-| 19 | Nurse |
-| 20 | Dentist |
-| 21 | Veterinarian |
-| 22 | Firefighter |
-| 23 | Emergency Responder |
-| 24 | Park Ranger |
-| 25 | Fisherman |
-| 26 | Rancher |
-| 27 | Farmer |
-| 28 | Trapper |
-| 29 | Carpenter |
-| 30 | Construction Worker |
-| 31 | Construction Foreman |
-| 32 | Maintenance Technician |
-| 33 | Mechanic |
-| 34 | Electrician |
-| 35 | Welder |
-| 36 | Plumber |
-| 37 | Handyman |
-| 38 | Engineer |
-| 39 | Systems Administrator |
-| 40 | IT Technician |
-| 41 | Software Engineer |
-| 42 | Content Creator |
-| 43 | Archivist |
-| 44 | Librarian |
-| 45 | Photographer |
-| 46 | Photojournalist |
-| 47 | Museum Curator |
-| 48 | Researcher |
-| 49 | Professor |
-| 50 | Teacher |
-| 51 | Teacher's Assistant |
-| 52 | Social Worker |
-| 53 | Therapist |
-| 54 | Paralegal |
-| 55 | Legal Clerk |
-| 56 | Bookkeeper |
-| 57 | Accountant |
-| 58 | Property Manager |
-| 59 | Real Estate Agent |
-| 60 | Warehouse Worker |
-| 61 | Factory Worker |
-| 62 | Forklift Operator |
-| 63 | Assembler |
-| 64 | Truck Driver |
-| 65 | Delivery Driver |
-| 66 | Bus Driver |
-| 67 | Courier |
-| 68 | Postal Worker |
-| 69 | Rideshare Driver |
-| 70 | Taxi Driver |
-| 71 | Boat Captain |
-| 72 | Pilot |
-| 73 | Sailor |
-| 74 | Janitor |
-| 75 | Custodian |
-| 76 | Sanitation Worker |
-| 77 | Recycling Sorter |
-| 78 | Security Guard |
-| 79 | Night Watchman |
-| 80 | Bodyguard |
-| 81 | Bouncer |
-| 82 | Private Investigator |
-| 83 | Bartender |
-| 84 | Cook |
-| 85 | Chef |
-| 86 | Restaurant Manager |
-| 87 | Store Manager |
-| 88 | Grocery Clerk |
-| 89 | Retail Worker |
-| 90 | Cashier |
-| 91 | Server |
-| 92 | Barista |
-| 93 | Childcare Worker |
-| 94 | Beautician |
-| 95 | Hairdresser |
-| 96 | Coach |
-| 97 | Personal Trainer |
-| 98 | Athletic Runner |
-| 99 | Athletic Trainer |
-| 100 | Professional Athlete |
+| 8 | Electronics Expert |
+| 9 | Experienced Hunter |
+| 10 | Lab Technician |
+| 11 | Pharmacist |
+| 12 | Paramedic |
+| 13 | Medical Professional |
+| 14 | Doctor |
+| 15 | Nurse |
+| 16 | Dentist |
+| 17 | Veterinarian |
+| 18 | Firefighter |
+| 19 | Park Ranger |
+| 20 | Fisherman |
+| 21 | Trapper |
+| 22 | Carpenter |
+| 23 | Construction Worker |
+| 24 | Mechanic |
+| 25 | Electrician |
+| 26 | Welder |
+| 27 | Plumber |
+| 28 | Handyman |
+| 29 | Systems Administrator |
+| 30 | Software Engineer |
+| 31 | Content Creator |
+| 32 | Photographer |
+| 33 | Museum Curator |
+| 34 | Professor |
+| 35 | Social Worker |
+| 36 | Therapist |
+| 37 | Paralegal |
+| 38 | Bookkeeper |
+| 39 | Accountant |
+| 40 | Property Manager |
+| 41 | Real Estate Agent |
+| 42 | Warehouse Worker |
+| 43 | Factory Worker |
+| 44 | Forklift Operator |
+| 45 | Assembler |
+| 46 | Truck Driver |
+| 47 | Bus Driver |
+| 48 | Postal Worker |
+| 49 | Taxi Driver |
+| 50 | Boat Captain |
+| 51 | Pilot |
+| 52 | Janitor |
+| 53 | Sanitation Worker |
+| 54 | Security Guard |
+| 55 | Bouncer |
+| 56 | Private Investigator |
+| 57 | Bartender |
+| 58 | Chef |
+| 59 | Restaurant Manager |
+| 60 | Retail Worker |
+| 61 | Cashier |
+| 62 | Server |
+| 63 | Barista |
+| 64 | Childcare Worker |
+| 65 | Beautician |
+| 66 | Hairdresser |
+| 67 | Coach |
+| 68 | Personal Trainer |
+| 69 | Professional Athlete |
+| 70 | Referee |
+| 71 | Infantry Soldier |
+| 72 | Combat Engineer |
+| 73 | Sniper |
+| 74 | Demolitions Specialist |
+| 75 | Logistics Officer |
+| 76 | Military Intelligence Analyst |
+| 77 | Military Police |
+| 78 | Drone Operator |
+| 79 | Special Forces |
+| 80 | Esports Pro |
+| 81 | Social Media Influencer |
+| 82 | Video Essayist |
+| 83 | Streamer |
+| 84 | Amateur Radio Operator |
+| 85 | Urban Explorer |
+| 86 | Crime Scene Analyst |
+| 87 | City Planner |
+| 88 | Civil Engineer |
+| 89 | Technician |
+| 90 | Locksmith |
+| 91 | Glazier |
+| 92 | Roofer |
+| 93 | Surveyor |
+| 94 | Geologist |
+| 95 | Chemist |
+| 96 | Biologist |
+| 97 | Data Analyst |
+| 98 | UX Designer |
+| 99 | Graphic Designer |
+| 100 | Animator |
 
 **Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
-| 1 | Sports Coach |
-| 2 | Referee |
-| 3 | Sports Medic |
-| 4 | Sports Journalist |
-| 5 | Sports Nutritionist |
-| 6 | Stadium Crew |
-| 7 | Infantry Soldier |
-| 8 | Combat Engineer |
-| 9 | Recon Scout |
-| 10 | Sniper |
-| 11 | Demolitions Specialist |
-| 12 | Radio Operator |
-| 13 | Quartermaster |
-| 14 | Helicopter Crew |
-| 15 | Logistics Officer |
-| 16 | Military Intelligence Analyst |
-| 17 | Military Police |
-| 18 | Artillery Gunner |
-| 19 | Armourer |
-| 20 | Drone Operator |
-| 21 | Field Cook |
-| 22 | Special Forces |
-| 23 | Esports Pro |
-| 24 | Social Media Influencer |
-| 25 | Video Essayist |
-| 26 | Streamer |
-| 27 | Amateur Radio Operator |
-| 28 | Urban Explorer |
-| 29 | Crime Scene Analyst |
-| 30 | Transit Planner |
-| 31 | City Planner |
-| 32 | Civil Engineer |
-| 33 | Structural Inspector |
-| 34 | Building Superintendent |
-| 35 | HVAC Technician |
-| 36 | Appliance Repairer |
-| 37 | Locksmith |
-| 38 | Glazier |
-| 39 | Roofer |
-| 40 | Surveyor |
-| 41 | Geologist |
-| 42 | Chemist |
-| 43 | Biologist |
-| 44 | Data Analyst |
-| 45 | UX Designer |
-| 46 | Graphic Designer |
-| 47 | Animator |
-| 48 | Sound Engineer |
-| 49 | Event Planner |
-| 50 | Publicist |
-| 51 | Copywriter |
-| 52 | Technical Writer |
-| 53 | Translator |
-| 54 | Interpreter |
-| 55 | Claims Adjuster |
-| 56 | Insurance Underwriter |
-| 57 | Loan Officer |
-| 58 | Banker |
-| 59 | Financial Advisor |
-| 60 | Investment Analyst |
-| 61 | Procurement Officer |
-| 62 | Supply Chain Planner |
-| 63 | Inventory Controller |
-| 64 | Operations Coordinator |
-| 65 | Compliance Officer |
-| 66 | Quality Inspector |
-| 67 | Risk Analyst |
-| 68 | Customer Support Agent |
-| 69 | Call Center Supervisor |
-| 70 | Travel Agent |
-| 71 | Flight Attendant |
-| 72 | Train Conductor |
-| 73 | Subway Operator |
-| 74 | Harbor Pilot |
-| 75 | Dock Supervisor |
-| 76 | Crane Operator |
-| 77 | Lifeguard |
-| 78 | Recreation Coordinator |
-| 79 | Youth Counselor |
-| 80 | Guidance Counselor |
-| 81 | Dietitian |
-| 82 | Occupational Therapist |
-| 83 | Physical Therapist |
-| 84 | Radiology Technician |
-| 85 | Dental Hygienist |
-| 86 | Optician |
-| 87 | Funeral Director |
-| 88 | Mortician |
-| 89 | Wedding Planner |
-| 90 | Tailor |
-| 91 | Seamstress |
-| 92 | Jewelry Appraiser |
-| 93 | Pawn Broker |
-| 94 | Auctioneer |
-| 95 | Print Shop Operator |
-| 96 | Press Operator |
-| 97 | Court Reporter |
-| 98 | Notary Public |
-| 99 | Records Clerk |
-| 100 | Permit Inspector |
+| 1 | Sound Engineer |
+| 2 | Event Planner |
+| 3 | Publicist |
+| 4 | Copywriter |
+| 5 | Technical Writer |
+| 6 | Translator |
+| 7 | Interpreter |
+| 8 | Claims Adjuster |
+| 9 | Insurance Underwriter |
+| 10 | Loan Officer |
+| 11 | Banker |
+| 12 | Financial Advisor |
+| 13 | Investment Analyst |
+| 14 | Procurement Officer |
+| 15 | Supply Chain Planner |
+| 16 | Compliance Officer |
+| 17 | Quality Inspector |
+| 18 | Risk Analyst |
+| 19 | Customer Support Agent |
+| 20 | Travel Agent |
+| 21 | Flight Attendant |
+| 22 | Train Conductor |
+| 23 | Subway Operator |
+| 24 | Crane Operator |
+| 25 | Lifeguard |
+| 26 | Recreation Coordinator |
+| 27 | Youth Counselor |
+| 28 | Guidance Counselor |
+| 29 | Dietitian |
+| 30 | Occupational Therapist |
+| 31 | Physical Therapist |
+| 32 | Radiology Technician |
+| 33 | Optician |
+| 34 | Funeral Director |
+| 35 | Mortician |
+| 36 | Wedding Planner |
+| 37 | Tailor |
+| 38 | Seamstress |
+| 39 | Jewelry Appraiser |
+| 40 | Pawn Broker |
+| 41 | Auctioneer |
+| 42 | Print Shop Operator |
+| 43 | Press Operator |
+| 44 | Court Reporter |
+| 45 | Notary Public |
+| 46 | Records Clerk |
+| 47 | Security Analyst |
+| 48 | Forensic Accountant |
+| 49 | Solar Panel Installer |
+| 50 | Biomedical Engineer |
+| 51 | Ethical Hacker |
+| 52 | Beekeeper |
+| 53 | Crisis Negotiator |
+| 54 | Consultant |
+| 55 | CEO |
+| 56 | Bicycle Courier |
+| 57 | Waste Management |
+| 58 | Dog Trainer |
+| 59 | Aviation Mechanic |
+| 60 | Au Pair |
+| 61 | Public Health Official |
+| 62 | Podcaster |
+| 63 | App Developer |
+| 64 | Cybersecurity Specialist |
+| 65 | AI Researcher |
+| 66 | Gig Worker |
+| 67 | Digital Nomad |
+| 68 | Virtual Assistant |
+| 69 | Stock Trader |
+| 70 | Professional Poker Player |
+| 71 | Bodyguard |
+| 72 | Intelligence Officer |
+| 73 | Diplomat |
+| 74 | Lobbyist |
+| 75 | Politician |
+| 76 | Stay-at-Home Parent |
+| 77 | Waster |
+| 78 | Trust Fund Kid |
+| 79 | Retired |
+| 80 | University Student |
+| 81 | Unemployed |
+| 82 | Ex-Convict |
+| 83 | Freelance Artist |
+| 84 | Yoga Instructor |
+| 85 | Landscaper |
+| 86 | Clergy |
+| 87 | Librarian |
+| 88 | Archivist |
+| 89 | School Teacher |
+| 90 | Butcher |
+| 91 | Baker |
+| 92 | Makeup Artist |
+| 93 | Interior Designer |
+| 94 | Pest Control |
+| 95 | Valet |
+| 96 | Concierge |
+| 97 | Professional Organizer |
+| 98 | Voice Actor |
+| 99 | Stagehand |
+| 100 | Sound Technician |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 3**
+**Table 1 of 2**
 
 | d100 | Result |
 |------|--------|
-| 1 | Socially Aware |
-| 2 | Civic Minded |
-| 3 | Boundary Aware |
-| 4 | Emotionally Literate |
-| 5 | Collaborative |
-| 6 | Assertive |
-| 7 | Empathetic |
-| 8 | Adaptable |
-| 9 | Organized |
-| 10 | Reliable |
-| 11 | Direct |
-| 12 | Diplomatic |
-| 13 | Curious |
-| 14 | Inclusive |
-| 15 | Self Reflective |
-| 16 | Growth Minded |
-| 17 | Calm |
-| 18 | Focused |
-| 19 | Pragmatic |
-| 20 | Ethical |
-| 21 | Accountable |
-| 22 | Transparent |
-| 23 | Respectful |
-| 24 | Supportive |
-| 25 | Independent |
-| 26 | Team Oriented |
-| 27 | Solution Oriented |
-| 28 | Open Minded |
-| 29 | Patient |
-| 30 | Resilient |
-| 31 | Media Savvy |
-| 32 | Network Fluent |
-| 33 | Community Focused |
-| 34 | Service Oriented |
-| 35 | Conflict Aware |
-| 36 | Deescalating |
-| 37 | Trauma Informed |
-| 38 | Consent Minded |
-| 39 | Detail Attentive |
-| 40 | Time Disciplined |
-| 41 | Budget Conscious |
-| 42 | Career Driven |
-| 43 | Family Centered |
-| 44 | Neighborhood Loyal |
-| 45 | Public Spirited |
-| 46 | Well Mannered |
-| 47 | Sincere |
-| 48 | Tactful |
-| 49 | Level Headed |
-| 50 | Self Possessed |
-| 51 | Decisive |
-| 52 | Analytical |
-| 53 | Creative |
-| 54 | Warm |
-| 55 | Approachable |
-| 56 | Confident |
-| 57 | Grounded |
-| 58 | Realistic |
-| 59 | Purposeful |
-| 60 | Motivated |
-| 61 | Conscientious |
-| 62 | Dependable |
-| 63 | Fair |
-| 64 | Kind |
-| 65 | Honest |
-| 66 | Thoughtful |
-| 67 | Strategic |
-| 68 | Methodical |
-| 69 | Observant |
-| 70 | Resourceful |
-| 71 | Composed |
-| 72 | Steady |
-| 73 | Reasonable |
-| 74 | Measured |
-| 75 | Nonjudgmental |
-| 76 | Mentor Minded |
-| 77 | Listener First |
-| 78 | Evidence Aware |
-| 79 | Health Conscious |
-| 80 | Mindful |
-| 81 | Crisis Ready |
-| 82 | Public Facing |
-| 83 | Private By Nature |
-| 84 | Boundary Keeping |
-| 85 | Tech Comfortable |
-| 86 | Office Diplomatic |
-| 87 | Street Smart |
-| 88 | Transit Patient |
-| 89 | Urban Calm |
-| 90 | Culturally Fluent |
-| 91 | Multilingual Friendly |
-| 92 | Volunteer Spirited |
-| 93 | Neighborhood Protective |
-| 94 | Institution Savvy |
-| 95 | Policy Curious |
-| 96 | Rights Aware |
-| 97 | Duty Aware |
-| 98 | Future Looking |
-| 99 | Compassionate |
-| 100 | Trustworthy |
+| 1 | Adaptable |
+| 2 | Affable |
+| 3 | Alert |
+| 4 | Ambitious |
+| 5 | Analytical |
+| 6 | Anchored |
+| 7 | Appreciative |
+| 8 | Articulate |
+| 9 | Assertive |
+| 10 | Attentive |
+| 11 | Balanced |
+| 12 | Benevolent |
+| 13 | Bold |
+| 14 | Brave |
+| 15 | Calm |
+| 16 | Candid |
+| 17 | Capable |
+| 18 | Careful |
+| 19 | Caring |
+| 20 | Centered |
+| 21 | Charismatic |
+| 22 | Cheerful |
+| 23 | Civic Minded |
+| 24 | Clear Eyed |
+| 25 | Clear Spoken |
+| 26 | Clever |
+| 27 | Compassionate |
+| 28 | Composed |
+| 29 | Confident |
+| 30 | Conscientious |
+| 31 | Consistent |
+| 32 | Constructive |
+| 33 | Courageous |
+| 34 | Courteous |
+| 35 | Creative |
+| 36 | Credible |
+| 37 | Curious |
+| 38 | Daring |
+| 39 | Decisive |
+| 40 | Dedicated |
+| 41 | Dependable |
+| 42 | Diplomatic |
+| 43 | Direct |
+| 44 | Disciplined |
+| 45 | Discerning |
+| 46 | Driven |
+| 47 | Earnest |
+| 48 | Easygoing |
+| 49 | Eloquent |
+| 50 | Empathetic |
+| 51 | Energetic |
+| 52 | Engaged |
+| 53 | Equitable |
+| 54 | Ethical |
+| 55 | Even Tempered |
+| 56 | Fair |
+| 57 | Faithful |
+| 58 | Fearless |
+| 59 | Flexible |
+| 60 | Focused |
+| 61 | Forgiving |
+| 62 | Forthright |
+| 63 | Friendly |
+| 64 | Gallant |
+| 65 | Generous |
+| 66 | Gentle |
+| 67 | Genuine |
+| 68 | Graceful |
+| 69 | Gracious |
+| 70 | Grounded |
+| 71 | Hardy |
+| 72 | Helpful |
+| 73 | Honest |
+| 74 | Honorable |
+| 75 | Humble |
+| 76 | Humorous |
+| 77 | Idealistic |
+| 78 | Imaginative |
+| 79 | Impartial |
+| 80 | Independent |
+| 81 | Industrious |
+| 82 | Insightful |
+| 83 | Intentional |
+| 84 | Intuitive |
+| 85 | Inventive |
+| 86 | Jovial |
+| 87 | Judicious |
+| 88 | Keen |
+| 89 | Kind |
+| 90 | Level Headed |
+| 91 | Logical |
+| 92 | Loyal |
+| 93 | Measured |
+| 94 | Methodical |
+| 95 | Meticulous |
+| 96 | Mindful |
+| 97 | Modest |
+| 98 | Motivated |
+| 99 | Nimble |
+| 100 | Noble |
 
-**Table 2 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Affable |
-| 2 | Alert |
-| 3 | Ambitious |
-| 4 | Anchored |
-| 5 | Appreciative |
-| 6 | Articulate |
-| 7 | Attentive |
-| 8 | Balanced |
-| 9 | Benevolent |
-| 10 | Bold |
-| 11 | Brave |
-| 12 | Candid |
-| 13 | Capable |
-| 14 | Careful |
-| 15 | Caring |
-| 16 | Centered |
-| 17 | Charismatic |
-| 18 | Cheerful |
-| 19 | Clear Eyed |
-| 20 | Clear Spoken |
-| 21 | Clever |
-| 22 | Consistent |
-| 23 | Constructive |
-| 24 | Courageous |
-| 25 | Courteous |
-| 26 | Credible |
-| 27 | Daring |
-| 28 | Dedicated |
-| 29 | Disciplined |
-| 30 | Discerning |
-| 31 | Driven |
-| 32 | Earnest |
-| 33 | Easygoing |
-| 34 | Eloquent |
-| 35 | Energetic |
-| 36 | Engaged |
-| 37 | Equitable |
-| 38 | Even Tempered |
-| 39 | Faithful |
-| 40 | Fearless |
-| 41 | Flexible |
-| 42 | Forgiving |
-| 43 | Forthright |
-| 44 | Friendly |
-| 45 | Gallant |
-| 46 | Generous |
-| 47 | Gentle |
-| 48 | Genuine |
-| 49 | Graceful |
-| 50 | Gracious |
-| 51 | Hardy |
-| 52 | Helpful |
-| 53 | Honorable |
-| 54 | Humble |
-| 55 | Humorous |
-| 56 | Idealistic |
-| 57 | Imaginative |
-| 58 | Impartial |
-| 59 | Industrious |
-| 60 | Insightful |
-| 61 | Intentional |
-| 62 | Intuitive |
-| 63 | Inventive |
-| 64 | Jovial |
-| 65 | Judicious |
-| 66 | Keen |
-| 67 | Logical |
-| 68 | Loyal |
-| 69 | Meticulous |
-| 70 | Modest |
-| 71 | Nimble |
-| 72 | Noble |
-| 73 | Optimistic |
-| 74 | Orderly |
-| 75 | Original |
-| 76 | Perceptive |
-| 77 | Persistent |
-| 78 | Persuasive |
-| 79 | Playful |
-| 80 | Poised |
-| 81 | Polished |
-| 82 | Practical |
-| 83 | Precise |
-| 84 | Principled |
-| 85 | Proactive |
-| 86 | Protective |
-| 87 | Prudent |
-| 88 | Quick Witted |
-| 89 | Rational |
-| 90 | Reflective |
-| 91 | Resolute |
-| 92 | Responsible |
-| 93 | Self Aware |
-| 94 | Self Controlled |
-| 95 | Selfless |
-| 96 | Sensible |
-| 97 | Serene |
-| 98 | Sharp |
-| 99 | Sociable |
-| 100 | Solid |
-
-**Table 3 of 3**
+**Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
-| 1 | Steadfast |
-| 2 | Studious |
-| 3 | Subtle |
-| 4 | Tenacious |
-| 5 | Tolerant |
-| 6 | Unassuming |
-| 7 | Understanding |
-| 8 | Uplifting |
-| 9 | Valiant |
-| 10 | Vigilant |
-| 11 | Welcoming |
-| 12 | Wholehearted |
-| 13 | Wise |
-| 14 | Witty |
-| 15 | Worldly |
-| 16 | Zealous |
-| 17 | Agreeable |
-| 18 | Astute |
-| 19 | Compliant |
-| 20 | Dutiful |
-| 21 | Frank |
-| 22 | Good Natured |
-| 23 | High Spirited |
-| 24 | Hopeful |
-| 25 | Impassioned |
-| 26 | Influential |
-| 27 | Inquisitive |
-| 28 | Lively |
-| 29 | Merciful |
-| 30 | Merry |
-| 31 | Objective |
-| 32 | Outgoing |
-| 33 | Pensive |
-| 34 | Quietly Confident |
-| 35 | Receptive |
-| 36 | Reserved |
-| 37 | Self Reliant |
-| 38 | Tidy |
-| 39 | Unflappable |
-| 40 | Versatile |
-| 41 | Watchful |
-| 42 | Willful |
-| 43 | Worthy |
-| 44 | Considerate |
-| 45 | Convivial |
-| 46 | Dispassionate |
-| 47 | Down To Earth |
-| 48 | Evenhanded |
-| 49 | Hospitable |
-| 50 | Nonreactive |
-| 51 | Openhearted |
-| 52 | Self Directed |
-| 53 | Stable |
+| 1 | Observant |
+| 2 | Open Minded |
+| 3 | Optimistic |
+| 4 | Orderly |
+| 5 | Organized |
+| 6 | Original |
+| 7 | Patient |
+| 8 | Perceptive |
+| 9 | Persistent |
+| 10 | Persuasive |
+| 11 | Playful |
+| 12 | Poised |
+| 13 | Polished |
+| 14 | Practical |
+| 15 | Pragmatic |
+| 16 | Precise |
+| 17 | Principled |
+| 18 | Proactive |
+| 19 | Protective |
+| 20 | Prudent |
+| 21 | Quick Witted |
+| 22 | Rational |
+| 23 | Realistic |
+| 24 | Reflective |
+| 25 | Reliable |
+| 26 | Resilient |
+| 27 | Resolute |
+| 28 | Resourceful |
+| 29 | Respectful |
+| 30 | Responsible |
+| 31 | Self Aware |
+| 32 | Self Controlled |
+| 33 | Selfless |
+| 34 | Sensible |
+| 35 | Serene |
+| 36 | Sharp |
+| 37 | Sincere |
+| 38 | Sociable |
+| 39 | Solid |
+| 40 | Steadfast |
+| 41 | Strategic |
+| 42 | Studious |
+| 43 | Subtle |
+| 44 | Supportive |
+| 45 | Tactful |
+| 46 | Tenacious |
+| 47 | Thoughtful |
+| 48 | Tolerant |
+| 49 | Trustworthy |
+| 50 | Unassuming |
+| 51 | Understanding |
+| 52 | Uplifting |
+| 53 | Valiant |
+| 54 | Vigilant |
+| 55 | Warm |
+| 56 | Welcoming |
+| 57 | Wholehearted |
+| 58 | Wise |
+| 59 | Witty |
+| 60 | Worldly |
+| 61 | Zealous |
+| 62 | Agreeable |
+| 63 | Astute |
+| 64 | Compliant |
+| 65 | Dutiful |
+| 66 | Frank |
+| 67 | Good Natured |
+| 68 | High Spirited |
+| 69 | Hopeful |
+| 70 | Impassioned |
+| 71 | Influential |
+| 72 | Inquisitive |
+| 73 | Lively |
+| 74 | Merciful |
+| 75 | Merry |
+| 76 | Objective |
+| 77 | Outgoing |
+| 78 | Pensive |
+| 79 | Quietly Confident |
+| 80 | Receptive |
+| 81 | Reserved |
+| 82 | Self Reliant |
+| 83 | Steady |
+| 84 | Tidy |
+| 85 | Unflappable |
+| 86 | Versatile |
+| 87 | Watchful |
+| 88 | Well Mannered |
+| 89 | Willful |
+| 90 | Worthy |
+| 91 | Considerate |
+| 92 | Convivial |
+| 93 | Dispassionate |
+| 94 | Down To Earth |
+| 95 | Evenhanded |
+| 96 | Hospitable |
+| 97 | Nonreactive |
+| 98 | Openhearted |
+| 99 | Self Directed |
+| 100 | Stable |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 3**
+**Table 1 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -988,302 +930,199 @@ Roll or choose a Motto: a phrase your character lives by. Use it for inspiration
 | 10 | Stay in the light! |
 | 11 | Don't go in there! |
 | 12 | We need to stick together. |
-| 13 | Trust no one. |
-| 14 | I've seen this movie and it doesn't end well. |
-| 15 | When in doubt, burn it all down. |
-| 16 | If we die, we die fighting. |
-| 17 | No one survives by being the hero. |
-| 18 | The quiet ones always die first. |
-| 19 | Safety is an illusion. |
-| 20 | This is how horror movies start. |
-| 21 | What could possibly go wrong? |
-| 22 | We're not safe anywhere. |
-| 23 | I don't want to die like this! |
-| 24 | Every shadow could be our last. |
-| 25 | We can't outrun the inevitable forever. |
-| 26 | Keep moving or keep dying. |
-| 27 | Survival isn't heroic, it's desperate. |
-| 28 | Fear is a luxury I've already spent. |
-| 29 | In darkness, we are all equally damned. |
-| 30 | What watches us from the shadows? |
-| 31 | Some secrets are meant to stay buried. |
-| 32 | I have a bad feeling about this... |
-| 33 | What we don't know can kill us. |
-| 34 | Reality is just a thin veil. |
-| 35 | Madness whispers from the void. |
-| 36 | The only way out is deeper in. |
-| 37 | This ends in blood. It always does. |
-| 38 | Trust no one. Not even yourself. |
-| 39 | In the dark, we are not alone. |
-| 40 | Sanity is the luxury of the ignorant. |
-| 41 | No one survives what's coming. |
-| 42 | Our fate was sealed long ago. |
-| 43 | Scream all you like. No one will hear you. |
-| 44 | Never be the first to open a door. |
-| 45 | The night never ends. |
-| 46 | In the end, all things hunger. |
-| 47 | Oblivion whispers my name. |
-| 48 | What dreams in the abyss? |
-| 49 | Stay close or die alone. |
-| 50 | The deeper you go, the worse it gets. |
-| 51 | We should have left when we had the chance. |
-| 52 | Some knowledge costs you your mind. |
-| 53 | Help never comes. Isolation is absolute. |
-| 54 | Fear is just information. |
-| 55 | We're the monsters now. |
-| 56 | Death would be a mercy compared to this. |
-| 57 | Nothing is ever truly over. |
-| 58 | The dead are never really gone. |
-| 59 | Escape routes close one by one. |
-| 60 | Meeting yourself is a death sentence. |
-| 61 | The past is never innocent. |
-| 62 | Humanity is just a costume. |
-| 63 | Laughter in the dark is a warning. |
-| 64 | The cure is worse than the disease. |
-| 65 | Expect no mercy, give none. |
-| 66 | Some truths shatter sanity. |
-| 67 | Death is just a disguise. |
-| 68 | The warnings we ignore are the deadliest. |
-| 69 | Civilization ends where the light does. |
-| 70 | Words spoken can't be unspoken. |
-| 71 | Blood always finds its way back. |
-| 72 | Empty places breed monsters. |
-| 73 | Hope is for people who aren't paying attention. |
-| 74 | Nature remembers what we forget. |
-| 75 | The survivors never speak. They just stare. |
-| 76 | Every choice we made led us here. |
-| 77 | The nightmare is more real than waking life now. |
-| 78 | Silence is just a scream holding its breath. |
-| 79 | Every doorway is a decision you can't undo. |
-| 80 | Every second counts, every step matters. |
-| 81 | Logic is a tool that doesn't work here. |
-| 82 | Believe nothing you see and half of what you hear. |
-| 83 | The first mistake is usually the last. |
-| 84 | There are no heroes in the dark. |
-| 85 | Sometimes the only winning move is to run. |
-| 86 | The darkness is a one-way street. |
-| 87 | I saw tomorrow, and it was empty. |
-| 88 | Survival has a price. |
-| 89 | Silence is a warning. |
-| 90 | Trust your instincts, ignore the evidence. |
-| 91 | Fear is the only honest emotion. |
-| 92 | Mercy is a luxury we can't afford. |
-| 93 | The truth is rarely comforting. |
-| 94 | Don't seek what should remain lost. |
-| 95 | Chaos is the only constant. |
-| 96 | Nothing is as it seems. |
-| 97 | Stay alert, stay alive. |
-| 98 | Keep your eyes open and your mouth shut. |
-| 99 | Don't look back; the past is catching up. |
-| 100 | The world is darker than you think. |
+| 13 | History repeats itself in blood. |
+| 14 | When in doubt, burn it all down. |
+| 15 | If we die, we die fighting. |
+| 16 | No one survives by being the hero. |
+| 17 | The quiet ones always die first. |
+| 18 | Safety is an illusion. |
+| 19 | This place was never meant for us. |
+| 20 | What could possibly go wrong? |
+| 21 | We're not safe anywhere. |
+| 22 | I don't want to die like this! |
+| 23 | Every shadow could be our last. |
+| 24 | We can't outrun the inevitable forever. |
+| 25 | Keep moving or keep dying. |
+| 26 | Survival isn't heroic, it's desperate. |
+| 27 | Fear is a luxury I've already spent. |
+| 28 | In darkness, we are all equally damned. |
+| 29 | What watches us from the shadows? |
+| 30 | Some secrets are meant to stay buried. |
+| 31 | I have a bad feeling about this... |
+| 32 | What we don't know can kill us. |
+| 33 | Reality is just a thin veil. |
+| 34 | Madness whispers from the void. |
+| 35 | The only way out is deeper in. |
+| 36 | This ends in blood. It always does. |
+| 37 | Trust no one. Not even yourself. |
+| 38 | In the dark, we are not alone. |
+| 39 | Sanity is the luxury of the ignorant. |
+| 40 | No one survives what's coming. |
+| 41 | Our fate was sealed long ago. |
+| 42 | Scream all you like. No one will hear you. |
+| 43 | Never be the first to open a door. |
+| 44 | The night never ends. |
+| 45 | In the end, all things hunger. |
+| 46 | Oblivion whispers my name. |
+| 47 | What dreams in the abyss? |
+| 48 | Stay close or die alone. |
+| 49 | The deeper you go, the worse it gets. |
+| 50 | We should have left when we had the chance. |
+| 51 | Some knowledge costs you your mind. |
+| 52 | Help never comes. Isolation is absolute. |
+| 53 | Fear is just information. |
+| 54 | We're the monsters now. |
+| 55 | Death would be a mercy compared to this. |
+| 56 | Nothing is ever truly over. |
+| 57 | The dead are never really gone. |
+| 58 | Escape routes close one by one. |
+| 59 | Meeting yourself is a death sentence. |
+| 60 | The past is never innocent. |
+| 61 | Humanity is just a costume. |
+| 62 | Laughter in the dark is a warning. |
+| 63 | The cure is worse than the disease. |
+| 64 | Expect no mercy, give none. |
+| 65 | Some truths shatter sanity. |
+| 66 | Death is just a disguise. |
+| 67 | The warnings we ignore are the deadliest. |
+| 68 | Civilization ends where the light does. |
+| 69 | Words spoken can't be unspoken. |
+| 70 | Blood always finds its way back. |
+| 71 | Empty places breed monsters. |
+| 72 | Hope is for people who aren't paying attention. |
+| 73 | Nature remembers what we forget. |
+| 74 | The survivors never speak. They just stare. |
+| 75 | Every choice we made led us here. |
+| 76 | The nightmare is more real than waking life now. |
+| 77 | Silence is just a scream holding its breath. |
+| 78 | Every doorway is a decision you can't undo. |
+| 79 | Every second counts, every step matters. |
+| 80 | Logic is a tool that doesn't work here. |
+| 81 | Believe nothing you see and half of what you hear. |
+| 82 | The first mistake is usually the last. |
+| 83 | There are no heroes in the dark. |
+| 84 | Sometimes the only winning move is to run. |
+| 85 | The darkness is a one-way street. |
+| 86 | I saw tomorrow, and it was empty. |
+| 87 | Survival has a price. |
+| 88 | Silence is a warning. |
+| 89 | Trust your instincts, ignore the evidence. |
+| 90 | Fear is the only honest emotion. |
+| 91 | Mercy is a luxury we can't afford. |
+| 92 | The truth is rarely comforting. |
+| 93 | Don't seek what should remain lost. |
+| 94 | Chaos is the only constant. |
+| 95 | Nothing is as it seems. |
+| 96 | Keep your eyes open and your mouth shut. |
+| 97 | Don't look back; the past is catching up. |
+| 98 | The world is darker than you think. |
+| 99 | The shadows are longer than they should be. |
+| 100 | Don't answer the knocking. |
 
-**Table 2 of 3**
+**Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
 | 1 | Actions speak louder than words. |
 | 2 | Never give up. |
-| 3 | Trust your instincts. |
-| 4 | Hope for the best, prepare for the worst. |
-| 5 | Fortune favors the bold. |
-| 6 | Better safe than sorry. |
-| 7 | Live and let live. |
-| 8 | An eye for an eye. |
-| 9 | Do unto others... |
-| 10 | Every person for themselves. |
-| 11 | We're in this together. |
-| 12 | Know when to hold 'em, know when to fold 'em. |
-| 13 | Strike first, ask questions later. |
-| 14 | Look before you leap. |
+| 3 | Trust no one. |
+| 4 | Trust your instincts. |
+| 5 | Hope for the best, prepare for the worst. |
+| 6 | Fortune favors the bold. |
+| 7 | Better safe than sorry. |
+| 8 | Live and let live. |
+| 9 | An eye for an eye. |
+| 10 | Do unto others. |
+| 11 | Every person for themselves. |
+| 12 | We're in this together. |
+| 13 | Know when to hold 'em, know when to fold 'em. |
+| 14 | Strike first, ask questions later. |
 | 15 | Nothing ventured, nothing gained. |
-| 16 | Slow and steady wins the race. |
-| 17 | The ends justify the means. |
-| 18 | The road to hell is paved with good intentions. |
-| 19 | What doesn't kill you makes you stronger. |
-| 20 | Knowledge is power. |
-| 21 | Ignorance is bliss. |
-| 22 | The pen is mightier than the sword. |
-| 23 | Might makes right. |
-| 24 | Two wrongs don't make a right. |
-| 25 | There's no honor among thieves. |
-| 26 | A promise is a promise. |
-| 27 | Never look back. |
-| 28 | Learn from the past. |
-| 29 | Seize the day. |
-| 30 | Patience is a virtue. |
-| 31 | Good things come to those who wait. |
-| 32 | If you want something done right, do it yourself. |
-| 33 | United we stand, divided we fall. |
-| 34 | Keep your friends close and your enemies closer. |
-| 35 | Revenge is a dish best served cold. |
-| 36 | Forgive and forget. |
-| 37 | Never forgive, never forget. |
-| 38 | Blood is thicker than water. |
-| 39 | Family first. |
-| 40 | You can't choose your family. |
-| 41 | Home is where the heart is. |
-| 42 | There's no place like home. |
-| 43 | The truth will set you free. |
-| 44 | What they don't know won't hurt them. |
-| 45 | Honesty is the best policy. |
-| 46 | All's fair in love and war. |
-| 47 | Love conquers all. |
-| 48 | Better to have loved and lost... |
-| 49 | Pride goes before a fall. |
-| 50 | Humility is strength. |
-| 51 | Never show weakness. |
-| 52 | Stand your ground. |
-| 53 | Pick your battles. |
-| 54 | Discretion is the better part of valor. |
-| 55 | No sacrifice, no victory. |
-| 56 | The needs of the many outweigh the needs of the few. |
-| 57 | Look out for number one. |
-| 58 | Do no harm. |
-| 59 | Survival of the fittest. |
-| 60 | Adapt or die. |
-| 61 | Change is the only constant. |
-| 62 | This too shall pass. |
-| 63 | What goes around comes around. |
-| 64 | You reap what you sow. |
-| 65 | Life isn't fair. |
-| 66 | Make your own luck. |
-| 67 | Everything happens for a reason. |
-| 68 | There are no accidents. |
-| 69 | Expect the unexpected. |
-| 70 | Hope for the best. |
-| 71 | Prepare for the worst. |
-| 72 | Never let them see you sweat. |
-| 73 | Keep calm and carry on. |
-| 74 | When in doubt, run. |
-| 75 | Stand and fight. |
-| 76 | Live to fight another day. |
-| 77 | Death before dishonor. |
-| 78 | Better dead than a coward. |
-| 79 | I didn't come this far to give up now. |
-| 80 | Whatever it takes. |
-| 81 | By any means necessary. |
-| 82 | The mission comes first. |
-| 83 | No one gets left behind. |
-| 84 | We finish this together. |
-| 85 | I work alone. |
-| 86 | Teamwork makes the dream work. |
-| 87 | If it ain't broke, don't fix it. |
-| 88 | There's always room for improvement. |
-| 89 | Practice makes perfect. |
-| 90 | Nobody's perfect. |
-| 91 | Done is better than perfect. |
-| 92 | Measure twice, cut once. |
-| 93 | Shoot first, ask questions later. |
-| 94 | Question everything. |
-| 95 | Follow orders. |
-| 96 | Rules are made to be broken. |
-| 97 | Play by the rules. |
-| 98 | Honor above all. |
-| 99 | Survival above all. |
-| 100 | Never tell me the odds. |
-
-**Table 3 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Trust the process. |
-| 2 | Embrace the chaos. |
-| 3 | Control what you can control. |
-| 4 | Let it go. |
-| 5 | Never surrender. |
-| 6 | Know when to quit. |
-| 7 | Quitters never win. |
-| 8 | Winning isn't everything. |
-| 9 | Second place is the first loser. |
-| 10 | It's not whether you win or lose, it's how you play the game. |
-| 11 | Play to win. |
-| 12 | The best defense is a good offense. |
-| 13 | An ounce of prevention is worth a pound of cure. |
-| 14 | Strike while the iron is hot. |
-| 15 | Good things come in small packages. |
-| 16 | Size doesn't matter. |
-| 17 | The bigger they are, the harder they fall. |
-| 18 | Speak softly and carry a big stick. |
-| 19 | Actions have consequences. |
-| 20 | No regrets. |
-| 21 | Learn from your mistakes. |
-| 22 | Don't cry over spilled milk. |
-| 23 | If at first you don't succeed, try, try again. |
-| 24 | Third time's the charm. |
-| 25 | Once bitten, twice shy. |
-| 26 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 27 | I've got no choice but to be strong. |
-| 28 | I've got too much blood on my hands to quit now. |
-| 29 | Keep moving. |
-| 30 | Lead by example. |
-| 31 | Choose your hard. |
-| 32 | Be useful. |
-| 33 | Stay curious. |
-| 34 | Small steps, every day. |
-| 35 | Progress over drama. |
-| 36 | Calm is a choice. |
-| 37 | Protect your peace. |
-| 38 | Win with consistency. |
-| 39 | Kind, not weak. |
-| 40 | Sharp mind, soft ego. |
-| 41 | Make it count. |
-| 42 | Less talk, more proof. |
-| 43 | Carry your own weight. |
-| 44 | Start before you're ready. |
-| 45 | Finish what you start. |
-| 46 | Grace under pressure. |
-| 47 | Stay teachable. |
-| 48 | Solve the problem in front of you. |
-| 49 | Do hard things well. |
-| 50 | No panic, just priorities. |
-| 51 | Respect is rented daily. |
-| 52 | Energy follows focus. |
-| 53 | Truth over comfort. |
-| 54 | Aim true. |
-| 55 | Own the outcome. |
-| 56 | Pressure reveals habits. |
-| 57 | Choose clarity. |
-| 58 | Keep promises to yourself. |
-| 59 | Courage with compassion. |
-| 60 | Stay dangerous, stay decent. |
-| 61 | Respond, don't react. |
-| 62 | Consistency beats intensity. |
-| 63 | Build, don't brag. |
-| 64 | Guard your time. |
-| 65 | Care enough to improve. |
-| 66 | Set the tone. |
-| 67 | Do less, better. |
-| 68 | Hard facts, open mind. |
-| 69 | Strong back, stronger character. |
-| 70 | Patience with purpose. |
-| 71 | When it matters, show up. |
-| 72 | Earn trust slowly. |
-| 73 | Leave it better. |
-| 74 | Cut the noise. |
-| 75 | Use what you have. |
-| 76 | Prepared is powerful. |
-| 77 | Adapt with intent. |
-| 78 | Keep your edge. |
-| 79 | Stay humble, stay hungry. |
-| 80 | Learn faster than the problem changes. |
-| 81 | Take the next right step. |
-| 82 | Discipline buys freedom. |
-| 83 | Clarity beats speed. |
-| 84 | Raise your standards quietly. |
-| 85 | No shortcuts worth taking. |
-| 86 | Protect the vulnerable. |
-| 87 | Be hard to shake. |
-| 88 | Think long, act now. |
-| 89 | Practice courage daily. |
-| 90 | Standards over moods. |
-| 91 | Simple is strong. |
-| 92 | Own your mistakes quickly. |
-| 93 | Speak less, listen deeper. |
-| 94 | Choose effort over excuses. |
-| 95 | Be where your feet are. |
-| 96 | Leave ego at the door. |
-| 97 | The right thing, especially then. |
-| 98 | Steady wins storms. |
+| 16 | The ends justify the means. |
+| 17 | The road to hell is paved with good intentions. |
+| 18 | What doesn't kill you makes you stronger. |
+| 19 | Knowledge is power. |
+| 20 | Might makes right. |
+| 21 | There's no honor among thieves. |
+| 22 | A promise is a promise. |
+| 23 | Seize the day. |
+| 24 | Patience is a virtue. |
+| 25 | If you want something done right, do it yourself. |
+| 26 | United we stand, divided we fall. |
+| 27 | Keep your friends close and your enemies closer. |
+| 28 | Revenge is a dish best served cold. |
+| 29 | Never forgive, never forget. |
+| 30 | Blood is thicker than water. |
+| 31 | Family first. |
+| 32 | The truth will set you free. |
+| 33 | Honesty is the best policy. |
+| 34 | All's fair in love and war. |
+| 35 | Pride goes before a fall. |
+| 36 | Never show weakness. |
+| 37 | Stand your ground. |
+| 38 | Discretion is the better part of valor. |
+| 39 | No sacrifice, no victory. |
+| 40 | The needs of the many outweigh the needs of the few. |
+| 41 | Look out for number one. |
+| 42 | Do no harm. |
+| 43 | Survival of the fittest. |
+| 44 | Adapt or die. |
+| 45 | Change is the only constant. |
+| 46 | This too shall pass. |
+| 47 | What goes around comes around. |
+| 48 | You reap what you sow. |
+| 49 | Make your own luck. |
+| 50 | Everything happens for a reason. |
+| 51 | Expect the unexpected. |
+| 52 | Stay alert, stay alive. |
+| 53 | Never let them see you sweat. |
+| 54 | Keep calm and carry on. |
+| 55 | Live to fight another day. |
+| 56 | Death before dishonor. |
+| 57 | Whatever it takes. |
+| 58 | By any means necessary. |
+| 59 | The mission comes first. |
+| 60 | No one gets left behind. |
+| 61 | I work alone. |
+| 62 | If it ain't broke, don't fix it. |
+| 63 | Measure twice, cut once. |
+| 64 | Question everything. |
+| 65 | Follow orders. |
+| 66 | Rules are made to be broken. |
+| 67 | Honor above all. |
+| 68 | Survival above all. |
+| 69 | Never tell me the odds. |
+| 70 | Embrace the chaos. |
+| 71 | Never surrender. |
+| 72 | Know when to quit. |
+| 73 | The best defense is a good offense. |
+| 74 | Strike while the iron is hot. |
+| 75 | The bigger they are, the harder they fall. |
+| 76 | Speak softly and carry a big stick. |
+| 77 | Actions have consequences. |
+| 78 | No regrets. |
+| 79 | Learn from your mistakes. |
+| 80 | Once bitten, twice shy. |
+| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
+| 82 | Lead by example. |
+| 83 | Be useful. |
+| 84 | Finish what you start. |
+| 85 | Grace under pressure. |
+| 86 | Stay teachable. |
+| 87 | No panic, just priorities. |
+| 88 | Truth over comfort. |
+| 89 | Aim true. |
+| 90 | Own the outcome. |
+| 91 | Respond, don't react. |
+| 92 | Prepared is powerful. |
+| 93 | Keep your edge. |
+| 94 | Discipline buys freedom. |
+| 95 | Raise your standards quietly. |
+| 96 | Protect the vulnerable. |
+| 97 | Simple is strong. |
+| 98 | Own your mistakes quickly. |
+| 99 | Steady wins storms. |
+| 100 | Leave it better. |
 
 ### Secrets
 

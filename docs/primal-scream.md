@@ -118,10 +118,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
-| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
-| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
 | **Cover Specialist** | When in cover, you always count as being in one level higher cover than you actually are. |  |
-| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
@@ -167,7 +164,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Prime Specimen** (+1 Strike) | Can take +1 Strikes. |  |
+| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
@@ -176,7 +173,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. | Final Turn Before Death |
 | **Adrenaline Surge** | Once per session, when you drop to 1 Health, immediately take a free Action with a Boon to whatever you do. |  |
-| **Berserker** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -187,7 +184,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Duplicitous** | Skilled at deception, gambling, and sleight of hand. | Deception, Gambling, Sleight of Hand |
 | **Interrogator** | Skilled at extracting information from people through questioning, intimidation, or trickery on anything but a 1. The higher the result, the better it goes. |  |
 | **Intimidating Presence** | Boon to Intimidation. Can use an Action to inflict Terrified on a target who fails a Resistance Save. | Intimidation |
-| **Hype Master** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
+| **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
 | **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
@@ -415,210 +412,317 @@ Roll or choose a Background to establish your character's history, origin, and t
 | 1 | Ruin Scavenger |
 | 2 | Beast Hunter |
 | 3 | Tracker for Hire |
-| 4 | Wanderer |
-| 5 | Cliff Guide |
-| 6 | Swamp Stalker |
-| 7 | Forest Forager |
-| 8 | Desert Runner |
-| 9 | Mountain Hermit |
-| 10 | Fungal Farmer |
-| 11 | Herb Keeper |
-| 12 | Shaman's Apprentice |
-| 13 | Tribe Envoy |
-| 14 | Camp Quartermaster |
-| 15 | Beast Handler |
-| 16 | Tusk Wrestler |
-| 17 | Bone Carver |
-| 18 | Relic Digger |
-| 19 | Glowstone Miner |
-| 20 | Torrent Fisher |
-| 21 | Headhunter |
-| 22 | Pit Fighter |
-| 23 | Warband Scout |
-| 24 | Shield Bearer |
-| 25 | Sling Expert |
-| 26 | Spear Dancer |
-| 27 | Feral Child |
-| 28 | Lost Noble |
-| 29 | Mask Maker |
-| 30 | Cave Artist |
-| 31 | Lore Collector |
-| 32 | Star Watcher |
-| 33 | Trail Singer |
-| 34 | Beast-Touched |
-| 35 | Spirit-Bonded |
-| 36 | Exiled |
-| 37 | Outcast |
-| 38 | Pact Breaker |
-| 39 | Witch's Errand-Runner |
-| 40 | Gatherer |
-| 41 | Trap Layer |
-| 42 | Animal Skinner |
-| 43 | Mushroom Hunter |
-| 44 | Water Finder |
-| 45 | Fire Tender |
-| 46 | Signal Drummer |
-| 47 | Bone Flutist |
-| 48 | Clan Heir |
-| 49 | Blood Oath Keeper |
-| 50 | Renegade Scout |
-| 51 | Relic Porter |
-| 52 | Beast Whisperer |
-| 53 | Spirit Medium |
-| 54 | Cold Trader |
-| 55 | Dust Caravaner |
-| 56 | Ice Diver |
-| 57 | Storm Chaser |
-| 58 | Grave Tender |
-| 59 | Shell Collector |
-| 60 | Nest Builder |
-| 61 | Fire Watcher |
-| 62 | Berry Picker |
-| 63 | Mud Sculptor |
-| 64 | Sun Chaser |
-| 65 | Shadow Lurker |
-| 66 | Egg Thief |
-| 67 | Root Digger |
-| 68 | Pebble Counter |
-| 69 | Cloud Gazer |
-| 70 | Thorn Gatherer |
-| 71 | Sap Drinker |
-| 72 | Frost Walker |
-| 73 | Echo Listener |
-| 74 | Omen Reader |
-| 75 | Wind Caller |
-| 76 | Star Speaker |
-| 77 | Moon Follower |
-| 78 | Sun Dancer |
-| 79 | Sky Watcher |
-| 80 | Wave Rider |
-| 81 | Flint Knapper |
-| 82 | Mammoth Driver |
-| 83 | River Reed Weaver |
-| 84 | Cave Sentinel |
-| 85 | Totem Carver |
-| 86 | Hearth Keeper |
-| 87 | Clan Storykeeper |
-| 88 | Hunt Caller |
-| 89 | Spear Crafter |
-| 90 | Hide Tanner |
-| 91 | Bone Needle Maker |
-| 92 | Tallow Maker |
-| 93 | Stone Slinger |
-| 94 | Marsh Reed Gatherer |
-| 95 | Path Finder |
-| 96 | Ritual Drummer |
-| 97 | Clan Peacebroker |
-| 98 | Fire Carrier |
-| 99 | Mountain Forager |
-| 100 | Rune Reader |
+| 4 | Cliff Guide |
+| 5 | Swamp Stalker |
+| 6 | Forest Forager |
+| 7 | Desert Runner |
+| 8 | Mountain Hermit |
+| 9 | Fungal Farmer |
+| 10 | Herb Keeper |
+| 11 | Shaman's Apprentice |
+| 12 | Tribe Envoy |
+| 13 | Camp Quartermaster |
+| 14 | Tusk Wrestler |
+| 15 | Bone Carver |
+| 16 | Relic Digger |
+| 17 | Glowstone Miner |
+| 18 | Torrent Fisher |
+| 19 | Headhunter |
+| 20 | Pit Fighter |
+| 21 | Warband Scout |
+| 22 | Shield Bearer |
+| 23 | Sling Expert |
+| 24 | Spear Dancer |
+| 25 | Feral Child |
+| 26 | Lost Noble |
+| 27 | Mask Maker |
+| 28 | Cave Artist |
+| 29 | Lore Collector |
+| 30 | Star Watcher |
+| 31 | Trail Singer |
+| 32 | Beast-Touched |
+| 33 | Spirit-Bonded |
+| 34 | Exiled |
+| 35 | Pact Breaker |
+| 36 | Witch's Errand-Runner |
+| 37 | Gatherer |
+| 38 | Trap Layer |
+| 39 | Animal Skinner |
+| 40 | Mushroom Hunter |
+| 41 | Water Finder |
+| 42 | Fire Tender |
+| 43 | Signal Drummer |
+| 44 | Bone Flutist |
+| 45 | Clan Heir |
+| 46 | Blood Oath Keeper |
+| 47 | Renegade Scout |
+| 48 | Relic Porter |
+| 49 | Beast Whisperer |
+| 50 | Spirit Medium |
+| 51 | Cold Trader |
+| 52 | Dust Caravaner |
+| 53 | Ice Diver |
+| 54 | Storm Chaser |
+| 55 | Grave Tender |
+| 56 | Shell Collector |
+| 57 | Nest Builder |
+| 58 | Fire Watcher |
+| 59 | Berry Picker |
+| 60 | Mud Sculptor |
+| 61 | Sun Chaser |
+| 62 | Shadow Lurker |
+| 63 | Egg Thief |
+| 64 | Root Digger |
+| 65 | Pebble Counter |
+| 66 | Cloud Gazer |
+| 67 | Thorn Gatherer |
+| 68 | Sap Drinker |
+| 69 | Frost Walker |
+| 70 | Echo Listener |
+| 71 | Omen Reader |
+| 72 | Wind Caller |
+| 73 | Star Speaker |
+| 74 | Moon Follower |
+| 75 | Sun Dancer |
+| 76 | Sky Watcher |
+| 77 | Wave Rider |
+| 78 | Flint Knapper |
+| 79 | Mammoth Driver |
+| 80 | River Reed Weaver |
+| 81 | Cave Sentinel |
+| 82 | Totem Carver |
+| 83 | Hearth Keeper |
+| 84 | Clan Storykeeper |
+| 85 | Hunt Caller |
+| 86 | Spear Crafter |
+| 87 | Hide Tanner |
+| 88 | Bone Needle Maker |
+| 89 | Tallow Maker |
+| 90 | Stone Slinger |
+| 91 | Marsh Reed Gatherer |
+| 92 | Path Finder |
+| 93 | Ritual Drummer |
+| 94 | Clan Peacebroker |
+| 95 | Fire Carrier |
+| 96 | Mountain Forager |
+| 97 | Rune Reader |
+| 98 | Amber Seeker |
+| 99 | Honey Hunter |
+| 100 | Butcher |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
+**Table 1 of 2**
+
 | d100 | Result |
 |------|--------|
-| 1 | Trail Wise |
-| 2 | Pack Loyal |
-| 3 | Bone Patient |
-| 4 | River Calm |
-| 5 | Stone Steady |
-| 6 | Wind Listening |
-| 7 | Fire Guarded |
-| 8 | Earth Rooted |
-| 9 | Sky Aware |
-| 10 | Instinct Driven |
-| 11 | Totem Faithful |
-| 12 | Clan Minded |
-| 13 | Hunter Silent |
-| 14 | Gatherer Minded |
-| 15 | Watchful |
-| 16 | Enduring |
-| 17 | Fierce |
-| 18 | Protective |
-| 19 | Keen Sensed |
-| 20 | Storm Hardened |
-| 21 | Moon Attuned |
-| 22 | Sun Reverent |
-| 23 | Spirit Listening |
-| 24 | Ancestor Guided |
-| 25 | Wilderness Savvy |
-| 26 | Track Sure |
-| 27 | Night Comfortable |
-| 28 | Dawn Ready |
-| 29 | Resourceful |
-| 30 | Foraging Clever |
-| 31 | Shelter Minded |
-| 32 | Risk Aware |
-| 33 | Resilient |
-| 34 | Practical |
-| 35 | Sure Footed |
-| 36 | Patient |
-| 37 | Composed |
-| 38 | Quiet |
-| 39 | Alert |
-| 40 | Bold |
-| 41 | Cautious |
-| 42 | Swift |
-| 43 | Grounded |
-| 44 | Steady |
-| 45 | Unflinching |
-| 46 | Resolute |
-| 47 | Territory Aware |
-| 48 | Kin Protective |
-| 49 | Ritual Respectful |
-| 50 | Life Preserving |
-| 51 | Cold Enduring |
-| 52 | Heat Tolerant |
-| 53 | Hunger Tough |
-| 54 | Thirst Tough |
-| 55 | Shelter Building |
-| 56 | Trap Wary |
-| 57 | Predator Minded |
-| 58 | Prey Minded |
-| 59 | Balance Keeping |
-| 60 | Season Reading |
-| 61 | Path Finding |
-| 62 | Field Crafty |
-| 63 | Scent Keen |
-| 64 | Ear Keen |
-| 65 | Hand Steady |
-| 66 | Axe Ready |
-| 67 | Spear True |
-| 68 | Bow Patient |
-| 69 | Camp Reliable |
-| 70 | Scavenging Smart |
-| 71 | Herb Knowledgeable |
-| 72 | Medicinal Minded |
-| 73 | Boundary Respecting |
-| 74 | Story Keeping |
-| 75 | Fire Tending |
-| 76 | Water Seeking |
-| 77 | Cliff Calm |
-| 78 | Forest Fluent |
-| 79 | Savanna Aware |
-| 80 | Tundra Ready |
-| 81 | Jungle Adaptable |
-| 82 | Desert Enduring |
-| 83 | Marsh Careful |
-| 84 | Cave Alert |
-| 85 | Plain Spoken |
-| 86 | Unadorned |
-| 87 | Honest |
-| 88 | Mutualist |
-| 89 | Reciprocal |
-| 90 | Duty Shared |
-| 91 | Spirit Humble |
-| 92 | Fate Respectful |
-| 93 | Survival Focused |
-| 94 | Conflict Measured |
-| 95 | Mercy Capable |
-| 96 | Revenge Controlled |
-| 97 | Honor Keeping |
-| 98 | Promise Bound |
-| 99 | Kin First |
-| 100 | Wild Hearted |
+| 1 | Adaptable |
+| 2 | Affable |
+| 3 | Alert |
+| 4 | Ambitious |
+| 5 | Analytical |
+| 6 | Anchored |
+| 7 | Appreciative |
+| 8 | Articulate |
+| 9 | Assertive |
+| 10 | Attentive |
+| 11 | Balanced |
+| 12 | Benevolent |
+| 13 | Bold |
+| 14 | Brave |
+| 15 | Calm |
+| 16 | Candid |
+| 17 | Capable |
+| 18 | Careful |
+| 19 | Caring |
+| 20 | Centered |
+| 21 | Charismatic |
+| 22 | Cheerful |
+| 23 | Civic Minded |
+| 24 | Clear Eyed |
+| 25 | Clear Spoken |
+| 26 | Clever |
+| 27 | Compassionate |
+| 28 | Composed |
+| 29 | Confident |
+| 30 | Conscientious |
+| 31 | Consistent |
+| 32 | Constructive |
+| 33 | Courageous |
+| 34 | Courteous |
+| 35 | Creative |
+| 36 | Credible |
+| 37 | Curious |
+| 38 | Daring |
+| 39 | Decisive |
+| 40 | Dedicated |
+| 41 | Dependable |
+| 42 | Diplomatic |
+| 43 | Direct |
+| 44 | Disciplined |
+| 45 | Discerning |
+| 46 | Driven |
+| 47 | Earnest |
+| 48 | Easygoing |
+| 49 | Eloquent |
+| 50 | Empathetic |
+| 51 | Energetic |
+| 52 | Engaged |
+| 53 | Equitable |
+| 54 | Ethical |
+| 55 | Even Tempered |
+| 56 | Fair |
+| 57 | Faithful |
+| 58 | Fearless |
+| 59 | Flexible |
+| 60 | Focused |
+| 61 | Forgiving |
+| 62 | Forthright |
+| 63 | Friendly |
+| 64 | Gallant |
+| 65 | Generous |
+| 66 | Gentle |
+| 67 | Genuine |
+| 68 | Graceful |
+| 69 | Gracious |
+| 70 | Grounded |
+| 71 | Hardy |
+| 72 | Helpful |
+| 73 | Honest |
+| 74 | Honorable |
+| 75 | Humble |
+| 76 | Humorous |
+| 77 | Idealistic |
+| 78 | Imaginative |
+| 79 | Impartial |
+| 80 | Independent |
+| 81 | Industrious |
+| 82 | Insightful |
+| 83 | Intentional |
+| 84 | Intuitive |
+| 85 | Inventive |
+| 86 | Jovial |
+| 87 | Judicious |
+| 88 | Keen |
+| 89 | Kind |
+| 90 | Level Headed |
+| 91 | Logical |
+| 92 | Loyal |
+| 93 | Measured |
+| 94 | Methodical |
+| 95 | Meticulous |
+| 96 | Mindful |
+| 97 | Modest |
+| 98 | Motivated |
+| 99 | Nimble |
+| 100 | Noble |
+
+**Table 2 of 2**
+
+| d100 | Result |
+|------|--------|
+| 1 | Observant |
+| 2 | Open Minded |
+| 3 | Optimistic |
+| 4 | Orderly |
+| 5 | Organized |
+| 6 | Original |
+| 7 | Patient |
+| 8 | Perceptive |
+| 9 | Persistent |
+| 10 | Persuasive |
+| 11 | Playful |
+| 12 | Poised |
+| 13 | Polished |
+| 14 | Practical |
+| 15 | Pragmatic |
+| 16 | Precise |
+| 17 | Principled |
+| 18 | Proactive |
+| 19 | Protective |
+| 20 | Prudent |
+| 21 | Quick Witted |
+| 22 | Rational |
+| 23 | Realistic |
+| 24 | Reflective |
+| 25 | Reliable |
+| 26 | Resilient |
+| 27 | Resolute |
+| 28 | Resourceful |
+| 29 | Respectful |
+| 30 | Responsible |
+| 31 | Self Aware |
+| 32 | Self Controlled |
+| 33 | Selfless |
+| 34 | Sensible |
+| 35 | Serene |
+| 36 | Sharp |
+| 37 | Sincere |
+| 38 | Sociable |
+| 39 | Solid |
+| 40 | Steadfast |
+| 41 | Strategic |
+| 42 | Studious |
+| 43 | Subtle |
+| 44 | Supportive |
+| 45 | Tactful |
+| 46 | Tenacious |
+| 47 | Thoughtful |
+| 48 | Tolerant |
+| 49 | Trustworthy |
+| 50 | Unassuming |
+| 51 | Understanding |
+| 52 | Uplifting |
+| 53 | Valiant |
+| 54 | Vigilant |
+| 55 | Warm |
+| 56 | Welcoming |
+| 57 | Wholehearted |
+| 58 | Wise |
+| 59 | Witty |
+| 60 | Worldly |
+| 61 | Zealous |
+| 62 | Agreeable |
+| 63 | Astute |
+| 64 | Compliant |
+| 65 | Dutiful |
+| 66 | Frank |
+| 67 | Good Natured |
+| 68 | High Spirited |
+| 69 | Hopeful |
+| 70 | Impassioned |
+| 71 | Influential |
+| 72 | Inquisitive |
+| 73 | Lively |
+| 74 | Merciful |
+| 75 | Merry |
+| 76 | Objective |
+| 77 | Outgoing |
+| 78 | Pensive |
+| 79 | Quietly Confident |
+| 80 | Receptive |
+| 81 | Reserved |
+| 82 | Self Reliant |
+| 83 | Steady |
+| 84 | Tidy |
+| 85 | Unflappable |
+| 86 | Versatile |
+| 87 | Watchful |
+| 88 | Well Mannered |
+| 89 | Willful |
+| 90 | Worthy |
+| 91 | Considerate |
+| 92 | Convivial |
+| 93 | Dispassionate |
+| 94 | Down To Earth |
+| 95 | Evenhanded |
+| 96 | Hospitable |
+| 97 | Nonreactive |
+| 98 | Openhearted |
+| 99 | Self Directed |
+| 100 | Stable |
 
 ### Mottos
 

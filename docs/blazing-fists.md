@@ -128,10 +128,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
-| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
-| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
 | **Cover Specialist** | When in cover, you always count as being in one level higher cover than you actually are. |  |
-| **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
@@ -177,7 +174,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Prime Specimen** (+1 Strike) | Can take +1 Strikes. |  |
+| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
@@ -186,7 +183,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. | Final Turn Before Death |
 | **Adrenaline Surge** | Once per session, when you drop to 1 Health, immediately take a free Action with a Boon to whatever you do. |  |
-| **Berserker** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -197,7 +194,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Duplicitous** | Skilled at deception, gambling, and sleight of hand. | Deception, Gambling, Sleight of Hand |
 | **Interrogator** | Skilled at extracting information from people through questioning, intimidation, or trickery on anything but a 1. The higher the result, the better it goes. |  |
 | **Intimidating Presence** | Boon to Intimidation. Can use an Action to inflict Terrified on a target who fails a Resistance Save. | Intimidation |
-| **Hype Master** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
+| **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
 | **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
@@ -245,31 +242,34 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | Ability | Description | Boons |
 |---------|-------------|-------|
 | **Crouching Tiger** | Your attacks strike with the swiftness of the tiger. When making a Surprise Attack, you can make two separate Attacks as part of the same Action. |  |
-| **Hidden Dragon** | Your enemy cannot predict your movements. Once per Turn, when an Attack you make hits, you can spend 1 Qi to immediately become hidden from the target. |  |
+| **Hidden Dragon** | Your enemy cannot predict your movements. When an Attack you make hits, you can spend 1 Qi to immediately become hidden from the target. |  |
 | **Crushing Avalanche** | Sacrifice speed for crushing power. You can take a Bane on an attack to deal 2 Strikes on a hit. |  |
-| **Iron Fist** | Slow but devastating strikes. Spend 1 Qi to knock an enemy back to Far distance and Knocked Down on a hit. |  |
+| **Iron Fist** | Powerful strikes that send enemies flying. Spend 1 Qi to knock an enemy back to Far distance and Knocked Down on a hit. |  |
 | **Thousand Cuts** | A whirlwind of low-damage strikes. As an Action, attack all targets Close to you with a Boon. Make a single Attack roll for all targets; it cannot Crit. |  |
 | **Fluid Motion** | You move like water, flowing seamlessly through combat. You gain a Boon to Armour Saves. | Armour Saves |
 | **Storm Talon** | Lightning crackles over your body, empowering your attacks with electrical energy. As an Action, spend 1 Qi to activate until the end of the scene. While active, gain a Boon to Resistance Saves against Stunned. When you hit a target, they must make a Resistance Save or be Stunned. | Against Stunned (Storm Talon Active) |
-| **Disharmonic Wave** | Unbalance your enemies with a powerful blast of spiritual energy. As an Action, spend 1 Qi to activate. All Near enemies must make a Resistance Save or be Knocked Down. |  |
-| **Singing Spring** | The way of the counter-fighter. Once per Turn, if you successfully make an Armour Save against an attacker in range, you can spend 1 Qi to make a free counter-attack. |  |
-| **Gentle Palm** | Not all strikes need be lethal. Once per Turn, you can choose to make an attack that deals no damage. If you do, add a Boon, and on a hit you may inflict Stunned or Knocked Down instead. |  |
+| **Disharmonic Wave** | Unbalance your enemies with a powerful blast of spiritual energy. As an Action, spend 1 Qi to activate. All Near enemies who are not already Knocked Down must make a Resistance Save or be Knocked Down. Deals no damage. |  |
+| **Singing Spring** | The way of the counter-fighter. If you successfully make an Armour Save against an attacker in range, you can spend 1 Qi to make a free counter-attack. |  |
+| **Gentle Palm** | Not all strikes need be lethal. You can choose to make an attack that deals no damage. If you do, add a Boon, and on a hit inflict Stunned or Knocked Down instead. |  |
 | **Drunken Master** | Unpredictable movements that are surprisingly evasive. Enemies cannot Crit against you or inflict Knocked Down on you. |  |
-| **Cinder Strike** | On a hit, you can spend 1 Qi to turn the attack into a flaming strike. The target must make a Resistance Save or be Afflicted (On Fire). Gain a Boon to Resistance Saves against Afflicted (On Fire). | Against Afflicted (On Fire) |
-| **Jade Golem** | Transform into a massive construct. Spend 1 Qi to transform for one scene. Can take +2 Strikes and a Boon to Strength and Melee Attacks, but you cannot use other styles while transformed and take a Bane to Agility tasks. |  |
-| **Viper Strike** | Rapid, poisonous strikes. Spend 1 Qi on a hit to inflict a lingering toxin; the target is Afflicted (Poison). Gain a Boon to Poison Resistance. | Against Afflicted (Poison) |
+| **Cinder Strike** | Before you attack, you may spend 1 Qi to turn the attack into a flaming strike. On a hit, the target is Afflicted (On Fire). Gain a Boon to Resistance Saves against Afflicted (On Fire). | Against Afflicted (On Fire) |
+| **Jade Golem** | Transform into a massive construct. As an Action, spend 1 Qi to transform for one scene or until you use an Action to dismiss. You can take +2 Strikes and gain a Boon to Strength and Melee Attacks, but you cannot use other styles while transformed and take a Bane to Avoidance Saves. |  |
+| **Iron Shaping Form** | Iron flows through your veins. You can transform any part of your body into a weapon of your choice at will, including as part of an attack. Any attacks made this way are with a Boon. | Transformed Weapon Attacks |
+| **Viper Strike** | When you make an attack, you can spend 1 Qi to inflict a lingering toxin. On a hit, the target is Afflicted (Poison). Gain a Boon to Poison Resistance. | Against Afflicted (Poison) |
 | **Willow Whip** | A defensive style that uses the enemy's momentum against them. If an enemy misses a melee attack against you, or you succeed on your Save against it, you may spend 1 Qi to force them to hit another adjacent target of your choice. |  |
-| **Paralysing Touch** | Strikes against pressure points. On a Confirmed Crit, you can spend 1 Qi to render the target Incapacitated instead of inflicting damage. |  |
-| **Glacial Shard** | A piercing shard of ice enhances your strikes. On a hit, you can spend 1 Qi to inflict an extra Strike, and the target must make a Resistance Save or be Stunned by the freezing attack. Gain a Boon to Resistance Saves against Incapacitated (Frozen). | Against Incapacitated (Frozen) |
+| **Paralysing Touch** | Strikes against pressure points. On a Confirmed Crit, you can spend 1 Qi to render the target Incapacitated instead of inflicting damage, then continue to roll damage Crits as normal. |  |
+| **Glacial Shard** | Before you attack, you can spend 1 Qi to add a piercing shard of ice to enhance your strike. You inflict an extra Strike on a hit. On a Confirmed Crit, inflict Incapacitated (Frozen). Gain a Boon to Resistance Saves against Incapacitated (Frozen). | Against Incapacitated (Frozen) |
 | **Earthen Embrace** | The power of the earth protects you. As an Action, spend any amount of Qi. Reduce your Armour Save target by 1 per Qi spent, to a maximum of 3+, until the end of the scene. |  |
-| **Gale Step** | The fury of the wind speeds you to your destination. As an Action, spend 1 Qi to create a gust that moves you up to Long Range in any direction or elevation. If you follow it up with an Attack Action, you gain a Boon to that attack. |  |
+| **Gale Step** | The fury of the wind speeds you to your destination. As an Action, you can spend 1 Qi to create a gust that moves you up to Long Range in any direction or elevation. You can make an Attack as part of the movement with a Boon. | Gale Step Attack |
 | **Dragon Spirit** | Majestic and coiling, your movements unite body and soul. Gain a Boon to Melee Attacks and Resistance Saves. | Melee Attacks, Resistance Saves |
 | **Snake Flow** | Your qi flows like a serpent, soft and precise. Gain a Boon to Melee Attacks and Avoidance Saves. | Melee Attacks, Avoidance Saves |
 | **Tiger Heart** | Ferocious internal force surges through your strikes. Gain a Boon to Melee Attacks and Strength Tasks. | Melee Attacks, Strength Tasks |
 | **Leopard Burst** | Silent stalking and explosive speed let you strike before hesitation can form. Gain a Boon to Melee Attacks and Stealth. | Melee Attacks, Stealth |
 | **White Crane** | Elegant footwork wastes no motion. Gain a Boon to Melee Attacks and Agility. | Melee Attacks, Agility |
 | **Inner Perfection** | Your soul is at peace and you have complete mastery over your energy. Once per session, when you find a moment of peace to meditate, spend your Qi to heal a Strike for each Qi spent. |  |
-| **Shapeshifter** | As an Action, you can transform into a person or creature of similar size that you are familiar with by spending 1 Qi. While in their form you can mimic their abilities, voice and appearance. This includes being able to understand and communicate with other creatures of the same type. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strike taken transfer to your original form. |  |
+| **Lightness of Being** | You can channel your energy to move with unparalleled grace and speed as your body becomes light as a feather. Spend a Qi to balance your mass with your environment for a scene. You can leap and move twice your normal distance and gain a Boon to Agility and Avoidance Saves while active. | Agility (Lightness of Being Active), Avoidance Saves (Lightness of Being Active) |
+| **Shapeshifter** | As an Action, you can transform into a person or creature of similar size that you are familiar with for a scene by spending 1 Qi. While in their form you can mimic their abilities, voice and appearance. This includes being able to understand and communicate with other creatures of the same type. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strike taken transfer to your original form. |  |
+| **Mystical Arts** | You can wield Mystical powers through rituals and incantations, spiritual or mental focus. Choose the nature of your powers. You may cast/use them on up to 6 targets who must make a Resistance Save or be affected by your chosen effect on anything but a 1. If any of them succeed, none of them suffer the effect. If all succeed, you suffer a Strike from the backlash. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. On a 1, the GM can decide how the power goes wrong. You cannot use your Qi to fuel these powers, but you can use your Harmony to reroll. Ongoing effects may be ended early by performing another Mystical Action or taking a Strike, but not by performing a non-Mystical Action. |  |
 
 ### Dark Cultivation Techniques
 
@@ -292,7 +292,6 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | **Bull-Demon Strength** | As an Action, dark Mystical energy floods your body, massively enhancing your physical power and resilience. Your muscles swell, your veins darken, and your skin thickens. While transformed, you gain several Boons, but the spiritual toll is immense: you must make a Resistance Save or take 1 Corruption at the end of each scene that it is active. | Strength Tasks (Double Boon) [Corruption], Melee Attacks [Corruption], Armour Saves [Corruption] |
 | **Tiger-Demon Speed** | As an Action, dark Mystical energy floods your body, greatly enhancing your speed and agility. Your muscles tense, your reflexes sharpen, and your movements become almost a blur. This form lasts until you dismiss it, end the session, or are rendered unconscious. While transformed, you gain several Boons, but the spiritual toll is immense: you must make a Resistance Save or take 1 Corruption at the end of each scene that it is active. | Agility (Double Boon) [Corruption], Melee Attacks [Corruption], Avoidance Saves [Corruption] |
 | **Fox-Demon Cunning** | As an Action, dark Mystical energy floods your body, greatly enhancing your cunning, charisma and intellect. Your mind sharpens, your senses heighten, and your movements become almost preternaturally precise. This form lasts until you dismiss it, end the session, or are rendered unconscious. While transformed, you gain several Boons, but the spiritual toll is immense: you must make a Resistance Save or take 1 Corruption at the end of each scene that it is active. | Charm (Double Boon) [Corruption], Intelligence [Corruption], Resistance Saves [Corruption] |
-| **Mystical Arts** | You can wield Mystical powers through rituals and incantations, spiritual or mental focus. Choose the nature of your powers. You may cast/use them on up to 6 targets who must make a Resistance Save or be affected by your chosen effect on anything but a 1. If any of them succeed, none of them suffer the effect. If all succeed, you suffer a Strike from the backlash. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. On a 1, the GM can decide how the power goes wrong. You cannot use your Qi to fuel these powers, but you can use your Harmony to reroll. Ongoing effects may be ended early by performing another Mystical Action or taking a Strike, but not by performing a non-Mystical Action. |  |
 
 ## Gear & Equipment
 
@@ -317,12 +316,12 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 | **Dagger** | Short bladed weapon. Easily concealed. | 1 | Close | Common |
 | **Dao** | Chinese curved saber. Single-edged and swift. | 1 | Close | Uncommon |
 | **Guandao** | Heavy two-handed polearm with a broad curved blade. Strong sweeping cuts. | 1 | Close | Uncommon |
-| **Gun Staff** | Flexible two-handed quarterstaff favored in martial arts training and combat. | 1 | Close | Common |
 | **Hook Swords** | Distinctive paired swords with hooks and guards for trapping and linking techniques. Can be linked for extended reach. | 1 | Close | Rare |
 | **Ji** | Two-handed Chinese halberd combining thrusting point and side blade. | 1 | Close | Uncommon |
 | **Jian** | Chinese straight sword. Elegant and precise. | 1 | Close | Uncommon |
 | **Meteor Hammer** | Rope-and-weight martial weapon used for entangling strikes and flowing techniques. | 1 | Close/Near | Rare |
 | **Spear** | Essential weapon across Eastern cultures. Can be used as melee or ranged. | 1 | Close | Common |
+| **War Staff** | Flexible two-handed quarterstaff favored in martial arts training and combat. | 1 | Close | Common |
 
 ### Ranged Weapons
 
@@ -596,7 +595,7 @@ Roll or choose a Background to establish your character's history, origin, and t
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 3**
+**Table 1 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -701,7 +700,7 @@ Roll or choose a Personality Trait to define how your character behaves, reacts 
 | 99 | Nimble |
 | 100 | Noble |
 
-**Table 2 of 3**
+**Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -806,326 +805,11 @@ Roll or choose a Personality Trait to define how your character behaves, reacts 
 | 99 | Self Directed |
 | 100 | Stable |
 
-**Table 3 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Sect Trained |
-| 2 | Ritual Minded |
-| 3 | Code Bound |
-| 4 | Honor Guided |
-| 5 | Mountain Steady |
-| 6 | River Minded |
-| 7 | Lantern Calm |
-| 8 | Quietly Intense |
-| 9 | Storm Ready |
-| 10 | Inner Directed |
-| 11 | Breath Centered |
-| 12 | Form Obsessed |
-| 13 | Duel Hardened |
-| 14 | Mercy Guided |
-| 15 | Oath Driven |
-| 16 | Tradition Guarding |
-| 17 | Ancestor Mindful |
-| 18 | Clan Devoted |
-| 19 | Court Savvy |
-| 20 | Street Wise |
-| 21 | Tea House Patient |
-| 22 | Bamboo Flexible |
-| 23 | Iron Composed |
-| 24 | Silk Smooth |
-| 25 | Jade Hearted |
-| 26 | Spirit Attuned |
-| 27 | Moon Focused |
-| 28 | Dawn Rising |
-| 29 | Night Vigilant |
-| 30 | Heat Controlled |
-| 31 | Cold Focused |
-| 32 | Battle Reflective |
-| 33 | Principle Anchored |
-| 34 | Duty Anchored |
-| 35 | Purpose Led |
-| 36 | Conflict Averse |
-| 37 | Peace Inclined |
-| 38 | Justice Oriented |
-| 39 | Rule Testing |
-| 40 | Rank Respecting |
-| 41 | Truth Seeking |
-| 42 | Secret Keeping |
-| 43 | Honor Defending |
-| 44 | Family Centered |
-| 45 | Kin Protective |
-| 46 | Reputation Guarding |
-| 47 | Face Saving |
-| 48 | Forgiveness Learning |
-| 49 | Revenge Resisting |
-| 50 | Patience Cultivated |
-| 51 | Focus Drilled |
-| 52 | Discipline Forged |
-| 53 | Composure Built |
-| 54 | Resolve Tempered |
-| 55 | Will Refined |
-| 56 | Ego Restrained |
-| 57 | Pride Managed |
-| 58 | Fear Mastering |
-| 59 | Doubt Confronting |
-| 60 | Risk Calculating |
-| 61 | Opportunity Reading |
-| 62 | Intent Reading |
-| 63 | Gesture Reading |
-| 64 | Tempo Controlling |
-| 65 | Distance Aware |
-| 66 | Precision Seeking |
-| 67 | Technique First |
-| 68 | Practice Devoted |
-| 69 | Recovery Minded |
-| 70 | Sparring Respectful |
-| 71 | Learning Hungry |
-| 72 | Error Owning |
-| 73 | Critique Welcoming |
-| 74 | Improvement Driven |
-| 75 | Mastery Chasing |
-| 76 | Tradition Questioning |
-| 77 | Innovation Curious |
-| 78 | Wisdom Collecting |
-| 79 | Story Listening |
-| 80 | Silence Valuing |
-| 81 | Words Measuring |
-| 82 | Action Proving |
-| 83 | Promise Keeping |
-| 84 | Burden Carrying |
-| 85 | Sacrifice Ready |
-| 86 | Endurance Built |
-| 87 | Adversity Seasoned |
-| 88 | Setback Resistant |
-| 89 | Calm Returning |
-| 90 | Anger Reined |
-| 91 | Compassion Practiced |
-| 92 | Mercy Measured |
-| 93 | Authority Challenging |
-| 94 | Order Preserving |
-| 95 | Chaos Navigating |
-| 96 | Frontier Adapted |
-| 97 | Realm Aware |
-| 98 | Spirit Tested |
-| 99 | Legacy Conscious |
-| 100 | Destiny Defiant |
-
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 4**
-
-| d100 | Result |
-|------|--------|
-| 1 | Actions speak louder than words. |
-| 2 | Never give up. |
-| 3 | Trust no one. |
-| 4 | Trust your instincts. |
-| 5 | Hope for the best, prepare for the worst. |
-| 6 | Fortune favors the bold. |
-| 7 | Better safe than sorry. |
-| 8 | Live and let live. |
-| 9 | An eye for an eye. |
-| 10 | Do unto others... |
-| 11 | Every person for themselves. |
-| 12 | We're in this together. |
-| 13 | Know when to hold 'em, know when to fold 'em. |
-| 14 | Strike first, ask questions later. |
-| 15 | Look before you leap. |
-| 16 | Nothing ventured, nothing gained. |
-| 17 | Slow and steady wins the race. |
-| 18 | The ends justify the means. |
-| 19 | The road to hell is paved with good intentions. |
-| 20 | What doesn't kill you makes you stronger. |
-| 21 | Knowledge is power. |
-| 22 | Ignorance is bliss. |
-| 23 | The pen is mightier than the sword. |
-| 24 | Might makes right. |
-| 25 | Two wrongs don't make a right. |
-| 26 | There's no honor among thieves. |
-| 27 | A promise is a promise. |
-| 28 | Never look back. |
-| 29 | Learn from the past. |
-| 30 | Seize the day. |
-| 31 | Patience is a virtue. |
-| 32 | Good things come to those who wait. |
-| 33 | If you want something done right, do it yourself. |
-| 34 | United we stand, divided we fall. |
-| 35 | Keep your friends close and your enemies closer. |
-| 36 | Revenge is a dish best served cold. |
-| 37 | Forgive and forget. |
-| 38 | Never forgive, never forget. |
-| 39 | Blood is thicker than water. |
-| 40 | Family first. |
-| 41 | You can't choose your family. |
-| 42 | Home is where the heart is. |
-| 43 | There's no place like home. |
-| 44 | The truth will set you free. |
-| 45 | What they don't know won't hurt them. |
-| 46 | Honesty is the best policy. |
-| 47 | All's fair in love and war. |
-| 48 | Love conquers all. |
-| 49 | Better to have loved and lost... |
-| 50 | Pride goes before a fall. |
-| 51 | Humility is strength. |
-| 52 | Never show weakness. |
-| 53 | Stand your ground. |
-| 54 | Pick your battles. |
-| 55 | Discretion is the better part of valor. |
-| 56 | No sacrifice, no victory. |
-| 57 | The needs of the many outweigh the needs of the few. |
-| 58 | Look out for number one. |
-| 59 | Do no harm. |
-| 60 | Survival of the fittest. |
-| 61 | Adapt or die. |
-| 62 | Change is the only constant. |
-| 63 | This too shall pass. |
-| 64 | What goes around comes around. |
-| 65 | You reap what you sow. |
-| 66 | Life isn't fair. |
-| 67 | Make your own luck. |
-| 68 | Everything happens for a reason. |
-| 69 | There are no accidents. |
-| 70 | Expect the unexpected. |
-| 71 | Hope for the best. |
-| 72 | Prepare for the worst. |
-| 73 | Stay alert, stay alive. |
-| 74 | Never let them see you sweat. |
-| 75 | Keep calm and carry on. |
-| 76 | When in doubt, run. |
-| 77 | Stand and fight. |
-| 78 | Live to fight another day. |
-| 79 | Death before dishonor. |
-| 80 | Better dead than a coward. |
-| 81 | I didn't come this far to give up now. |
-| 82 | Whatever it takes. |
-| 83 | By any means necessary. |
-| 84 | The mission comes first. |
-| 85 | No one gets left behind. |
-| 86 | We finish this together. |
-| 87 | I work alone. |
-| 88 | Teamwork makes the dream work. |
-| 89 | If it ain't broke, don't fix it. |
-| 90 | There's always room for improvement. |
-| 91 | Practice makes perfect. |
-| 92 | Nobody's perfect. |
-| 93 | Done is better than perfect. |
-| 94 | Measure twice, cut once. |
-| 95 | Shoot first, ask questions later. |
-| 96 | Question everything. |
-| 97 | Follow orders. |
-| 98 | Rules are made to be broken. |
-| 99 | Play by the rules. |
-| 100 | Honor above all. |
-
-**Table 2 of 4**
-
-| d100 | Result |
-|------|--------|
-| 1 | Survival above all. |
-| 2 | Never tell me the odds. |
-| 3 | Trust the process. |
-| 4 | Embrace the chaos. |
-| 5 | Control what you can control. |
-| 6 | Let it go. |
-| 7 | Never surrender. |
-| 8 | Know when to quit. |
-| 9 | Quitters never win. |
-| 10 | Winning isn't everything. |
-| 11 | Second place is the first loser. |
-| 12 | It's not whether you win or lose, it's how you play the game. |
-| 13 | Play to win. |
-| 14 | The best defense is a good offense. |
-| 15 | An ounce of prevention is worth a pound of cure. |
-| 16 | Strike while the iron is hot. |
-| 17 | Good things come in small packages. |
-| 18 | Size doesn't matter. |
-| 19 | The bigger they are, the harder they fall. |
-| 20 | Speak softly and carry a big stick. |
-| 21 | Actions have consequences. |
-| 22 | No regrets. |
-| 23 | Learn from your mistakes. |
-| 24 | Don't cry over spilled milk. |
-| 25 | If at first you don't succeed, try, try again. |
-| 26 | Third time's the charm. |
-| 27 | Once bitten, twice shy. |
-| 28 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 29 | I've got no choice but to be strong. |
-| 30 | I've got too much blood on my hands to quit now. |
-| 31 | Keep moving. |
-| 32 | Lead by example. |
-| 33 | Choose your hard. |
-| 34 | Be useful. |
-| 35 | Stay curious. |
-| 36 | Small steps, every day. |
-| 37 | Progress over drama. |
-| 38 | Calm is a choice. |
-| 39 | Protect your peace. |
-| 40 | Win with consistency. |
-| 41 | Kind, not weak. |
-| 42 | Sharp mind, soft ego. |
-| 43 | Make it count. |
-| 44 | Less talk, more proof. |
-| 45 | Carry your own weight. |
-| 46 | Start before you're ready. |
-| 47 | Finish what you start. |
-| 48 | Grace under pressure. |
-| 49 | Stay teachable. |
-| 50 | Solve the problem in front of you. |
-| 51 | Do hard things well. |
-| 52 | No panic, just priorities. |
-| 53 | Respect is rented daily. |
-| 54 | Energy follows focus. |
-| 55 | Truth over comfort. |
-| 56 | Aim true. |
-| 57 | Own the outcome. |
-| 58 | Pressure reveals habits. |
-| 59 | Choose clarity. |
-| 60 | Keep promises to yourself. |
-| 61 | Courage with compassion. |
-| 62 | Stay dangerous, stay decent. |
-| 63 | Respond, don't react. |
-| 64 | Consistency beats intensity. |
-| 65 | Build, don't brag. |
-| 66 | Guard your time. |
-| 67 | Care enough to improve. |
-| 68 | Set the tone. |
-| 69 | Do less, better. |
-| 70 | Hard facts, open mind. |
-| 71 | Strong back, stronger character. |
-| 72 | Patience with purpose. |
-| 73 | When it matters, show up. |
-| 74 | Earn trust slowly. |
-| 75 | Leave it better. |
-| 76 | Cut the noise. |
-| 77 | Use what you have. |
-| 78 | Prepared is powerful. |
-| 79 | Adapt with intent. |
-| 80 | Keep your edge. |
-| 81 | Stay humble, stay hungry. |
-| 82 | Learn faster than the problem changes. |
-| 83 | Take the next right step. |
-| 84 | Discipline buys freedom. |
-| 85 | Clarity beats speed. |
-| 86 | Raise your standards quietly. |
-| 87 | No shortcuts worth taking. |
-| 88 | Protect the vulnerable. |
-| 89 | Be hard to shake. |
-| 90 | Think long, act now. |
-| 91 | Practice courage daily. |
-| 92 | Standards over moods. |
-| 93 | Simple is strong. |
-| 94 | Own your mistakes quickly. |
-| 95 | Speak less, listen deeper. |
-| 96 | Choose effort over excuses. |
-| 97 | Be where your feet are. |
-| 98 | Leave ego at the door. |
-| 99 | The right thing, especially then. |
-| 100 | Steady wins storms. |
-
-**Table 3 of 4**
+**Table 1 of 2**
 
 | d100 | Result |
 |------|--------|
@@ -1230,7 +914,7 @@ Roll or choose a Motto: a phrase your character lives by. Use it for inspiration
 | 99 | Practice courage at training speed first. |
 | 100 | Learn to flow before you try to dominate. |
 
-**Table 4 of 4**
+**Table 2 of 2**
 
 | d100 | Result |
 |------|--------|
