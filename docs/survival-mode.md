@@ -9,13 +9,316 @@ When the lights go out and the dread creeps in, you are forced to weigh the cost
 ## Table of Contents
 
 - [Core Rules](#core-rules)
+  - [Core Mechanics](#core-mechanics)
+    - [Stress & Fate](#stress-fate)
+    - [Doom](#doom)
+  - [Movement & Cover](#movement-cover)
+  - [Saves](#saves)
+  - [Conflict Scenes](#conflict-scenes)
+    - [Actions](#actions)
+    - [Reactions](#reactions)
+    - [Attacks](#attacks)
+  - [Conditions](#conditions)
 - [Character Creation](#character-creation)
 - [Abilities](#abilities)
+  - [Standard Abilities](#standard-abilities)
+    - [Combat Inclinations](#combat-inclinations)
+    - [Firearm Inclinations](#firearm-inclinations)
+    - [Stress Inclinations](#stress-inclinations)
+    - [Doom Inclinations](#doom-inclinations)
+    - [Knowledge Inclinations](#knowledge-inclinations)
+    - [Mental Inclinations](#mental-inclinations)
+    - [Physical Inclinations](#physical-inclinations)
+    - [Social Inclinations](#social-inclinations)
+    - [Stealth Inclinations](#stealth-inclinations)
+    - [Vehicle Inclinations](#vehicle-inclinations)
+    - [Wilderness Inclinations](#wilderness-inclinations)
+    - [Horror Inclinations](#horror-inclinations)
 - [Gear & Equipment](#gear-equipment)
+  - [Outfits](#outfits)
+  - [Firearms](#firearms)
+  - [Melee Weapons](#melee-weapons)
+  - [Explosives](#explosives)
+  - [Consumables](#consumables)
+  - [Equipment](#equipment)
+  - [Ammunition](#ammunition)
 - [Vehicles & Companions](#vehicles-companions)
+  - [Vehicles](#vehicles)
+  - [Vehicle Upgrades](#vehicle-upgrades)
+  - [Companions](#companions)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
+    - [Backgrounds](#backgrounds)
+      - [Table 1](#table-1)
+      - [Table 2](#table-2)
+      - [Table 3](#table-3)
+      - [Table 4](#table-4)
+      - [Table 5](#table-5)
+      - [Table 6](#table-6)
+    - [Personality Traits](#personality-traits)
+      - [Table 1](#table-1-1)
+      - [Table 2](#table-2-1)
+      - [Table 3](#table-3-1)
+      - [Table 4](#table-4-1)
+      - [Table 5](#table-5-1)
+      - [Table 6](#table-6-1)
+    - [Mottos](#mottos)
+      - [Table 1](#table-1-2)
+      - [Table 2](#table-2-2)
+      - [Table 3](#table-3-2)
+      - [Table 4](#table-4-2)
+      - [Table 5](#table-5-2)
+      - [Table 6](#table-6-2)
+    - [Secrets](#secrets)
+      - [Table 1](#table-1-3)
+      - [Table 2](#table-2-3)
+      - [Table 3](#table-3-3)
+      - [Table 4](#table-4-3)
+      - [Table 5](#table-5-3)
+      - [Table 6](#table-6-3)
   - [Names](#names)
+    - [Name Theme Chooser](#name-theme-chooser)
+    - [Brazilian Forenames / Given Names](#brazilian-forenames-given-names)
+      - [Table 1](#table-1-4)
+      - [Table 2](#table-2-4)
+      - [Table 3](#table-3-4)
+    - [Brazilian Surnames / Family Names](#brazilian-surnames-family-names)
+      - [Table 1](#table-1-5)
+      - [Table 2](#table-2-5)
+      - [Table 3](#table-3-5)
+    - [Central Asian Forenames / Given Names](#central-asian-forenames-given-names)
+      - [Table 1](#table-1-6)
+      - [Table 2](#table-2-6)
+      - [Table 3](#table-3-6)
+    - [Central Asian Surnames / Family Names](#central-asian-surnames-family-names)
+      - [Table 1](#table-1-7)
+      - [Table 2](#table-2-7)
+      - [Table 3](#table-3-7)
+    - [Chinese Forenames / Given Names](#chinese-forenames-given-names)
+      - [Table 1](#table-1-8)
+      - [Table 2](#table-2-8)
+      - [Table 3](#table-3-8)
+    - [Chinese Surnames / Family Names](#chinese-surnames-family-names)
+      - [Table 1](#table-1-9)
+      - [Table 2](#table-2-9)
+      - [Table 3](#table-3-9)
+    - [Dutch (18th Century to Modern) Forenames / Given Names](#dutch-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-10)
+      - [Table 2](#table-2-10)
+      - [Table 3](#table-3-10)
+    - [Dutch (18th Century to Modern) Surnames / Family Names](#dutch-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-11)
+      - [Table 2](#table-2-11)
+      - [Table 3](#table-3-11)
+    - [East African Forenames / Given Names](#east-african-forenames-given-names)
+      - [Table 1](#table-1-12)
+      - [Table 2](#table-2-12)
+      - [Table 3](#table-3-12)
+    - [East African Surnames / Family Names](#east-african-surnames-family-names)
+      - [Table 1](#table-1-13)
+      - [Table 2](#table-2-13)
+      - [Table 3](#table-3-13)
+    - [English (18th Century to Modern) Forenames / Given Names](#english-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-14)
+      - [Table 2](#table-2-14)
+      - [Table 3](#table-3-14)
+    - [English (18th Century to Modern) Surnames / Family Names](#english-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-15)
+      - [Table 2](#table-2-15)
+      - [Table 3](#table-3-15)
+    - [French (18th Century to Modern) Forenames / Given Names](#french-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-16)
+      - [Table 2](#table-2-16)
+      - [Table 3](#table-3-16)
+    - [French (18th Century to Modern) Surnames / Family Names](#french-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-17)
+      - [Table 2](#table-2-17)
+      - [Table 3](#table-3-17)
+    - [German Forenames / Given Names](#german-forenames-given-names)
+      - [Table 1](#table-1-18)
+      - [Table 2](#table-2-18)
+      - [Table 3](#table-3-18)
+    - [German Surnames / Family Names](#german-surnames-family-names)
+      - [Table 1](#table-1-19)
+      - [Table 2](#table-2-19)
+      - [Table 3](#table-3-19)
+    - [Indian Forenames / Given Names](#indian-forenames-given-names)
+      - [Table 1](#table-1-20)
+      - [Table 2](#table-2-20)
+      - [Table 3](#table-3-20)
+    - [Indian Surnames / Family Names](#indian-surnames-family-names)
+      - [Table 1](#table-1-21)
+      - [Table 2](#table-2-21)
+      - [Table 3](#table-3-21)
+    - [Irish (18th Century to Modern) Forenames / Given Names](#irish-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-22)
+      - [Table 2](#table-2-22)
+      - [Table 3](#table-3-22)
+    - [Irish (18th Century to Modern) Surnames / Family Names](#irish-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-23)
+      - [Table 2](#table-2-23)
+      - [Table 3](#table-3-23)
+    - [Italian (18th Century to Modern) Forenames / Given Names](#italian-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-24)
+      - [Table 2](#table-2-24)
+      - [Table 3](#table-3-24)
+    - [Italian (18th Century to Modern) Surnames / Family Names](#italian-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-25)
+      - [Table 2](#table-2-25)
+      - [Table 3](#table-3-25)
+    - [Japanese Forenames / Given Names](#japanese-forenames-given-names)
+      - [Table 1](#table-1-26)
+      - [Table 2](#table-2-26)
+      - [Table 3](#table-3-26)
+    - [Japanese Surnames / Family Names](#japanese-surnames-family-names)
+      - [Table 1](#table-1-27)
+      - [Table 2](#table-2-27)
+      - [Table 3](#table-3-27)
+    - [Korean Forenames / Given Names](#korean-forenames-given-names)
+      - [Table 1](#table-1-28)
+      - [Table 2](#table-2-28)
+      - [Table 3](#table-3-28)
+    - [Korean Surnames / Family Names](#korean-surnames-family-names)
+      - [Table 1](#table-1-29)
+      - [Table 2](#table-2-29)
+      - [Table 3](#table-3-29)
+    - [Middle Eastern Forenames / Given Names](#middle-eastern-forenames-given-names)
+      - [Table 1](#table-1-30)
+      - [Table 2](#table-2-30)
+      - [Table 3](#table-3-30)
+    - [Middle Eastern Surnames / Family Names](#middle-eastern-surnames-family-names)
+      - [Table 1](#table-1-31)
+      - [Table 2](#table-2-31)
+      - [Table 3](#table-3-31)
+    - [Nicknames Names](#nicknames-names)
+      - [Table 1](#table-1-32)
+      - [Table 2](#table-2-32)
+      - [Table 3](#table-3-32)
+      - [Table 4](#table-4-4)
+      - [Table 5](#table-5-4)
+      - [Table 6](#table-6-4)
+      - [Table 7](#table-7)
+      - [Table 8](#table-8)
+      - [Table 9](#table-9)
+      - [Table 10](#table-10)
+      - [Table 11](#table-11)
+      - [Table 12](#table-12)
+      - [Table 13](#table-13)
+      - [Table 14](#table-14)
+      - [Table 15](#table-15)
+      - [Table 16](#table-16)
+      - [Table 17](#table-17)
+      - [Table 18](#table-18)
+    - [North African Forenames / Given Names](#north-african-forenames-given-names)
+      - [Table 1](#table-1-33)
+      - [Table 2](#table-2-33)
+      - [Table 3](#table-3-33)
+    - [North African Surnames / Family Names](#north-african-surnames-family-names)
+      - [Table 1](#table-1-34)
+      - [Table 2](#table-2-34)
+      - [Table 3](#table-3-34)
+    - [North American (Modern) Forenames / Given Names](#north-american-modern-forenames-given-names)
+      - [Table 1](#table-1-35)
+      - [Table 2](#table-2-35)
+      - [Table 3](#table-3-35)
+    - [North American (Modern) Surnames / Family Names](#north-american-modern-surnames-family-names)
+      - [Table 1](#table-1-36)
+      - [Table 2](#table-2-36)
+      - [Table 3](#table-3-36)
+    - [Oceania (Polynesian, Melanesian, & Micronesian) Forenames / Given Names](#oceania-polynesian-melanesian-micronesian-forenames-given-names)
+      - [Table 1](#table-1-37)
+      - [Table 2](#table-2-37)
+      - [Table 3](#table-3-37)
+    - [Oceania (Polynesian, Melanesian, & Micronesian) Surnames / Family Names](#oceania-polynesian-melanesian-micronesian-surnames-family-names)
+      - [Table 1](#table-1-38)
+      - [Table 2](#table-2-38)
+      - [Table 3](#table-3-38)
+    - [Polish Forenames / Given Names](#polish-forenames-given-names)
+      - [Table 1](#table-1-39)
+      - [Table 2](#table-2-39)
+      - [Table 3](#table-3-39)
+    - [Polish Surnames / Family Names](#polish-surnames-family-names)
+      - [Table 1](#table-1-40)
+      - [Table 2](#table-2-40)
+      - [Table 3](#table-3-40)
+    - [Pulp Names Forenames / Given Names](#pulp-names-forenames-given-names)
+      - [Table 1](#table-1-41)
+      - [Table 2](#table-2-41)
+      - [Table 3](#table-3-41)
+      - [Table 4](#table-4-5)
+      - [Table 5](#table-5-5)
+      - [Table 6](#table-6-5)
+    - [Pulp Names Surnames / Family Names](#pulp-names-surnames-family-names)
+      - [Table 1](#table-1-42)
+      - [Table 2](#table-2-42)
+      - [Table 3](#table-3-42)
+      - [Table 4](#table-4-6)
+      - [Table 5](#table-5-6)
+      - [Table 6](#table-6-6)
+    - [Russian Forenames / Given Names](#russian-forenames-given-names)
+      - [Table 1](#table-1-43)
+      - [Table 2](#table-2-43)
+      - [Table 3](#table-3-43)
+    - [Russian Surnames / Family Names](#russian-surnames-family-names)
+      - [Table 1](#table-1-44)
+      - [Table 2](#table-2-44)
+      - [Table 3](#table-3-44)
+    - [Scandinavian (18th Century to Modern) Forenames / Given Names](#scandinavian-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-45)
+      - [Table 2](#table-2-45)
+      - [Table 3](#table-3-45)
+    - [Scandinavian (18th Century to Modern) Surnames / Family Names](#scandinavian-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-46)
+      - [Table 2](#table-2-46)
+      - [Table 3](#table-3-46)
+    - [Scottish (18th Century to Modern) Forenames / Given Names](#scottish-18th-century-to-modern-forenames-given-names)
+      - [Table 1](#table-1-47)
+      - [Table 2](#table-2-47)
+      - [Table 3](#table-3-47)
+    - [Scottish (18th Century to Modern) Surnames / Family Names](#scottish-18th-century-to-modern-surnames-family-names)
+      - [Table 1](#table-1-48)
+      - [Table 2](#table-2-48)
+      - [Table 3](#table-3-48)
+    - [South African Forenames / Given Names](#south-african-forenames-given-names)
+      - [Table 1](#table-1-49)
+      - [Table 2](#table-2-49)
+      - [Table 3](#table-3-49)
+    - [South African Surnames / Family Names](#south-african-surnames-family-names)
+      - [Table 1](#table-1-50)
+      - [Table 2](#table-2-50)
+      - [Table 3](#table-3-50)
+    - [South East Asian Forenames / Given Names](#south-east-asian-forenames-given-names)
+      - [Table 1](#table-1-51)
+      - [Table 2](#table-2-51)
+      - [Table 3](#table-3-51)
+    - [South East Asian Surnames / Family Names](#south-east-asian-surnames-family-names)
+      - [Table 1](#table-1-52)
+      - [Table 2](#table-2-52)
+      - [Table 3](#table-3-52)
+    - [Spanish Forenames / Given Names](#spanish-forenames-given-names)
+      - [Table 1](#table-1-53)
+      - [Table 2](#table-2-53)
+      - [Table 3](#table-3-53)
+    - [Spanish Surnames / Family Names](#spanish-surnames-family-names)
+      - [Table 1](#table-1-54)
+      - [Table 2](#table-2-54)
+      - [Table 3](#table-3-54)
+    - [Welsh Forenames / Given Names](#welsh-forenames-given-names)
+      - [Table 1](#table-1-55)
+      - [Table 2](#table-2-55)
+      - [Table 3](#table-3-55)
+    - [Welsh Surnames / Family Names](#welsh-surnames-family-names)
+      - [Table 1](#table-1-56)
+      - [Table 2](#table-2-56)
+      - [Table 3](#table-3-56)
+    - [West African Forenames / Given Names](#west-african-forenames-given-names)
+      - [Table 1](#table-1-57)
+      - [Table 2](#table-2-57)
+      - [Table 3](#table-3-57)
+    - [West African Surnames / Family Names](#west-african-surnames-family-names)
+      - [Table 1](#table-1-58)
+      - [Table 2](#table-2-58)
+      - [Table 3](#table-3-58)
 
 ## Core Rules
 
@@ -33,8 +336,8 @@ You start with no *Stress* and a *Fate* per session. You can *take Stress* to ad
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
-### Taking Cover
-Being in/behind cover increases attacker *To-Hit* by cover grade: **Light +1:** foliage, furniture, low walls. **Medium +2:** barricades, building edges. **Heavy +3:** concrete, metal fortifications. Effects that explicitly ignore cover (for example explosives, fire, gas) bypass cover.
+
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -480,4561 +783,2576 @@ Choose **4 items** during character creation. Outfits double as armour and provi
 
 ## Aspects
 
-Aspects define who your character is beyond raw stats. Choose one from each category, or use the d100 tables to roll randomly.
+Aspects define who your character is beyond raw stats. Choose one from each category, or use the d6 tables to roll randomly.
 
 ### Backgrounds
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Police Officer |
-| 2 | War Veteran |
-| 3 | Investigative Journalist |
-| 4 | Resourceful Scavenger |
-| 5 | Paranoid Prepper |
-| 6 | Outdoorsman |
-| 7 | Survivalist |
-| 8 | Electronics Expert |
-| 9 | Experienced Hunter |
-| 10 | Lab Technician |
-| 11 | Pharmacist |
-| 12 | Paramedic |
-| 13 | Medical Professional |
-| 14 | Doctor |
-| 15 | Nurse |
-| 16 | Dentist |
-| 17 | Veterinarian |
-| 18 | Firefighter |
-| 19 | Park Ranger |
-| 20 | Fisherman |
-| 21 | Trapper |
-| 22 | Carpenter |
-| 23 | Construction Worker |
-| 24 | Mechanic |
-| 25 | Electrician |
-| 26 | Welder |
-| 27 | Plumber |
-| 28 | Handyman |
-| 29 | Systems Administrator |
-| 30 | Software Engineer |
-| 31 | Content Creator |
-| 32 | Photographer |
-| 33 | Museum Curator |
-| 34 | Professor |
-| 35 | Social Worker |
-| 36 | Therapist |
-| 37 | Paralegal |
-| 38 | Bookkeeper |
-| 39 | Accountant |
-| 40 | Property Manager |
-| 41 | Real Estate Agent |
-| 42 | Warehouse Worker |
-| 43 | Factory Worker |
-| 44 | Forklift Operator |
-| 45 | Assembler |
-| 46 | Truck Driver |
-| 47 | Bus Driver |
-| 48 | Postal Worker |
-| 49 | Taxi Driver |
-| 50 | Boat Captain |
-| 51 | Pilot |
-| 52 | Janitor |
-| 53 | Sanitation Worker |
-| 54 | Security Guard |
-| 55 | Bouncer |
-| 56 | Private Investigator |
-| 57 | Bartender |
-| 58 | Chef |
-| 59 | Restaurant Manager |
-| 60 | Retail Worker |
-| 61 | Cashier |
-| 62 | Server |
-| 63 | Barista |
-| 64 | Childcare Worker |
-| 65 | Beautician |
-| 66 | Hairdresser |
-| 67 | Coach |
-| 68 | Personal Trainer |
-| 69 | Professional Athlete |
-| 70 | Referee |
-| 71 | Infantry Soldier |
-| 72 | Combat Engineer |
-| 73 | Sniper |
-| 74 | Demolitions Specialist |
-| 75 | Logistics Officer |
-| 76 | Military Intelligence Analyst |
-| 77 | Military Police |
-| 78 | Drone Operator |
-| 79 | Special Forces |
-| 80 | Esports Pro |
-| 81 | Social Media Influencer |
-| 82 | Video Essayist |
-| 83 | Streamer |
-| 84 | Amateur Radio Operator |
-| 85 | Urban Explorer |
-| 86 | Crime Scene Analyst |
-| 87 | City Planner |
-| 88 | Civil Engineer |
-| 89 | Technician |
-| 90 | Locksmith |
-| 91 | Glazier |
-| 92 | Roofer |
-| 93 | Surveyor |
-| 94 | Geologist |
-| 95 | Chemist |
-| 96 | Biologist |
-| 97 | Data Analyst |
-| 98 | UX Designer |
-| 99 | Graphic Designer |
-| 100 | Animator |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Police Officer | War Veteran | Investigative Journalist | Resourceful Scavenger | Paranoid Prepper | Outdoorsman |
+| 2 | Survivalist | Electronics Expert | Experienced Hunter | Lab Technician | Pharmacist | Paramedic |
+| 3 | Medical Professional | Doctor | Nurse | Dentist | Veterinarian | Firefighter |
+| 4 | Park Ranger | Fisherman | Trapper | Carpenter | Construction Worker | Mechanic |
+| 5 | Electrician | Welder | Plumber | Handyman | Systems Administrator | Software Engineer |
+| 6 | Content Creator | Photographer | Museum Curator | Professor | Social Worker | Therapist |
 
-| d100 | Result |
-|------|--------|
-| 1 | Sound Engineer |
-| 2 | Event Planner |
-| 3 | Publicist |
-| 4 | Copywriter |
-| 5 | Technical Writer |
-| 6 | Translator |
-| 7 | Interpreter |
-| 8 | Claims Adjuster |
-| 9 | Insurance Underwriter |
-| 10 | Loan Officer |
-| 11 | Banker |
-| 12 | Financial Advisor |
-| 13 | Investment Analyst |
-| 14 | Procurement Officer |
-| 15 | Supply Chain Planner |
-| 16 | Compliance Officer |
-| 17 | Quality Inspector |
-| 18 | Risk Analyst |
-| 19 | Customer Support Agent |
-| 20 | Travel Agent |
-| 21 | Flight Attendant |
-| 22 | Train Conductor |
-| 23 | Subway Operator |
-| 24 | Crane Operator |
-| 25 | Lifeguard |
-| 26 | Recreation Coordinator |
-| 27 | Youth Counselor |
-| 28 | Guidance Counselor |
-| 29 | Dietitian |
-| 30 | Occupational Therapist |
-| 31 | Physical Therapist |
-| 32 | Radiology Technician |
-| 33 | Optician |
-| 34 | Funeral Director |
-| 35 | Mortician |
-| 36 | Wedding Planner |
-| 37 | Tailor |
-| 38 | Seamstress |
-| 39 | Jewelry Appraiser |
-| 40 | Pawn Broker |
-| 41 | Auctioneer |
-| 42 | Print Shop Operator |
-| 43 | Press Operator |
-| 44 | Court Reporter |
-| 45 | Notary Public |
-| 46 | Records Clerk |
-| 47 | Security Analyst |
-| 48 | Forensic Accountant |
-| 49 | Solar Panel Installer |
-| 50 | Biomedical Engineer |
-| 51 | Ethical Hacker |
-| 52 | Beekeeper |
-| 53 | Crisis Negotiator |
-| 54 | Consultant |
-| 55 | CEO |
-| 56 | Bicycle Courier |
-| 57 | Waste Management |
-| 58 | Dog Trainer |
-| 59 | Aviation Mechanic |
-| 60 | Au Pair |
-| 61 | Public Health Official |
-| 62 | Podcaster |
-| 63 | App Developer |
-| 64 | Cybersecurity Specialist |
-| 65 | AI Researcher |
-| 66 | Gig Worker |
-| 67 | Digital Nomad |
-| 68 | Virtual Assistant |
-| 69 | Stock Trader |
-| 70 | Professional Poker Player |
-| 71 | Bodyguard |
-| 72 | Intelligence Officer |
-| 73 | Diplomat |
-| 74 | Lobbyist |
-| 75 | Politician |
-| 76 | Stay-at-Home Parent |
-| 77 | Waster |
-| 78 | Trust Fund Kid |
-| 79 | Retired |
-| 80 | University Student |
-| 81 | Unemployed |
-| 82 | Ex-Convict |
-| 83 | Freelance Artist |
-| 84 | Yoga Instructor |
-| 85 | Landscaper |
-| 86 | Clergy |
-| 87 | Librarian |
-| 88 | Archivist |
-| 89 | School Teacher |
-| 90 | Butcher |
-| 91 | Baker |
-| 92 | Makeup Artist |
-| 93 | Interior Designer |
-| 94 | Pest Control |
-| 95 | Valet |
-| 96 | Concierge |
-| 97 | Professional Organizer |
-| 98 | Voice Actor |
-| 99 | Stagehand |
-| 100 | Sound Technician |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Paralegal | Bookkeeper | Accountant | Property Manager | Real Estate Agent | Warehouse Worker |
+| 2 | Factory Worker | Forklift Operator | Assembler | Truck Driver | Bus Driver | Postal Worker |
+| 3 | Taxi Driver | Boat Captain | Pilot | Janitor | Sanitation Worker | Security Guard |
+| 4 | Bouncer | Private Investigator | Bartender | Chef | Restaurant Manager | Retail Worker |
+| 5 | Cashier | Server | Barista | Childcare Worker | Beautician | Hairdresser |
+| 6 | Coach | Personal Trainer | Professional Athlete | Referee | Infantry Soldier | Combat Engineer |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Sniper | Demolitions Specialist | Logistics Officer | Military Intelligence Analyst | Military Police | Drone Operator |
+| 2 | Special Forces | Esports Pro | Social Media Influencer | Video Essayist | Streamer | Amateur Radio Operator |
+| 3 | Urban Explorer | Crime Scene Analyst | City Planner | Civil Engineer | Technician | Locksmith |
+| 4 | Glazier | Roofer | Surveyor | Geologist | Chemist | Biologist |
+| 5 | Data Analyst | UX Designer | Graphic Designer | Animator | Sound Engineer | Event Planner |
+| 6 | Publicist | Copywriter | Technical Writer | Translator | Interpreter | Claims Adjuster |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Insurance Underwriter | Loan Officer | Banker | Financial Advisor | Investment Analyst | Procurement Officer |
+| 2 | Supply Chain Planner | Compliance Officer | Quality Inspector | Risk Analyst | Customer Support Agent | Travel Agent |
+| 3 | Flight Attendant | Train Conductor | Subway Operator | Crane Operator | Lifeguard | Recreation Coordinator |
+| 4 | Youth Counselor | Guidance Counselor | Dietitian | Occupational Therapist | Physical Therapist | Radiology Technician |
+| 5 | Optician | Funeral Director | Mortician | Wedding Planner | Tailor | Seamstress |
+| 6 | Jewelry Appraiser | Pawn Broker | Auctioneer | Print Shop Operator | Press Operator | Court Reporter |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Notary Public | Records Clerk | Security Analyst | Forensic Accountant | Solar Panel Installer | Biomedical Engineer |
+| 2 | Ethical Hacker | Beekeeper | Crisis Negotiator | Consultant | CEO | Bicycle Courier |
+| 3 | Waste Management | Dog Trainer | Aviation Mechanic | Au Pair | Public Health Official | Podcaster |
+| 4 | App Developer | Cybersecurity Specialist | AI Researcher | Gig Worker | Digital Nomad | Virtual Assistant |
+| 5 | Stock Trader | Professional Poker Player | Bodyguard | Intelligence Officer | Diplomat | Lobbyist |
+| 6 | Politician | Stay-at-Home Parent | Waster | Trust Fund Kid | Retired | University Student |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Unemployed | Ex-Convict | Freelance Artist | Yoga Instructor | Landscaper | Clergy |
+| 2 | Librarian | Archivist | School Teacher | Butcher | Baker | Makeup Artist |
+| 3 | Interior Designer | Pest Control | Valet | Concierge | Professional Organizer | Voice Actor |
+| 4 | Stagehand | Sound Technician | Building Inspector | Case Manager | Crime Scene Cleaner | Delivery Dispatcher |
+| 5 | Disaster Relief Volunteer | Family Mediator | Fleet Manager | Food Truck Owner | Grant Writer | Receptionist |
+| 6 | School Counselor | Transit Operator | Union Steward | Wastewater Technician | - | - |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Adaptable |
-| 2 | Affable |
-| 3 | Alert |
-| 4 | Ambitious |
-| 5 | Analytical |
-| 6 | Anchored |
-| 7 | Appreciative |
-| 8 | Articulate |
-| 9 | Assertive |
-| 10 | Attentive |
-| 11 | Balanced |
-| 12 | Benevolent |
-| 13 | Bold |
-| 14 | Brave |
-| 15 | Calm |
-| 16 | Candid |
-| 17 | Capable |
-| 18 | Careful |
-| 19 | Caring |
-| 20 | Centered |
-| 21 | Charismatic |
-| 22 | Cheerful |
-| 23 | Civic Minded |
-| 24 | Clear Eyed |
-| 25 | Clear Spoken |
-| 26 | Clever |
-| 27 | Compassionate |
-| 28 | Composed |
-| 29 | Confident |
-| 30 | Conscientious |
-| 31 | Consistent |
-| 32 | Constructive |
-| 33 | Courageous |
-| 34 | Courteous |
-| 35 | Creative |
-| 36 | Credible |
-| 37 | Curious |
-| 38 | Daring |
-| 39 | Decisive |
-| 40 | Dedicated |
-| 41 | Dependable |
-| 42 | Diplomatic |
-| 43 | Direct |
-| 44 | Disciplined |
-| 45 | Discerning |
-| 46 | Driven |
-| 47 | Earnest |
-| 48 | Easygoing |
-| 49 | Eloquent |
-| 50 | Empathetic |
-| 51 | Energetic |
-| 52 | Engaged |
-| 53 | Equitable |
-| 54 | Ethical |
-| 55 | Even Tempered |
-| 56 | Fair |
-| 57 | Faithful |
-| 58 | Fearless |
-| 59 | Flexible |
-| 60 | Focused |
-| 61 | Forgiving |
-| 62 | Forthright |
-| 63 | Friendly |
-| 64 | Gallant |
-| 65 | Generous |
-| 66 | Gentle |
-| 67 | Genuine |
-| 68 | Graceful |
-| 69 | Gracious |
-| 70 | Grounded |
-| 71 | Hardy |
-| 72 | Helpful |
-| 73 | Honest |
-| 74 | Honorable |
-| 75 | Humble |
-| 76 | Humorous |
-| 77 | Idealistic |
-| 78 | Imaginative |
-| 79 | Impartial |
-| 80 | Independent |
-| 81 | Industrious |
-| 82 | Insightful |
-| 83 | Intentional |
-| 84 | Intuitive |
-| 85 | Inventive |
-| 86 | Jovial |
-| 87 | Judicious |
-| 88 | Keen |
-| 89 | Kind |
-| 90 | Level Headed |
-| 91 | Logical |
-| 92 | Loyal |
-| 93 | Measured |
-| 94 | Methodical |
-| 95 | Meticulous |
-| 96 | Mindful |
-| 97 | Modest |
-| 98 | Motivated |
-| 99 | Nimble |
-| 100 | Noble |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adaptable | Accommodating | Affable | Alert | Ambitious | Analytical |
+| 2 | Anchored | Appreciative | Articulate | Assertive | Attentive | Balanced |
+| 3 | Benevolent | Big Hearted | Bold | Brave | Calm | Candid |
+| 4 | Capable | Careful | Caring | Centered | Charismatic | Cheerful |
+| 5 | Civic Minded | Clear Eyed | Clear Spoken | Clever | Compassionate | Composed |
+| 6 | Confident | Conscientious | Consistent | Constructive | Courageous | Courteous |
 
-| d100 | Result |
-|------|--------|
-| 1 | Observant |
-| 2 | Open Minded |
-| 3 | Optimistic |
-| 4 | Orderly |
-| 5 | Organized |
-| 6 | Original |
-| 7 | Patient |
-| 8 | Perceptive |
-| 9 | Persistent |
-| 10 | Persuasive |
-| 11 | Playful |
-| 12 | Poised |
-| 13 | Polished |
-| 14 | Practical |
-| 15 | Pragmatic |
-| 16 | Precise |
-| 17 | Principled |
-| 18 | Proactive |
-| 19 | Protective |
-| 20 | Prudent |
-| 21 | Quick Witted |
-| 22 | Rational |
-| 23 | Realistic |
-| 24 | Reflective |
-| 25 | Reliable |
-| 26 | Resilient |
-| 27 | Resolute |
-| 28 | Resourceful |
-| 29 | Respectful |
-| 30 | Responsible |
-| 31 | Self Aware |
-| 32 | Self Controlled |
-| 33 | Selfless |
-| 34 | Sensible |
-| 35 | Serene |
-| 36 | Sharp |
-| 37 | Sincere |
-| 38 | Sociable |
-| 39 | Solid |
-| 40 | Steadfast |
-| 41 | Strategic |
-| 42 | Studious |
-| 43 | Subtle |
-| 44 | Supportive |
-| 45 | Tactful |
-| 46 | Tenacious |
-| 47 | Thoughtful |
-| 48 | Tolerant |
-| 49 | Trustworthy |
-| 50 | Unassuming |
-| 51 | Understanding |
-| 52 | Uplifting |
-| 53 | Valiant |
-| 54 | Vigilant |
-| 55 | Warm |
-| 56 | Welcoming |
-| 57 | Wholehearted |
-| 58 | Wise |
-| 59 | Witty |
-| 60 | Worldly |
-| 61 | Zealous |
-| 62 | Agreeable |
-| 63 | Astute |
-| 64 | Compliant |
-| 65 | Dutiful |
-| 66 | Frank |
-| 67 | Good Natured |
-| 68 | High Spirited |
-| 69 | Hopeful |
-| 70 | Impassioned |
-| 71 | Influential |
-| 72 | Inquisitive |
-| 73 | Lively |
-| 74 | Merciful |
-| 75 | Merry |
-| 76 | Objective |
-| 77 | Outgoing |
-| 78 | Pensive |
-| 79 | Quietly Confident |
-| 80 | Receptive |
-| 81 | Reserved |
-| 82 | Self Reliant |
-| 83 | Steady |
-| 84 | Tidy |
-| 85 | Unflappable |
-| 86 | Versatile |
-| 87 | Watchful |
-| 88 | Well Mannered |
-| 89 | Willful |
-| 90 | Worthy |
-| 91 | Considerate |
-| 92 | Convivial |
-| 93 | Dispassionate |
-| 94 | Down To Earth |
-| 95 | Evenhanded |
-| 96 | Hospitable |
-| 97 | Nonreactive |
-| 98 | Openhearted |
-| 99 | Self Directed |
-| 100 | Stable |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creative | Credible | Curious | Daring | Decisive | Dedicated |
+| 2 | Dependable | Diplomatic | Direct | Disciplined | Discerning | Driven |
+| 3 | Earnest | Easygoing | Eloquent | Empathetic | Energetic | Engaged |
+| 4 | Equitable | Ethical | Even Keeled | Even Tempered | Fair | Faithful |
+| 5 | Fearless | Flexible | Focused | Forgiving | Forthright | Friendly |
+| 6 | Gallant | Generous | Gentle | Genuine | Graceful | Gracious |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grounded | Hardy | Helpful | Honest | Honorable | Humble |
+| 2 | Humorous | Idealistic | Imaginative | Impartial | Independent | Industrious |
+| 3 | Insightful | Intentional | Intuitive | Inventive | Jovial | Judicious |
+| 4 | Keen | Kind | Level Headed | Logical | Loyal | Measured |
+| 5 | Methodical | Meticulous | Mindful | Modest | Motivated | Nimble |
+| 6 | Noble | Observant | Open Minded | Optimistic | Orderly | Organized |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Original | Patient | Perceptive | Persistent | Persuasive | Playful |
+| 2 | Poised | Polished | Practical | Pragmatic | Precise | Principled |
+| 3 | Proactive | Protective | Prudent | Quick Witted | Rational | Realistic |
+| 4 | Reflective | Reliable | Resilient | Resolute | Resourceful | Respectful |
+| 5 | Responsible | Self Aware | Self Controlled | Selfless | Sensible | Serene |
+| 6 | Sharp | Sincere | Sociable | Solid | Steadfast | Strategic |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Studious | Subtle | Supportive | Tactful | Tenacious | Thoughtful |
+| 2 | Tolerant | Trustworthy | Unassuming | Understanding | Uplifting | Valiant |
+| 3 | Vigilant | Warm | Welcoming | Wholehearted | Wise | Witty |
+| 4 | Worldly | Zealous | Agreeable | Astute | Compliant | Dutiful |
+| 5 | Frank | Good Humored | Good Natured | High Spirited | Hopeful | Impassioned |
+| 6 | Influential | Inquisitive | Lively | Merciful | Merry | Objective |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outgoing | Pensive | Quietly Confident | Receptive | Reserved | Self Reliant |
+| 2 | Steady | Tidy | Unflappable | Versatile | Watchful | Well Mannered |
+| 3 | Willful | Worthy | Considerate | Convivial | Dispassionate | Down To Earth |
+| 4 | Evenhanded | Hospitable | Nonreactive | Openhearted | Self Directed | Stable |
+| 5 | Cooperative | Deliberate | Devoted | Farsighted | Neighborly | Reasonable |
+| 6 | Reassuring | Self Possessed | Soft Spoken | Stalwart | Tender Hearted | Visionary |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Assume everything is hostile. |
-| 2 | Whatever you do, don't split up! |
-| 3 | Noise is never just noise. |
-| 4 | We're all going to die here. |
-| 5 | Run first, ask questions later. |
-| 6 | I'll be right back. |
-| 7 | Famous last words. |
-| 8 | Something's not right here... |
-| 9 | Expect the impossible. |
-| 10 | Stay in the light! |
-| 11 | Don't go in there! |
-| 12 | We need to stick together. |
-| 13 | History repeats itself in blood. |
-| 14 | When in doubt, burn it all down. |
-| 15 | If we die, we die fighting. |
-| 16 | No one survives by being the hero. |
-| 17 | The quiet ones always die first. |
-| 18 | Safety is an illusion. |
-| 19 | This place was never meant for us. |
-| 20 | What could possibly go wrong? |
-| 21 | We're not safe anywhere. |
-| 22 | I don't want to die like this! |
-| 23 | Every shadow could be our last. |
-| 24 | We can't outrun the inevitable forever. |
-| 25 | Keep moving or keep dying. |
-| 26 | Survival isn't heroic, it's desperate. |
-| 27 | Fear is a luxury I've already spent. |
-| 28 | In darkness, we are all equally damned. |
-| 29 | What watches us from the shadows? |
-| 30 | Some secrets are meant to stay buried. |
-| 31 | I have a bad feeling about this... |
-| 32 | What we don't know can kill us. |
-| 33 | Reality is just a thin veil. |
-| 34 | Madness whispers from the void. |
-| 35 | The only way out is deeper in. |
-| 36 | This ends in blood. It always does. |
-| 37 | Trust no one. Not even yourself. |
-| 38 | In the dark, we are not alone. |
-| 39 | Sanity is the luxury of the ignorant. |
-| 40 | No one survives what's coming. |
-| 41 | Our fate was sealed long ago. |
-| 42 | Scream all you like. No one will hear you. |
-| 43 | Never be the first to open a door. |
-| 44 | The night never ends. |
-| 45 | In the end, all things hunger. |
-| 46 | Oblivion whispers my name. |
-| 47 | What dreams in the abyss? |
-| 48 | Stay close or die alone. |
-| 49 | The deeper you go, the worse it gets. |
-| 50 | We should have left when we had the chance. |
-| 51 | Some knowledge costs you your mind. |
-| 52 | Help never comes. Isolation is absolute. |
-| 53 | Fear is just information. |
-| 54 | We're the monsters now. |
-| 55 | Death would be a mercy compared to this. |
-| 56 | Nothing is ever truly over. |
-| 57 | The dead are never really gone. |
-| 58 | Escape routes close one by one. |
-| 59 | Meeting yourself is a death sentence. |
-| 60 | The past is never innocent. |
-| 61 | Humanity is just a costume. |
-| 62 | Laughter in the dark is a warning. |
-| 63 | The cure is worse than the disease. |
-| 64 | Expect no mercy, give none. |
-| 65 | Some truths shatter sanity. |
-| 66 | Death is just a disguise. |
-| 67 | The warnings we ignore are the deadliest. |
-| 68 | Civilization ends where the light does. |
-| 69 | Words spoken can't be unspoken. |
-| 70 | Blood always finds its way back. |
-| 71 | Empty places breed monsters. |
-| 72 | Hope is for people who aren't paying attention. |
-| 73 | Nature remembers what we forget. |
-| 74 | The survivors never speak. They just stare. |
-| 75 | Every choice we made led us here. |
-| 76 | The nightmare is more real than waking life now. |
-| 77 | Silence is just a scream holding its breath. |
-| 78 | Every doorway is a decision you can't undo. |
-| 79 | Every second counts, every step matters. |
-| 80 | Logic is a tool that doesn't work here. |
-| 81 | Believe nothing you see and half of what you hear. |
-| 82 | The first mistake is usually the last. |
-| 83 | There are no heroes in the dark. |
-| 84 | Sometimes the only winning move is to run. |
-| 85 | The darkness is a one-way street. |
-| 86 | I saw tomorrow, and it was empty. |
-| 87 | Survival has a price. |
-| 88 | Silence is a warning. |
-| 89 | Trust your instincts, ignore the evidence. |
-| 90 | Fear is the only honest emotion. |
-| 91 | Mercy is a luxury we can't afford. |
-| 92 | The truth is rarely comforting. |
-| 93 | Don't seek what should remain lost. |
-| 94 | Chaos is the only constant. |
-| 95 | Nothing is as it seems. |
-| 96 | Keep your eyes open and your mouth shut. |
-| 97 | Don't look back; the past is catching up. |
-| 98 | The world is darker than you think. |
-| 99 | The shadows are longer than they should be. |
-| 100 | Don't answer the knocking. |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Assume everything is hostile. | Whatever you do, don't split up! | Noise is never just noise. | We're all going to die here. | Run first, ask questions later. | I'll be right back. |
+| 2 | Famous last words. | Something's not right here... | Expect the impossible. | Stay in the light! | Don't go in there! | We need to stick together. |
+| 3 | History repeats itself in blood. | When in doubt, burn it all down. | If we die, we die fighting. | No one survives by being the hero. | The quiet ones always die first. | Safety is an illusion. |
+| 4 | This place was never meant for us. | What could possibly go wrong? | We're not safe anywhere. | I don't want to die like this! | Every shadow could be our last. | We can't outrun the inevitable forever. |
+| 5 | Keep moving or keep dying. | Survival isn't heroic, it's desperate. | Fear is a luxury I've already spent. | In darkness, we are all equally damned. | What watches us from the shadows? | Some secrets are meant to stay buried. |
+| 6 | I have a bad feeling about this... | What we don't know can kill us. | Reality is just a thin veil. | Madness whispers from the void. | The only way out is deeper in. | This ends in blood. It always does. |
 
-| d100 | Result |
-|------|--------|
-| 1 | Actions speak louder than words. |
-| 2 | Never give up. |
-| 3 | Trust no one. |
-| 4 | Trust your instincts. |
-| 5 | Hope for the best, prepare for the worst. |
-| 6 | Fortune favors the bold. |
-| 7 | Better safe than sorry. |
-| 8 | Live and let live. |
-| 9 | An eye for an eye. |
-| 10 | Do unto others. |
-| 11 | Every person for themselves. |
-| 12 | We're in this together. |
-| 13 | Know when to hold 'em, know when to fold 'em. |
-| 14 | Strike first, ask questions later. |
-| 15 | Nothing ventured, nothing gained. |
-| 16 | The ends justify the means. |
-| 17 | The road to hell is paved with good intentions. |
-| 18 | What doesn't kill you makes you stronger. |
-| 19 | Knowledge is power. |
-| 20 | Might makes right. |
-| 21 | There's no honor among thieves. |
-| 22 | A promise is a promise. |
-| 23 | Seize the day. |
-| 24 | Patience is a virtue. |
-| 25 | If you want something done right, do it yourself. |
-| 26 | United we stand, divided we fall. |
-| 27 | Keep your friends close and your enemies closer. |
-| 28 | Revenge is a dish best served cold. |
-| 29 | Never forgive, never forget. |
-| 30 | Blood is thicker than water. |
-| 31 | Family first. |
-| 32 | The truth will set you free. |
-| 33 | Honesty is the best policy. |
-| 34 | All's fair in love and war. |
-| 35 | Pride goes before a fall. |
-| 36 | Never show weakness. |
-| 37 | Stand your ground. |
-| 38 | Discretion is the better part of valor. |
-| 39 | No sacrifice, no victory. |
-| 40 | The needs of the many outweigh the needs of the few. |
-| 41 | Look out for number one. |
-| 42 | Do no harm. |
-| 43 | Survival of the fittest. |
-| 44 | Adapt or die. |
-| 45 | Change is the only constant. |
-| 46 | This too shall pass. |
-| 47 | What goes around comes around. |
-| 48 | You reap what you sow. |
-| 49 | Make your own luck. |
-| 50 | Everything happens for a reason. |
-| 51 | Expect the unexpected. |
-| 52 | Stay alert, stay alive. |
-| 53 | Never let them see you sweat. |
-| 54 | Keep calm and carry on. |
-| 55 | Live to fight another day. |
-| 56 | Death before dishonor. |
-| 57 | Whatever it takes. |
-| 58 | By any means necessary. |
-| 59 | The mission comes first. |
-| 60 | No one gets left behind. |
-| 61 | I work alone. |
-| 62 | If it ain't broke, don't fix it. |
-| 63 | Measure twice, cut once. |
-| 64 | Question everything. |
-| 65 | Follow orders. |
-| 66 | Rules are made to be broken. |
-| 67 | Honor above all. |
-| 68 | Survival above all. |
-| 69 | Never tell me the odds. |
-| 70 | Embrace the chaos. |
-| 71 | Never surrender. |
-| 72 | Know when to quit. |
-| 73 | The best defense is a good offense. |
-| 74 | Strike while the iron is hot. |
-| 75 | The bigger they are, the harder they fall. |
-| 76 | Speak softly and carry a big stick. |
-| 77 | Actions have consequences. |
-| 78 | No regrets. |
-| 79 | Learn from your mistakes. |
-| 80 | Once bitten, twice shy. |
-| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 82 | Lead by example. |
-| 83 | Be useful. |
-| 84 | Finish what you start. |
-| 85 | Grace under pressure. |
-| 86 | Stay teachable. |
-| 87 | No panic, just priorities. |
-| 88 | Truth over comfort. |
-| 89 | Aim true. |
-| 90 | Own the outcome. |
-| 91 | Respond, don't react. |
-| 92 | Prepared is powerful. |
-| 93 | Keep your edge. |
-| 94 | Discipline buys freedom. |
-| 95 | Raise your standards quietly. |
-| 96 | Protect the vulnerable. |
-| 97 | Simple is strong. |
-| 98 | Own your mistakes quickly. |
-| 99 | Steady wins storms. |
-| 100 | Leave it better. |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Trust no one. Not even yourself. | In the dark, we are not alone. | Sanity is the luxury of the ignorant. | No one survives what's coming. | Our fate was sealed long ago. | Scream all you like. No one will hear you. |
+| 2 | Never be the first to open a door. | The night never ends. | In the end, all things hunger. | Oblivion whispers my name. | What dreams in the abyss? | Stay close or die alone. |
+| 3 | The deeper you go, the worse it gets. | We should have left when we had the chance. | Some knowledge costs you your mind. | Help never comes. Isolation is absolute. | Fear is just information. | We're the monsters now. |
+| 4 | Death would be a mercy compared to this. | Nothing is ever truly over. | The dead are never really gone. | Escape routes close one by one. | Meeting yourself is a death sentence. | The past is never innocent. |
+| 5 | Humanity is just a costume. | Laughter in the dark is a warning. | The cure is worse than the disease. | Expect no mercy, give none. | Some truths shatter sanity. | Death is just a disguise. |
+| 6 | The warnings we ignore are the deadliest. | Civilization ends where the light does. | Words spoken can't be unspoken. | Blood always finds its way back. | Empty places breed monsters. | Hope is for people who aren't paying attention. |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Nature remembers what we forget. | The survivors never speak. They just stare. | Every choice we made led us here. | The nightmare is more real than waking life now. | Silence is just a scream holding its breath. | Every doorway is a decision you can't undo. |
+| 2 | Every second counts, every step matters. | Logic is a tool that doesn't work here. | Believe nothing you see and half of what you hear. | The first mistake is usually the last. | There are no heroes in the dark. | Sometimes the only winning move is to run. |
+| 3 | The darkness is a one-way street. | I saw tomorrow, and it was empty. | Survival has a price. | Silence is a warning. | Trust your instincts, ignore the evidence. | Fear is the only honest emotion. |
+| 4 | Mercy is a luxury we can't afford. | The truth is rarely comforting. | Don't seek what should remain lost. | Chaos is the only constant. | Nothing is as it seems. | Keep your eyes open and your mouth shut. |
+| 5 | Don't look back; the past is catching up. | The world is darker than you think. | The shadows are longer than they should be. | Don't answer the knocking. | If it feels wrong, leave faster. | Trust the silence less than the scream. |
+| 6 | Some doors stay shut for a reason. | What watches from the dark also waits. | The brave die curious; the wise stay wary. | Light first, questions second. | When the room changes, so should your plan. | The safest answer is still an answer. |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Actions speak louder than words. | Never give up. | Trust no one. | Trust your instincts. | Hope for the best, prepare for the worst. | Fortune favors the bold. |
+| 2 | Better safe than sorry. | Live and let live. | An eye for an eye. | Do unto others. | Every person for themselves. | We're in this together. |
+| 3 | Know when to hold 'em, know when to fold 'em. | Strike first, ask questions later. | Nothing ventured, nothing gained. | The ends justify the means. | The road to hell is paved with good intentions. | What doesn't kill you makes you stronger. |
+| 4 | Knowledge is power. | Might makes right. | There's no honor among thieves. | A promise is a promise. | Seize the day. | Patience is a virtue. |
+| 5 | If you want something done right, do it yourself. | United we stand, divided we fall. | Keep your friends close and your enemies closer. | Revenge is a dish best served cold. | Never forgive, never forget. | Blood is thicker than water. |
+| 6 | Family first. | The truth will set you free. | Honesty is the best policy. | All's fair in love and war. | Pride goes before a fall. | Never show weakness. |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stand your ground. | Discretion is the better part of valor. | No sacrifice, no victory. | The needs of the many outweigh the needs of the few. | Look out for number one. | Do no harm. |
+| 2 | Survival of the fittest. | Adapt or die. | Change is the only constant. | This too shall pass. | What goes around comes around. | You reap what you sow. |
+| 3 | Make your own luck. | Everything happens for a reason. | Expect the unexpected. | Stay alert, stay alive. | Never let them see you sweat. | Keep calm and carry on. |
+| 4 | Live to fight another day. | Death before dishonor. | Whatever it takes. | By any means necessary. | The mission comes first. | No one gets left behind. |
+| 5 | I work alone. | If it ain't broke, don't fix it. | Measure twice, cut once. | Question everything. | Follow orders. | Rules are made to be broken. |
+| 6 | Honor above all. | Survival above all. | Never tell me the odds. | Embrace the chaos. | Never surrender. | Know when to quit. |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | The best defense is a good offense. | Strike while the iron is hot. | The bigger they are, the harder they fall. | Speak softly and carry a big stick. | Actions have consequences. | No regrets. |
+| 2 | Learn from your mistakes. | Once bitten, twice shy. | Fool me once, shame on you. Fool me twice, shame on me. | Lead by example. | Be useful. | Finish what you start. |
+| 3 | Grace under pressure. | Stay teachable. | No panic, just priorities. | Truth over comfort. | Aim true. | Own the outcome. |
+| 4 | Respond, don't react. | Prepared is powerful. | Keep your edge. | Discipline buys freedom. | Raise your standards quietly. | Protect the vulnerable. |
+| 5 | Simple is strong. | Own your mistakes quickly. | Steady wins storms. | Leave it better. | Do the hard right thing. | Stay kind, stay dangerous. |
+| 6 | Make yourself useful before you make yourself known. | Nothing improves by avoiding it. | If you can help, help. | Earn trust in small moments. | A steady hand changes outcomes. | Courage is a habit. |
 
 ### Secrets
 
 Roll or choose a Secret: something your character hides from the world. A source of vulnerability, guilt, or dangerous knowledge.
 
-**Table 1 of 3**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Fake Vegan |
-| 2 | Illegitimate Child |
-| 3 | Prison Record |
-| 4 | Blackmailed Someone |
-| 5 | Hit and Run |
-| 6 | Cult Member |
-| 7 | Underground Network Connection |
-| 8 | Betrayed by Spouse |
-| 9 | On the Run |
-| 10 | Infamous Family |
-| 11 | Witness to Murder |
-| 12 | Plagiarized Their Work |
-| 13 | Betrayed a Friend |
-| 14 | Abandoned Family |
-| 15 | Faked Their Own Death |
-| 16 | Sabotaged a Career |
-| 17 | Arson Cover-Up |
-| 18 | Cult Deserter |
-| 19 | Belongs to Secret Society |
-| 20 | Cheating Partner |
-| 21 | Secret Sibling |
-| 22 | Wanted for a Crime |
-| 23 | Hidden Past |
-| 24 | Responsible for a Death |
-| 25 | Stole Life Savings |
-| 26 | Affair Gone Wrong |
-| 27 | Owed Serious Money |
-| 28 | Stole from Family |
-| 29 | Framed Someone Else |
-| 30 | Conspiracy Participant |
-| 31 | Sells Black Market Goods |
-| 32 | Federal Witness |
-| 33 | Illegally Adopted |
-| 34 | Famous Parent |
-| 35 | Former Cult Leader |
-| 36 | Witness Protection |
-| 37 | Corporate Whistleblower |
-| 38 | Hidden Stash |
-| 39 | Government Informant |
-| 40 | Deserted Post |
-| 41 | Black Site Survivor |
-| 42 | Data Thief |
-| 43 | Saboteur |
-| 44 | Buried Evidence |
-| 45 | Secret Addiction |
-| 46 | Forbidden Research |
-| 47 | Illegal Experimentation |
-| 48 | Secret Offspring |
-| 49 | Cartel Debt |
-| 50 | Gang Deal |
-| 51 | Stole from Employer |
-| 52 | Sold Stolen Meds |
-| 53 | Leaked Damning Footage |
-| 54 | Hidden Public Persona |
-| 55 | Runs an Anonymous Gossip Account |
-| 56 | Ghostwrites Celebrity Breakup Statements |
-| 57 | Triggered by Surveillance Drones |
-| 58 | Hidden Emergency Cache |
-| 59 | Compulsive Deceiver |
-| 60 | Fugue State Blackouts |
-| 61 | Tattoo Tied to a Wanted Alias |
-| 62 | Misled Team During Escape |
-| 63 | Uses Coded Language in Journals |
-| 64 | Avoids Waterway Crossings |
-| 65 | Keeps Souvenirs from Every Job |
-| 66 | Tools Linked to Prior Crime |
-| 67 | Runs a Fringe Conspiracy Podcast |
-| 68 | Collects Police Memorabilia |
-| 69 | Panic Trigger Under Interrogation |
-| 70 | Barefoot Footprint on File |
-| 71 | Audible Tell Under Stress |
-| 72 | Tracks Rivals Through Reality TV |
-| 73 | Keeps Incriminating Archives |
-| 74 | Fabricated Medical History |
-| 75 | Habit Matches Crime Scene Pattern |
-| 76 | Confesses in Their Sleep |
-| 77 | Avoids Unlit Areas After Incident |
-| 78 | Maintains Secret Target List |
-| 79 | Writes Letters Under False Names |
-| 80 | Voiceprint in a Leaked Recording |
-| 81 | Leaves Distinctive Lipstick Notes |
-| 82 | Rotates Stolen Vehicles |
-| 83 | Refuses Food to Avoid Drugging |
-| 84 | Times Actions to Predicted Events |
-| 85 | Leaves Numeric Signatures |
-| 86 | Poisoned Plants During Coverup |
-| 87 | Sends Cryptic Messages |
-| 88 | Sends Anonymous Tips in Verse |
-| 89 | Collects Keys from Safehouses |
-| 90 | Sketches People They Meet from Memory |
-| 91 | Rehearses False Testimony |
-| 92 | Uses Theaters for Dead Drops |
-| 93 | Uses Karaoke Bars for Secret Meetups |
-| 94 | Staged Vehicle Accidents |
-| 95 | Paid Hush Money After a Death |
-| 96 | Hid Footage from Authorities |
-| 97 | Runs Illegal Luxury Imports |
-| 98 | Lied Under Oath in a Corruption Trial |
-| 99 | Knows Who Ordered the Warehouse Fire |
-| 100 | Has A Rival's Embarrassing Yearbook |
+#### Table 1
 
-**Table 2 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Fake Vegan | Illegitimate Child | Prison Record | Blackmailed Someone | Hit and Run | Cult Member |
+| 2 | Underground Network Connection | Betrayed by Spouse | On the Run | Infamous Family | Witness to Murder | Plagiarized Their Work |
+| 3 | Betrayed a Friend | Abandoned Family | Faked Their Own Death | Sabotaged a Career | Arson Cover-Up | Cult Deserter |
+| 4 | Belongs to Secret Society | Cheating Partner | Secret Sibling | Wanted for a Crime | Hidden Past | Responsible for a Death |
+| 5 | Stole Life Savings | Affair Gone Wrong | Owed Serious Money | Stole from Family | Framed Someone Else | Conspiracy Participant |
+| 6 | Sells Black Market Goods | Federal Witness | Illegally Adopted | Famous Parent | Former Cult Leader | Witness Protection |
 
-| d100 | Result |
-|------|--------|
-| 1 | Terrible Secret |
-| 2 | Dark Past |
-| 3 | Hidden Identity |
-| 4 | False Identity |
-| 5 | Assumed Name |
-| 6 | Wanted Criminal |
-| 7 | Former Slave |
-| 8 | Escaped Prisoner |
-| 9 | Deserter |
-| 10 | Traitor |
-| 11 | Turncoat |
-| 12 | Double Agent |
-| 13 | Deep Cover |
-| 14 | Witness to Atrocity |
-| 15 | Survivor's Guilt |
-| 16 | Blood Debt |
-| 17 | Unpaid Debt |
-| 18 | Sworn Oath |
-| 19 | Broken Vow |
-| 20 | Betrayed Trust |
-| 21 | Betrayed Ally |
-| 22 | Abandoned Comrade |
-| 23 | Left for Dead |
-| 24 | Sole Survivor |
-| 25 | Last of Their Kind |
-| 26 | Cursed Bloodline |
-| 27 | Marked for Death |
-| 28 | Hunted |
-| 29 | Price on Head |
-| 30 | Vendetta |
-| 31 | Secret Grudge |
-| 32 | Hidden Agenda |
-| 33 | Secret Mission |
-| 34 | Undercover |
-| 35 | Sleeper Agent |
-| 36 | Forbidden Knowledge |
-| 37 | Dangerous Discovery |
-| 38 | Witnessed Conspiracy |
-| 39 | Knows Too Much |
-| 40 | Blackmailed |
-| 41 | Compromised |
-| 42 | Secret Weakness |
-| 43 | Hidden Disability |
-| 44 | Concealed Illness |
-| 45 | Terminal Condition |
-| 46 | Addiction |
-| 47 | Dependency |
-| 48 | Secret Love |
-| 49 | Forbidden Romance |
-| 50 | Star-Crossed Lover |
-| 51 | Secret Child |
-| 52 | Hidden Family |
-| 53 | Disowned |
-| 54 | Illegitimate Heir |
-| 55 | Secret Royalty |
-| 56 | Hidden Noble |
-| 57 | False Commoner |
-| 58 | Imposter |
-| 59 | Fraud |
-| 60 | Charlatan |
-| 61 | Fake Credentials |
-| 62 | Stolen Identity |
-| 63 | Body Double |
-| 64 | Doppelganger |
-| 65 | Secret Twin |
-| 66 | Split Personality |
-| 67 | Possessed |
-| 68 | Haunted |
-| 69 | Cursed |
-| 70 | Damned |
-| 71 | Soul Bargain |
-| 72 | Devil's Deal |
-| 73 | Blood Pact |
-| 74 | Dark Covenant |
-| 75 | Secret Society Member |
-| 76 | Cult Initiate |
-| 77 | Heretic |
-| 78 | Apostate |
-| 79 | Lost Faith |
-| 80 | Secret Believer |
-| 81 | Closet Fanatic |
-| 82 | Zealot in Hiding |
-| 83 | Reformed Criminal |
-| 84 | Former Assassin |
-| 85 | Ex-Torturer |
-| 86 | War Criminal |
-| 87 | Mass Murderer |
-| 88 | Secret Prankster |
-| 89 | Staged a Dramatic Duel |
-| 90 | Ruined a Family Feast on Purpose |
-| 91 | Impersonated Royalty for a Night |
-| 92 | Sold a Family Heirloom in Secret |
-| 93 | Accidental Killer |
-| 94 | Mercy Killer |
-| 95 | Self-Defense Killer |
-| 96 | Never Killed |
-| 97 | Secret Pacifist |
-| 98 | Hidden Coward |
-| 99 | False Hero |
-| 100 | Unearned Glory |
+#### Table 2
 
-**Table 3 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Corporate Whistleblower | Hidden Stash | Government Informant | Deserted Post | Black Site Survivor | Data Thief |
+| 2 | Saboteur | Buried Evidence | Secret Addiction | Forbidden Research | Illegal Experimentation | Secret Offspring |
+| 3 | Cartel Debt | Gang Deal | Stole from Employer | Sold Stolen Meds | Leaked Damning Footage | Hidden Public Persona |
+| 4 | Runs an Anonymous Gossip Account | Ghostwrites Celebrity Breakup Statements | Triggered by Surveillance Drones | Hidden Emergency Cache | Compulsive Deceiver | Fugue State Blackouts |
+| 5 | Tattoo Tied to a Wanted Alias | Misled Team During Escape | Uses Coded Language in Journals | Avoids Waterway Crossings | Keeps Souvenirs from Every Job | Tools Linked to Prior Crime |
+| 6 | Runs a Fringe Conspiracy Podcast | Collects Police Memorabilia | Panic Trigger Under Interrogation | Barefoot Footprint on File | Audible Tell Under Stress | Tracks Rivals Through Reality TV |
 
-| d100 | Result |
-|------|--------|
-| 1 | Stolen Valor |
-| 2 | Credit Thief |
-| 3 | Plagiarist |
-| 4 | Art Forger |
-| 5 | Document Faker |
-| 6 | Identity Thief |
-| 7 | Embezzler |
-| 8 | Thief |
-| 9 | Smuggler |
-| 10 | Black Marketeer |
-| 11 | Fence |
-| 12 | Receiver of Stolen Goods |
-| 13 | Grave Robber |
-| 14 | Relic Thief |
-| 15 | Artifact Smuggler |
-| 16 | Secret Hoarder |
-| 17 | Hidden Wealth |
-| 18 | Treasure Map Keeper |
-| 19 | Location of Riches Known |
-| 20 | Guardian of Secret |
-| 21 | Keeper of Knowledge |
-| 22 | Sole Witness |
-| 23 | Only Survivor Who Knows |
-| 24 | Confessed to the Wrong Crime |
-| 25 | Owes a Favor to a Blackmailer |
-| 26 | Hid a Body No One Found |
-| 27 | Let an Innocent Take the Fall |
-| 28 | Knows Where the Missing Witness Is |
-| 29 | Signed a False Statement |
-| 30 | Carries Evidence They Never Turned In |
-| 31 | Burned the Only Copy |
-| 32 | Secretly Related to the Antagonist |
-| 33 | Keeps a Forbidden Correspondence |
-| 34 | Broke Quarantine and Lied About It |
-| 35 | Took Bribe Money and Buried It |
-| 36 | Planted the Weapon |
-| 37 | Altered the Official Timeline |
-| 38 | Destroyed Incriminating Evidence |
-| 39 | Lied to a Dying Person |
-| 40 | Promised Protection and Failed |
-| 41 | Faked an Alibi for Family |
-| 42 | Opened the Door to the Killer |
-| 43 | Left Before the Explosion |
-| 44 | Knows the Safe Combination |
-| 45 | Hides a Second Identity Document |
-| 46 | Smuggled Someone Across the Border |
-| 47 | Secretly Married an Enemy |
-| 48 | Owes Debt to a Loan Shark |
-| 49 | Keeps Two Sets of Books |
-| 50 | Embezzled Relief Funds |
-| 51 | Collected Blood Money |
-| 52 | Took a Ring from the Dead |
-| 53 | Sold Names to Hunters |
-| 54 | Gave False Testimony |
-| 55 | Broke a Ceasefire First |
-| 56 | Started a Rumor That Got Someone Killed |
-| 57 | Hid the Antidote |
-| 58 | Stole a Cure Shipment |
-| 59 | Chose Who Got the Last Seat |
-| 60 | Sabotaged a Vital Mechanism |
-| 61 | Sabotaged Emergency Systems |
-| 62 | Framed a Rival with Forged Letters |
-| 63 | Knows the Escape Route |
-| 64 | Opened a Sealed Archive |
-| 65 | Defied Evacuation Orders |
-| 66 | Left a Child Behind |
-| 67 | Secretly Supports Both Sides |
-| 68 | Hid a Lover in Enemy Territory |
-| 69 | Leaked a Battle Plan |
-| 70 | Took an Oath Under Duress |
-| 71 | Has a Child with a Disgraced Leader |
-| 72 | Helped a Fugitive Change Identity |
-| 73 | Turned Off the Alarm |
-| 74 | Took Payment to Stay Silent |
-| 75 | Stashed Contraband in a Shrine |
-| 76 | Covered a Friend's Fatal Mistake |
-| 77 | Lied About Being There |
-| 78 | Accepted a Medal They Didn't Earn |
-| 79 | Kept a Map from the Team |
-| 80 | Falsified Medical Records |
-| 81 | Gave the Wrong Coordinates on Purpose |
-| 82 | Destroyed a Family Will |
-| 83 | Withheld a Critical Warning |
-| 84 | Knows the Key Passphrase |
-| 85 | Hides a Poison Recipe |
-| 86 | Secretly Cannot Read Official Script |
-| 87 | Forged a Signature That Changed History |
-| 88 | Keeps the Last Key |
-| 89 | Was the Anonymous Informant |
-| 90 | Knows Who Started the Fire |
-| 91 | Hid in Safety While Others Fought |
-| 92 | Broke Into a Vault for Love Letters |
-| 93 | Smuggled Messages in Sacred Texts |
-| 94 | Manipulated a Final Tally |
-| 95 | Made a Promise to the Villain |
-| 96 | Saw the Truth and Stayed Quiet |
-| 97 | Invented a Heroic Story That Stuck |
-| 98 | Keeps a Confession Letter Unsent |
-| 99 | Secretly Owns the Deed |
-| 100 | Chose the Spotlight Over Duty |
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Keeps Incriminating Archives | Fabricated Medical History | Habit Matches Crime Scene Pattern | Confesses in Their Sleep | Avoids Unlit Areas After Incident | Maintains Secret Target List |
+| 2 | Writes Letters Under False Names | Voiceprint in a Leaked Recording | Leaves Distinctive Lipstick Notes | Rotates Stolen Vehicles | Refuses Food to Avoid Drugging | Times Actions to Predicted Events |
+| 3 | Leaves Numeric Signatures | Poisoned Plants During Coverup | Sends Cryptic Messages | Sends Anonymous Tips in Verse | Collects Keys from Safehouses | Sketches People They Meet from Memory |
+| 4 | Rehearses False Testimony | Uses Theaters for Dead Drops | Uses Karaoke Bars for Secret Meetups | Staged Vehicle Accidents | Paid Hush Money After a Death | Hid Footage from Authorities |
+| 5 | Runs Illegal Luxury Imports | Lied Under Oath in a Corruption Trial | Knows Who Ordered the Warehouse Fire | Has A Rival's Embarrassing Yearbook | Deleted an Emergency Voicemail | Knows Who Leaked the Mayor's Medical File |
+| 6 | Planted Cash in a Campaign Office | Helped a Fugitive Cross at a Checkpoint | Hid a Burner Phone in a Church Wall | Took a Buyout to Kill a Community Project | Swapped DNA Samples at a Lab | Keeps the Original Security Tape |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Terrible Secret | Dark Past | Hidden Identity | False Identity | Assumed Name | Wanted Criminal |
+| 2 | Former Slave | Escaped Prisoner | Deserter | Traitor | Turncoat | Witness to Atrocity |
+| 3 | Survivor's Guilt | Blood Debt | Unpaid Debt | Sworn Oath | Broken Vow | Betrayed Trust |
+| 4 | Betrayed Ally | Abandoned Comrade | Left for Dead | Sole Survivor | Last of Their Kind | Cursed Bloodline |
+| 5 | Marked for Death | Hunted | Price on Head | Vendetta | Secret Grudge | Hidden Agenda |
+| 6 | Secret Mission | Forbidden Knowledge | Dangerous Discovery | Witnessed Conspiracy | Knows Too Much | Blackmailed |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Compromised | Secret Weakness | Hidden Disability | Concealed Illness | Terminal Condition | Addiction |
+| 2 | Dependency | Secret Love | Forbidden Romance | Star-Crossed Lover | Secret Child | Hidden Family |
+| 3 | Disowned | Illegitimate Heir | Secret Royalty | Hidden Noble | False Commoner | Imposter |
+| 4 | Fraud | Charlatan | Fake Credentials | Stolen Identity | Body Double | Secret Twin |
+| 5 | Split Personality | Haunted | Cursed | Damned | Blood Pact | Secret Society Member |
+| 6 | Cult Initiate | Heretic | Apostate | Lost Faith | Secret Believer | Closet Fanatic |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Zealot in Hiding | Reformed Criminal | Former Assassin | Ex-Torturer | War Criminal | Mass Murderer |
+| 2 | Accidental Killer | Mercy Killer | Self-Defense Killer | Never Killed | Secret Pacifist | Hidden Coward |
+| 3 | False Hero | Unearned Glory | Stolen Valor | Credit Thief | Plagiarist | Art Forger |
+| 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
+| 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
+| 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Brazilian
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Adriana | Abbe |
-| 2 | Alexandre | Aguiar |
-| 3 | Alice | Almeida |
-| 4 | Aline | Alves |
-| 5 | Amanda | Andrade |
-| 6 | Ana | Aragão |
-| 7 | André | Arantes |
-| 8 | Antônia | Araújo |
-| 9 | Antônio | Arruda |
-| 10 | Aparecida | Assis |
-| 11 | Augusto | Azevedo |
-| 12 | Beatriz | Barbosa |
-| 13 | Benedito | Barros |
-| 14 | Bruna | Batista |
-| 15 | Bruno | Bento |
-| 16 | Caio | Bezerra |
-| 17 | Camila | Bittencourt |
-| 18 | Carlos | Borges |
-| 19 | Carol | Braga |
-| 20 | Cauã | Brito |
-| 21 | Cesar | Campos |
-| 22 | Clara | Cardoso |
-| 23 | Cláudio | Carvalho |
-| 24 | Daniela | Castro |
-| 25 | Danilo | Cavalcante |
-| 26 | Eduardo | Cavalcanti |
-| 27 | Elaine | Chaves |
-| 28 | Enzo | Coelho |
-| 29 | Fabio | Cordeiro |
-| 30 | Felipe | Correia |
-| 31 | Fernanda | Costa |
-| 32 | Fernando | Cunha |
-| 33 | Flávia | Dantas |
-| 34 | Francisca | Dias |
-| 35 | Francisco | Drummond |
-| 36 | Gabriel | Duarte |
-| 37 | Giovanna | Farias |
-| 38 | Gisele | Fernandes |
-| 39 | Guilherme | Ferreira |
-| 40 | Gustavo | Figueiredo |
-| 41 | Heloísa | Fontes |
-| 42 | Hugo | Freitas |
-| 43 | Igor | Gomes |
-| 44 | Ingrid | Gouveia |
-| 45 | Irene | Guedes |
-| 46 | Isabela | Guimarães |
-| 47 | Jéssica | Lacerda |
-| 48 | João | Leite |
-| 49 | Joaquim | Lima |
-| 50 | José | Lira |
-| 51 | Juliana | Lopes |
-| 52 | Kelly | Macedo |
-| 53 | Lara | Machado |
-| 54 | Larissa | Maia |
-| 55 | Leonardo | Maranhão |
-| 56 | Letícia | Marques |
-| 57 | Lorena | Martins |
-| 58 | Lucas | Médici |
-| 59 | Lúcia | Melo |
-| 60 | Luiz | Mendes |
-| 61 | Manoel | Mesquita |
-| 62 | Manuela | Miranda |
-| 63 | Marcelo | Monteiro |
-| 64 | Márcia | Moraes |
-| 65 | Marcos | Moreira |
-| 66 | Margarida | Motta |
-| 67 | Maria | Moura |
-| 68 | Mariana | Muniz |
-| 69 | Matheus | Nascimento |
-| 70 | Murilo | Nunes |
-| 71 | Neusa | Oliveira |
-| 72 | Otávio | Pacheco |
-| 73 | Patrícia | Paiva |
-| 74 | Paulo | Peixoto |
-| 75 | Pedro | Pereira |
-| 76 | Priscila | Pessôa |
-| 77 | Rafael | Pinheiro |
-| 78 | Raimunda | Pinto |
-| 79 | Raimundo | Porto |
-| 80 | Renata | Queiroz |
-| 81 | Renato | Ramos |
-| 82 | Ricardo | Reis |
-| 83 | Roberto | Rezende |
-| 84 | Rodrigo | Ribeiro |
-| 85 | Samuel | Rocha |
-| 86 | Sebastião | Rodrigues |
-| 87 | Sônia | Sales |
-| 88 | Sophia | Santana |
-| 89 | Tatiane | Santos |
-| 90 | Terezinha | Silva |
-| 91 | Tiago | Siqueira |
-| 92 | Valentina | Soares |
-| 93 | Vera | Souza |
-| 94 | Vinícius | Tavares |
-| 95 | Vitor | Teixeira |
-| 96 | Vitória | Valente |
-| 97 | Wilson | Vargas |
-| 98 | Yasmin | Viana |
-| 99 | Yuri | Vieira |
-| 100 | Zuleica | Xavier |
-
-### Central Asian
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abbas | Abdullayev |
-| 2 | Adiba | Abdyrakhmanov |
-| 3 | Aigul | Abidov |
-| 4 | Aisalkyn | Abishev |
-| 5 | Aisulu | Aitmatov |
-| 6 | Alisher | Akhmetov |
-| 7 | Anara | Alimov |
-| 8 | Arman | Amanov |
-| 9 | Asan | Asanaliyev |
-| 10 | Azamat | Askarov |
-| 11 | Bakhtiyor | Azimov |
-| 12 | Bakhyt | Baizakov |
-| 13 | Barno | Bakiyev |
-| 14 | Batyr | Bazarov |
-| 15 | Bekzod | Begaliyev |
-| 16 | Burul | Beishenaliyev |
-| 17 | Chingiz | Bolotov |
-| 18 | Cholpon | Charyyev |
-| 19 | Damira | Cholponov |
-| 20 | Daniyar | Daniyarov |
-| 21 | Dilnoza | Dauletov |
-| 22 | Dilshod | Dosmukhambetov |
-| 23 | Dinara | Dulatov |
-| 24 | Doolot | Dzhumayev |
-| 25 | Eldar | Ergashev |
-| 26 | Elena | Esenov |
-| 27 | Emir | Eshmatov |
-| 28 | Erbool | Fayzullayev |
-| 29 | Etimad | Gafarov |
-| 30 | Farkhod | Galiyev |
-| 31 | Farrukh | Hamroyev |
-| 32 | Feruza | Hasanov |
-| 33 | Gairat | Ibragimov |
-| 34 | Gani | Ilyasov |
-| 35 | Gulnara | Imanaliev |
-| 36 | Gulzhan | Isakov |
-| 37 | Guzal | Isanov |
-| 38 | Hikmat | Ismailov |
-| 39 | Huri | Joldoshev |
-| 40 | Iffat | Jumayev |
-| 41 | Ilkhom | Kadyrov |
-| 42 | Ilyas | Kanimetov |
-| 43 | Indira | Karimov |
-| 44 | Iroda | Karybekov |
-| 45 | Iskander | Kasimov |
-| 46 | Jakhongir | Kenjebayev |
-| 47 | Jamilya | Kudaybergenov |
-| 48 | Jannat | Kulov |
-| 49 | Javlon | Latipov |
-| 50 | Kamila | Lomonov |
-| 51 | Kanat | Madaminov |
-| 52 | Karlygash | Mamedov |
-| 53 | Khurshida | Mamytov |
-| 54 | Kubat | Mirzayev |
-| 55 | Kyzy | Muratov |
-| 56 | Latifa | Nabiyev |
-| 57 | Leyla | Nazarbayev |
-| 58 | Lola | Niyazov |
-| 59 | Madina | Nogaybayev |
-| 60 | Malika | Nuriyev |
-| 61 | Mansur | Nurmatov |
-| 62 | Meerim | Omarov |
-| 63 | Mirbek | Orozov |
-| 64 | Munira | Orunbayev |
-| 65 | Nargiza | Osmonov |
-| 66 | Nazira | Otunbayev |
-| 67 | Nodir | Pirimkulov |
-| 68 | Nurbek | Pulotov |
-| 69 | Nurlan | Qurbonov |
-| 70 | Nurzhan | Rahmonov |
-| 71 | Omurbek | Rakhimov |
-| 72 | Otabek | Rustamov |
-| 73 | Oybek | Sabyrov |
-| 74 | Oydin | Sadykov |
-| 75 | Parvina | Saidov |
-| 76 | Pulat | Saparov |
-| 77 | Qodir | Sattarov |
-| 78 | Ra'no | Sharipov |
-| 79 | Ravshan | Suleimanov |
-| 80 | Ruslan | Sultanov |
-| 81 | Saadat | Sydykov |
-| 82 | Samat | Tashmatov |
-| 83 | Sevara | Tilekov |
-| 84 | Siroj | Tokayev |
-| 85 | Talant | Turgunbayev |
-| 86 | Temur | Tursunov |
-| 87 | Toktobübü | Umarov |
-| 88 | Tolib | Urunov |
-| 89 | Ulan | Usmanov |
-| 90 | Ulugbek | Usubaliyev |
-| 91 | Umida | Vakhidov |
-| 92 | Umut | Valiyev |
-| 93 | Vakhid | Xudayberdiyev |
-| 94 | Vasila | Yakubov |
-| 95 | Viktor | Yuldashev |
-| 96 | Yerlan | Yusupov |
-| 97 | Yulduz | Zaripov |
-| 98 | Zamir | Zheenbekov |
-| 99 | Zhyldyz | Zhusupov |
-| 100 | Zukhra | Zulpukarov |
-
-### Chinese
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | An | An |
-| 2 | Anrui | Bai |
-| 3 | Biao | Bi |
-| 4 | Bin | Cai |
-| 5 | Binyue | Cao |
-| 6 | Bo | Chang |
-| 7 | Cai | Chen |
-| 8 | Chao | Cheng |
-| 9 | Chaoran | Cui |
-| 10 | Chun | Dai |
-| 11 | Dan | Deng |
-| 12 | De | Ding |
-| 13 | Dexin | Dong |
-| 14 | Fang | Du |
-| 15 | Fanglin | Duan |
-| 16 | Fei | Fan |
-| 17 | Feng | Fang |
-| 18 | Gang | Feng |
-| 19 | Guang | Fu |
-| 20 | Guangyi | Gao |
-| 21 | Guiying | Ge |
-| 22 | Guo | Gong |
-| 23 | Hailun | Gongsun |
-| 24 | Hao | Gu |
-| 25 | Haoran | Guo |
-| 26 | Haoyu | Han |
-| 27 | He | Hao |
-| 28 | Hong | He |
-| 29 | Hu | Helian |
-| 30 | Hua | Hou |
-| 31 | Hui | Hu |
-| 32 | Jian | Huang |
-| 33 | Jianhua | Huyan |
-| 34 | Jing | Ji |
-| 35 | Jingxiao | Jiang |
-| 36 | Ju | Jin |
-| 37 | Juan | Lei |
-| 38 | Jun | Li |
-| 39 | Kexin | Liang |
-| 40 | Lan | Liao |
-| 41 | Lei | Lin |
-| 42 | Li | Linghu |
-| 43 | Liang | Liu |
-| 44 | Lin | Long |
-| 45 | Ling | Lu |
-| 46 | Long | Luo |
-| 47 | Lu | Ma |
-| 48 | Man | Mao |
-| 49 | Mei | Meng |
-| 50 | Min | Murong |
-| 51 | Ming | Ouyang |
-| 52 | Muchen | Pan |
-| 53 | Nan | Peng |
-| 54 | Peng | Qian |
-| 55 | Ping | Qiu |
-| 56 | Qian | Ren |
-| 57 | Qiang | Sha |
-| 58 | Qiao | Shangguan |
-| 59 | Qing | Shao |
-| 60 | Ren | She |
-| 61 | Rong | Shen |
-| 62 | Shan | Shi |
-| 63 | Sheng | Sima |
-| 64 | Shuhan | Situ |
-| 65 | Song | Song |
-| 66 | Tao | Su |
-| 67 | Ting | Sun |
-| 68 | Wei | Tang |
-| 69 | Wen | Tian |
-| 70 | Xia | Wan |
-| 71 | Xiang | Wang |
-| 72 | Xiao | Wei |
-| 73 | Xinyi | Wu |
-| 74 | Xiuying | Xi |
-| 75 | Xuan | Xia |
-| 76 | Yan | Xiahou |
-| 77 | Yao | Xiang |
-| 78 | Yi | Xiao |
-| 79 | Yichen | Xie |
-| 80 | Ying | Xing |
-| 81 | Yinuo | Xiong |
-| 82 | Yiyan | Xu |
-| 83 | Yong | Xue |
-| 84 | Yu | Yan |
-| 85 | Yuan | Yang |
-| 86 | Yue | Yao |
-| 87 | Yulian | Ye |
-| 88 | Yun | Yi |
-| 89 | Yutong | Yin |
-| 90 | Yuxuan | Yu |
-| 91 | Zhen | Yuan |
-| 92 | Zhi | Yuchi |
-| 93 | Zhong | Zhang |
-| 94 | Zhu | Zhao |
-| 95 | Zi | Zheng |
-| 96 | Zihan | Zhong |
-| 97 | Zihao | Zhou |
-| 98 | Ziqi | Zhu |
-| 99 | Zirui | Zhuge |
-| 100 | Zixuan | Zou |
-
-### Dutch (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Aafje | Bakker |
-| 2 | Adriana | Bos |
-| 3 | Adrianus | Brouwer |
-| 4 | Agatha | Brouwers |
-| 5 | Albertus | De Boer |
-| 6 | Alida | De Graaf |
-| 7 | Anna | De Groot |
-| 8 | Antonius | De Jong |
-| 9 | Antoon | De Jonge |
-| 10 | Arend | De Vries |
-| 11 | Arnoldus | De Wit |
-| 12 | Barbara | Dekker |
-| 13 | Bastiaan | Driessen |
-| 14 | Beatrix | Evers |
-| 15 | Bernardus | Gerritsen |
-| 16 | Boudewijn | Groen |
-| 17 | Carel | Groot |
-| 18 | Catharina | Hendriks |
-| 19 | Christiaan | Hermans |
-| 20 | Christina | Hoekstra |
-| 21 | Cornelia | Hofman |
-| 22 | Cornelis | Jacobs |
-| 23 | Dirk | Jansen |
-| 24 | Dirkje | Janssen |
-| 25 | Dorothea | Koopman |
-| 26 | Eefje | Kramer |
-| 27 | Elisabeth | Kuiper |
-| 28 | Emerentia | Meijer |
-| 29 | Ewout | Mulder |
-| 30 | Femmetje | Post |
-| 31 | Florentina | Prins |
-| 32 | Floris | Sanders |
-| 33 | Frans | Schipper |
-| 34 | Frederikus | Scholten |
-| 35 | Geertruida | Smit |
-| 36 | Geesje | Teunissen |
-| 37 | Gerardus | Timmermans |
-| 38 | Gerrit | Van Beek |
-| 39 | Gijsbert | Van Dam |
-| 40 | Gijsberta | Van de Beek |
-| 41 | Govert | Van de Brink |
-| 42 | Grietje | Van de Bunt |
-| 43 | Heiltje | Van de Hoeven |
-| 44 | Helena | Van de Hurk |
-| 45 | Hendrik | Van de Kamp |
-| 46 | Hendrika | Van de Kerkhof |
-| 47 | Hermanus | Van de Mortel |
-| 48 | Hugo | Van de Noort |
-| 49 | Jacoba | Van de Pas |
-| 50 | Jacobus | Van de Pol |
-| 51 | Jan | Van de Put |
-| 52 | Jannetje | Van de Riet |
-| 53 | Jantje | Van de Steeg |
-| 54 | Johanna | Van de Veen |
-| 55 | Johannes | Van de Ven |
-| 56 | Joris | Van de Voort |
-| 57 | Josina | Van de Water |
-| 58 | Klaas | Van de Weg |
-| 59 | Koen | Van de Wetering |
-| 60 | Lambertus | Van de Wijngaard |
-| 61 | Leendert | Van de Worp |
-| 62 | Lijsbeth | Van den Akker |
-| 63 | Lodewijk | Van den Berg |
-| 64 | Lucas | Van den Bosch |
-| 65 | Lucia | Van den Broek |
-| 66 | Lukas | Van den Ende |
-| 67 | Maartje | Van den Heuvel |
-| 68 | Margaretha | Van der Bijl |
-| 69 | Maria | Van der Boom |
-| 70 | Marinus | Van der Graaf |
-| 71 | Marritje | Van der Heijden |
-| 72 | Martina | Van der Horst |
-| 73 | Martinus | Van der Laan |
-| 74 | Matthijs | Van der Linden |
-| 75 | Maurits | Van der Meer |
-| 76 | Meijntje | Van der Meulen |
-| 77 | Neeltje | Van der Plas |
-| 78 | Nicolaas | Van der Ploeg |
-| 79 | Otto | Van der Poel |
-| 80 | Paulus | Van der Sluis |
-| 81 | Petronella | Van der Velde |
-| 82 | Petrus | Van der Ven |
-| 83 | Pieter | Van der Wal |
-| 84 | Pieternella | Van der Zee |
-| 85 | Reinier | Van der Zwan |
-| 86 | Rijk | Van Dijk |
-| 87 | Rutger | Van Egmond |
-| 88 | Saskia | Van Leeuwen |
-| 89 | Simon | Van Loon |
-| 90 | Stephanus | Van Vliet |
-| 91 | Stijntje | Verhoeven |
-| 92 | Susanna | Vermeer |
-| 93 | Swaantje | Vermeulen |
-| 94 | Teunis | Versteeg |
-| 95 | Theodorus | Vink |
-| 96 | Thomas | Visser |
-| 97 | Trijntje | Vos |
-| 98 | Wilhelmina | Wessels |
-| 99 | Willem | Willems |
-| 100 | Willemijntje | Wolters |
-
-### East African
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abel | Abdallah |
-| 2 | Alem | Abdi |
-| 3 | Almaz | Achieng |
-| 4 | Amani | Adan |
-| 5 | Amara | Adhiambo |
-| 6 | Asha | Agola |
-| 7 | Aster | Akoth |
-| 8 | Baraka | Ali |
-| 9 | Belen | Amondi |
-| 10 | Berhane | Anyango |
-| 11 | Chausiku | Assefa |
-| 12 | Dalila | Atieno |
-| 13 | Daniel | Awino |
-| 14 | Dawit | Bakari |
-| 15 | Desta | Bekele |
-| 16 | Eleni | Berhe |
-| 17 | Elias | Bhoke |
-| 18 | Eliud | Birech |
-| 19 | Ephrem | Bulhan |
-| 20 | Fana | Chacha |
-| 21 | Faraji | Chepkirui |
-| 22 | Fasil | Cheruiyot |
-| 23 | Genet | Diriye |
-| 24 | Gideon | Farah |
-| 25 | Habte | Fikru |
-| 26 | Hadiya | Ghati |
-| 27 | Hasina | Githu |
-| 28 | Hiwot | Guebuza |
-| 29 | Imani | Guled |
-| 30 | Isaac | Gure |
-| 31 | Isayas | Haile |
-| 32 | Jabari | Hamad |
-| 33 | Jomo | Hassan |
-| 34 | Khalfan | Ismail |
-| 35 | Kifle | Jama |
-| 36 | Kipchirchir | Juma |
-| 37 | Kipchoge | Kalonzo |
-| 38 | Kipkemboi | Kamau |
-| 39 | Kiplimo | Karanja |
-| 40 | Kipngetich | Kassahun |
-| 41 | Kiprono | Kebede |
-| 42 | Kiprop | Kenyatta |
-| 43 | Kiprotich | Keynan |
-| 44 | Kipruto | Khalwale |
-| 45 | Kipsang | Khamis |
-| 46 | Kiptoo | Kikwete |
-| 47 | Latifa | Kimani |
-| 48 | Liyu | Kipchoge |
-| 49 | Lulseged | Kipkorir |
-| 50 | Lulu | Kiplagat |
-| 51 | Maimuna | Kiprotich |
-| 52 | Makeda | Kiptanui |
-| 53 | Makena | Kisia |
-| 54 | Malaika | Kosgei |
-| 55 | Mengistu | Kuria |
-| 56 | Meseret | Lagat |
-| 57 | Michael | Magufuli |
-| 58 | Mulu | Maina |
-| 59 | Mwai | Makori |
-| 60 | Mwinyi | Marwa |
-| 61 | Negasi | Matiko |
-| 62 | Netsanet | Mburu |
-| 63 | Nia | Mohamud |
-| 64 | Nuru | Moyo |
-| 65 | Pendo | Mudavadi |
-| 66 | Rahel | Muigai |
-| 67 | Raila | Mulugeta |
-| 68 | Ramadhani | Murgor |
-| 69 | Rashidi | Mussa |
-| 70 | Rehema | Mwangi |
-| 71 | Sadiki | Mwinyi |
-| 72 | Samuel | Nanok |
-| 73 | Sana | Njau |
-| 74 | Sasha | Njoroge |
-| 75 | Semira | Nyambura |
-| 76 | Solomon | Odhiambo |
-| 77 | Subira | Odinga |
-| 78 | Tamirat | Okoth |
-| 79 | Tatu | Omar |
-| 80 | Thabit | Omondi |
-| 81 | Tigist | Onyango |
-| 82 | Tsige | Otieno |
-| 83 | Uhuru | Rajab |
-| 84 | Victor | Rioba |
-| 85 | Vumilia | Robi |
-| 86 | Wangari | Ruto |
-| 87 | Wanjiru | Said |
-| 88 | William | Salum |
-| 89 | Winda | Selassie |
-| 90 | Yared | Tadesse |
-| 91 | Yordanos | Tanui |
-| 92 | Yumna | Teragat |
-| 93 | Zahara | Tesfaye |
-| 94 | Zaituni | Wamalwa |
-| 95 | Zakiya | Wambura |
-| 96 | Zewditu | Wanjiku |
-| 97 | Zola | Warsame |
-| 98 | Zuberi | Waweru |
-| 99 | Zuri | Wolde |
-| 100 | Zuwena | Yego |
-
-### English (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Ada | Abbott |
-| 2 | Albert | Allen |
-| 3 | Alexander | Bailey |
-| 4 | Alf | Baker |
-| 5 | Alfred | Ball |
-| 6 | Alice | Basil |
-| 7 | Amy | Bell |
-| 8 | Andrew | Bennett |
-| 9 | Anne | Brooks |
-| 10 | Anthony | Brown |
-| 11 | Arthur | Butler |
-| 12 | Beatrice | Carter |
-| 13 | Ben | Chapman |
-| 14 | Benjamin | Clarke |
-| 15 | Billy | Cole |
-| 16 | Catherine | Collins |
-| 17 | Cedric | Cook |
-| 18 | Charles | Cooper |
-| 19 | Charlie | Cox |
-| 20 | Charlotte | Davies |
-| 21 | Chloe | Day |
-| 22 | Christopher | Dean |
-| 23 | Clara | Edwards |
-| 24 | Daisy | Elliott |
-| 25 | Daniel | Evans |
-| 26 | David | Fisher |
-| 27 | Dorothy | Fletcher |
-| 28 | Edith | Ford |
-| 29 | Edward | Foster |
-| 30 | Eleanor | Fox |
-| 31 | Elizabeth | Fuller |
-| 32 | Emily | Gardner |
-| 33 | Esther | Giles |
-| 34 | Ethel | Gray |
-| 35 | Evie | Green |
-| 36 | Florence | Gregory |
-| 37 | Francis | Hall |
-| 38 | Fred | Harding |
-| 39 | Frederick | Harris |
-| 40 | George | Harrison |
-| 41 | Gladys | Harvey |
-| 42 | Grace | Hawthorne |
-| 43 | Hannah | Hill |
-| 44 | Harriet | Holmes |
-| 45 | Harry | Howell |
-| 46 | Henry | Hunt |
-| 47 | Herbert | Jackson |
-| 48 | Hilda | James |
-| 49 | Iris | Jenkins |
-| 50 | Isabella | Johnson |
-| 51 | Ivy | Jones |
-| 52 | Jack | King |
-| 53 | James | Knight |
-| 54 | Jane | Lane |
-| 55 | Joe | Lawrence |
-| 56 | John | Lee |
-| 57 | Jonathan | Lewis |
-| 58 | Joseph | Marshall |
-| 59 | Julia | Mason |
-| 60 | Lawrence | May |
-| 61 | Lily | Miles |
-| 62 | Lucy | Miller |
-| 63 | Lydia | Morgan |
-| 64 | Mabel | Morris |
-| 65 | Margaret | Newman |
-| 66 | Martha | Newton |
-| 67 | Mary | Page |
-| 68 | Matthew | Palmer |
-| 69 | Megan | Parker |
-| 70 | Michael | Patel |
-| 71 | Millie | Payne |
-| 72 | Nicholas | Pearce |
-| 73 | Olive | Price |
-| 74 | Oliver | Read |
-| 75 | Paul | Reynolds |
-| 76 | Peter | Roberts |
-| 77 | Philip | Robinson |
-| 78 | Poppy | Russell |
-| 79 | Rebecca | Scott |
-| 80 | Richard | Sharp |
-| 81 | Robert | Simpson |
-| 82 | Rose | Smith |
-| 83 | Rowena | Spencer |
-| 84 | Ruby | Stevens |
-| 85 | Ruth | Stone |
-| 86 | Sam | Taylor |
-| 87 | Samuel | Thompson |
-| 88 | Sarah | Turner |
-| 89 | Sebastian | Walker |
-| 90 | Sophie | Ward |
-| 91 | Stephen | Watson |
-| 92 | Susannah | Webb |
-| 93 | Thomas | West |
-| 94 | Timothy | White |
-| 95 | Tom | Wilkinson |
-| 96 | Victor | Williams |
-| 97 | Victoria | Wilson |
-| 98 | Violet | Wood |
-| 99 | Walter | Wright |
-| 100 | William | Yates |
-
-### French (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Adelaide | Adam |
-| 2 | Adrien | Andre |
-| 3 | Agathe | Arnaud |
-| 4 | Alain | Aubert |
-| 5 | Alice | Barbier |
-| 6 | Andre | Benoit |
-| 7 | Anne | Bernard |
-| 8 | Antoine | Bertrand |
-| 9 | Benoit | Blanc |
-| 10 | Bernard | Blanchard |
-| 11 | Bertrand | Bonnet |
-| 12 | Brigitte | Bonneville |
-| 13 | Caroline | Boucher |
-| 14 | Catherine | Bourgeois |
-| 15 | Cecile | Boyer |
-| 16 | Chantal | Brun |
-| 17 | Charles | Brunet |
-| 18 | Charlotte | Charpentier |
-| 19 | Christian | Chevalier |
-| 20 | Christophe | Clement |
-| 21 | Claire | Colin |
-| 22 | Claude | David |
-| 23 | Clemence | Denis |
-| 24 | Colette | Dubois |
-| 25 | Danielle | Dumont |
-| 26 | Denis | Dupont |
-| 27 | Denise | Durand |
-| 28 | Elisabeth | Duval |
-| 29 | Emilie | Even |
-| 30 | Emmanuel | Faure |
-| 31 | Estelle | Fontaine |
-| 32 | Etienne | Fournier |
-| 33 | François | Francois |
-| 34 | Françoise | Gaillard |
-| 35 | Gabriel | Garcia |
-| 36 | Gabrielle | Garnier |
-| 37 | Genevieve | Gauthier |
-| 38 | Georges | Gautier |
-| 39 | Gerard | Girard |
-| 40 | Gilbert | Giraud |
-| 41 | Gilles | Guerin |
-| 42 | Guillaume | Guerrier |
-| 43 | Guy | Guillaume |
-| 44 | Helene | Henry |
-| 45 | Henri | Hubert |
-| 46 | Isabelle | Humbert |
-| 47 | Jacques | Jacquet |
-| 48 | Janine | Jean |
-| 49 | Jean | Joly |
-| 50 | Jeanne | Klein |
-| 51 | Jerome | Lambert |
-| 52 | Joseph | Laurent |
-| 53 | Josiane | Leclerc |
-| 54 | Julie | Lefebvre |
-| 55 | Julien | Lefevre |
-| 56 | Laurent | Legrand |
-| 57 | Louis | Lemoine |
-| 58 | Louise | Leroy |
-| 59 | Lucie | Lucas |
-| 60 | Lucien | Mallet |
-| 61 | Lydie | Marais |
-| 62 | Madeleine | Marchand |
-| 63 | Marc | Marechal |
-| 64 | Marguerite | Marie |
-| 65 | Marie | Martin |
-| 66 | Martine | Martinez |
-| 67 | Mathilde | Masson |
-| 68 | Maurice | Mathieu |
-| 69 | Michel | Mercier |
-| 70 | Monique | Meunier |
-| 71 | Nicolas | Meyer |
-| 72 | Nicole | Michel |
-| 73 | Noemie | Moreau |
-| 74 | Odette | Morel |
-| 75 | Olivier | Morin |
-| 76 | Pascal | Muller |
-| 77 | Patrick | Nicolas |
-| 78 | Paul | Noel |
-| 79 | Pauline | Ollivier |
-| 80 | Philippe | Paris |
-| 81 | Pierre | Perrin |
-| 82 | Raymond | Petit |
-| 83 | Renee | Philippe |
-| 84 | Robert | Picard |
-| 85 | Roger | Pierre |
-| 86 | Rose | Prevost |
-| 87 | Sebastien | Renard |
-| 88 | Serge | Richard |
-| 89 | Simon | Riviere |
-| 90 | Simone | Robert |
-| 91 | Solange | Robin |
-| 92 | Sophie | Roche |
-| 93 | Suzanne | Roussel |
-| 94 | Sylvie | Roux |
-| 95 | Therese | Roy |
-| 96 | Thomas | Royer |
-| 97 | Victorine | Simon |
-| 98 | Vincent | Thomas |
-| 99 | Xavier | Vallet |
-| 100 | Yves | Vasseur |
-
-### German
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Adelheid | Albrecht |
-| 2 | Adolf | Arnold |
-| 3 | Agnes | Bauer |
-| 4 | Alois | Baumann |
-| 5 | Amalie | Beck |
-| 6 | Andreas | Becker |
-| 7 | Angelika | Berger |
-| 8 | Anna | Bergmann |
-| 9 | Anton | Böhm |
-| 10 | August | Brandt |
-| 11 | Balthasar | Braun |
-| 12 | Barbara | Busch |
-| 13 | Beate | Drechsler |
-| 14 | Bernhard | Eberhardt |
-| 15 | Brigitte | Engel |
-| 16 | Bruno | Fischer |
-| 17 | Cäcilie | Frank |
-| 18 | Caspar | Friedrich |
-| 19 | Charlotte | Fuchs |
-| 20 | Christian | Gerhard |
-| 21 | Christina | Graf |
-| 22 | Clara | Gross |
-| 23 | Dietrich | Günther |
-| 24 | Dorothea | Haas |
-| 25 | Eberhard | Hahn |
-| 26 | Eleonore | Hartmann |
-| 27 | Elisabeth | Heller |
-| 28 | Emanuel | Herrmann |
-| 29 | Emma | Hoffmann |
-| 30 | Erich | Hofmann |
-| 31 | Eva | Horn |
-| 32 | Franz | Huber |
-| 33 | Friederike | Jäger |
-| 34 | Friedrich | Jung |
-| 35 | Georg | Kaiser |
-| 36 | Gerhard | Kaufmann |
-| 37 | Gertrud | Klein |
-| 38 | Gottfried | Koch |
-| 39 | Gotthold | Köhler |
-| 40 | Gottlieb | König |
-| 41 | Gregor | Kramer |
-| 42 | Guenther | Kraus |
-| 43 | Hans | Krause |
-| 44 | Hartmut | Krüger |
-| 45 | Heinrich | Kuhn |
-| 46 | Helene | Lang |
-| 47 | Hermann | Lange |
-| 48 | Hieronymus | Lehmann |
-| 49 | Hildegard | Lenz |
-| 50 | Hubert | Lorenz |
-| 51 | Ignaz | Ludwig |
-| 52 | Jakob | Maier |
-| 53 | Joachim | Mayer |
-| 54 | Johann | Meier |
-| 55 | Johanna | Meyer |
-| 56 | Joseph | Möller |
-| 57 | Juliana | Müller |
-| 58 | Karl | Neumann |
-| 59 | Katharina | Otto |
-| 60 | Klaus | Peters |
-| 61 | Konrad | Pfeiffer |
-| 62 | Kurt | Pohl |
-| 63 | Lorenz | Reiter |
-| 64 | Lucas | Richter |
-| 65 | Ludwig | Roth |
-| 66 | Luise | Sauer |
-| 67 | Magdalena | Schäfer |
-| 68 | Manfred | Schmid |
-| 69 | Marcus | Schmidt |
-| 70 | Margaretha | Schmitt |
-| 71 | Maria | Schmitz |
-| 72 | Martha | Schneider |
-| 73 | Matthias | Scholz |
-| 74 | Melchior | Schreiber |
-| 75 | Michael | Schröder |
-| 76 | Monika | Schubert |
-| 77 | Nikolaus | Schulz |
-| 78 | Oskar | Schulze |
-| 79 | Ottilie | Schuster |
-| 80 | Peter | Schwarz |
-| 81 | Philipp | Seidel |
-| 82 | Reinhold | Smidt |
-| 83 | Renate | Sommer |
-| 84 | Rosina | Thomas |
-| 85 | Rudolf | Ullrich |
-| 86 | Sabina | Vogel |
-| 87 | Sebastian | Vogt |
-| 88 | Sibylla | Voigt |
-| 89 | Siegfried | Wagner |
-| 90 | Sophie | Walter |
-| 91 | Stefan | Weber |
-| 92 | Susanna | Weiss |
-| 93 | Therese | Werner |
-| 94 | Ulrich | Winkler |
-| 95 | Ursula | Wolf |
-| 96 | Valentin | Wolff |
-| 97 | Veronika | Woll |
-| 98 | Wilhelm | Ziegler |
-| 99 | Wolfgang | Zimmer |
-| 100 | Xaver | Zimmermann |
-
-### Indian
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Aadhya | Agrawal |
-| 2 | Aarav | Ahmed |
-| 3 | Abhishek | Anand |
-| 4 | Aditya | Ansari |
-| 5 | Ajay | Baig |
-| 6 | Ali | Bajpai |
-| 7 | Amandeep | Bakshi |
-| 8 | Amira | Balakrishnan |
-| 9 | Amit | Banerjee |
-| 10 | Ananya | Bansal |
-| 11 | Anil | Basu |
-| 12 | Anita | Bhat |
-| 13 | Anjali | Bose |
-| 14 | Arjun | Chatterjee |
-| 15 | Aryan | Chauhan |
-| 16 | Asha | Chopra |
-| 17 | Avni | Chowdhury |
-| 18 | Ayesha | Das |
-| 19 | Baljit | Deol |
-| 20 | Daljit | Desai |
-| 21 | Deepak | Deshmukh |
-| 22 | Deepika | Dhar |
-| 23 | Devi | Dhillon |
-| 24 | Diya | Doshi |
-| 25 | Farah | Dubey |
-| 26 | Fatima | Dutta |
-| 27 | Gopal | Garg |
-| 28 | Gurpreet | Ghosal |
-| 29 | Hamza | Gill |
-| 30 | Harpreet | Goel |
-| 31 | Hassan | Grewal |
-| 32 | Hema | Gupta |
-| 33 | Hussein | Hashmi |
-| 34 | Ibrahim | Iqbal |
-| 35 | Inderjit | Iyengar |
-| 36 | Indira | Iyer |
-| 37 | Ira | Jain |
-| 38 | Ishaan | Johal |
-| 39 | Ishani | Joshi |
-| 40 | Ishwar | Kapoor |
-| 41 | Jaspreet | Kaul |
-| 42 | Jaya | Khan |
-| 43 | Kala | Khanna |
-| 44 | Kamala | Krishnan |
-| 45 | Karan | Kulkarni |
-| 46 | Kaur | Kumar |
-| 47 | Kavita | Malhotra |
-| 48 | Krishna | Mann |
-| 49 | Kuldeep | Mehra |
-| 50 | Kumari | Mehta |
-| 51 | Kyra | Menon |
-| 52 | Lata | Mirza |
-| 53 | Laxmi | Mishra |
-| 54 | Layla | Modi |
-| 55 | Manjit | Mukherjee |
-| 56 | Manoj | Munshi |
-| 57 | Mariam | Naidu |
-| 58 | Meena | Nair |
-| 59 | Mustafa | Nambiar |
-| 60 | Myra | Oberoi |
-| 61 | Nirmala | Pal |
-| 62 | Noor | Pandey |
-| 63 | Omar | Pandya |
-| 64 | Pari | Parekh |
-| 65 | Parvati | Patel |
-| 66 | Pooja | Pillai |
-| 67 | Priyanka | Prasad |
-| 68 | Rahul | Puri |
-| 69 | Rajesh | Qureshi |
-| 70 | Rayan | Raghavan |
-| 71 | Rekha | Raina |
-| 72 | Rishi | Randhawa |
-| 73 | Ritu | Ranganathan |
-| 74 | Rohan | Rao |
-| 75 | Saanvi | Reddy |
-| 76 | Sai | Roy |
-| 77 | Sameer | Sandhu |
-| 78 | Sana | Sarkar |
-| 79 | Sandeep | Sen |
-| 80 | Sanjay | Sethi |
-| 81 | Sara | Shah |
-| 82 | Sarabjit | Sharma |
-| 83 | Sarala | Sheikh |
-| 84 | Saraswati | Sheth |
-| 85 | Shanti | Shukla |
-| 86 | Shaurya | Siddiqui |
-| 87 | Sridevi | Sidhu |
-| 88 | Sunil | Singh |
-| 89 | Sunita | Sivaraman |
-| 90 | Sushma | Subramanian |
-| 91 | Usha | Suri |
-| 92 | Varun | Syed |
-| 93 | Vihaan | Taneja |
-| 94 | Vijay | Thakkar |
-| 95 | Vikram | Tiwari |
-| 96 | Vimala | Venkat |
-| 97 | Vivaan | Verma |
-| 98 | Zaid | Vora |
-| 99 | Zain | Vyas |
-| 100 | Zainab | Yadav |
-
-### Irish (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Aidan | Barrett |
-| 2 | Aine | Boylan |
-| 3 | Aisling | Boyle |
-| 4 | Aoife | Brady |
-| 5 | Barry | Brennan |
-| 6 | Bernadette | Brown |
-| 7 | Brendan | Buckley |
-| 8 | Brian | Burke |
-| 9 | Bridget | Byrne |
-| 10 | Bridie | Caffrey |
-| 11 | Bronagh | Campbell |
-| 12 | Caoimhe | Cassidy |
-| 13 | Carmel | Clarke |
-| 14 | Cathal | Collins |
-| 15 | Ciara | Connolly |
-| 16 | Cillian | Coughlan |
-| 17 | Clodagh | Cronin |
-| 18 | Colette | Cullen |
-| 19 | Colm | Curran |
-| 20 | Connor | Daly |
-| 21 | Conor | Devine |
-| 22 | Cormac | Dolan |
-| 23 | Daniel | Donegan |
-| 24 | Darragh | Donnelly |
-| 25 | Declan | Doran |
-| 26 | Deirdre | Doyle |
-| 27 | Dermot | Duffy |
-| 28 | Dervla | Duggan |
-| 29 | Desmond | Dunne |
-| 30 | Diarmuid | Dwyer |
-| 31 | Dolores | Farrell |
-| 32 | Donal | Fitzgerald |
-| 33 | Eamon | Fitzpatrick |
-| 34 | Eileen | Flanagan |
-| 35 | Emer | Flynn |
-| 36 | Enda | Foley |
-| 37 | Eoghan | Gallagher |
-| 38 | Eoin | Gormley |
-| 39 | Etain | Healy |
-| 40 | Fergus | Higgins |
-| 41 | Fidelma | Hogan |
-| 42 | Finbar | Hughes |
-| 43 | Fionn | Johnston |
-| 44 | Gemma | Joyce |
-| 45 | Gerard | Kane |
-| 46 | Grainne | Kavanagh |
-| 47 | Imelda | Kelly |
-| 48 | James | Kennedy |
-| 49 | John | Keogh |
-| 50 | Joseph | Kiernan |
-| 51 | Kathleen | Larkin |
-| 52 | Keira | Lynch |
-| 53 | Kevin | Maguire |
-| 54 | Kieran | Maher |
-| 55 | Killian | Mahony |
-| 56 | Liam | McArdle |
-| 57 | Luke | McCarthy |
-| 58 | Maeve | McGovern |
-| 59 | Mairead | McGrath |
-| 60 | Malachy | McHugh |
-| 61 | Mary | McKenna |
-| 62 | Maureen | McLaughlin |
-| 63 | Michael | McMahon |
-| 64 | Monica | Moore |
-| 65 | Muireann | Moran |
-| 66 | Niall | Muldoon |
-| 67 | Niamh | Mullan |
-| 68 | Nora | Mullins |
-| 69 | Oisin | Murphy |
-| 70 | Oonagh | Murray |
-| 71 | Orla | Nolan |
-| 72 | Padraig | O'Brien |
-| 73 | Patricia | O'Callaghan |
-| 74 | Patrick | O'Carroll |
-| 75 | Paul | O'Connell |
-| 76 | Peter | O'Connor |
-| 77 | Philomena | O'Doherty |
-| 78 | Rita | O'Donnell |
-| 79 | Roisin | O'Donovan |
-| 80 | Ronan | O'Gorman |
-| 81 | Rory | O'Hara |
-| 82 | Sadhbh | O'Leary |
-| 83 | Saoirse | O'Neill |
-| 84 | Seamus | O'Reilly |
-| 85 | Sean | O'Rourke |
-| 86 | Senan | O'Shea |
-| 87 | Shane | O'Sullivan |
-| 88 | Sheila | Power |
-| 89 | Sinead | Quinn |
-| 90 | Siobhan | Roche |
-| 91 | Sorcha | Ryan |
-| 92 | Stephen | Sheridan |
-| 93 | Tadhg | Smith |
-| 94 | Tallulah | Sweeney |
-| 95 | Tara | Thompson |
-| 96 | Therese | Tierney |
-| 97 | Thomas | Walsh |
-| 98 | Una | Whelan |
-| 99 | Ursula | White |
-| 100 | Veronica | Wilson |
-
-### Italian (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Adele | Amato |
-| 2 | Alberto | Barbieri |
-| 3 | Aldo | Basile |
-| 4 | Alessandra | Basso |
-| 5 | Alessandro | Bellandi |
-| 6 | Andrea | Bellini |
-| 7 | Angela | Benedetti |
-| 8 | Anna | Bernardi |
-| 9 | Antonietta | Bianchi |
-| 10 | Antonio | Bruno |
-| 11 | Beatrice | Caputo |
-| 12 | Bianca | Caruso |
-| 13 | Bruno | Casadei |
-| 14 | Carlo | Castelli |
-| 15 | Carmela | Cattaneo |
-| 16 | Caterina | Colombo |
-| 17 | Claudia | Conti |
-| 18 | Claudio | Coppola |
-| 19 | Concetta | Costa |
-| 20 | Daniela | D'Amico |
-| 21 | Dario | D'Angelo |
-| 22 | Domenico | Danesi |
-| 23 | Elena | De Angelis |
-| 24 | Enrico | De Felice |
-| 25 | Erminia | De Luca |
-| 26 | Ettore | De Rosa |
-| 27 | Fabio | De Santis |
-| 28 | Federica | Della Valle |
-| 29 | Felice | Donati |
-| 30 | Filippo | Esposito |
-| 31 | Flora | Fabbri |
-| 32 | Francesca | Farina |
-| 33 | Francesco | Ferrara |
-| 34 | Franco | Ferrari |
-| 35 | Gaetano | Ferraro |
-| 36 | Gaspare | Ferretti |
-| 37 | Gemma | Fontana |
-| 38 | Giacomo | Galli |
-| 39 | Gianni | Gallo |
-| 40 | Gilda | Gatti |
-| 41 | Giorgio | Gentili |
-| 42 | Giovanna | Giordano |
-| 43 | Giovanni | Giuliani |
-| 44 | Giuseppe | Grassi |
-| 45 | Giuseppina | Greco |
-| 46 | Grazia | Grossi |
-| 47 | Guido | Guerra |
-| 48 | Ida | Guerrieri |
-| 49 | Ines | Lazzari |
-| 50 | Isabella | Leone |
-| 51 | Laura | Lombardi |
-| 52 | Leonardo | Longhi |
-| 53 | Letizia | Longo |
-| 54 | Lorenzo | Mancini |
-| 55 | Lucia | Marchetti |
-| 56 | Luciano | Mariani |
-| 57 | Luigi | Marini |
-| 58 | Marcello | Marino |
-| 59 | Marco | Martinelli |
-| 60 | Margherita | Martini |
-| 61 | Maria | Mazza |
-| 62 | Mario | Messina |
-| 63 | Massimo | Molinari |
-| 64 | Matilde | Monti |
-| 65 | Maurizio | Morelli |
-| 66 | Michele | Moretti |
-| 67 | Monica | Negri |
-| 68 | Nicola | Neri |
-| 69 | Nunzia | Orlando |
-| 70 | Oreste | Pagano |
-| 71 | Orlando | Palumbo |
-| 72 | Ornella | Parisi |
-| 73 | Paola | Pasquali |
-| 74 | Paolo | Pavan |
-| 75 | Pasquale | Pellegrini |
-| 76 | Patrizia | Pellegrino |
-| 77 | Pietro | Piras |
-| 78 | Placido | Poli |
-| 79 | Quintino | Ricci |
-| 80 | Raffaele | Rinaldi |
-| 81 | Renzo | Riva |
-| 82 | Rita | Rizzo |
-| 83 | Roberta | Romano |
-| 84 | Roberto | Romeo |
-| 85 | Rosa | Rossi |
-| 86 | Rosaria | Ruggiero |
-| 87 | Ruggero | Russo |
-| 88 | Salvatore | Sanna |
-| 89 | Sebastiano | Santoro |
-| 90 | Sergio | Sartori |
-| 91 | Silvia | Serra |
-| 92 | Simona | Silvestri |
-| 93 | Speranza | Sorrentino |
-| 94 | Stefano | Testa |
-| 95 | Teodora | Valenti |
-| 96 | Teresa | Valentini |
-| 97 | Valentina | Valli |
-| 98 | Vincenzo | Villa |
-| 99 | Virginia | Vitale |
-| 100 | Vittoria | Vitali |
-
-### Japanese
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Ai | Abe |
-| 2 | Akari | Ando |
-| 3 | Akihiro | Aoki |
-| 4 | Akiko | Arai |
-| 5 | Akira | Chiba |
-| 6 | Aoi | Endo |
-| 7 | Arata | Fujii |
-| 8 | Atsuko | Fujimoto |
-| 9 | Ayaka | Fujita |
-| 10 | Chikara | Fujiwara |
-| 11 | Chiyoko | Fukuda |
-| 12 | Daichi | Goto |
-| 13 | Daiki | Hara |
-| 14 | Erika | Harada |
-| 15 | Fumiko | Hasegawa |
-| 16 | Genjiro | Hashimoto |
-| 17 | Hana | Hayashi |
-| 18 | Haruto | Hirano |
-| 19 | Hayato | Ikeda |
-| 20 | Himari | Imai |
-| 21 | Hinata | Inoue |
-| 22 | Hiroki | Ishida |
-| 23 | Hiroshi | Ishii |
-| 24 | Hisako | Ishikawa |
-| 25 | Hitoshi | Ito |
-| 26 | Ichika | Iwasaki |
-| 27 | Ichiro | Kagamihara |
-| 28 | Isamu | Kaneko |
-| 29 | Itsuki | Kato |
-| 30 | Jiro | Kikuchi |
-| 31 | Junko | Kimura |
-| 32 | Kaito | Kinoshita |
-| 33 | Kana | Kobayashi |
-| 34 | Katsuko | Kojima |
-| 35 | Katsuo | Kondo |
-| 36 | Kazuki | Kubo |
-| 37 | Kazuko | Kudō |
-| 38 | Kazuo | Maeda |
-| 39 | Keiko | Maruyama |
-| 40 | Kenji | Masuda |
-| 41 | Kenta | Matsuda |
-| 42 | Kiyoshi | Matsui |
-| 43 | Kohaku | Matsumoto |
-| 44 | Koharu | Matsuo |
-| 45 | Kota | Miura |
-| 46 | Makoto | Miyamoto |
-| 47 | Masako | Miyazaki |
-| 48 | Masao | Mori |
-| 49 | Mayumi | Morita |
-| 50 | Mei | Murakami |
-| 51 | Michiko | Murata |
-| 52 | Minato | Nakagawa |
-| 53 | Misaki | Nakajima |
-| 54 | Mitsuo | Nakamura |
-| 55 | Miyu | Nakano |
-| 56 | Nanami | Nakayama |
-| 57 | Naoko | Nishimura |
-| 58 | Niko | Noguchi |
-| 59 | Noboru | Nomura |
-| 60 | Noriaki | Ogawa |
-| 61 | Osamu | Ohno |
-| 62 | Ren | Okada |
-| 63 | Riku | Okamoto |
-| 64 | Rikuo | Onishi |
-| 65 | Rin | Ono |
-| 66 | Rina | Ota |
-| 67 | Rokuro | Otsuka |
-| 68 | Ryosuke | Saito |
-| 69 | Saburo | Sakai |
-| 70 | Sakura | Sakamoto |
-| 71 | Sara | Sakurai |
-| 72 | Satoshi | Sano |
-| 73 | Shigeru | Sasaki |
-| 74 | Shinji | Sato |
-| 75 | Shiro | Shibata |
-| 76 | Shizuko | Shimizu |
-| 77 | Sho | Sugawara |
-| 78 | Shoji | Sugimoto |
-| 79 | Sora | Sugiyama |
-| 80 | Sota | Suzuki |
-| 81 | Sumiko | Takada |
-| 82 | Tadao | Takagi |
-| 83 | Takashi | Takahashi |
-| 84 | Takumi | Takeda |
-| 85 | Takuya | Takeuchi |
-| 86 | Tamiko | Tamura |
-| 87 | Tatsuo | Tanaka |
-| 88 | Teruko | Taniguchi |
-| 89 | Tetsuo | Uchida |
-| 90 | Tomoko | Ueda |
-| 91 | Toru | Ueno |
-| 92 | Yasuo | Wada |
-| 93 | Yoko | Watanabe |
-| 94 | Yoshiko | Yamada |
-| 95 | Yoshio | Yamaguchi |
-| 96 | Yui | Yamamoto |
-| 97 | Yuma | Yamashita |
-| 98 | Yumi | Yamazaki |
-| 99 | Yusuke | Yokoyama |
-| 100 | Zen | Yoshida |
-
-### Korean
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Areum | An |
-| 2 | Bada | Bae |
-| 3 | Beomseok | Baek |
-| 4 | Boram | Ban |
-| 5 | Byungchul | Bang |
-| 6 | Chaewon | Bu |
-| 7 | Chulsoo | Byeon |
-| 8 | Dabin | Byun |
-| 9 | Daeho | Cha |
-| 10 | Daeun | Chae |
-| 11 | Dasom | Cheon |
-| 12 | Donghyun | Cho |
-| 13 | Doyun | Choi |
-| 14 | Eunji | Chu |
-| 15 | Eunjun | Dae |
-| 16 | Garam | Dan |
-| 17 | Gaul | Do |
-| 18 | Guknam | Dok |
-| 19 | Gunwoo | Dokgo |
-| 20 | Hajin | Dongbang |
-| 21 | Hajun | Eo |
-| 22 | Hana | Gadeu |
-| 23 | Haneul | Geum |
-| 24 | Hayan | Gi |
-| 25 | Heejin | Gil |
-| 26 | Heejung | Goh |
-| 27 | Hokwon | Gong |
-| 28 | Hyejin | Gu |
-| 29 | Hyunjun | Guk |
-| 30 | Hyunsook | Gung |
-| 31 | Hyunwoo | Gwon |
-| 32 | Ilkyu | Gye |
-| 33 | Irene | Gyeon |
-| 34 | Iseul | Ha |
-| 35 | Jaehyun | Ham |
-| 36 | Jiho | Han |
-| 37 | Jihoon | Hee |
-| 38 | Jinwoo | Heo |
-| 39 | Jiwoo | Hong |
-| 40 | Jiyeon | Hwang |
-| 41 | Joowon | Hwangbo |
-| 42 | Jungsook | Hyeong |
-| 43 | Junho | Hyun |
-| 44 | Junsu | Jang |
-| 45 | Juyeon | Je |
-| 46 | Kwangsoo | Jegal |
-| 47 | Kyunghee | Jeon |
-| 48 | Kyungja | Ji |
-| 49 | Kyungsoo | Jin |
-| 50 | Manse | Joo |
-| 51 | Maru | Jung |
-| 52 | Mina | Kang |
-| 53 | Minhee | Kim |
-| 54 | Minho | Kwak |
-| 55 | Minjun | Kwon |
-| 56 | Minseo | Lee |
-| 57 | Minsun | Lim |
-| 58 | Minwoo | Ma |
-| 59 | Misuk | Min |
-| 60 | Myunghee | Mo |
-| 61 | Nari | Moon |
-| 62 | Nayeon | Myeong |
-| 63 | Noeul | Nah |
-| 64 | Saetbyul | Nam |
-| 65 | Sangchul | Namgoong |
-| 66 | Sanghun | Namgung |
-| 67 | Seoah | Nan |
-| 68 | Seojun | Noh |
-| 69 | Seorin | Oh |
-| 70 | Seoyeon | Ok |
-| 71 | Seoyun | Park |
-| 72 | Seulgi | Pyeong |
-| 73 | Seungho | Pyo |
-| 74 | Seunghyun | Ryu |
-| 75 | Sia | Sa |
-| 76 | Siwoo | Seo |
-| 77 | Sooah | Seol |
-| 78 | Sookja | Seong |
-| 79 | Soonja | Seonu |
-| 80 | Sora | Seonwoo |
-| 81 | Soyeon | Seung |
-| 82 | Subin | Shin |
-| 83 | Sungmin | Sim |
-| 84 | Sunyoung | So |
-| 85 | Suri | Son |
-| 86 | Taehyun | Song |
-| 87 | Taeyang | Tak |
-| 88 | Woojin | Um |
-| 89 | Yejun | Wang |
-| 90 | Yeonwoo | Wi |
-| 91 | Yerim | Won |
-| 92 | Yoonseo | Woo |
-| 93 | Youngho | Yang |
-| 94 | Youngja | Yeo |
-| 95 | Youngjae | Yeom |
-| 96 | Youngnam | Yeon |
-| 97 | Youngsuk | Yoo |
-| 98 | Yuchan | Yoon |
-| 99 | Yujin | Yu |
-| 100 | Yuri | Yuk |
-
-### Middle Eastern
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abdullah | Abbas |
-| 2 | Abeer | Abdullah |
-| 3 | Adam | Ahmad |
-| 4 | Adel | Al-Farsi |
-| 5 | Ahmed | Al-Khalifa |
-| 6 | Ali | Al-Nahyan |
-| 7 | Amir | Al-Sabah |
-| 8 | Amira | Al-Saud |
-| 9 | Anas | Al-Sayed |
-| 10 | Ayesha | Al-Thani |
-| 11 | Bashir | Ali |
-| 12 | Basma | Alwan |
-| 13 | Bassem | Amin |
-| 14 | Bilal | Asfour |
-| 15 | Dina | Atiyeh |
-| 16 | Doaa | Azar |
-| 17 | Ehab | Badawi |
-| 18 | Fadi | Bakir |
-| 19 | Faisal | Bishara |
-| 20 | Farah | Daher |
-| 21 | Fatima | Darwish |
-| 22 | Ghada | Ebeid |
-| 23 | Ghassan | Fadel |
-| 24 | Hadi | Fahmy |
-| 25 | Hala | Farah |
-| 26 | Hamza | Faraj |
-| 27 | Hassan | Fawzi |
-| 28 | Hazem | Gaber |
-| 29 | Heidi | Ghanem |
-| 30 | Hoda | Habib |
-| 31 | Hussein | Haddad |
-| 32 | Ibrahim | Hamad |
-| 33 | Iman | Hamdan |
-| 34 | Inas | Hammoud |
-| 35 | Issam | Hanania |
-| 36 | Jalal | Harb |
-| 37 | Jinan | Hashem |
-| 38 | Jumana | Hassan |
-| 39 | Kamal | Hijazi |
-| 40 | Karim | Hussein |
-| 41 | Kenza | Ibrahim |
-| 42 | Khadija | Idris |
-| 43 | Khaled | Issa |
-| 44 | Laila | Jaber |
-| 45 | Lamia | Jalil |
-| 46 | Lana | Jamil |
-| 47 | Latif | Karam |
-| 48 | Latifa | Khalil |
-| 49 | Magdy | Khoury |
-| 50 | Maha | Lotfy |
-| 51 | Mahmoud | Maalouf |
-| 52 | Malik | Madi |
-| 53 | Mariam | Mahmoud |
-| 54 | Marwa | Majid |
-| 55 | Maya | Malki |
-| 56 | Mona | Mansour |
-| 57 | Mounira | Masri |
-| 58 | Muhammad | Mubarak |
-| 59 | Munir | Musa |
-| 60 | Mustafa | Mustafa |
-| 61 | Nabil | Nader |
-| 62 | Nadia | Najjar |
-| 63 | Najwa | Naser |
-| 64 | Nasir | Qasim |
-| 65 | Nisreen | Radi |
-| 66 | Noha | Ragab |
-| 67 | Noor | Rahman |
-| 68 | Ola | Rashed |
-| 69 | Omar | Saad |
-| 70 | Osama | Saba |
-| 71 | Radwa | Sadek |
-| 72 | Rafik | Said |
-| 73 | Ramzi | Salam |
-| 74 | Rania | Saleh |
-| 75 | Rawan | Salim |
-| 76 | Rayan | Salman |
-| 77 | Reem | Samara |
-| 78 | Sabah | Sarkis |
-| 79 | Saeed | Sayegh |
-| 80 | Sahar | Shaban |
-| 81 | Salma | Shami |
-| 82 | Sami | Sharif |
-| 83 | Sara | Sleiman |
-| 84 | Sherif | Sultan |
-| 85 | Sherine | Tahan |
-| 86 | Tamer | Taleb |
-| 87 | Tariq | Tamimi |
-| 88 | Thana | Uthman |
-| 89 | Wael | Waked |
-| 90 | Wafa | Yaghi |
-| 91 | Walid | Yassin |
-| 92 | Yara | Yazji |
-| 93 | Yasmin | Younis |
-| 94 | Yehia | Zaid |
-| 95 | Youssef | Zaki |
-| 96 | Zahra | Zarour |
-| 97 | Zaid | Zeid |
-| 98 | Zainab | Ziad |
-| 99 | Zeina | Zogby |
-| 100 | Ziad | Zuaiter |
-
-### Nicknames Forenames / Given Names
-
-**Table 1 of 6**
-
-| d100 | Result |
-|------|--------|
-| 1 | Ace |
-| 2 | Actual |
-| 3 | Albatross |
-| 4 | Alpha |
-| 5 | Amber |
-| 6 | Amethyst |
-| 7 | Anchor |
-| 8 | Angler |
-| 9 | Anvil |
-| 10 | Apex |
-| 11 | Avalanche |
-| 12 | Avenger |
-| 13 | Axle |
-| 14 | Badger |
-| 15 | Ballistic |
-| 16 | BamBam |
-| 17 | Bandit |
-| 18 | Banshee |
-| 19 | Baron |
-| 20 | Barrel |
-| 21 | Basecamp |
-| 22 | Bash |
-| 23 | Basilisk |
-| 24 | Beatdown |
-| 25 | Bedrock |
-| 26 | Biggs |
-| 27 | Bingo |
-| 28 | Birdie |
-| 29 | Biscuit |
-| 30 | Blackbird |
-| 31 | Blade |
-| 32 | Blaze |
-| 33 | Blink |
-| 34 | Blitz |
-| 35 | Bloodshot |
-| 36 | Bluewing |
-| 37 | Bolt |
-| 38 | Bonehead |
-| 39 | Bones |
-| 40 | Bonfire |
-| 41 | Book |
-| 42 | Boomer |
-| 43 | Boomstick |
-| 44 | Brass |
-| 45 | Bravo |
-| 46 | Breaker |
-| 47 | Breeze |
-| 48 | Brick |
-| 49 | Brisk |
-| 50 | Brute |
-| 51 | Bubbles |
-| 52 | Buck |
-| 53 | Buckle |
-| 54 | Buckshot |
-| 55 | Buddy |
-| 56 | Bullet |
-| 57 | Bullseye |
-| 58 | Bumper |
-| 59 | Bunker |
-| 60 | Burnout |
-| 61 | Buzz |
-| 62 | Buzzard |
-| 63 | Caboose |
-| 64 | Cairn |
-| 65 | Cakewalk |
-| 66 | Candystick |
-| 67 | Cannonball |
-| 68 | Captain |
-| 69 | Carmine |
-| 70 | Cartridge |
-| 71 | Cascade |
-| 72 | Cashew |
-| 73 | Castle |
-| 74 | Catalyst |
-| 75 | Catcher |
-| 76 | Catfish |
-| 77 | Caveman |
-| 78 | Centurion |
-| 79 | Chalk |
-| 80 | Challenger |
-| 81 | Champion |
-| 82 | Chaos |
-| 83 | Charger |
-| 84 | Charm |
-| 85 | Checkmate |
-| 86 | Cheerio |
-| 87 | Cherokee |
-| 88 | Chestnut |
-| 89 | Cheyenne |
-| 90 | Chieftain |
-| 91 | Chilly |
-| 92 | Chimera |
-| 93 | Chip |
-| 94 | Chisel |
-| 95 | Chops |
-| 96 | Chowder |
-| 97 | Chrome |
-| 98 | Chuckles |
-| 99 | Chunk |
-| 100 | Cipher |
-
-**Table 2 of 6**
-
-| d100 | Result |
-|------|--------|
-| 1 | Circuit |
-| 2 | Clank |
-| 3 | Clasp |
-| 4 | Cleric |
-| 5 | Clever |
-| 6 | Click |
-| 7 | Climber |
-| 8 | Clincher |
-| 9 | Cloak |
-| 10 | Cobalt |
-| 11 | Cobra |
-| 12 | Cocktail |
-| 13 | Cocky |
-| 14 | Codger |
-| 15 | Coercer |
-| 16 | Coffin |
-| 17 | Cogent |
-| 18 | Coin |
-| 19 | Coke |
-| 20 | Coldsnap |
-| 21 | Colt |
-| 22 | Comanche |
-| 23 | Combat |
-| 24 | Combover |
-| 25 | Comeback |
-| 26 | Comedian |
-| 27 | Comet |
-| 28 | Comfort |
-| 29 | Comic |
-| 30 | Commander |
-| 31 | Compass |
-| 32 | Compete |
-| 33 | Competent |
-| 34 | Competitor |
-| 35 | Complain |
-| 36 | Complaint |
-| 37 | Complete |
-| 38 | Complex |
-| 39 | Compliant |
-| 40 | Composer |
-| 41 | Composite |
-| 42 | Comrade |
-| 43 | Coral |
-| 44 | Corsair |
-| 45 | Count |
-| 46 | Cove |
-| 47 | Crash |
-| 48 | Cricket |
-| 49 | Crown |
-| 50 | Crusher |
-| 51 | Crystal |
-| 52 | Cutter |
-| 53 | Cutthroat |
-| 54 | Cypher |
-| 55 | Dagger |
-| 56 | Dancer |
-| 57 | Danger |
-| 58 | Dart |
-| 59 | Dash |
-| 60 | Deadeye |
-| 61 | Dealbreaker |
-| 62 | Deathblow |
-| 63 | Deathwish |
-| 64 | Deejay |
-| 65 | Deep |
-| 66 | Delta |
-| 67 | Demise |
-| 68 | Demon |
-| 69 | Deuce |
-| 70 | Devastate |
-| 71 | Devastation |
-| 72 | Devil |
-| 73 | Devious |
-| 74 | Devour |
-| 75 | Dexter |
-| 76 | Diablo |
-| 77 | Diamond |
-| 78 | Diehard |
-| 79 | Diesel |
-| 80 | Digger |
-| 81 | Dingo |
-| 82 | Dinker |
-| 83 | Diplomat |
-| 84 | Dipstick |
-| 85 | Dirge |
-| 86 | Dirk |
-| 87 | Dirt |
-| 88 | Dirtbag |
-| 89 | Dirtnap |
-| 90 | Discord |
-| 91 | Dispatch |
-| 92 | Disrupt |
-| 93 | Ditch |
-| 94 | Dive |
-| 95 | Doc |
-| 96 | Dragon |
-| 97 | Duke |
-| 98 | Dynamo |
-| 99 | Eagle |
-| 100 | Earl |
-
-**Table 3 of 6**
-
-| d100 | Result |
-|------|--------|
-| 1 | Echo |
-| 2 | Ember |
-| 3 | Emerald |
-| 4 | Enforcer |
-| 5 | Enigma |
-| 6 | Failsafe |
-| 7 | Falcon |
-| 8 | Fang |
-| 9 | Farseer |
-| 10 | Fidget |
-| 11 | Fire |
-| 12 | Firestarter |
-| 13 | Five |
-| 14 | Fixer |
-| 15 | Flash |
-| 16 | Flatline |
-| 17 | Flicker |
-| 18 | Foxtrot |
-| 19 | Fridge |
-| 20 | Frost |
-| 21 | Fumbles |
-| 22 | Furnace |
-| 23 | Gadget |
-| 24 | Gale |
-| 25 | Garnet |
-| 26 | Gator |
-| 27 | Ghost |
-| 28 | Giggles |
-| 29 | Gizmo |
-| 30 | Glint |
-| 31 | Glitch |
-| 32 | Goober |
-| 33 | Goose |
-| 34 | Griffin |
-| 35 | Grudge |
-| 36 | Gunfire |
-| 37 | Gutshot |
-| 38 | Hammer |
-| 39 | Harbor |
-| 40 | Harrow |
-| 41 | Havoc |
-| 42 | Hawk |
-| 43 | Hazard |
-| 44 | Heatwave |
-| 45 | Hellhound |
-| 46 | Hellion |
-| 47 | Hex |
-| 48 | Highroller |
-| 49 | Hopper |
-| 50 | Hotshot |
-| 51 | Hunter |
-| 52 | Hush |
-| 53 | Ice |
-| 54 | Impulse |
-| 55 | Inferno |
-| 56 | Ironclad |
-| 57 | Ironman |
-| 58 | Ironside |
-| 59 | Jackal |
-| 60 | Jackpot |
-| 61 | Jade |
-| 62 | Jager |
-| 63 | Jammer |
-| 64 | Jasper |
-| 65 | Jester |
-| 66 | Jetstream |
-| 67 | Jinx |
-| 68 | Jockey |
-| 69 | Joker |
-| 70 | Jostle |
-| 71 | Judge |
-| 72 | Jugular |
-| 73 | Kaiser |
-| 74 | Kestrel |
-| 75 | Kilo |
-| 76 | King |
-| 77 | Knight |
-| 78 | Knockout |
-| 79 | Knucklehead |
-| 80 | Knuckles |
-| 81 | Kraken |
-| 82 | Labrador |
-| 83 | Lancer |
-| 84 | Laser |
-| 85 | Launchpad |
-| 86 | Leadfoot |
-| 87 | Ledger |
-| 88 | Lefty |
-| 89 | Lima |
-| 90 | Lineman |
-| 91 | Link |
-| 92 | Livewire |
-| 93 | Longshot |
-| 94 | Lord |
-| 95 | Lucky |
-| 96 | Lunchmeat |
-| 97 | Lynx |
-| 98 | Mackerel |
-| 99 | Madman |
-| 100 | Mainframe |
-
-**Table 4 of 6**
-
-| d100 | Result |
-|------|--------|
-| 1 | Makeover |
-| 2 | Mako |
-| 3 | Mantis |
-| 4 | Marauder |
-| 5 | Maverick |
-| 6 | Meatball |
-| 7 | Meathead |
-| 8 | Mercury |
-| 9 | Midnight |
-| 10 | Mimic |
-| 11 | Minefield |
-| 12 | Mischief |
-| 13 | Mojo |
-| 14 | Mole |
-| 15 | Monarch |
-| 16 | Mongoose |
-| 17 | Monsoon |
-| 18 | Moonlight |
-| 19 | Mortar |
-| 20 | Moss |
-| 21 | Mothball |
-| 22 | Mudslinger |
-| 23 | Mule |
-| 24 | Mumbles |
-| 25 | Mustang |
-| 26 | Nails |
-| 27 | Narrator |
-| 28 | Nemesis |
-| 29 | Nickel |
-| 30 | Niner |
-| 31 | Nitro |
-| 32 | Nobody |
-| 33 | Nomad |
-| 34 | Noodle |
-| 35 | Nosedive |
-| 36 | Nova |
-| 37 | Nugget |
-| 38 | Numbskull |
-| 39 | Obsidian |
-| 40 | Ogre |
-| 41 | Omega |
-| 42 | Omen |
-| 43 | One |
-| 44 | Onyx |
-| 45 | Opal |
-| 46 | Operator |
-| 47 | Opportunist |
-| 48 | Oracle |
-| 49 | Oriel |
-| 50 | Orion |
-| 51 | Orphan |
-| 52 | Outlaw |
-| 53 | Outpost |
-| 54 | Outsider |
-| 55 | Overload |
-| 56 | Overtime |
-| 57 | Packrat |
-| 58 | Paladin |
-| 59 | Panther |
-| 60 | Paperboy |
-| 61 | Paratrooper |
-| 62 | Patches |
-| 63 | Patchwork |
-| 64 | Pathfinder |
-| 65 | Patriarch |
-| 66 | Patrol |
-| 67 | Pattern |
-| 68 | Payback |
-| 69 | Peacemaker |
-| 70 | Pearl |
-| 71 | Pebbles |
-| 72 | Peephole |
-| 73 | Peewee |
-| 74 | Penthouse |
-| 75 | Pepper |
-| 76 | Periscope |
-| 77 | Perp |
-| 78 | Phantom |
-| 79 | Phoenix |
-| 80 | Piper |
-| 81 | Piston |
-| 82 | Potato |
-| 83 | Prime |
-| 84 | Prince |
-| 85 | Prof |
-| 86 | Prophet |
-| 87 | Pry |
-| 88 | Pyro |
-| 89 | Quake |
-| 90 | Quartz |
-| 91 | Quickdraw |
-| 92 | Quill |
-| 93 | Radar |
-| 94 | Raptor |
-| 95 | Rascal |
-| 96 | Raven |
-| 97 | Razor |
-| 98 | Reaper |
-| 99 | Rebel |
-| 100 | Reptile |
-
-**Table 5 of 6**
-
-| d100 | Result |
-|------|--------|
-| 1 | Rex |
-| 2 | Ricochet |
-| 3 | Rivet |
-| 4 | Rogue |
-| 5 | Ronin |
-| 6 | Rook |
-| 7 | Rookie |
-| 8 | Rover |
-| 9 | Royal |
-| 10 | Ruby |
-| 11 | Runner |
-| 12 | Sable |
-| 13 | Sabotage |
-| 14 | Samurai |
-| 15 | Sapphire |
-| 16 | Saw |
-| 17 | Scorpion |
-| 18 | Scout |
-| 19 | Screwball |
-| 20 | Screwup |
-| 21 | Sentinel |
-| 22 | Seven |
-| 23 | Shadow |
-| 24 | Shark |
-| 25 | Sharky |
-| 26 | Shiv |
-| 27 | Shorty |
-| 28 | Shutdown |
-| 29 | Sigma |
-| 30 | Six |
-| 31 | Skipper |
-| 32 | Skippy |
-| 33 | Slack |
-| 34 | Slash |
-| 35 | Slate |
-| 36 | Slick |
-| 37 | Smiley |
-| 38 | Sneezy |
-| 39 | Snipes |
-| 40 | Sovereign |
-| 41 | Spark |
-| 42 | Specter |
-| 43 | Spider |
-| 44 | Spike |
-| 45 | Splinter |
-| 46 | Stalker |
-| 47 | Static |
-| 48 | Steel |
-| 49 | Stinger |
-| 50 | Stinkbug |
-| 51 | Storm |
-| 52 | Straggler |
-| 53 | Striker |
-| 54 | Stumpy |
-| 55 | Swindle |
-| 56 | Talon |
-| 57 | Tango |
-| 58 | Tank |
-| 59 | Tempest |
-| 60 | Thorn |
-| 61 | Three |
-| 62 | Thunder |
-| 63 | Tinker |
-| 64 | Tiny |
-| 65 | Titan |
-| 66 | Topaz |
-| 67 | Torch |
-| 68 | Torque |
-| 69 | Touchdown |
-| 70 | Trick |
-| 71 | Trigger |
-| 72 | Trooper |
-| 73 | Twitch |
-| 74 | Two |
-| 75 | Tycoon |
-| 76 | Umber |
-| 77 | Umbra |
-| 78 | Vagabond |
-| 79 | Valkyrie |
-| 80 | Vanguard |
-| 81 | Vector |
-| 82 | Vertigo |
-| 83 | Victor |
-| 84 | Vigil |
-| 85 | Viper |
-| 86 | Vulcan |
-| 87 | Waddles |
-| 88 | Warden |
-| 89 | Warlock |
-| 90 | Warlord |
-| 91 | Watchdog |
-| 92 | Wayfinder |
-| 93 | Weasel |
-| 94 | Whiskey |
-| 95 | Whisper |
-| 96 | Whiz |
-| 97 | Wildcard |
-| 98 | Wildcat |
-| 99 | Wingnut |
-| 100 | Wobbles |
-
-**Table 6 of 6**
-
-| d10 | Result |
-|------|--------|
-| 1 | Wolf |
-| 2 | Wraith |
-| 3 | Wrench |
-| 4 | Wrongway |
-| 5 | Xylo |
-| 6 | Zenith |
-| 7 | Zephyr |
-| 8 | Zero |
-| 9 | Zodiac |
-| 10 | Zulu |
-
-### North African
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abdel | Abdelrahman |
-| 2 | Adel | Abdou |
-| 3 | Ahmed | Abid |
-| 4 | Aicha | Allali |
-| 5 | Amel | Amrani |
-| 6 | Amine | Badawi |
-| 7 | Amir | Belkaid |
-| 8 | Anas | Benali |
-| 9 | Assia | Bennani |
-| 10 | Bassem | Boudiaf |
-| 11 | Batoul | Brahimi |
-| 12 | Brahim | Chahine |
-| 13 | Chaimae | Chaoui |
-| 14 | Chaker | Cherif |
-| 15 | Chakir | Choukri |
-| 16 | Dalila | Dahmani |
-| 17 | Diaa | Daoud |
-| 18 | Dounia | Djebbar |
-| 19 | Driss | Dridi |
-| 20 | Elias | El-Amine |
-| 21 | Esma | El-Baz |
-| 22 | Ezzat | Emara |
-| 23 | Fadel | Es-Said |
-| 24 | Farida | Farrah |
-| 25 | Fatiha | Fassi |
-| 26 | Fatima | Fathi |
-| 27 | Fayez | Fekir |
-| 28 | Fouad | Fouad |
-| 29 | Gamal | Galal |
-| 30 | Ghali | Ghazali |
-| 31 | Ghizlane | Gherbi |
-| 32 | Habib | Gomaa |
-| 33 | Hakim | Guellal |
-| 34 | Hamza | Haddad |
-| 35 | Hany | Hadjadj |
-| 36 | Hiba | Hafiz |
-| 37 | Hicham | Hamdy |
-| 38 | Houda | Hamidi |
-| 39 | Idriss | Idrissi |
-| 40 | Ihab | Iskander |
-| 41 | Imane | Ismail |
-| 42 | Ines | Issad |
-| 43 | Ishaq | Jarrar |
-| 44 | Jaouad | Jebali |
-| 45 | Jihane | Jouini |
-| 46 | Kaouthar | Kabbaj |
-| 47 | Karim | Kacimi |
-| 48 | Kenan | Kamal |
-| 49 | Khadija | Khalaf |
-| 50 | Khaled | Khedis |
-| 51 | Lamia | Lahlou |
-| 52 | Latifa | Lakhdar |
-| 53 | Leila | Laroui |
-| 54 | Lotfi | Lotfi |
-| 55 | Mahmoud | Madani |
-| 56 | Malika | Maged |
-| 57 | Meriem | Mahfouz |
-| 58 | Mohamed | Mansour |
-| 59 | Mouna | Mekki |
-| 60 | Mounir | Messaoudi |
-| 61 | Mustafa | Naggar |
-| 62 | Nabil | Nait |
-| 63 | Nadia | Naji |
-| 64 | Nadir | Nasri |
-| 65 | Nasser | Omari |
-| 66 | Nawal | Osman |
-| 67 | Omar | Oudai |
-| 68 | Othman | Oullow |
-| 69 | Ouarda | Pacha |
-| 70 | Qasim | Qadi |
-| 71 | Rabia | Qutb |
-| 72 | Rachid | Rachidi |
-| 73 | Rayan | Rahmani |
-| 74 | Reda | Rezgui |
-| 75 | Rim | Rifaat |
-| 76 | Saad | Sabry |
-| 77 | Safia | Saidi |
-| 78 | Salma | Slimani |
-| 79 | Samira | Smahi |
-| 80 | Sana | Taleb |
-| 81 | Siham | Tawfik |
-| 82 | Sofiane | Tazi |
-| 83 | Taher | Toumi |
-| 84 | Tarek | Ubayd |
-| 85 | Touria | Uled |
-| 86 | Umeya | Vakil |
-| 87 | Uthman | Veziri |
-| 88 | Vahid | Wagdi |
-| 89 | Varda | Wahabi |
-| 90 | Wafa | Wali |
-| 91 | Walid | Xenon |
-| 92 | Wassim | Yacoubi |
-| 93 | Xena | Yahia |
-| 94 | Yahya | Yassin |
-| 95 | Yara | Yousfi |
-| 96 | Yasmina | Zaki |
-| 97 | Youssef | Zemmouri |
-| 98 | Ziad | Zeroual |
-| 99 | Zineb | Ziani |
-| 100 | Zohra | Zidi |
-
-### North American (Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Aaron | Adams |
-| 2 | Abigail | Allen |
-| 3 | Adrian | Alvarez |
-| 4 | Alice | Anderson |
-| 5 | Amelia | Bailey |
-| 6 | Anthony | Baker |
-| 7 | Aria | Bennett |
-| 8 | Asher | Brooks |
-| 9 | Aurora | Brown |
-| 10 | Ava | Campbell |
-| 11 | Avery | Carter |
-| 12 | Bella | Castillo |
-| 13 | Benjamin | Chavez |
-| 14 | Brooks | Clark |
-| 15 | Caleb | Collins |
-| 16 | Charles | Cook |
-| 17 | Charlotte | Cooper |
-| 18 | Chloe | Cox |
-| 19 | Christian | Cruz |
-| 20 | Christopher | Davis |
-| 21 | Cooper | Diaz |
-| 22 | Delilah | Edwards |
-| 23 | Eleanor | Evans |
-| 24 | Elena | Flores |
-| 25 | Elias | Foster |
-| 26 | Elijah | Garcia |
-| 27 | Elizabeth | Gomez |
-| 28 | Ellie | Gonzalez |
-| 29 | Emilia | Gray |
-| 30 | Emily | Green |
-| 31 | Emma | Gutierrez |
-| 32 | Ethan | Hall |
-| 33 | Evelyn | Harris |
-| 34 | Ezra | Hernandez |
-| 35 | Gabriel | Hill |
-| 36 | Genesis | Howard |
-| 37 | Gianna | Hughes |
-| 38 | Grayson | Jackson |
-| 39 | Hannah | James |
-| 40 | Harper | Jimenez |
-| 41 | Hazel | Johnson |
-| 42 | Henry | Jones |
-| 43 | Hudson | Kelly |
-| 44 | Hunter | Kim |
-| 45 | Isaac | King |
-| 46 | Isabella | Lee |
-| 47 | Isaiah | Lewis |
-| 48 | Ivy | Long |
-| 49 | Jack | Lopez |
-| 50 | Jackson | Martin |
-| 51 | James | Martinez |
-| 52 | John | Mendoza |
-| 53 | Josiah | Miller |
-| 54 | Julian | Mitchell |
-| 55 | Kennedy | Moore |
-| 56 | Layla | Morales |
-| 57 | Leilani | Morgan |
-| 58 | Leo | Morris |
-| 59 | Levi | Murphy |
-| 60 | Liam | Myers |
-| 61 | Lily | Nelson |
-| 62 | Lincoln | Nguyen |
-| 63 | Logan | Ortiz |
-| 64 | Luca | Parker |
-| 65 | Lucas | Patel |
-| 66 | Luke | Perez |
-| 67 | Luna | Peterson |
-| 68 | Mason | Phillips |
-| 69 | Mateo | Price |
-| 70 | Maverick | Ramirez |
-| 71 | Maya | Ramos |
-| 72 | Mia | Reed |
-| 73 | Mila | Reyes |
-| 74 | Miles | Richardson |
-| 75 | Naomi | Rivera |
-| 76 | Nathan | Roberts |
-| 77 | Noah | Robinson |
-| 78 | Nora | Rodriguez |
-| 79 | Nova | Rogers |
-| 80 | Oliver | Ross |
-| 81 | Olivia | Ruiz |
-| 82 | Owen | Sanchez |
-| 83 | Penelope | Sanders |
-| 84 | Quinn | Scott |
-| 85 | Riley | Smith |
-| 86 | Samuel | Stewart |
-| 87 | Scarlett | Taylor |
-| 88 | Sebastian | Thomas |
-| 89 | Serenity | Thompson |
-| 90 | Skylar | Torres |
-| 91 | Sofia | Turner |
-| 92 | Sophia | Walker |
-| 93 | Stella | Ward |
-| 94 | Theodore | Watson |
-| 95 | Thomas | White |
-| 96 | Violet | Williams |
-| 97 | William | Wilson |
-| 98 | Willow | Wood |
-| 99 | Wyatt | Wright |
-| 100 | Zoe | Young |
-
-### Oceania (Polynesian, Melanesian, & Micronesian)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abacca | Adeang |
-| 2 | Afu | Afeaki |
-| 3 | Aisea | Aingimea |
-| 4 | Akamu | Aitaro |
-| 5 | Alani | Aitau |
-| 6 | Ana | Anastacio |
-| 7 | Anjain | Anote |
-| 8 | Anuhea | Atanraoi |
-| 9 | Aroha | Awira |
-| 10 | Bwij | Bainimarama |
-| 11 | Eda | Baiteke |
-| 12 | Eleni | Bavadra |
-| 13 | Ema | Brown |
-| 14 | Enje | Bureti |
-| 15 | Fetu | Chan |
-| 16 | Fiafia | Chin |
-| 17 | Halia | Clodumar |
-| 18 | Hana | Deireragea |
-| 19 | Heerani | Dowiyogo |
-| 20 | Hemi | Esang |
-| 21 | Ikaika | Etpison |
-| 22 | Inoke | Faumuina |
-| 23 | Iolani | Finau |
-| 24 | Ione | Fonua |
-| 25 | Jikon | Fusi |
-| 26 | Jone | Ganilau |
-| 27 | Kabua | Genia |
-| 28 | Kai | Gioura |
-| 29 | Kalani | Harris |
-| 30 | Kauri | Hau'ofa |
-| 31 | Keanu | Heather |
-| 32 | Kekoa | Heine |
-| 33 | Kesa | Hekari |
-| 34 | Kiana | Henry |
-| 35 | Kilo | Ieremia |
-| 36 | Kiri | Iuta |
-| 37 | Kitione | Kabua |
-| 38 | Lagi | Kaitu |
-| 39 | Laisa | Kava |
-| 40 | Lajidik | Kirata |
-| 41 | Leilani | Koloamatangi |
-| 42 | Lijon | Kuartei |
-| 43 | Lola | Kun |
-| 44 | Lono | Kyota |
-| 45 | Losa | Latu |
-| 46 | Luisa | Loeak |
-| 47 | Makani | Maamau |
-| 48 | Malie | Mafi |
-| 49 | Mana | Maoate |
-| 50 | Manaia | Mara |
-| 51 | Manea | Marat |
-| 52 | Manoa | Mariur |
-| 53 | Marama | Mataio |
-| 54 | Mele | Morauta |
-| 55 | Mere | Muller |
-| 56 | Mina | Nakamura |
-| 57 | Moana | Namaliu |
-| 58 | Mwadark | Nanyuma |
-| 59 | Nalu | Nata |
-| 60 | Neamon | Nemra |
-| 61 | Neta | Ngiraked |
-| 62 | Ngaira | Note |
-| 63 | Nikau | Numangatini |
-| 64 | Noelani | O'Neill |
-| 65 | Pania | Oiterong |
-| 66 | Paora | Pritchard |
-| 67 | Peni | Puna |
-| 68 | Pua | Qereqeretabua |
-| 69 | Pule | Rabuka |
-| 70 | Rangi | Remeliik |
-| 71 | Rawiri | Remengesau |
-| 72 | Salote | Sadang |
-| 73 | Sani | Salii |
-| 74 | Seini | Scoop |
-| 75 | Semisi | Sengebau |
-| 76 | Sereana | Skate |
-| 77 | Sina | Somare |
-| 78 | Sione | Tabai |
-| 79 | Tala | Takatoka |
-| 80 | Tamati | Tamanivalu |
-| 81 | Tane | Taneti |
-| 82 | Taniela | Taumalolo |
-| 83 | Tariak | Teaiwa |
-| 84 | Tasi | Teiwaki |
-| 85 | Teina | Temetiu |
-| 86 | Teixera | Tito |
-| 87 | Teuila | Tong |
-| 88 | Teura | Toribiong |
-| 89 | Tevita | Tuigamala |
-| 90 | Tia | Tuivasa |
-| 91 | Toke | Tupou |
-| 92 | Uili | Turepu |
-| 93 | Vaea | Uherbelau |
-| 94 | Vaimiti | Vea |
-| 95 | Vaitiare | Waqa |
-| 96 | Vasiti | Whipps |
-| 97 | Viliami | Whippy |
-| 98 | Waimarie | Williams |
-| 99 | Wiki | Wingti |
-| 100 | Wiremu | Zedkaia |
-
-### Polish
-
-**Table 1 of 2**
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Adam | Adamczyk |
-| 2 | Agnieszka | Adamowicz |
-| 3 | Aleksandra | Antczak |
-| 4 | Alicja | Bąk |
-| 5 | Andrzej | Balcerzak |
-| 6 | Anna | Banasik |
-| 7 | Antoni | Baran |
-| 8 | Artur | Barański |
-| 9 | Barbara | Barczewski |
-| 10 | Bartosz | Bednarski |
-| 11 | Beata | Bednarz |
-| 12 | Bogdan | Bielecki |
-| 13 | Bożena | Bielorucki |
-| 14 | Czesław | Bienkowski |
-| 15 | Danuta | Borkowski |
-| 16 | Daria | Borowski |
-| 17 | Dariusz | Bralewski |
-| 18 | Dominik | Brzeziński |
-| 19 | Dorota | Brzezinski |
-| 20 | Edyta | Chmielarzewicz |
-| 21 | Elżbieta | Chmielewski |
-| 22 | Ewa | Chojnacki |
-| 23 | Ewelina | Chrzanowski |
-| 24 | Filip | Cieslak |
-| 25 | Franciszek | Cieszkiewicz |
-| 26 | Grażyna | Czajkowski |
-| 27 | Grzegorz | Czarnecki |
-| 28 | Halina | Czerniewicz |
-| 29 | Helena | Dabrowiecki |
-| 30 | Henryk | Dąbrowski |
-| 31 | Irena | Dabrowski |
-| 32 | Iwona | Dobrogostowicz |
-| 33 | Izabela | Drogomirski |
-| 34 | Jadwiga | Duda |
-| 35 | Jakub | Dudek |
-| 36 | Jan | Falendysz |
-| 37 | Jerzy | Gajewski |
-| 38 | Joanna | Gieratowski |
-| 39 | Jolanta | Głowacki |
-| 40 | Józef | Golebiewski |
-| 41 | Julia | Góra |
-| 42 | Justyna | Gorski |
-| 43 | Kacper | Gorzelewski |
-| 44 | Kamil | Grabowski |
-| 45 | Kamila | Hulewicz |
-| 46 | Karol | Ilczuk |
-| 47 | Karolina | Jabłoński |
-| 48 | Katarzyna | Jablonski |
-| 49 | Kazimierz | Jakubowski |
-| 50 | Kinga | Janicki |
-| 51 | Klaudia | Jankowski |
-| 52 | Konrad | Jaromirski |
-| 53 | Krystyna | Jarosz |
-| 54 | Krzysztof | Jasiński |
-| 55 | Łukasz | Jaworski |
-| 56 | Maciej | Jedrzejczakowski |
-| 57 | Magdalena | Jurek |
-| 58 | Małgorzata | Kaczmarczyk |
-| 59 | Marcin | Kaczmarek |
-| 60 | Marek | Kalinowski |
-| 61 | Maria | Kamiński |
-| 62 | Marian | Kaminski |
-| 63 | Marta | Kardaszewicz |
-| 64 | Mateusz | Kasperczak |
-| 65 | Michał | Kasperski |
-| 66 | Mikołaj | Kaźmierczak |
-| 67 | Milena | Klimaszewicz |
-| 68 | Mirosław | Klimek |
-| 69 | Monika | Kołodziej |
-| 70 | Natalia | Kolodziej |
-| 71 | Oliwia | Konieczny |
-| 72 | Patrycja | Kopeć |
-| 73 | Patryk | Kowalczyk |
-| 74 | Paulina | Kowalski |
-| 75 | Paweł | Kozielczyk |
-| 76 | Piotr | Kozłowski |
-| 77 | Przemysław | Kozlowski |
-| 78 | Rafał | Krajewski |
-| 79 | Robert | Krakowiak |
-| 80 | Roman | Krawczyk |
-| 81 | Ryszard | Król |
-| 82 | Sandra | Krol |
-| 83 | Sebastian | Krupa |
-| 84 | Stanisław | Kubiak |
-| 85 | Stefan | Kucharski |
-| 86 | Sylwia | Kurek |
-| 87 | Szymon | Kwiatkowski |
-| 88 | Tadeusz | Laskowron |
-| 89 | Teresa | Laskowski |
-| 90 | Tomasz | Leszczynski |
-| 91 | Ursula | Lewandowski |
-| 92 | Weronika | Lipiński |
-| 93 | Wiktor | Lis |
-| 94 | Wiktoria | Lisowski |
-| 95 | Wioletta | Lutoszynski |
-| 96 | Władysław | Maciejewski |
-| 97 | Wojciech | Madej |
-| 98 | Zbigniew | Majewski |
-| 99 | Zofia | Malinowski |
-| 100 | Zuzanna | Marciniak |
-
-**Table 2 of 2**
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 101 | - | Marek |
-| 102 | - | Matusiak |
-| 103 | - | Mazur |
-| 104 | - | Mazurek |
-| 105 | - | Michalak |
-| 106 | - | Michalski |
-| 107 | - | Mierzanowicz |
-| 108 | - | Mlynarczykowski |
-| 109 | - | Mróz |
-| 110 | - | Mroz |
-| 111 | - | Mroziuk |
-| 112 | - | Mucha |
-| 113 | - | Niemojewski |
-| 114 | - | Niewiadomszczak |
-| 115 | - | Nowak |
-| 116 | - | Nowakowski |
-| 117 | - | Nowicki |
-| 118 | - | Odrzywolski |
-| 119 | - | Olejnik |
-| 120 | - | Olszewski |
-| 121 | - | Ostaszewicz |
-| 122 | - | Ostrowski |
-| 123 | - | Parchowicz |
-| 124 | - | Pawlak |
-| 125 | - | Pawlik |
-| 126 | - | Pawłowski |
-| 127 | - | Pawlowski |
-| 128 | - | Piatek |
-| 129 | - | Pietrzak |
-| 130 | - | Piotrowski |
-| 131 | - | Pluta |
-| 132 | - | Polak |
-| 133 | - | Przyborowski |
-| 134 | - | Przybylski |
-| 135 | - | Radzimierski |
-| 136 | - | Ratajczak |
-| 137 | - | Rogowski |
-| 138 | - | Rogozinski |
-| 139 | - | Romanowski |
-| 140 | - | Rutkowski |
-| 141 | - | Rybak |
-| 142 | - | Sadowski |
-| 143 | - | Sarnowicz |
-| 144 | - | Sawicki |
-| 145 | - | Sienkiewicz |
-| 146 | - | Sikora |
-| 147 | - | Sikorski |
-| 148 | - | Slomka |
-| 149 | - | Sobczak |
-| 150 | - | Sokołowski |
-| 151 | - | Sokolowski |
-| 152 | - | Sowa |
-| 153 | - | Stanisławski |
-| 154 | - | Stępień |
-| 155 | - | Stepien |
-| 156 | - | Sulkowicz |
-| 157 | - | Swiderski |
-| 158 | - | Szczepański |
-| 159 | - | Szewczyk |
-| 160 | - | Szymański |
-| 161 | - | Szymanski |
-| 162 | - | Szymczak |
-| 163 | - | Tomaszewski |
-| 164 | - | Tomczak |
-| 165 | - | Truszkowski |
-| 166 | - | Twardogorski |
-| 167 | - | Urban |
-| 168 | - | Urbanski |
-| 169 | - | Walczak |
-| 170 | - | Wasilewski |
-| 171 | - | Wieczorek |
-| 172 | - | Wilk |
-| 173 | - | Wiśniewski |
-| 174 | - | Wisniewski |
-| 175 | - | Witek |
-| 176 | - | Witkowski |
-| 177 | - | Włodarczyk |
-| 178 | - | Wlodarczyk |
-| 179 | - | Wojciechowski |
-| 180 | - | Wójcik |
-| 181 | - | Wojcik |
-| 182 | - | Wojdanowicz |
-| 183 | - | Wojtas |
-| 184 | - | Woźniak |
-| 185 | - | Wróbel |
-| 186 | - | Wrobel |
-| 187 | - | Wróblewski |
-| 188 | - | Wyrzykiewicz |
-| 189 | - | Wysocki |
-| 190 | - | Zając |
-| 191 | - | Zajac |
-| 192 | - | Zakrzewski |
-| 193 | - | Zalewski |
-| 194 | - | Zarembinski |
-| 195 | - | Zawadzki |
-| 196 | - | Zdanowicz |
-| 197 | - | Zieliński |
-| 198 | - | Zielinski |
-| 199 | - | Zielonka |
-| 200 | - | Zolnowski |
-
-### Pulp Names
-
-**Table 1 of 2**
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abraham | Adani |
-| 2 | Ace | Ahmed |
-| 3 | Ada | Aldridge |
-| 4 | Adeyemi | Ali |
-| 5 | Adrian | Arden |
-| 6 | Ahmed | Ashcroft |
-| 7 | Aisha | Ashford |
-| 8 | Akiko | Ashton |
-| 9 | Akira | Barrett |
-| 10 | Alden | Baskerville |
-| 11 | Alejandro | Bay |
-| 12 | Alexander | Benedikt |
-| 13 | Alice | Bergman |
-| 14 | Allan | Blackburn |
-| 15 | Amara | Blackwell |
-| 16 | Amelia | Blackwood |
-| 17 | Amir | Brennan |
-| 18 | Andrea | Bruce |
-| 19 | Anjali | Caldwell |
-| 20 | Annie | Carnahan |
-| 21 | Ardeth | Carson |
-| 22 | Arizona | Carter |
-| 23 | Arjun | Castillo |
-| 24 | Arnold | Chadwick |
-| 25 | Austin | Chambers |
-| 26 | Azila | Charles |
-| 27 | Barnaby | Chase |
-| 28 | Baron | Chen |
-| 29 | Bartholomew | Covington |
-| 30 | Basil | Crane |
-| 31 | Beatrice | Cross |
-| 32 | Bernard | Dalton |
-| 33 | Bogart | Danger |
-| 34 | Brendan | Davenport |
-| 35 | Brick | de la Vega |
-| 36 | Brother | Deering |
-| 37 | Buck | Desai |
-| 38 | Cameron | Desmond |
-| 39 | Captain | Diallo |
-| 40 | Cassian | Dixon |
-| 41 | Catherine | Donovan |
-| 42 | Charlotte | Drake |
-| 43 | Chester | Drummond |
-| 44 | Claude | Dryden |
-| 45 | Clayton | Dugan |
-| 46 | Cole | Erskine |
-| 47 | Constance | Esmond |
-| 48 | Cornelius | Everington |
-| 49 | Crash | Everton |
-| 50 | Cyril | Fairchild |
-| 51 | Dale | Fitzpatrick |
-| 52 | Darius | Flannery |
-| 53 | Dash | Flint |
-| 54 | Declan | Fogg |
-| 55 | Diana | Fordham |
-| 56 | Dirk | Forrester |
-| 57 | Doc | Fortune |
-| 58 | Douglas | Fox |
-| 59 | Duke | Franklin |
-| 60 | Dum Dum | Frost |
-| 61 | Dusty | Galloway |
-| 62 | Edie | Goodwin |
-| 63 | Edmund | Gordon |
-| 64 | Eleanor | Grantham |
-| 65 | Elena | Grayson |
-| 66 | Emerson | Greenstreet |
-| 67 | Ernest | Greystoke |
-| 68 | Eva | Gupta |
-| 69 | Evelyn | Hardcastle |
-| 70 | Everett | Harington |
-| 71 | Eze | Harker |
-| 72 | Fabian | Harper |
-| 73 | Father | Harrington |
-| 74 | Fatima | Hart |
-| 75 | Felix | Hartley |
-| 76 | Fitzgerald | Hassan |
-| 77 | Flash | Hawke |
-| 78 | Flint | Hawthorne |
-| 79 | Forrest | Hickman |
-| 80 | Franklin | Hunt |
-| 81 | Gabriel | Ibrahim |
-| 82 | Garrett | Ingram |
-| 83 | Geoffrey | Inverness |
-| 84 | Grace | Iverson |
-| 85 | Gregory | Iyer |
-| 86 | Hank | Jackson |
-| 87 | Hardwick | Jameson |
-| 88 | Harrison | Jamison |
-| 89 | Hector | Jefferson |
-| 90 | Helena | Jenkins |
-| 91 | Henry | Jericho |
-| 92 | Hercule | Johnson |
-| 93 | Hiroshi | Jones |
-| 94 | Hollis | Kane |
-| 95 | Howard | Kapoor |
-| 96 | Hugo | Kellerman |
-| 97 | Indiana | Kensington |
-| 98 | Ingrid | Khan |
-| 99 | Irwin | Kimura |
-| 100 | Isaac | Kingsley |
-
-**Table 2 of 2**
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 101 | Isabella | Kissinger |
-| 102 | Isabelle | Knight |
-| 103 | Ivan | Kobayashi |
-| 104 | Jabari | LaBelle |
-| 105 | Jack | Lancaster |
-| 106 | Jake | Langley |
-| 107 | Jane | Lawson |
-| 108 | Jasper | Lexington |
-| 109 | Jerome | Llewelyn |
-| 110 | Jet | Lorre |
-| 111 | Jonathan | Malhotra |
-| 112 | Josephine | Mallory |
-| 113 | Julian | Malone |
-| 114 | Julius | Mansfield |
-| 115 | Karim | Marlowe |
-| 116 | Kendall | Marple |
-| 117 | Kenji | Mattheson |
-| 118 | Kenneth | Mbatha |
-| 119 | Kingsley | Mensah |
-| 120 | Kit | Mercer |
-| 121 | Kofi | Middleton |
-| 122 | Kwame | Miller |
-| 123 | Landis | Mohammed |
-| 124 | Lawrence | Montero |
-| 125 | Layla | Montgomery |
-| 126 | Leopold | Morgan |
-| 127 | Lillian | Murrieta |
-| 128 | Logan | Mwangi |
-| 129 | Lord | Nakamura |
-| 130 | Madeline | Neville |
-| 131 | Malcolm | Newberry |
-| 132 | Mallory | Njoku |
-| 133 | Margaret | Nkosi |
-| 134 | Marion | Normandy |
-| 135 | Martin | Northcote |
-| 136 | Matthew | O'Connor |
-| 137 | Max | Oakley |
-| 138 | Miller | Obi |
-| 139 | Mina | Okonkwo |
-| 140 | Miss | Okoro |
-| 141 | Mister | Orrington |
-| 142 | Morton | Osborne |
-| 143 | Nala | Osmunde |
-| 144 | Nash | Patel |
-| 145 | Nathaniel | Pemberton |
-| 146 | Neville | Pennington |
-| 147 | Nicholas | Phillips |
-| 148 | Nick | Pickering |
-| 149 | Nigel | Pierce |
-| 150 | Nora | Poirot |
-| 151 | Norman | Porter |
-| 152 | Okafor | Prentiss |
-| 153 | Oliver | Quatermain |
-| 154 | Orson | Questrom |
-| 155 | Oscar | Quincy |
-| 156 | Oswald | Quinn |
-| 157 | Patrick | Quinton |
-| 158 | Peggy | Radcliffe |
-| 159 | Penelope | Raines |
-| 160 | Percival | Ramsey |
-| 161 | Peter | Rathbone |
-| 162 | Phileas | Ravenwood |
-| 163 | Philip | Remington |
-| 164 | Phineas | Rhodes |
-| 165 | Priya | Rivers |
-| 166 | Professor | Rochester |
-| 167 | Quentin | Rogers |
-| 168 | Quincy | Sanderson |
-| 169 | Rafe | Sato |
-| 170 | Rafi | Savage |
-| 171 | Rajesh | Scott |
-| 172 | Reverend | Shadow |
-| 173 | Rex | Sharma |
-| 174 | Rick | Sharp |
-| 175 | Ridge | Shelby |
-| 176 | Rose | Shelton |
-| 177 | Ruby | Sinclair |
-| 178 | Sakura | Smith |
-| 179 | Sam | Spade |
-| 180 | Scarlett | Stark |
-| 181 | Sister | Stavros |
-| 182 | Slate | Steele |
-| 183 | Smiles | Sterling |
-| 184 | Sophia | Stone |
-| 185 | Steve | Storm |
-| 186 | Stone | Suzuki |
-| 187 | Sydney | Tanaka |
-| 188 | Takeshi | Thorne |
-| 189 | Tyrell | Turner |
-| 190 | Veronica | Vale |
-| 191 | Victoria | Van Buren |
-| 192 | Vikram | Vance |
-| 193 | Vivian | Vasquez |
-| 194 | Willie | Verma |
-| 195 | Wilma | Walker |
-| 196 | Wyatt | Watanabe |
-| 197 | Yasmin | Wilde |
-| 198 | Yuki | Yamamoto |
-| 199 | Zane | Zhe |
-| 200 | Zuri | - |
-
-### Russian
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Agata | Abramov |
-| 2 | Alexander | Aksyonov |
-| 3 | Alexei | Alexandrov |
-| 4 | Alina | Alexeev |
-| 5 | Alla | Andreev |
-| 6 | Anastasia | Anisimov |
-| 7 | Anatoly | Antonov |
-| 8 | Andrei | Baranov |
-| 9 | Anna | Belov |
-| 10 | Anton | Belyaev |
-| 11 | Arina | Bespalov |
-| 12 | Artem | Bogdanov |
-| 13 | Arthur | Borisov |
-| 14 | Boris | Bykov |
-| 15 | Daniil | Chernov |
-| 16 | Daria | Davydov |
-| 17 | Demid | Demidov |
-| 18 | Denis | Dmitriev |
-| 19 | Diana | Efimov |
-| 20 | Dmitry | Egorov |
-| 21 | Egor | Fedorov |
-| 22 | Ekaterina | Filippov |
-| 23 | Elena | Fomin |
-| 24 | Eugenia | Frolov |
-| 25 | Eva | Galkin |
-| 26 | Evgeny | Gerasimov |
-| 27 | Fedor | Gorbunov |
-| 28 | Galina | Grigoriev |
-| 29 | Gennady | Gromov |
-| 30 | Grigory | Gusev |
-| 31 | Igor | Ignatiev |
-| 32 | Ilya | Ilyin |
-| 33 | Inna | Ivanov |
-| 34 | Irina | Karpov |
-| 35 | Ivan | Kazakov |
-| 36 | Julia | Kiselev |
-| 37 | Kira | Komarov |
-| 38 | Kirill | Konev |
-| 39 | Konstantin | Konovalov |
-| 40 | Kristina | Korolev |
-| 41 | Ksenia | Kovalev |
-| 42 | Larisa | Kozlov |
-| 43 | Leonid | Krasnov |
-| 44 | Luka | Krylov |
-| 45 | Lydia | Kudryavtsev |
-| 46 | Lyubov | Kuzmin |
-| 47 | Lyudmila | Kuznetsov |
-| 48 | Margarita | Lapin |
-| 49 | Maria | Lebedev |
-| 50 | Marina | Makarov |
-| 51 | Matvei | Malyavin |
-| 52 | Maxim | Markov |
-| 53 | Mikhail | Maslov |
-| 54 | Milana | Matveev |
-| 55 | Miron | Maximov |
-| 56 | Miroslava | Medvedev |
-| 57 | Nadezhda | Mikhailov |
-| 58 | Natalia | Mironov |
-| 59 | Nikita | Morozov |
-| 60 | Nikolai | Nekrasov |
-| 61 | Nina | Nikitin |
-| 62 | Oksana | Nikolaev |
-| 63 | Oleg | Novikov |
-| 64 | Olga | Orlov |
-| 65 | Pavel | Osipov |
-| 66 | Petr | Panov |
-| 67 | Platon | Parfenov |
-| 68 | Polina | Pavlov |
-| 69 | Raisa | Petrov |
-| 70 | Roman | Polyakov |
-| 71 | Ruslan | Popov |
-| 72 | Savva | Romanov |
-| 73 | Semyon | Safonov |
-| 74 | Sergei | Savin |
-| 75 | Sofia | Semenov |
-| 76 | Stanislav | Sergeev |
-| 77 | Stepan | Shcherbakov |
-| 78 | Svetlana | Shevchenko |
-| 79 | Taisia | Sidorov |
-| 80 | Tamara | Smirnov |
-| 81 | Tatiana | Sokolov |
-| 82 | Timur | Soloviev |
-| 83 | Ulyana | Sorokin |
-| 84 | Vadim | Stepanov |
-| 85 | Valentina | Sushkin |
-| 86 | Valery | Tarasov |
-| 87 | Varvara | Tikhonov |
-| 88 | Vasilisa | Tishchenko |
-| 89 | Vasily | Titov |
-| 90 | Vera | Uvarov |
-| 91 | Veronika | Vasiliev |
-| 92 | Victor | Vinogradov |
-| 93 | Victoria | Volkov |
-| 94 | Vitaly | Vorobiev |
-| 95 | Vladimir | Yakovlev |
-| 96 | Yana | Yudin |
-| 97 | Yury | Zaitsev |
-| 98 | Zakhar | Zakharov |
-| 99 | Zlata | Zhukov |
-| 100 | Zoya | Zhuravlev |
-
-### Scandinavian (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Agneta | Åberg |
-| 2 | Åke | Alm |
-| 3 | Alva | Andersen |
-| 4 | Anders | Andersson |
-| 5 | Andreas | Arvidsson |
-| 6 | Anita | Axelsson |
-| 7 | Anna | Bakke |
-| 8 | Astrid | Beck |
-| 9 | Axel | Bengtsson |
-| 10 | Barbro | Berg |
-| 11 | Bente | Bergström |
-| 12 | Berit | Björk |
-| 13 | Bertil | Björklund |
-| 14 | Birgitta | Blomqvist |
-| 15 | Björn | Broman |
-| 16 | Bo | Christensen |
-| 17 | Britta | Dahl |
-| 18 | Christian | Dahlberg |
-| 19 | Daniel | Danielsson |
-| 20 | Dorthe | Ek |
-| 21 | Ebba | Eliasson |
-| 22 | Einar | Engström |
-| 23 | Elisabeth | Eriksen |
-| 24 | Elsa | Eriksson |
-| 25 | Emma | Forsberg |
-| 26 | Erik | Fredriksson |
-| 27 | Eva | Friberg |
-| 28 | Folke | Grahn |
-| 29 | Fredrik | Gundersen |
-| 30 | Freja | Gunnarsson |
-| 31 | Gösta | Gustafsson |
-| 32 | Gunilla | Hagen |
-| 33 | Gunnar | Håkansson |
-| 34 | Gustaf | Hansen |
-| 35 | Håkan | Haugen |
-| 36 | Hanna | Hedlund |
-| 37 | Hans | Hellström |
-| 38 | Harald | Henriksen |
-| 39 | Heidi | Hermansen |
-| 40 | Helga | Holm |
-| 41 | Helle | Holmgren |
-| 42 | Henrik | Hult |
-| 43 | Ida | Isaksson |
-| 44 | Ingeborg | Iversen |
-| 45 | Ingrid | Jakobsen |
-| 46 | Ivar | Jakobsson |
-| 47 | Jakob | Jensen |
-| 48 | Jens | Johansen |
-| 49 | Johan | Johansson |
-| 50 | Jonas | Jonsson |
-| 51 | Karen | Jørgensen |
-| 52 | Karin | Karlsson |
-| 53 | Karl | Knudsen |
-| 54 | Kirsten | Krantz |
-| 55 | Kjell | Larsen |
-| 56 | Klara | Larsson |
-| 57 | Kristina | Lindberg |
-| 58 | Lars | Lindgren |
-| 59 | Leif | Lindqvist |
-| 60 | Lene | Lindström |
-| 61 | Lennart | Löfgren |
-| 62 | Linnea | Lund |
-| 63 | Lotta | Lunde |
-| 64 | Lovisa | Lundevall |
-| 65 | Ludvig | Lundgren |
-| 66 | Magnus | Lundin |
-| 67 | Margareta | Madsen |
-| 68 | Maria | Mårtensson |
-| 69 | Marta | Mattsson |
-| 70 | Mette | Mikkelsen |
-| 71 | Mikael | Møller |
-| 72 | Monica | Nielsen |
-| 73 | Morten | Nilsson |
-| 74 | Niklas | Nordström |
-| 75 | Nils | Nyberg |
-| 76 | Olav | Nyström |
-| 77 | Olof | Olesen |
-| 78 | Patrik | Olsen |
-| 79 | Pernille | Olsson |
-| 80 | Peter | Pedersen |
-| 81 | Pia | Persson |
-| 82 | Ragnar | Petersen |
-| 83 | Rolf | Poulsen |
-| 84 | Saga | Rasmussen |
-| 85 | Sigrid | Samuelsson |
-| 86 | Siv | Sandberg |
-| 87 | Solveig | Sandström |
-| 88 | Søren | Sivertsen |
-| 89 | Stefan | Sjöberg |
-| 90 | Stig | Sjöström |
-| 91 | Susanne | Söderberg |
-| 92 | Sven | Solberg |
-| 93 | Thomas | Sørensen |
-| 94 | Tilda | Strøm |
-| 95 | Tobias | Sundberg |
-| 96 | Tore | Svensson |
-| 97 | Torsten | Thomsen |
-| 98 | Ulla | Vestin |
-| 99 | Vibeke | Vik |
-| 100 | Wilma | Wallin |
-
-### Scottish (18th Century to Modern)
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Agnes | Allan |
-| 2 | Ailsa | Anderson |
-| 3 | Alan | Bain |
-| 4 | Alasdair | Balfour |
-| 5 | Alexander | Barr |
-| 6 | Alistair | Bell |
-| 7 | Andrew | Black |
-| 8 | Angus | Blair |
-| 9 | Anne | Boyd |
-| 10 | Bethia | Brown |
-| 11 | Blair | Buchanan |
-| 12 | Brian | Burnett |
-| 13 | Bruce | Cameron |
-| 14 | Callum | Campbell |
-| 15 | Calum | Clark |
-| 16 | Cammy | Cowie |
-| 17 | Catherine | Crawford |
-| 18 | Catriona | Cunningham |
-| 19 | Charles | Davidson |
-| 20 | Christian | Douglas |
-| 21 | Colin | Drummond |
-| 22 | Craig | Duncan |
-| 23 | David | Elliot |
-| 24 | Davina | Erskine |
-| 25 | Derek | Farquharson |
-| 26 | Donald | Ferguson |
-| 27 | Douglas | Findlay |
-| 28 | Duncan | Fleming |
-| 29 | Eilidh | Forbes |
-| 30 | Elizabeth | Fraser |
-| 31 | Elspeth | Gordon |
-| 32 | Euan | Gow |
-| 33 | Euphemia | Graham |
-| 34 | Ewan | Grant |
-| 35 | Fenella | Grieve |
-| 36 | Fergus | Gunn |
-| 37 | Finlay | Guthrie |
-| 38 | Fiona | Hamilton |
-| 39 | Flora | Hardie |
-| 40 | Fraser | Hay |
-| 41 | Gary | Henderson |
-| 42 | Gavin | Hunter |
-| 43 | George | Hutchison |
-| 44 | Gordon | Irvine |
-| 45 | Graham | Johnston |
-| 46 | Grant | Kennedy |
-| 47 | Gregor | Kerr |
-| 48 | Grisel | Lamont |
-| 49 | Grizel | Lawson |
-| 50 | Hamish | Leask |
-| 51 | Helen | Leslie |
-| 52 | Iain | Lindsay |
-| 53 | Ian | Livingstone |
-| 54 | Innes | Low |
-| 55 | Iona | Lumsden |
-| 56 | Ishbel | MacAlpin |
-| 57 | Isobel | MacDonald |
-| 58 | James | MacFarlane |
-| 59 | Janet | MacGregor |
-| 60 | Jean | MacInnes |
-| 61 | John | Mackay |
-| 62 | Keir | MacKinnon |
-| 63 | Keith | MacLeod |
-| 64 | Kenneth | MacNeil |
-| 65 | Kevin | MacPherson |
-| 66 | Kirsty | Mathieson |
-| 67 | Lachlan | Maxwell |
-| 68 | Lewis | McIntosh |
-| 69 | Logan | McKenzie |
-| 70 | Maisie | McLean |
-| 71 | Malcolm | McNee |
-| 72 | Margaret | McQueen |
-| 73 | Marion | McTaggart |
-| 74 | Marjory | Menzies |
-| 75 | Marsaili | Millar |
-| 76 | Mary | Milne |
-| 77 | Mhairi | Mitchell |
-| 78 | Morag | Morrison |
-| 79 | Murdo | Munro |
-| 80 | Murray | Murray |
-| 81 | Neil | Nicol |
-| 82 | Nellis | Paton |
-| 83 | Niall | Reid |
-| 84 | Rhona | Ritchie |
-| 85 | Robert | Robertson |
-| 86 | Robina | Ross |
-| 87 | Roderick | Scott |
-| 88 | Rory | Simpson |
-| 89 | Ross | Sinclair |
-| 90 | Rowena | Smith |
-| 91 | Ruaridh | Steel |
-| 92 | Scott | Stewart |
-| 93 | Senga | Strachan |
-| 94 | Sheena | Tait |
-| 95 | Shona | Taylor |
-| 96 | Sibilla | Thomson |
-| 97 | Stuart | Urquhart |
-| 98 | Thomas | Walker |
-| 99 | William | Wallace |
-| 100 | Wilma | Wilson |
-
-### South African
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Albertina | Abrahams |
-| 2 | Andile | Adams |
-| 3 | Andries | Baloyi |
-| 4 | Annatjie | Bhengu |
-| 5 | Ayanda | Biko |
-| 6 | Bongani | Boesak |
-| 7 | Bontle | Botha |
-| 8 | Braam | Buthelezi |
-| 9 | Brenda | Cele |
-| 10 | Buhle | Chauke |
-| 11 | Busisiwe | Chetty |
-| 12 | Cyril | Coetzee |
-| 13 | Danie | De Beer |
-| 14 | Desmond | Dlamini |
-| 15 | Dineo | Du Plessis |
-| 16 | Dudu | Erasmus |
-| 17 | Dumisani | February |
-| 18 | Elize | Fourie |
-| 19 | Fanie | Govender |
-| 20 | Francois | Gqubule |
-| 21 | Gerhard | Gumede |
-| 22 | Graça | Hani |
-| 23 | Gugulethu | Hendricks |
-| 24 | Hanna | Isaacs |
-| 25 | Hendrik | Jacobs |
-| 26 | Hlengiwe | Jordaan |
-| 27 | Itumeleng | Kgosana |
-| 28 | Jabulani | Khumalo |
-| 29 | Jacobus | Kruger |
-| 30 | Johan | Ledwaba |
-| 31 | Kabelo | Lekota |
-| 32 | Kagiso | Louw |
-| 33 | Katlego | Luthuli |
-| 34 | Katrina | Mabunda |
-| 35 | Kelebogile | Mahlangu |
-| 36 | Khaya | Majola |
-| 37 | Kobus | Makeba |
-| 38 | Lebogang | Malema |
-| 39 | Lerato | Maluleke |
-| 40 | Lesedi | Mamabolo |
-| 41 | Liezel | Mandela |
-| 42 | Lindiwe | Mani |
-| 43 | Lungelo | Maponya |
-| 44 | Lungile | Marais |
-| 45 | Lwazi | Maredi |
-| 46 | Mandla | Masekela |
-| 47 | Marietjie | Masemola |
-| 48 | Marthinus | Mashatile |
-| 49 | Martie | Mbeki |
-| 50 | Masechaba | Mkhize |
-| 51 | Miriam | Moerane |
-| 52 | Morné | Mofokeng |
-| 53 | Mpho | Mokoena |
-| 54 | Muzi | Molefe |
-| 55 | Nelson | Moodley |
-| 56 | Neo | Motlanthe |
-| 57 | Nkosinathi | Mphahlele |
-| 58 | Nokuthula | Mthethwa |
-| 59 | Nomalanga | Mudau |
-| 60 | Nomusa | Mulaudzi |
-| 61 | Nomvula | Naidoo |
-| 62 | Nonhlanhla | Ndlovu |
-| 63 | Ofentse | Ndou |
-| 64 | Oupa | Nel |
-| 65 | Palesa | Nemadzivhanani |
-| 66 | Phumzile | Netshitenze |
-| 67 | Pieter | Ngcobo |
-| 68 | Pulane | Nkqayi |
-| 69 | Refiloe | Nxumalo |
-| 70 | Riana | Oosthuizen |
-| 71 | Ruan | Padayachee |
-| 72 | Sandile | Petersen |
-| 73 | Sannie | Phala |
-| 74 | Schalk | Pillay |
-| 75 | Sibongile | Pretorius |
-| 76 | Sibusiso | Radebe |
-| 77 | Simphiwe | Ramabulana |
-| 78 | Sindisiwe | Ramaphosa |
-| 79 | Sipho | Reddy |
-| 80 | Siyabonga | September |
-| 81 | Sizakele | Shabangu |
-| 82 | Stefanus | Sisulu |
-| 83 | Sunette | Sithole |
-| 84 | Thabang | Skosana |
-| 85 | Thabo | Smit |
-| 86 | Thandeka | Sobukwe |
-| 87 | Thandiwe | Solomons |
-| 88 | Themba | Steyn |
-| 89 | Tiaan | Swanepoel |
-| 90 | Tshepo | Tambo |
-| 91 | Tsholofelo | Tlou |
-| 92 | Vusi | Tsotetsi |
-| 93 | Willem | Tutu |
-| 94 | Winnie | Van Niekerk |
-| 95 | Xolani | Venter |
-| 96 | Yvonne | Viljoen |
-| 97 | Zanele | Williams |
-| 98 | Zinhle | Zondi |
-| 99 | Zola | Zulu |
-| 100 | Zweli | Zuma |
-
-### South East Asian
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Aditya | Abdul |
-| 2 | Agus | Ahmad |
-| 3 | Aishah | Ali |
-| 4 | Amir | Arifin |
-| 5 | Ananda | Aziz |
-| 6 | Andi | Bakar |
-| 7 | Anh | Basuki |
-| 8 | Ani | Boon |
-| 9 | Ari | Bui |
-| 10 | Arthit | Chai |
-| 11 | Bambang | Chua |
-| 12 | Binh | Dang |
-| 13 | Budi | Dinh |
-| 14 | Chai | Do |
-| 15 | Chainarong | Duong |
-| 16 | Chinh | Gultom |
-| 17 | Dani | Hamzah |
-| 18 | Dao | Hartono |
-| 19 | Dewi | Hasibuan |
-| 20 | Dian | Hassan |
-| 21 | Duc | Hidayat |
-| 22 | Dung | Ho |
-| 23 | Eko | Hoang |
-| 24 | Endang | Hua |
-| 25 | Fah | Huynh |
-| 26 | Farah | Ibrahim |
-| 27 | Fitri | Kitti |
-| 28 | Giang | Koh |
-| 29 | Hai | Kusuma |
-| 30 | Hendra | Le |
-| 31 | Hien | Lee |
-| 32 | Hoa | Lestari |
-| 33 | Hung | Lim |
-| 34 | Huong | Low |
-| 35 | Ina | Lubis |
-| 36 | Indah | Luong |
-| 37 | Izzat | Luu |
-| 38 | Joko | Ly |
-| 39 | Kanya | Ma |
-| 40 | Kasem | Mulyadi |
-| 41 | Khairul | Mustafa |
-| 42 | Khanh | Nasir |
-| 43 | Kiet | Nasution |
-| 44 | Kittisak | Ng |
-| 45 | Kwan | Ngo |
-| 46 | Lan | Nguyen |
-| 47 | Liem | Ningsih |
-| 48 | Lilis | Osman |
-| 49 | Linh | Pane |
-| 50 | Mai | Pangaribuan |
-| 51 | Malee | Pham |
-| 52 | Maree | Phan |
-| 53 | Maya | Prasert |
-| 54 | Minh | Pratama |
-| 55 | Mohammad | Purnama |
-| 56 | Montri | Putra |
-| 57 | Nam | Putri |
-| 58 | Narong | Quach |
-| 59 | Nattapong | Rahman |
-| 60 | Nhung | Ramli |
-| 61 | Nor | Rosli |
-| 62 | Nur | Sae-Lee |
-| 63 | Nurul | Sae-Tang |
-| 64 | Oanh | Sae-Wong |
-| 65 | Phitsanu | Sak |
-| 66 | Phuong | Salleh |
-| 67 | Pim | Samsudin |
-| 68 | Prawit | Santoso |
-| 69 | Quang | Sari |
-| 70 | Ratchanee | Setiawan |
-| 71 | Reza | Simanjuntak |
-| 72 | Rina | Siregar |
-| 73 | Rizky | Sitorus |
-| 74 | Rudy | Soh |
-| 75 | Sarawut | Som |
-| 76 | Silo | Sompong |
-| 77 | Siriporn | Sulaiman |
-| 78 | Siska | Suryadi |
-| 79 | Siti | Susanto |
-| 80 | Sokha | Sutanto |
-| 81 | Somchai | Syah |
-| 82 | Somsak | Ta |
-| 83 | Son | Tampubolon |
-| 84 | Sri | Tan |
-| 85 | Sunee | Tay |
-| 86 | Syafiq | Thai |
-| 87 | Syakira | Thong |
-| 88 | Tati | Tran |
-| 89 | Taufik | Trinh |
-| 90 | Thanh | Utomo |
-| 91 | Thao | Van |
-| 92 | Tien | Vichai |
-| 93 | Trang | Vo |
-| 94 | Tuan | Vu |
-| 95 | Ubon | Wanchai |
-| 96 | Wandee | Wati |
-| 97 | Wila | Wijaya |
-| 98 | Woranit | Wong |
-| 99 | Yen | Yusof |
-| 100 | Yupin | Zainal |
-
-### Spanish
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Adelaida | Acosta |
-| 2 | Agustin | Aguilar |
-| 3 | Alejandro | Alvarez |
-| 4 | Alonso | Aragon |
-| 5 | Ana | Becerra |
-| 6 | Angel | Benitez |
-| 7 | Antonia | Bravo |
-| 8 | Antonio | Cabrera |
-| 9 | Baltasar | Calderon |
-| 10 | Barbara | Cano |
-| 11 | Bartolome | Castillo |
-| 12 | Beatriz | Castro |
-| 13 | Bernardo | Cervantes |
-| 14 | Carlos | Cordova |
-| 15 | Carmen | De la Cruz |
-| 16 | Catalina | De la Rosa |
-| 17 | Clara | De la Torre |
-| 18 | Clemente | Delgado |
-| 19 | Concepcion | Diaz |
-| 20 | Cristobal | Dominguez |
-| 21 | Daniela | Duarte |
-| 22 | Diego | Duron |
-| 23 | Dionisio | Escobar |
-| 24 | Dolores | Espinosa |
-| 25 | Domingo | Estrada |
-| 26 | Elena | Fernandez |
-| 27 | Esperanza | Figueroa |
-| 28 | Esteban | Flores |
-| 29 | Eugenio | Fuentes |
-| 30 | Faustino | Gallegos |
-| 31 | Feliciana | Galvan |
-| 32 | Felipe | Garcia |
-| 33 | Fernando | Gomez |
-| 34 | Francisca | Gonzalez |
-| 35 | Francisco | Guerra |
-| 36 | Gabriel | Gutierrez |
-| 37 | Gaspar | Guzman |
-| 38 | Gertrudis | Heredia |
-| 39 | Gilberto | Hernandez |
-| 40 | Gregorio | Herrera |
-| 41 | Guadalupe | Hidalgo |
-| 42 | Hernando | Ibanez |
-| 43 | Hilario | Ibarra |
-| 44 | Ignacio | Islas |
-| 45 | Ines | Jaimes |
-| 46 | Isabel | Jara |
-| 47 | Isidro | Jimenez |
-| 48 | Jacinta | Juarez |
-| 49 | Javier | Lara |
-| 50 | Joaquin | Leon |
-| 51 | Jose | Lopez |
-| 52 | Juan | Lozano |
-| 53 | Juana | Machado |
-| 54 | Julian | Martinez |
-| 55 | Leandro | Mendez |
-| 56 | Leonor | Mendoza |
-| 57 | Lope | Meza |
-| 58 | Lorenzo | Miranda |
-| 59 | Lucia | Montoya |
-| 60 | Luis | Morales |
-| 61 | Magdalena | Navarro |
-| 62 | Manuel | Negrete |
-| 63 | Marcos | Nieto |
-| 64 | Margarita | Nuñez |
-| 65 | Maria | Olivares |
-| 66 | Mateo | Orozco |
-| 67 | Melchor | Ortiz |
-| 68 | Mercedes | Pacheco |
-| 69 | Miguel | Padilla |
-| 70 | Narciso | Palacios |
-| 71 | Natalia | Perez |
-| 72 | Nicolas | Quintana |
-| 73 | Olga | Quintero |
-| 74 | Onofre | Ramirez |
-| 75 | Pasqual | Ramos |
-| 76 | Pedro | Reyes |
-| 77 | Petrona | Rivera |
-| 78 | Pilar | Robledo |
-| 79 | Placido | Rodriguez |
-| 80 | Quintin | Rojas |
-| 81 | Rafael | Ruiz |
-| 82 | Ramon | Salas |
-| 83 | Ramona | Salazar |
-| 84 | Ricardo | Sanchez |
-| 85 | Roque | Serrano |
-| 86 | Rosario | Sosa |
-| 87 | Salvador | Tapia |
-| 88 | Santiago | Tellez |
-| 89 | Sebastian | Torres |
-| 90 | Silvestre | Urbina |
-| 91 | Soledad | Uribe |
-| 92 | Teresa | Valdez |
-| 93 | Tomas | Valenzuela |
-| 94 | Tristan | Vargas |
-| 95 | Ursula | Vasquez |
-| 96 | Veronica | Vela |
-| 97 | Vicente | Villalobos |
-| 98 | Ximena | Zamora |
-| 99 | Yolanda | Zavala |
-| 100 | Zoraida | Zuniga |
-
-### Welsh
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Aeddan | Anwyl |
-| 2 | Aeron | Aubrey |
-| 3 | Aerona | Bebb |
-| 4 | Alwyn | Bevan |
-| 5 | Alys | Beynon |
-| 6 | Angharad | Bonsall |
-| 7 | Anwen | Bowen |
-| 8 | Arthur | Cadogan |
-| 9 | Bedwyr | Clement |
-| 10 | Berwyn | Collins |
-| 11 | Bethan | Corbet |
-| 12 | Bleddyn | Cunnick |
-| 13 | Bronwen | Davies |
-| 14 | Bryn | Dillwyn |
-| 15 | Buddug | Done |
-| 16 | Cadfan | Duggan |
-| 17 | Cai | Dykins |
-| 18 | Caradog | Edwards |
-| 19 | Carys | Ellis |
-| 20 | Catrin | Esau |
-| 21 | Dafydd | Evans |
-| 22 | Delyth | Eynon |
-| 23 | Derwyn | Fido |
-| 24 | Dewi | Foulkes |
-| 25 | Dilys | Francis |
-| 26 | Dwynwen | Gee |
-| 27 | Dylan | Gethin |
-| 28 | Eira | Gittins |
-| 29 | Eirlys | Gough |
-| 30 | Eleri | Griffiths |
-| 31 | Elwyn | Gwyn |
-| 32 | Emrys | Hamer |
-| 33 | Enid | Havard |
-| 34 | Euros | Hezekiah |
-| 35 | Evan | Hopkins |
-| 36 | Ffion | Howell |
-| 37 | Ffraid | Hughes |
-| 38 | Gareth | Humphreys |
-| 39 | Geraint | Iles |
-| 40 | Gethin | Ithell |
-| 41 | Glenda | James |
-| 42 | Griffith | Jarman |
-| 43 | Gwalchmai | Jenkins |
-| 44 | Gwawr | Jeremiah |
-| 45 | Gwen | Jones |
-| 46 | Gwenllian | Kinsey |
-| 47 | Gwilym | Kneath |
-| 48 | Gwydion | Kyffin |
-| 49 | Gwynfor | Lewis |
-| 50 | Haf | Llewellyn |
-| 51 | Heledd | Lloyd |
-| 52 | Hywel | Lougher |
-| 53 | Idris | Mabe |
-| 54 | Ieuan | Maddox |
-| 55 | Indeg | Matthews |
-| 56 | Iola | Meredith |
-| 57 | Iolo | Morgan |
-| 58 | Iona | Morris |
-| 59 | Iwan | Moss |
-| 60 | Jevan | Mostyn |
-| 61 | Kyffin | Nener |
-| 62 | Lewys | Oatley |
-| 63 | Llinos | Owen |
-| 64 | Llywelyn | Parry |
-| 65 | Lona | Pask |
-| 66 | Lowri | Pennant |
-| 67 | Luned | Phillips |
-| 68 | Macsen | Powell |
-| 69 | Mair | Price |
-| 70 | Mali | Pritchard |
-| 71 | Mari | Prosser |
-| 72 | Meurig | Pugh |
-| 73 | Morgan | Quance |
-| 74 | Morwenna | Rees |
-| 75 | Myfanwy | Richards |
-| 76 | Nella | Roberts |
-| 77 | Nia | Roderick |
-| 78 | Non | Rosser |
-| 79 | Olwen | Rowlands |
-| 80 | Osian | Russell |
-| 81 | Owain | Sayce |
-| 82 | Owen | Scurlock |
-| 83 | Peredur | Smith |
-| 84 | Prys | Stephens |
-| 85 | Rhiain | Tew |
-| 86 | Rhian | Thomas |
-| 87 | Rhiannon | Trevor |
-| 88 | Rhodri | Tudor |
-| 89 | Rhun | Uphill |
-| 90 | Rhys | Vane |
-| 91 | Seren | Vaughan |
-| 92 | Sian | Walters |
-| 93 | Sion | Warlow |
-| 94 | Steffan | Watkins |
-| 95 | Sulien | Williams |
-| 96 | Taliesin | Woosnam |
-| 97 | Tesni | Wynn |
-| 98 | Tomos | Yerbury |
-| 99 | Tristan | Yorath |
-| 100 | Wyn | Zerk |
-
-### West African
-
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abdoulaye | Abbey |
-| 2 | Abenaa | Acheampong |
-| 3 | Abla | Addae |
-| 4 | Adaeze | Adebayo |
-| 5 | Adebowale | Adenuga |
-| 6 | Adwoa | Adeyemi |
-| 7 | Afawa | Adjei |
-| 8 | Afolabi | Agyemang |
-| 9 | Afua | Ajayi |
-| 10 | Akofa | Akufo |
-| 11 | Akossiwa | Annan |
-| 12 | Akosua | Appiah |
-| 13 | Akua | Armah |
-| 14 | Ama | Aryee |
-| 15 | Amadou | Asare |
-| 16 | Amarachi | Babalola |
-| 17 | Ameyo | Bah |
-| 18 | Aminata | Balogun |
-| 19 | Araba | Bamba |
-| 20 | Ayawa | Bankole |
-| 21 | Ayodeji | Bannerman |
-| 22 | Babatunde | Barry |
-| 23 | Bakary | Boakye |
-| 24 | Ben | Boateng |
-| 25 | Boubacar | Bonsu |
-| 26 | Cheick | Bruce |
-| 27 | Chiamaka | Chineke |
-| 28 | Chidi | Cisse |
-| 29 | Chimamanda | Compaore |
-| 30 | Chinedu | Coulibaly |
-| 31 | Chinua | Danquah |
-| 32 | Chinyere | Daramola |
-| 33 | Chioma | Diallo |
-| 34 | Chukwuma | Diarra |
-| 35 | Djénéba | Diop |
-| 36 | Dzigbodi | Dodoo |
-| 37 | Efua | Eshun |
-| 38 | Emeka | Eze |
-| 39 | Eniola | Fall |
-| 40 | Esi | Fashola |
-| 41 | Ezinne | Fofana |
-| 42 | Fanta | Gueye |
-| 43 | Fatoumata | Gyamfi |
-| 44 | Femi | Ibekwe |
-| 45 | Folake | Ilboudo |
-| 46 | Hawa | Kaboré |
-| 47 | Ifeanyi | Keita |
-| 48 | Ifunanya | Kojo |
-| 49 | Kadiatou | Kone |
-| 50 | Kadidia | Kufuor |
-| 51 | Kekeli | Kwakye |
-| 52 | Kelechi | Lamptey |
-| 53 | Ken | Laryea |
-| 54 | Kodjo | Lingani |
-| 55 | Koffi | Mahama |
-| 56 | Kofi | Mensah |
-| 57 | Kojo | Mills |
-| 58 | Kokou | Mmadu |
-| 59 | Koku | Moxon |
-| 60 | Komla | Ndiaye |
-| 61 | Komlan | Nettey |
-| 62 | Kossivi | Nwachukwu |
-| 63 | Kouami | Nwosu |
-| 64 | Koudjo | Obi |
-| 65 | Kwabena | Ofori |
-| 66 | Kwaku | Okafor |
-| 67 | Kwame | Okeke |
-| 68 | Kwami | Okonkwo |
-| 69 | Kweku | Olatunji |
-| 70 | Kwesi | Olawale |
-| 71 | Lamine | Oluwole |
-| 72 | Mariam | Onwuka |
-| 73 | Mawusi | Osei |
-| 74 | Modibo | Ouattara |
-| 75 | Modupe | Ouedraogo |
-| 76 | Moussa | Owusu |
-| 77 | Nana | Platt |
-| 78 | Ngozi | Quansah |
-| 79 | Nnamdi | Quaye |
-| 80 | Nnedi | Rawlings |
-| 81 | Obinna | Sackey |
-| 82 | Olayinka | Sankara |
-| 83 | Oluchi | Sanogo |
-| 84 | Olumide | Sarpong |
-| 85 | Oluwaseun | Savané |
-| 86 | Ousmane | Sawadogo |
-| 87 | Rokia | Sidibé |
-| 88 | Segun | Sow |
-| 89 | Sena | Sowah |
-| 90 | Sira | Sylla |
-| 91 | Souleymane | Tagoe |
-| 92 | Temitope | Tetteh |
-| 93 | Tunde | Tiendrébéogo |
-| 94 | Uchenna | Toure |
-| 95 | Uzoamaka | Traore |
-| 96 | Wole | Uche |
-| 97 | Yaa | Umeh |
-| 98 | Yaw | Vanderpuye |
-| 99 | Yemi | Yameogo |
-| 100 | Zikora | Zongo |
+### Name Theme Chooser
+
+Roll **1d6** for row and **1d6** for column to select your name theme.
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Brazilian | Central Asian | Chinese | Dutch (18th Century to Modern) | East African | English (18th Century to Modern) |
+| 2 | French (18th Century to Modern) | German | Indian | Irish (18th Century to Modern) | Italian (18th Century to Modern) | Japanese |
+| 3 | Korean | Middle Eastern | Nicknames | North African | North American (Modern) | Oceania (Polynesian, Melanesian, & Micronesian) |
+| 4 | Polish | Pulp Names | Russian | Scandinavian (18th Century to Modern) | Scottish (18th Century to Modern) | South African |
+| 5 | South East Asian | Spanish | Welsh | West African | - | - |
+| 6 | - | - | - | - | - | - |
+
+### Brazilian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adriana | Alexandre | Alice | Aline | Amanda | Ana |
+| 2 | André | Antônia | Antônio | Aparecida | Augusto | Beatriz |
+| 3 | Benedito | Bruna | Bruno | Caio | Camila | Carlos |
+| 4 | Carol | Cauã | Cesar | Clara | Cláudio | Daniela |
+| 5 | Danilo | Débora | Diego | Eduardo | Elaine | Enzo |
+| 6 | Fabio | Felipe | Fernanda | Fernando | Flávia | Francisca |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Francisco | Gabriel | Gabriela | Giovanna | Gisele | Guilherme |
+| 2 | Gustavo | Heloísa | Henrique | Hugo | Igor | Ingrid |
+| 3 | Irene | Isabela | Jéssica | João | Joaquim | José |
+| 4 | Juliana | Kelly | Lara | Larissa | Leandro | Leonardo |
+| 5 | Letícia | Lorena | Luana | Lucas | Lúcia | Luiz |
+| 6 | Manoel | Manuela | Marcelo | Márcia | Marcos | Margarida |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Maria | Mariana | Matheus | Miguel | Murilo | Natália |
+| 2 | Neusa | Otávio | Patrícia | Paulo | Pedro | Priscila |
+| 3 | Rafael | Raimunda | Raimundo | Renata | Renato | Ricardo |
+| 4 | Roberto | Rodrigo | Samuel | Sebastião | Sônia | Sophia |
+| 5 | Tatiane | Terezinha | Tiago | Valentina | Vera | Vinícius |
+| 6 | Vitor | Vitória | Wilson | Yasmin | Yuri | Zuleica |
+
+### Brazilian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abbe | Aguiar | Almeida | Alves | Amaral | Andrade |
+| 2 | Aragão | Arantes | Araújo | Arruda | Assis | Azevedo |
+| 3 | Barbosa | Barros | Batista | Bento | Bezerra | Bittencourt |
+| 4 | Borges | Braga | Brito | Cabral | Camargo | Campos |
+| 5 | Cardoso | Carvalho | Castro | Cavalcante | Cavalcanti | Chaves |
+| 6 | Coelho | Cordeiro | Correia | Costa | Cunha | Dantas |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Dias | Drummond | Duarte | Farias | Fernandes | Ferreira |
+| 2 | Figueiredo | Fontes | Freitas | Frota | Gomes | Gouveia |
+| 3 | Guedes | Guimarães | Lacerda | Leite | Lima | Lira |
+| 4 | Lopes | Macedo | Machado | Magalhães | Maia | Maranhão |
+| 5 | Marques | Martins | Médici | Melo | Mendes | Menezes |
+| 6 | Mesquita | Miranda | Monteiro | Moraes | Moreira | Motta |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Moura | Muniz | Nascimento | Nunes | Oliveira | Pacheco |
+| 2 | Paiva | Peixoto | Pereira | Pessôa | Pinheiro | Pinto |
+| 3 | Porto | Queiroz | Ramos | Reis | Rezende | Ribeiro |
+| 4 | Rocha | Rodrigues | Sales | Santana | Santos | Silva |
+| 5 | Siqueira | Soares | Souza | Tavares | Teixeira | Toledo |
+| 6 | Valente | Vargas | Veloso | Viana | Vieira | Xavier |
+
+### Central Asian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abbas | Adiba | Aibek | Aigul | Ainura | Aisalkyn |
+| 2 | Aisulu | Aizada | Alisher | Anara | Arman | Asan |
+| 3 | Azamat | Bakhtiyor | Bakhyt | Barno | Batyr | Bekzat |
+| 4 | Bekzod | Burul | Chingiz | Cholpon | Damira | Daniyar |
+| 5 | Dilnoza | Dilshod | Dinara | Doolot | Eldar | Elena |
+| 6 | Emir | Erbool | Etimad | Farkhod | Farrukh | Feruza |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gairat | Gani | Gulmira | Gulnara | Gulzhan | Guzal |
+| 2 | Hikmat | Huri | Iffat | Ilkhom | Ilyas | Indira |
+| 3 | Iroda | Iskander | Jakhongir | Jamilya | Jannat | Javlon |
+| 4 | Kamila | Kanat | Karlygash | Khurshida | Kubat | Kyzy |
+| 5 | Latifa | Leyla | Lola | Madina | Malika | Mansur |
+| 6 | Meerim | Mirbek | Munira | Nargiza | Nazgul | Nazira |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Nodir | Nurbek | Nurlan | Nurzhan | Omurbek | Otabek |
+| 2 | Oybek | Oydin | Parvina | Pulat | Qodir | Ra'no |
+| 3 | Ravshan | Ruslan | Saadat | Samat | Sanzhar | Sevara |
+| 4 | Siroj | Talant | Temirlan | Temur | Toktobübü | Tolib |
+| 5 | Ulan | Ulugbek | Umida | Umut | Vakhid | Vasila |
+| 6 | Viktor | Yerlan | Yulduz | Zamir | Zhyldyz | Zukhra |
+
+### Central Asian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdullayev | Abdyrakhmanov | Abidov | Abishev | Aitmatov | Akhmetov |
+| 2 | Alimov | Amanov | Asanaliyev | Askarov | Auezov | Azimov |
+| 3 | Baizakov | Bakiyev | Bazarov | Begaliyev | Beishenaliyev | Bekturov |
+| 4 | Bolotov | Charyyev | Cholponov | Daniyarov | Dauletov | Dosmukhambetov |
+| 5 | Dulatov | Dzhumayev | Ergashev | Esenov | Eshmatov | Fayzullayev |
+| 6 | Gafarov | Galiyev | Hamroyev | Hasanov | Ibragimov | Ilyasov |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Imanaliev | Isakov | Isanov | Ismailov | Joldoshev | Jumayev |
+| 2 | Kadyrov | Kanimetov | Karimov | Karybekov | Kasimov | Kenjebayev |
+| 3 | Kenzhegulov | Kudaybergenov | Kulov | Latipov | Lomonov | Madaminov |
+| 4 | Mamedov | Mamytov | Mirzayev | Muratov | Myrzabekov | Nabiyev |
+| 5 | Nazarbayev | Niyazov | Nogaybayev | Nuriyev | Nurmatov | Omarov |
+| 6 | Orozov | Orunbayev | Osmonov | Otunbayev | Pirimkulov | Pulotov |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Qurbonov | Rahmonov | Rakhimov | Rustamov | Sabyrov | Sadykov |
+| 2 | Saidov | Saparov | Sarsembayev | Sattarov | Sharipov | Suleimanov |
+| 3 | Sultanov | Sydykov | Tashmatov | Tilekov | Tokayev | Tolegenov |
+| 4 | Turgunbayev | Tursunov | Umarov | Urunov | Usmanov | Usubaliyev |
+| 5 | Vakhidov | Valiyev | Xudayberdiyev | Yakubov | Yermekov | Yuldashev |
+| 6 | Yusupov | Zaripov | Zhaparov | Zheenbekov | Zhusupov | Zulpukarov |
+
+### Chinese Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | An | Anrui | Biao | Bin | Binyue | Bo |
+| 2 | Cai | Chao | Chaoran | Chenxi | Chun | Dan |
+| 3 | De | Dexin | Fang | Fanglin | Fei | Feng |
+| 4 | Gang | Guang | Guangyi | Guiying | Guo | Hailun |
+| 5 | Hao | Haoran | Haoyu | He | Hong | Hu |
+| 6 | Hua | Hui | Jiahui | Jian | Jianhua | Jing |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Jingxiao | Ju | Juan | Jun | Kexin | Lan |
+| 2 | Lei | Li | Liang | Lin | Ling | Long |
+| 3 | Lu | Man | Mei | Meiling | Min | Ming |
+| 4 | Muchen | Nan | Peng | Ping | Qian | Qiang |
+| 5 | Qiao | Qing | Ren | Rong | Ruoxi | Shan |
+| 6 | Sheng | Shuhan | Song | Tao | Tianyu | Ting |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Wei | Wen | Wenzhi | Xia | Xiang | Xiao |
+| 2 | Xiaoyu | Xinyi | Xiuying | Xuan | Yan | Yao |
+| 3 | Yi | Yichen | Yifan | Ying | Yinuo | Yiyan |
+| 4 | Yong | Yu | Yuan | Yue | Yulian | Yun |
+| 5 | Yutong | Yuxuan | Zhen | Zhi | Zhong | Zhu |
+| 6 | Zi | Zihan | Zihao | Ziqi | Zirui | Zixuan |
+
+### Chinese Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | An | Bai | Bi | Cai | Cao | Chang |
+| 2 | Chen | Cheng | Cui | Dai | Deng | Ding |
+| 3 | Dong | Du | Duan | Fan | Fang | Feng |
+| 4 | Fu | Gao | Ge | Gong | Gongsun | Gu |
+| 5 | Guo | Han | Hao | He | Helian | Hou |
+| 6 | Hu | Huang | Huyan | Ji | Jiang | Jin |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lan | Lei | Li | Liang | Liao | Lin |
+| 2 | Linghu | Liu | Long | Lu | Luo | Ma |
+| 3 | Mao | Meng | Mo | Murong | Nie | Ning |
+| 4 | Ouyang | Pan | Pei | Peng | Qian | Qiu |
+| 5 | Ren | Ruan | Sha | Shangguan | Shao | She |
+| 6 | Shen | Shi | Sima | Situ | Song | Su |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Sun | Tan | Tang | Tian | Wan | Wang |
+| 2 | Wei | Wu | Xi | Xia | Xiahou | Xiang |
+| 3 | Xiao | Xie | Xing | Xiong | Xu | Xue |
+| 4 | Yan | Yang | Yao | Ye | Yi | Yin |
+| 5 | Yu | Yuan | Yuchi | Zeng | Zhang | Zhao |
+| 6 | Zheng | Zhong | Zhou | Zhu | Zhuge | Zou |
+
+### Dutch (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aafje | Adriana | Adrianus | Agatha | Albertus | Alida |
+| 2 | Anna | Annetje | Antonius | Antoon | Arend | Arnoldus |
+| 3 | Barbara | Bastiaan | Beatrix | Bernardus | Boudewijn | Carel |
+| 4 | Catharina | Christiaan | Christina | Cornelia | Cornelis | Dirk |
+| 5 | Dirkje | Dorothea | Eefje | Elisabeth | Emerentia | Ewout |
+| 6 | Femmetje | Florentina | Floris | Frans | Frederikus | Froukje |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Geertruida | Geesje | Gerardus | Gerrit | Gijsbert | Gijsberta |
+| 2 | Govert | Grietje | Harmen | Heiltje | Helena | Hendrik |
+| 3 | Hendrika | Hermanus | Hugo | Jacoba | Jacobus | Jan |
+| 4 | Jannetje | Jantje | Jelle | Johanna | Johannes | Joris |
+| 5 | Josina | Klaas | Koen | Lambertus | Leendert | Lijsbeth |
+| 6 | Lodewijk | Lucas | Lucia | Lukas | Maartje | Margaretha |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Maria | Marieke | Marinus | Marritje | Martina | Martinus |
+| 2 | Matthijs | Maurits | Meijntje | Neeltje | Nicolaas | Otto |
+| 3 | Paulus | Petronella | Petrus | Pieter | Pieternella | Pleun |
+| 4 | Reinier | Rijk | Rutger | Saskia | Simon | Stephanus |
+| 5 | Stijntje | Susanna | Swaantje | Teunis | Theodorus | Thomas |
+| 6 | Trijntje | Wilhelmina | Willem | Willemijntje | Wouter | Wybren |
+
+### Dutch (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Bakker | Bos | Brouwer | Brouwers | De Boer | De Bruin |
+| 2 | De Graaf | De Groot | De Jong | De Jonge | De Vries | De Wit |
+| 3 | Dekker | Driessen | Evers | Gerritsen | Groen | Groot |
+| 4 | Hendriks | Hermans | Hoekstra | Hofman | Jacobs | Jansen |
+| 5 | Janssen | Koopman | Kramer | Kuiper | Meijer | Mulder |
+| 6 | Post | Prins | Sanders | Schipper | Scholten | Smit |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Teunissen | Timmermans | Van Beek | Van Dam | Van de Beek | Van de Brink |
+| 2 | Van de Bunt | Van de Hoeven | Van de Hurk | Van de Kamp | Van de Kerkhof | Van de Mortel |
+| 3 | Van de Noort | Van de Pas | Van de Pol | Van de Put | Van de Riet | Van de Steeg |
+| 4 | Van de Veen | Van de Ven | Van de Voort | Van de Water | Van de Weg | Van de Wetering |
+| 5 | Van de Wijngaard | Van de Worp | Van den Akker | Van den Berg | Van den Bosch | Van den Broek |
+| 6 | Van den Ende | Van den Heuvel | Van der Bijl | Van der Boom | Van der Graaf | Van der Heijden |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Van der Horst | Van der Laan | Van der Linden | Van der Meer | Van der Meulen | Van der Plas |
+| 2 | Van der Ploeg | Van der Poel | Van der Sluis | Van der Veer | Van der Velde | Van der Ven |
+| 3 | Van der Wal | Van der Zee | Van der Zwan | Van Dijk | Van Doorn | Van Eeden |
+| 4 | Van Egmond | Van Gelder | Van Houten | Van Leeuwen | Van Loon | Van Rijn |
+| 5 | Van Tilburg | Van Vliet | Verhoeven | Vermeer | Vermeulen | Versteeg |
+| 6 | Vink | Visser | Vos | Wessels | Willems | Wolters |
+
+### East African Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abel | Akinyi | Alem | Almaz | Amani | Amara |
+| 2 | Asha | Aster | Baraka | Belen | Berhane | Chausiku |
+| 3 | Dalila | Daniel | Dawit | Desta | Eleni | Elias |
+| 4 | Eliud | Ephrem | Fana | Faraji | Fasil | Genet |
+| 5 | Gideon | Habte | Hadiya | Hasina | Hiwot | Imani |
+| 6 | Isaac | Isayas | Jabari | Jomo | Kebrom | Khalfan |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kifle | Kipchirchir | Kipchoge | Kipkemboi | Kiplimo | Kipngetich |
+| 2 | Kiprono | Kiprop | Kiprotich | Kipruto | Kipsang | Kiptoo |
+| 3 | Latifa | Liyu | Lulseged | Lulu | Maimuna | Makeda |
+| 4 | Makena | Malaika | Mengistu | Meron | Meseret | Michael |
+| 5 | Mulu | Mwai | Mwajuma | Mwinyi | Neema | Negasi |
+| 6 | Netsanet | Nia | Nuru | Omari | Pendo | Rahel |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Raila | Ramadhani | Rashidi | Rehema | Sadiki | Samuel |
+| 2 | Sana | Sasha | Selam | Semira | Solomon | Subira |
+| 3 | Tamirat | Tatu | Thabit | Tigist | Tsige | Tumaini |
+| 4 | Uhuru | Victor | Vumilia | Wangari | Wanjiru | William |
+| 5 | Winda | Yared | Yordanos | Yumna | Zahara | Zaituni |
+| 6 | Zakiya | Zewditu | Zola | Zuberi | Zuri | Zuwena |
+
+### East African Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdallah | Abdi | Achieng | Adan | Adhiambo | Agola |
+| 2 | Akoth | Ali | Amondi | Anyango | Assefa | Atieno |
+| 3 | Awino | Bakari | Bekele | Berhe | Bhoke | Birech |
+| 4 | Bulhan | Bwire | Chacha | Chepkirui | Cheruiyot | Diriye |
+| 5 | Farah | Fikru | Gebremariam | Getachew | Ghati | Githu |
+| 6 | Guebuza | Guled | Gure | Haile | Hamad | Hassan |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ismail | Jama | Juma | Kalonzo | Kamau | Karanja |
+| 2 | Kassahun | Kebede | Kenyatta | Keynan | Khalwale | Khamis |
+| 3 | Kidane | Kikwete | Kimani | Kipchoge | Kipkorir | Kiplagat |
+| 4 | Kiprotich | Kiptanui | Kisia | Kosgei | Kuria | Lagat |
+| 5 | Magufuli | Maina | Makori | Marwa | Matiko | Mburu |
+| 6 | Mekonnen | Mohamud | Moyo | Mudavadi | Mugisha | Muigai |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mulugeta | Murgor | Mussa | Mwangi | Mwende | Mwinyi |
+| 2 | Nanok | Njau | Njoroge | Nsubuga | Nyambura | Odhiambo |
+| 3 | Odinga | Okoth | Omar | Omondi | Onyango | Otieno |
+| 4 | Rajab | Rioba | Robi | Ruto | Said | Salum |
+| 5 | Selassie | Tadesse | Tanui | Teragat | Tesfaye | Wamalwa |
+| 6 | Wambura | Wanjiku | Warsame | Waweru | Wolde | Yego |
+
+### English (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ada | Albert | Alexander | Alf | Alfred | Alice |
+| 2 | Amy | Andrew | Anne | Anthony | Arthur | Beatrice |
+| 3 | Ben | Benjamin | Billy | Catherine | Cedric | Charles |
+| 4 | Charlie | Charlotte | Chloe | Christopher | Clara | Daisy |
+| 5 | Daniel | David | Dorothy | Edith | Edward | Eleanor |
+| 6 | Elizabeth | Emily | Esther | Ethel | Evie | Florence |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Francis | Fred | Frederick | George | Georgina | Gladys |
+| 2 | Grace | Hannah | Harriet | Harry | Helen | Henry |
+| 3 | Herbert | Hilda | Iris | Isabella | Ivy | Jack |
+| 4 | James | Jane | Joe | John | Jonathan | Joseph |
+| 5 | Julia | Juliet | Lawrence | Lily | Louisa | Lucy |
+| 6 | Lydia | Mabel | Margaret | Martha | Martin | Mary |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Matthew | Megan | Michael | Millie | Nathan | Nicholas |
+| 2 | Olive | Oliver | Paul | Penelope | Peter | Philip |
+| 3 | Poppy | Rebecca | Richard | Robert | Rose | Rowena |
+| 4 | Ruby | Ruth | Sam | Samuel | Sarah | Sebastian |
+| 5 | Simon | Sophie | Stephen | Susannah | Thomas | Timothy |
+| 6 | Tom | Victor | Victoria | Violet | Walter | William |
+
+### English (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abbott | Allen | Atkinson | Bailey | Baker | Ball |
+| 2 | Basil | Bell | Bennett | Brooks | Brown | Burton |
+| 3 | Butler | Carter | Chapman | Clarke | Cole | Collins |
+| 4 | Cook | Cooper | Cox | Cross | Davies | Dawson |
+| 5 | Day | Dean | Edwards | Elliott | Evans | Fisher |
+| 6 | Fletcher | Ford | Foster | Fox | Fuller | Gardner |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Giles | Gray | Green | Gregory | Hall | Harding |
+| 2 | Harris | Harrison | Harvey | Hawthorne | Hill | Hodgson |
+| 3 | Holmes | Howell | Hunt | Jackson | James | Jenkins |
+| 4 | Johnson | Jones | King | Knight | Lane | Lawrence |
+| 5 | Lee | Lewis | Marshall | Mason | May | Miles |
+| 6 | Miller | Morgan | Morris | Newman | Newton | Page |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Palmer | Parker | Patel | Payne | Pearce | Porter |
+| 2 | Price | Read | Reynolds | Roberts | Robinson | Russell |
+| 3 | Scott | Sharp | Simpson | Smith | Spencer | Stevens |
+| 4 | Stone | Sutton | Taylor | Thompson | Tucker | Turner |
+| 5 | Walker | Ward | Watson | Webb | West | White |
+| 6 | Wilkinson | Williams | Wilson | Wood | Wright | Yates |
+
+### French (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adelaide | Adrien | Agathe | Alain | Alice | Amandine |
+| 2 | Andre | Anne | Antoine | Aurelien | Baptiste | Benoit |
+| 3 | Bernard | Bertrand | Brigitte | Camille | Caroline | Catherine |
+| 4 | Cecile | Chantal | Charles | Charlotte | Christian | Christophe |
+| 5 | Claire | Claude | Clemence | Colette | Danielle | Delphine |
+| 6 | Denis | Denise | Elisabeth | Elodie | Emilie | Emmanuel |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Estelle | Etienne | François | Françoise | Gabriel | Gabrielle |
+| 2 | Genevieve | Georges | Gerard | Gilbert | Gilles | Guillaume |
+| 3 | Guy | Helene | Henri | Isabelle | Jacques | Janine |
+| 4 | Jean | Jeanne | Jerome | Joseph | Josiane | Julie |
+| 5 | Julien | Laurent | Louis | Louise | Lucie | Lucien |
+| 6 | Lydie | Madeleine | Marc | Marguerite | Marie | Martine |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mathilde | Mathis | Maurice | Michel | Monique | Nicolas |
+| 2 | Nicole | Noemie | Odette | Olivier | Pascal | Patrick |
+| 3 | Paul | Pauline | Philippe | Pierre | Raymond | Renee |
+| 4 | Robert | Roger | Rose | Sebastien | Serge | Simon |
+| 5 | Simone | Solange | Sophie | Suzanne | Sylvie | Therese |
+| 6 | Thierry | Thomas | Victorine | Vincent | Xavier | Yves |
+
+### French (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adam | Andre | Arnaud | Aubert | Barbier | Bazin |
+| 2 | Benoit | Bernard | Bertrand | Blanc | Blanchard | Bonnet |
+| 3 | Bonneville | Boucher | Bourgeois | Boyer | Brun | Brunet |
+| 4 | Caron | Charpentier | Charrier | Chevalier | Clement | Colin |
+| 5 | David | Denis | Dubois | Dumont | Dupont | Durand |
+| 6 | Duval | Even | Faure | Fontaine | Fournier | Francois |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gaillard | Garcia | Garnier | Gauthier | Gautier | Girard |
+| 2 | Giraud | Guerin | Guerrier | Guillaume | Henry | Hubert |
+| 3 | Humbert | Jacquet | Jean | Joly | Klein | Lambert |
+| 4 | Laurent | Leclerc | Lefebvre | Lefevre | Legrand | Lemaitre |
+| 5 | Lemoine | Leroy | Lucas | Mallet | Marais | Marchal |
+| 6 | Marchand | Marechal | Marie | Martin | Martinez | Masson |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mathieu | Mercier | Meunier | Meyer | Michel | Moreau |
+| 2 | Morel | Morin | Muller | Nicolas | Noel | Ollivier |
+| 3 | Paris | Pelletier | Perrin | Perrot | Petit | Philippe |
+| 4 | Picard | Pierre | Prevost | Renard | Renaud | Richard |
+| 5 | Riviere | Robert | Robin | Roche | Roussel | Roux |
+| 6 | Roy | Royer | Simon | Thomas | Vallet | Vasseur |
+
+### German Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adelheid | Adolf | Agnes | Alois | Amalie | Andreas |
+| 2 | Angelika | Anna | Anneliese | Anton | August | Balthasar |
+| 3 | Barbara | Beate | Benedikt | Bernhard | Brigitte | Bruno |
+| 4 | Cäcilie | Caspar | Charlotte | Christian | Christina | Clara |
+| 5 | Dietrich | Dorothea | Eberhard | Eleonore | Elisabeth | Emanuel |
+| 6 | Emma | Erich | Eva | Ferdinand | Franz | Friederike |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Friedrich | Georg | Gerhard | Gertrud | Gottfried | Gotthold |
+| 2 | Gottlieb | Gregor | Greta | Guenther | Hans | Hartmut |
+| 3 | Heinrich | Helene | Hermann | Hieronymus | Hildegard | Hubert |
+| 4 | Ignaz | Jakob | Joachim | Johann | Johanna | Johannes |
+| 5 | Joseph | Juliana | Karl | Katharina | Klaus | Konrad |
+| 6 | Kurt | Liselotte | Lorenz | Lucas | Ludwig | Luise |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Magdalena | Manfred | Marcus | Margaretha | Maria | Martha |
+| 2 | Matthäus | Matthias | Maximilian | Melchior | Michael | Monika |
+| 3 | Nikolaus | Oskar | Ottilie | Peter | Philipp | Reinhold |
+| 4 | Renate | Rosina | Rudolf | Sabina | Sebastian | Sibylla |
+| 5 | Siegfried | Sophie | Stefan | Susanna | Therese | Ulrich |
+| 6 | Ursula | Valentin | Veronika | Wilhelm | Wolfgang | Xaver |
+
+### German Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Albrecht | Arnold | Bauer | Baumann | Beck | Becker |
+| 2 | Berger | Bergmann | Böhm | Brandt | Braun | Busch |
+| 3 | Dietz | Drechsler | Eberhardt | Engel | Fischer | Frank |
+| 4 | Franke | Friedrich | Fuchs | Gerhard | Graf | Gross |
+| 5 | Günther | Haas | Hahn | Hartmann | Heinrich | Heller |
+| 6 | Herrmann | Hoffmann | Hofmann | Horn | Huber | Jäger |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Jung | Kaiser | Kaufmann | Klein | Klinger | Koch |
+| 2 | Köhler | König | Kramer | Kraus | Krause | Krüger |
+| 3 | Kuhn | Kurz | Lang | Lange | Lehmann | Lenz |
+| 4 | Lorenz | Ludwig | Maier | Mayer | Meier | Meyer |
+| 5 | Möller | Müller | Neumann | Otto | Peters | Pfeiffer |
+| 6 | Pohl | Reiter | Richter | Riedel | Roth | Sauer |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Schäfer | Schilling | Schmid | Schmidt | Schmitt | Schmitz |
+| 2 | Schneider | Scholz | Schreiber | Schröder | Schubert | Schulz |
+| 3 | Schulze | Schuster | Schwarz | Seidel | Smidt | Sommer |
+| 4 | Thomas | Ullrich | Vogel | Vogt | Voigt | Wagner |
+| 5 | Walter | Weber | Weiss | Werner | Winkler | Winter |
+| 6 | Wolf | Wolff | Woll | Ziegler | Zimmer | Zimmermann |
+
+### Indian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aadhya | Aarav | Aarohi | Abhishek | Aditya | Ajay |
+| 2 | Ali | Amandeep | Amira | Amit | Ananya | Anil |
+| 3 | Anita | Anjali | Arjun | Aryan | Asha | Avni |
+| 4 | Ayesha | Baljit | Daljit | Deepak | Deepika | Devi |
+| 5 | Diya | Farah | Farhan | Fatima | Gopal | Gurpreet |
+| 6 | Hamza | Harpreet | Hassan | Hema | Hussein | Ibrahim |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Inderjit | Indira | Ira | Ishaan | Ishani | Ishwar |
+| 2 | Jaspreet | Jaya | Kala | Kamala | Karan | Kaur |
+| 3 | Kavita | Krishna | Kuldeep | Kumari | Kyra | Lata |
+| 4 | Laxmi | Layla | Manjit | Manoj | Mariam | Meena |
+| 5 | Mehul | Mustafa | Myra | Neeraj | Nikhil | Nirmala |
+| 6 | Noor | Omar | Pallavi | Pari | Parvati | Pooja |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Priyanka | Rahul | Rajesh | Rayan | Rekha | Rishi |
+| 2 | Ritu | Rohan | Saanvi | Sai | Sameer | Sana |
+| 3 | Sandeep | Sanjay | Sara | Sarabjit | Sarala | Saraswati |
+| 4 | Shanti | Shaurya | Shruti | Sridevi | Sunil | Sunita |
+| 5 | Sushma | Tanvi | Usha | Varun | Vihaan | Vijay |
+| 6 | Vikram | Vimala | Vivaan | Zaid | Zain | Zainab |
+
+### Indian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Acharya | Agrawal | Ahmed | Anand | Ansari | Baig |
+| 2 | Bajpai | Bakshi | Balakrishnan | Banerjee | Bansal | Basu |
+| 3 | Bhat | Bhattacharya | Bose | Chatterjee | Chauhan | Chopra |
+| 4 | Choudhary | Chowdhury | Das | Deol | Desai | Deshmukh |
+| 5 | Dhar | Dhillon | Doshi | Dubey | Dutta | Garg |
+| 6 | Ghosal | Gill | Goel | Grewal | Gupta | Hashmi |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Iqbal | Iyengar | Iyer | Jadhav | Jain | Johal |
+| 2 | Joshi | Kapoor | Kaul | Khan | Khanna | Khatri |
+| 3 | Krishnan | Kulkarni | Kumar | Mahajan | Malhotra | Mann |
+| 4 | Mehra | Mehta | Menon | Mirza | Mishra | Modi |
+| 5 | Mukherjee | Munshi | Naidu | Nair | Nambiar | Oberoi |
+| 6 | Pal | Pandey | Pandya | Parekh | Patel | Pawar |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pillai | Prasad | Puri | Qureshi | Raghavan | Raina |
+| 2 | Randhawa | Ranganathan | Rao | Reddy | Roy | Sandhu |
+| 3 | Sarkar | Sen | Sethi | Shah | Sharma | Sheikh |
+| 4 | Sheth | Shukla | Siddiqui | Sidhu | Singh | Sivaraman |
+| 5 | Subramanian | Suri | Syed | Taneja | Thakkar | Tiwari |
+| 6 | Tripathi | Venkat | Verma | Vora | Vyas | Yadav |
+
+### Irish (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aidan | Aine | Aisling | Aoibhe | Aoife | Barry |
+| 2 | Bernadette | Blathnaid | Brendan | Brian | Bridget | Bridie |
+| 3 | Bronagh | Caoimhe | Carmel | Cathal | Ciara | Cillian |
+| 4 | Clodagh | Colette | Colm | Connor | Conor | Cormac |
+| 5 | Daniel | Darragh | Declan | Deirdre | Dermot | Dervla |
+| 6 | Desmond | Diarmuid | Dolores | Donal | Donnacha | Eamon |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Eileen | Eimear | Emer | Enda | Eoghan | Eoin |
+| 2 | Etain | Fergus | Fiachra | Fidelma | Finbar | Fionn |
+| 3 | Gemma | Gerard | Grainne | Imelda | James | John |
+| 4 | Joseph | Kathleen | Keira | Kevin | Kieran | Killian |
+| 5 | Liam | Luke | Maeve | Mairead | Malachy | Mary |
+| 6 | Maureen | Michael | Monica | Muireann | Niall | Niamh |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Nora | Nuala | Oisin | Oonagh | Orla | Padraig |
+| 2 | Patricia | Patrick | Paul | Peter | Philomena | Rita |
+| 3 | Roisin | Ronan | Rory | Ruairi | Sadhbh | Saoirse |
+| 4 | Seamus | Sean | Senan | Shane | Sheila | Sinead |
+| 5 | Siobhan | Sorcha | Stephen | Tadhg | Tallulah | Tara |
+| 6 | Therese | Thomas | Turlough | Una | Ursula | Veronica |
+
+### Irish (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Barrett | Boylan | Boyle | Brady | Brennan | Brown |
+| 2 | Buckley | Burke | Byrne | Caffrey | Campbell | Cassidy |
+| 3 | Clarke | Collins | Connolly | Coughlan | Cronin | Cullen |
+| 4 | Curran | Daly | Devine | Dolan | Donegan | Donnelly |
+| 5 | Doran | Doyle | Duffy | Duggan | Dunne | Dwyer |
+| 6 | Farrell | Fitzgerald | Fitzpatrick | Flanagan | Flynn | Foley |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gallagher | Gormley | Harte | Healy | Higgins | Hogan |
+| 2 | Hughes | Johnston | Joyce | Kane | Kavanagh | Kelly |
+| 3 | Kennedy | Keogh | Kiernan | Larkin | Lynch | Maguire |
+| 4 | Maher | Mahony | McArdle | McBride | McCabe | McCann |
+| 5 | McCarthy | McCormack | McDermott | McGovern | McGrath | McGuinness |
+| 6 | McHugh | McKenna | McLaughlin | McMahon | Molloy | Moore |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Moran | Muldoon | Mullan | Mullins | Murphy | Murray |
+| 2 | Nolan | O'Brien | O'Callaghan | O'Carroll | O'Connell | O'Connor |
+| 3 | O'Doherty | O'Donnell | O'Donovan | O'Gorman | O'Hara | O'Leary |
+| 4 | O'Neill | O'Reilly | O'Rourke | O'Shea | O'Sullivan | Power |
+| 5 | Quinn | Roche | Ryan | Sheridan | Smith | Sweeney |
+| 6 | Thompson | Tierney | Walsh | Whelan | White | Wilson |
+
+### Italian (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adele | Alberto | Aldo | Alessandra | Alessandro | Andrea |
+| 2 | Angela | Anna | Antonietta | Antonio | Beatrice | Bianca |
+| 3 | Bruno | Carlo | Carmela | Caterina | Chiara | Claudia |
+| 4 | Claudio | Concetta | Daniela | Dario | Davide | Domenico |
+| 5 | Elena | Elisa | Enrico | Erminia | Ettore | Fabio |
+| 6 | Federica | Felice | Filippo | Flora | Francesca | Francesco |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Franco | Gaetano | Gaspare | Gemma | Giacomo | Gianni |
+| 2 | Gilda | Ginevra | Giorgio | Giovanna | Giovanni | Giuseppe |
+| 3 | Giuseppina | Grazia | Guido | Ida | Ines | Isabella |
+| 4 | Laura | Leonardo | Letizia | Lorenzo | Lucia | Luciano |
+| 5 | Luigi | Marcello | Marco | Margherita | Maria | Mario |
+| 6 | Massimo | Matilde | Matteo | Maurizio | Michele | Monica |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Nicola | Noemi | Nunzia | Oreste | Orlando | Ornella |
+| 2 | Paola | Paolo | Pasquale | Patrizia | Pietro | Placido |
+| 3 | Quintino | Raffaele | Renzo | Rita | Roberta | Roberto |
+| 4 | Rosa | Rosaria | Ruggero | Salvatore | Samuele | Sebastiano |
+| 5 | Sergio | Silvia | Simona | Speranza | Stefano | Teodora |
+| 6 | Teresa | Tommaso | Valentina | Vincenzo | Virginia | Vittoria |
+
+### Italian (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Amato | Barbieri | Basile | Basso | Bellandi | Bellini |
+| 2 | Benedetti | Bernardi | Bianchi | Bianco | Bruno | Caputo |
+| 3 | Carbone | Caruso | Casadei | Castelli | Cattaneo | Colombo |
+| 4 | Conti | Coppola | Costa | D'Amico | D'Angelo | Danesi |
+| 5 | De Angelis | De Felice | De Luca | De Martino | De Rosa | De Santis |
+| 6 | Della Valle | Donati | Esposito | Fabbri | Farina | Ferrara |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ferrari | Ferraro | Ferretti | Fiore | Fontana | Galli |
+| 2 | Gallo | Gatti | Gentili | Giordano | Giuliani | Grassi |
+| 3 | Greco | Grossi | Guerra | Guerrieri | Lazzari | Leone |
+| 4 | Lombardi | Longhi | Longo | Mancini | Marchetti | Mariani |
+| 5 | Marini | Marino | Martinelli | Martini | Marzano | Mazza |
+| 6 | Messina | Molinari | Monti | Morelli | Moretti | Negri |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Neri | Orlando | Pagano | Palumbo | Parisi | Pasquali |
+| 2 | Pavan | Pellegrini | Pellegrino | Piras | Poli | Ricci |
+| 3 | Rinaldi | Riva | Rizzo | Romani | Romano | Romeo |
+| 4 | Rossetti | Rossi | Ruggiero | Russo | Sanna | Santini |
+| 5 | Santoro | Sartori | Serra | Silvestri | Sorrentino | Testa |
+| 6 | Valenti | Valentini | Valli | Villa | Vitale | Vitali |
+
+### Japanese Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ai | Akari | Akihiro | Akiko | Akira | Aoi |
+| 2 | Arata | Atsuko | Ayaka | Chikara | Chiyoko | Daichi |
+| 3 | Daiki | Erika | Fumiko | Genjiro | Hana | Haruki |
+| 4 | Haruna | Haruto | Hayato | Himari | Hinata | Hiroki |
+| 5 | Hiroshi | Hisako | Hitoshi | Ichika | Ichiro | Isamu |
+| 6 | Itsuki | Jiro | Junko | Kaito | Kana | Katsuko |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Katsuo | Kazuki | Kazuko | Kazuo | Keiko | Kenji |
+| 2 | Kenta | Kiyoshi | Kohaku | Koharu | Kota | Makoto |
+| 3 | Mao | Masako | Masao | Mayumi | Mei | Michiko |
+| 4 | Minato | Misaki | Mitsuo | Miyu | Nanami | Nao |
+| 5 | Naoko | Niko | Noboru | Noriaki | Nozomi | Osamu |
+| 6 | Ren | Riko | Riku | Rikuo | Rin | Rina |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rokuro | Ryosuke | Saburo | Sakura | Sara | Satoshi |
+| 2 | Shigeru | Shinji | Shiro | Shizuko | Sho | Shoji |
+| 3 | Shota | Sora | Sota | Sumiko | Tadao | Takashi |
+| 4 | Takumi | Takuya | Tamiko | Tatsuo | Teruko | Tetsuo |
+| 5 | Tomoko | Toru | Yasuo | Yoko | Yoshiko | Yoshio |
+| 6 | Yui | Yuma | Yumi | Yusuke | Yuto | Zen |
+
+### Japanese Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abe | Ando | Aoki | Arai | Chiba | Endo |
+| 2 | Fujii | Fujimoto | Fujita | Fujiwara | Fukuda | Goto |
+| 3 | Hara | Harada | Hasegawa | Hashimoto | Hayashi | Higashino |
+| 4 | Hirano | Ikeda | Imai | Inoue | Ishida | Ishii |
+| 5 | Ishikawa | Ito | Iwasaki | Kagamihara | Kaneko | Kato |
+| 6 | Kawasaki | Kikuchi | Kimura | Kinoshita | Kitamura | Kobayashi |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kojima | Kondo | Kubo | Kudō | Kurihara | Maeda |
+| 2 | Maruyama | Masuda | Matsuda | Matsui | Matsumoto | Matsuo |
+| 3 | Miura | Miyamoto | Miyazaki | Mori | Morita | Moriyama |
+| 4 | Murakami | Murata | Nagasawa | Nakagawa | Nakajima | Nakamura |
+| 5 | Nakano | Nakayama | Nishimura | Noguchi | Nomura | Ogawa |
+| 6 | Ohno | Okada | Okamoto | Onishi | Ono | Ota |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Otsuka | Saito | Sakai | Sakamoto | Sakurai | Sano |
+| 2 | Sasaki | Sato | Shibata | Shimizu | Shindo | Sugawara |
+| 3 | Sugimoto | Sugiyama | Suzuki | Takada | Takagi | Takahashi |
+| 4 | Takeda | Takeuchi | Tamura | Tanaka | Taniguchi | Tsuchiya |
+| 5 | Uchida | Ueda | Ueno | Wada | Watanabe | Yamada |
+| 6 | Yamaguchi | Yamamoto | Yamashita | Yamazaki | Yokoyama | Yoshida |
+
+### Korean Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Areum | Bada | Beomseok | Boram | Byungchul | Chaewon |
+| 2 | Chulsoo | Dabin | Daeho | Daeun | Dasom | Donghyun |
+| 3 | Doyun | Eunji | Eunjun | Eunseo | Garam | Gaul |
+| 4 | Guknam | Gunwoo | Haerin | Hajin | Hajun | Hana |
+| 5 | Haneul | Hayan | Heejin | Heejung | Hokwon | Hyejin |
+| 6 | Hyunjun | Hyunsook | Hyunwoo | Ilkyu | Irene | Iseul |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Jaehyun | Jiho | Jihoon | Jinwoo | Jiwon | Jiwoo |
+| 2 | Jiyeon | Joowon | Jungsook | Junho | Junsu | Juyeon |
+| 3 | Kwangsoo | Kyunghee | Kyungja | Kyungsoo | Manse | Maru |
+| 4 | Mina | Minhee | Minho | Minjae | Minjun | Minseo |
+| 5 | Minsun | Minwoo | Misuk | Myunghee | Nari | Nayeon |
+| 6 | Noeul | Saetbyul | Sangchul | Sanghun | Seoah | Seojin |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Seojun | Seorin | Seoyeon | Seoyun | Seulgi | Seungho |
+| 2 | Seunghyun | Sia | Siwoo | Sooah | Soobin | Sookja |
+| 3 | Soonja | Sora | Soyeon | Subin | Sungmin | Sunyoung |
+| 4 | Suri | Taehyun | Taemin | Taeyang | Woojin | Yejun |
+| 5 | Yeonwoo | Yerim | Yoonseo | Youngho | Youngja | Youngjae |
+| 6 | Youngnam | Youngsuk | Yuchan | Yujin | Yuna | Yuri |
+
+### Korean Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | An | Bae | Baek | Ban | Bang | Bok |
+| 2 | Bu | Byeon | Byun | Cha | Chae | Cheon |
+| 3 | Cho | Choi | Chu | Dae | Dan | Do |
+| 4 | Dok | Dokgo | Dongbang | Eo | Eun | Gadeu |
+| 5 | Geum | Gi | Gil | Goh | Gong | Gu |
+| 6 | Guk | Gung | Gwon | Gye | Gyeon | Ha |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ham | Han | Hee | Heo | Hong | Hwang |
+| 2 | Hwangbo | Hyeong | Hyun | Jang | Je | Jegal |
+| 3 | Jeon | Ji | Jin | Joo | Jung | Kang |
+| 4 | Kim | Kwak | Kwon | Lee | Lim | Ma |
+| 5 | Min | Mo | Moon | Myeong | Nah | Nam |
+| 6 | Namgoong | Namgung | Nan | Noh | Oh | Ok |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pae | Paik | Park | Pyeong | Pyo | Roh |
+| 2 | Ryu | Sa | Sagong | Seo | Seol | Seomun |
+| 3 | Seong | Seonu | Seonwoo | Seung | Shin | Sim |
+| 4 | So | Son | Song | Tak | Um | Wang |
+| 5 | Wi | Won | Woo | Yang | Yeo | Yeom |
+| 6 | Yeon | Yim | Yoo | Yoon | Yu | Yuk |
+
+### Middle Eastern Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdullah | Abeer | Adam | Adel | Ahmed | Ali |
+| 2 | Amir | Amira | Anas | Ayesha | Bashir | Basma |
+| 3 | Bassem | Bilal | Dina | Doaa | Ehab | Fadi |
+| 4 | Faisal | Farah | Faris | Fatima | Ghada | Ghassan |
+| 5 | Hadi | Hala | Hamza | Hassan | Hazem | Heidi |
+| 6 | Hoda | Hussein | Ibrahim | Iman | Inas | Issam |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Jalal | Jinan | Jumana | Kamal | Karim | Kenza |
+| 2 | Khadija | Khaled | Laila | Lamia | Lana | Latif |
+| 3 | Latifa | Lubna | Magdy | Maha | Mahmoud | Malik |
+| 4 | Maram | Mariam | Marwa | Maya | Mona | Mounira |
+| 5 | Muhammad | Munir | Mustafa | Nabil | Nadia | Najwa |
+| 6 | Nasir | Nisreen | Noha | Noor | Noura | Ola |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Omar | Osama | Radwa | Rafik | Ramzi | Rania |
+| 2 | Rasha | Rawan | Rayan | Reem | Sabah | Saeed |
+| 3 | Sahar | Salma | Sami | Samir | Sara | Sherif |
+| 4 | Sherine | Tala | Tamer | Tariq | Thana | Wael |
+| 5 | Wafa | Walid | Yahya | Yara | Yasmin | Yehia |
+| 6 | Youssef | Zahra | Zaid | Zainab | Zeina | Ziad |
+
+### Middle Eastern Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abbas | Abdullah | Ahmad | Al-Farsi | Al-Khalifa | Al-Nahyan |
+| 2 | Al-Sabah | Al-Saud | Al-Sayed | Al-Thani | Ali | Alwan |
+| 3 | Amin | Asfour | Atiyeh | Azar | Badawi | Bakir |
+| 4 | Barakat | Bishara | Dagher | Daher | Darwish | Ebeid |
+| 5 | Fadel | Fahmy | Farah | Faraj | Fawzi | Gaber |
+| 6 | Ghanem | Habib | Haddad | Hamad | Hamdan | Hammoud |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hanania | Harb | Hariri | Hashem | Hassan | Hijazi |
+| 2 | Hussein | Ibrahim | Idris | Issa | Jaber | Jalil |
+| 3 | Jamil | Karam | Kassis | Khalil | Khater | Khoury |
+| 4 | Lotfy | Maalouf | Madi | Mahmoud | Majid | Malki |
+| 5 | Mansour | Masri | Mubarak | Musa | Mustafa | Nader |
+| 6 | Najjar | Naser | Nassif | Qasim | Radi | Ragab |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rahman | Rashed | Saad | Saba | Sadek | Said |
+| 2 | Salam | Saleh | Salim | Salman | Samara | Sarkis |
+| 3 | Sayegh | Shaban | Shami | Sharif | Shihab | Sleiman |
+| 4 | Sultan | Tahan | Taleb | Tamimi | Touma | Uthman |
+| 5 | Waked | Yaghi | Yassin | Yazji | Younis | Zaid |
+| 6 | Zaki | Zarour | Zeid | Ziad | Zogby | Zuaiter |
+
+### Nicknames Names
+
+Roll **1d18** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ace | Actual | Aegis | Alpha | Amber | Amethyst |
+| 2 | Anchor | Anvil | Apex | Arc | Artifact | Ash |
+| 3 | Astray | Avalanche | Avenger | Axle | Ballistic | BamBam |
+| 4 | Bandit | Banshee | Baron | Barrel | Basecamp | Bash |
+| 5 | Basin | Bastion | Beam | Beatdown | Bedrock | Biggs |
+| 6 | Binary | Bingo | Biscuit | Bit | Black | Blade |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Blank | Blaze | Blip | Blitz | Block | Bloodshot |
+| 2 | Bloom | Blue | Blunt | Bolt | Bonehead | Bones |
+| 3 | Bonfire | Book | Boomer | Boomstick | Bore | Bound |
+| 4 | Brass | Bravo | Breach | Breaker | Breeze | Brick |
+| 5 | Bridge | Brink | Brisk | Bronze | Brute | Bubbles |
+| 6 | Buckle | Buckshot | Buddy | Buffer | Bullet | Bullseye |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Bulwark | Bumper | Bunker | Burnout | Burst | Buzz |
+| 2 | Caboose | Cairn | Cakewalk | Candystick | Cannonball | Captain |
+| 3 | Carmine | Cartridge | Cascade | Case | Cashew | Castle |
+| 4 | Catalyst | Catcher | Caustic | Caveman | Cell | Center |
+| 5 | Centurion | Chain | Chalk | Challenger | Champion | Channel |
+| 6 | Chaos | Charger | Charm | Check | Checkmate | Cheerio |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Chip | Chisel | Chops | Chowder | Chrome | Chuckles |
+| 2 | Chunk | Cinder | Cipher | Circuit | Clamp | Clank |
+| 3 | Clasp | Clear | Cleft | Cleric | Clever | Click |
+| 4 | Clicker | Cliff | Climax | Climber | Clincher | Cloak |
+| 5 | Clock | Clone | Close | Cloud | Clutch | Cobalt |
+| 6 | Cocktail | Cocky | Code | Codger | Coercer | Coffin |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Cog | Cogent | Coil | Coin | Coke | Cold |
+| 2 | Coldsnap | Combat | Combover | Comeback | Comedian | Comet |
+| 3 | Comfort | Comic | Commander | Compass | Compete | Competent |
+| 4 | Competitor | Complain | Complete | Complex | Composer | Composite |
+| 5 | Comrade | Conduit | Contact | Coral | Core | Corsair |
+| 6 | Count | Cove | Crack | Crag | Crank | Crash |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creed | Crest | Cross | Crown | Crunch | Crusher |
+| 2 | Crust | Crypt | Crystal | Cube | Curb | Current |
+| 3 | Cutter | Cutthroat | Cycle | Dagger | Damper | Dancer |
+| 4 | Danger | Dart | Dash | Data | Deadeye | Deadlock |
+| 5 | Dealbreaker | Deathblow | Deathwish | Decay | Deck | Decree |
+| 6 | Deejay | Deep | Default | Defect | Degree | Delay |
+
+#### Table 7
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Delete | Delta | Demise | Demon | Dense | Depth |
+| 2 | Detail | Deuce | Devastate | Devastation | Device | Devil |
+| 3 | Devious | Devour | Dexter | Diablo | Dial | Diamond |
+| 4 | Diehard | Diesel | Digger | Digit | Dim | Dinker |
+| 5 | Diplomat | Dipstick | Direct | Dirge | Dirk | Dirt |
+| 6 | Dirtbag | Dirtnap | Disc | Discord | Dish | Disk |
+
+#### Table 8
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Dispatch | Disrupt | Dissolve | Distance | Ditch | Dive |
+| 2 | Divide | Doc | Domain | Dome | Dose | Double |
+| 3 | Down | Draft | Drag | Drain | Draw | Dream |
+| 4 | Drift | Drill | Drink | Drip | Drive | Drop |
+| 5 | Drum | Dry | Dual | Duct | Duke | Dull |
+| 6 | Dummy | Dump | Dune | Dust | Duty | Dynamo |
+
+#### Table 9
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Earl | Echo | Edge | Ember | Emerald | Enforcer |
+| 2 | Engine | Enigma | Failsafe | Farseer | Fast | Fidget |
+| 3 | Fire | Firestarter | Five | Fixer | Flare | Flash |
+| 4 | Flatline | Flicker | Flint | Flood | Flow | Flux |
+| 5 | Forge | Foxtrot | Frequency | Fridge | Frost | Fumbles |
+| 6 | Furnace | Fuse | Gadget | Gale | Garnet | Gate |
+
+#### Table 10
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gear | Gem | Ghost | Giggles | Gizmo | Glare |
+| 2 | Glass | Glint | Gloss | Glow | Gold | Goober |
+| 3 | Grit | Grudge | Gunfire | Gust | Gutshot | Hail |
+| 4 | Hammer | Harbor | Hard | Harrow | Havoc | Hazard |
+| 5 | Haze | Heatwave | Heavy | Hellion | Hex | Highroller |
+| 6 | Hopper | Hotshot | Hunter | Hush | Husk | Ice |
+
+#### Table 11
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Impulse | Inferno | Ion | Iron | Ironclad | Ironman |
+| 2 | Ironside | Jackpot | Jade | Jager | Jammer | Jasper |
+| 3 | Jester | Jetstream | Jewel | Jinx | Jockey | Joker |
+| 4 | Jostle | Judge | Jugular | Kaiser | Key | Kiln |
+| 5 | Kilo | King | Knight | Knockout | Knucklehead | Knuckles |
+| 6 | Lancer | Laser | Launchpad | Lead | Leadfoot | Ledger |
+
+#### Table 12
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lefty | Lever | Light | Lima | Lineman | Link |
+| 2 | Livewire | Lock | Longshot | Lord | Lucky | Lunchmeat |
+| 3 | Luster | Madman | Mainframe | Makeover | Mantle | Marauder |
+| 4 | Matte | Maverick | Meatball | Meathead | Mercury | Midnight |
+| 5 | Mimic | Minefield | Mischief | Mist | Mojo | Monarch |
+| 6 | Monsoon | Moonlight | Mortar | Moss | Mothball | Motor |
+
+#### Table 13
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mudslinger | Mumbles | Nadir | Nails | Narrator | Nemesis |
+| 2 | Nickel | Niner | Nitro | Nobody | Nomad | Noodle |
+| 3 | Nosedive | Nova | Nugget | Null | Numbskull | Nut |
+| 4 | Obsidian | Ogre | Omega | Omen | One | Onyx |
+| 5 | Opal | Operator | Opportunist | Oracle | Orbit | Oriel |
+| 6 | Orion | Orphan | Outlaw | Outpost | Outsider | Overload |
+
+#### Table 14
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Overtime | Packrat | Paladin | Paperboy | Paratrooper | Patches |
+| 2 | Patchwork | Pathfinder | Patriarch | Patrol | Pattern | Payback |
+| 3 | Peacemaker | Peak | Pearl | Pebbles | Peephole | Peewee |
+| 4 | Penthouse | Pepper | Periscope | Perp | Phantom | Phoenix |
+| 5 | Pin | Piper | Piston | Point | Potato | Prime |
+| 6 | Prince | Prof | Prophet | Pulse | Pyro | Quake |
+
+#### Table 15
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Quartz | Quickdraw | Quill | Radar | Rampart | Rascal |
+| 2 | Ray | Razor | Reaper | Rebel | Red | Reef |
+| 3 | Resonance | Rex | Ricochet | Ridge | Rift | Rime |
+| 4 | Ripple | Rivet | Rogue | Ronin | Rook | Rookie |
+| 5 | Rough | Rover | Royal | Ruby | Runner | Rust |
+| 6 | Sable | Sabotage | Samurai | Sapphire | Saw | Scorch |
+
+#### Table 16
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Scout | Screwball | Screwup | Sentinel | Seven | Shadow |
+| 2 | Shard | Sharp | Shell | Shield | Shiv | Shorty |
+| 3 | Shutdown | Sigma | Signal | Silver | Singe | Six |
+| 4 | Skipper | Skippy | Slack | Slash | Slate | Sleet |
+| 5 | Slick | Slope | Smiley | Smooth | Sneezy | Snipes |
+| 6 | Sovereign | Spark | Specter | Spike | Splinter | Squall |
+
+#### Table 17
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stalker | Stark | Static | Steel | Stinger | Storm |
+| 2 | Straggler | Striker | Stumpy | Summit | Surge | Swell |
+| 3 | Swindle | Tango | Tank | Tempest | Thorn | Three |
+| 4 | Thunder | Tide | Tinker | Tiny | Titan | Topaz |
+| 5 | Torch | Torque | Torrent | Touchdown | Trigger | Trooper |
+| 6 | Twitch | Two | Tycoon | Umber | Umbra | Vagabond |
+
+#### Table 18
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Valkyrie | Valve | Vanguard | Vapor | Vector | Vertigo |
+| 2 | Victor | Vigil | Void | Volt | Vortex | Vulcan |
+| 3 | Waddles | Wall | Warden | Warlock | Warlord | Watchdog |
+| 4 | Wave | Wayfinder | Weld | Whiskey | Whisper | Whiz |
+| 5 | Wildcard | Wingnut | Wobbles | Wraith | Wrench | Wrongway |
+| 6 | Xylo | Zenith | Zephyr | Zero | Zodiac | Zulu |
+
+### North African Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdel | Adel | Ahmed | Aicha | Amel | Amina |
+| 2 | Amine | Amir | Anas | Assia | Bassem | Batoul |
+| 3 | Brahim | Chaimae | Chaker | Chakir | Dalila | Diaa |
+| 4 | Dounia | Driss | Elias | Esma | Ezzat | Fadel |
+| 5 | Farida | Fatiha | Fatima | Fayez | Fouad | Gamal |
+| 6 | Ghali | Ghizlane | Habib | Hakim | Hamza | Hany |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hiba | Hicham | Houda | Idriss | Ihab | Imane |
+| 2 | Ines | Ishaq | Jaouad | Jihane | Kaouthar | Karim |
+| 3 | Karima | Kenan | Khadija | Khaled | Lamia | Latifa |
+| 4 | Leila | Lotfi | Mahmoud | Malika | Mehdi | Meriem |
+| 5 | Mohamed | Mouna | Mounir | Mustafa | Nabil | Nadia |
+| 6 | Nadir | Nasser | Nawal | Nesrine | Omar | Othman |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ouarda | Qasim | Rabia | Rachid | Rayan | Reda |
+| 2 | Rim | Saad | Safia | Salma | Samira | Sana |
+| 3 | Selim | Siham | Sofiane | Souad | Taher | Tarek |
+| 4 | Tarik | Touria | Umeya | Uthman | Vahid | Varda |
+| 5 | Wafa | Walid | Wassim | Xena | Yahya | Yara |
+| 6 | Yasmina | Younes | Youssef | Ziad | Zineb | Zohra |
+
+### North African Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdelrahman | Abdou | Abid | Allali | Amrani | Badawi |
+| 2 | Belkaid | Benali | Benjelloun | Bennani | Bensaid | Benyamina |
+| 3 | Benyoussef | Boudiaf | Bouzid | Brahimi | Chahine | Chaoui |
+| 4 | Cherif | Cherkaoui | Choukri | Dahmani | Daoud | Djebbar |
+| 5 | Dridi | El Idrissi | El-Amine | El-Baz | Emara | Es-Said |
+| 6 | Farrah | Fassi | Fathi | Fekir | Fouad | Galal |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ghazali | Gherbi | Gomaa | Guellal | Haddad | Hadjadj |
+| 2 | Hafiz | Hamdy | Hamidi | Idrissi | Iskander | Ismail |
+| 3 | Issad | Jarrar | Jebali | Jouini | Kabbaj | Kacimi |
+| 4 | Kamal | Khalaf | Khedis | Lahlou | Lakhdar | Laroui |
+| 5 | Lotfi | Madani | Maged | Mahfouz | Mansour | Mekki |
+| 6 | Messaoudi | Mokhtar | Naggar | Nait | Naji | Nasri |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Omari | Osman | Oudai | Oullow | Pacha | Qadi |
+| 2 | Qutb | Rachidi | Rahmani | Rezgui | Rifaat | Sabry |
+| 3 | Saidi | Slimani | Smahi | Taleb | Tawfik | Tazi |
+| 4 | Toumi | Ubayd | Uled | Vakil | Veziri | Wagdi |
+| 5 | Wahabi | Wali | Xenon | Yacoubi | Yahia | Yassin |
+| 6 | Yousfi | Zaki | Zemmouri | Zeroual | Ziani | Zidi |
+
+### North American (Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aaron | Abigail | Adrian | Aiden | Alice | Amelia |
+| 2 | Anthony | Aria | Asher | Aurora | Ava | Avery |
+| 3 | Bella | Benjamin | Brooks | Caleb | Camila | Charles |
+| 4 | Charlotte | Chloe | Christian | Christopher | Cooper | Delilah |
+| 5 | Dylan | Eleanor | Elena | Elias | Elijah | Elizabeth |
+| 6 | Ellie | Emilia | Emily | Emma | Ethan | Evelyn |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Everly | Ezra | Gabriel | Genesis | Gianna | Grayson |
+| 2 | Hannah | Harper | Hazel | Henry | Hudson | Hunter |
+| 3 | Isaac | Isabella | Isaiah | Ivy | Jack | Jackson |
+| 4 | James | John | Josiah | Julian | Juliette | Kennedy |
+| 5 | Layla | Leilani | Leo | Levi | Liam | Lily |
+| 6 | Lincoln | Logan | Luca | Lucas | Luke | Luna |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Madison | Mason | Mateo | Maverick | Maya | Mia |
+| 2 | Micah | Mila | Miles | Naomi | Nathan | Noah |
+| 3 | Nora | Nova | Oliver | Olivia | Owen | Paisley |
+| 4 | Penelope | Quinn | Riley | Samuel | Scarlett | Sebastian |
+| 5 | Serenity | Skylar | Sofia | Sophia | Stella | Theodore |
+| 6 | Thomas | Violet | William | Willow | Wyatt | Zoe |
+
+### North American (Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adams | Allen | Alvarez | Anderson | Bailey | Baker |
+| 2 | Barnes | Bennett | Brooks | Brown | Campbell | Carter |
+| 3 | Castillo | Chavez | Clark | Coleman | Collins | Cook |
+| 4 | Cooper | Cox | Cruz | Davis | Diaz | Edwards |
+| 5 | Evans | Flores | Foster | Garcia | Gomez | Gonzalez |
+| 6 | Gray | Green | Griffin | Gutierrez | Hall | Harris |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hernandez | Hill | Howard | Hughes | Jackson | James |
+| 2 | Jenkins | Jimenez | Johnson | Jones | Kelly | Kim |
+| 3 | King | Lee | Lewis | Long | Lopez | Martin |
+| 4 | Martinez | Mendoza | Miller | Mitchell | Moore | Morales |
+| 5 | Morgan | Morris | Murphy | Myers | Nelson | Nguyen |
+| 6 | Ortiz | Parker | Patel | Perez | Perry | Peterson |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Phillips | Powell | Price | Ramirez | Ramos | Reed |
+| 2 | Reyes | Richardson | Rivera | Roberts | Robinson | Rodriguez |
+| 3 | Rogers | Ross | Ruiz | Russell | Sanchez | Sanders |
+| 4 | Scott | Smith | Stewart | Sullivan | Taylor | Thomas |
+| 5 | Thompson | Torres | Turner | Walker | Ward | Watson |
+| 6 | White | Williams | Wilson | Wood | Wright | Young |
+
+### Oceania (Polynesian, Melanesian, & Micronesian) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abacca | Afu | Aisea | Akamu | Alani | Ana |
+| 2 | Anahera | Anjain | Anuhea | Aroha | Bwij | Eda |
+| 3 | Eleni | Ema | Enje | Fetu | Fiafia | Halia |
+| 4 | Hana | Heerani | Hemi | Hone | Ikaika | Inoke |
+| 5 | Iolani | Ione | Jikon | Jone | Kabua | Kai |
+| 6 | Kalani | Kauri | Keanu | Kekoa | Kesa | Kiana |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kilo | Kiri | Kitione | Lagi | Laisa | Lajidik |
+| 2 | Leilani | Lijon | Lola | Lono | Losa | Luisa |
+| 3 | Makani | Malie | Mana | Manaia | Manea | Manoa |
+| 4 | Marama | Mele | Mere | Mereana | Mikaere | Mina |
+| 5 | Moana | Moerani | Mwadark | Nalu | Neamon | Neta |
+| 6 | Ngaira | Nikau | Noelani | Pania | Paora | Peni |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pua | Pule | Rangi | Rawiri | Salote | Sani |
+| 2 | Seini | Semisi | Sereana | Sina | Sione | Tala |
+| 3 | Tamati | Tane | Taniela | Tariak | Tasi | Teina |
+| 4 | Teixera | Teuila | Teura | Tevita | Tia | Tiare |
+| 5 | Toke | Tui | Uili | Vaea | Vaihere | Vaimiti |
+| 6 | Vaitiare | Vasiti | Viliami | Waimarie | Wiki | Wiremu |
+
+### Oceania (Polynesian, Melanesian, & Micronesian) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adeang | Afeaki | Aingimea | Aiono | Aitaro | Aitau |
+| 2 | Anastacio | Anote | Atanraoi | Awira | Bainimarama | Baiteke |
+| 3 | Bavadra | Brown | Bureti | Chan | Chin | Clodumar |
+| 4 | Deireragea | Dowiyogo | Esang | Etpison | Faleomavaega | Faumuina |
+| 5 | Finau | Fonua | Fusi | Ganilau | Genia | Gioura |
+| 6 | Harris | Hau'ofa | Heather | Heine | Hekari | Henry |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ieremia | Iuta | Kabua | Kaitu | Kava | Kirata |
+| 2 | Koloamatangi | Kuartei | Kun | Kyota | Latu | Loeak |
+| 3 | Maamau | Mafi | Maoate | Mara | Marat | Mariur |
+| 4 | Marsters | Mataio | Morauta | Muller | Nakamura | Namaliu |
+| 5 | Nanyuma | Nata | Nemra | Ngiraked | Note | Numangatini |
+| 6 | O'Neill | Oiterong | Parata | Pomare | Pritchard | Puna |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Qereqeretabua | Rabuka | Remeliik | Remengesau | Sadang | Salii |
+| 2 | Scoop | Sengebau | Skate | Somare | Tabai | Takatoka |
+| 3 | Tamanivalu | Taneti | Taumalolo | Taumoepeau | Te Rangi | Teaiwa |
+| 4 | Teiwaki | Temetiu | Tito | Tong | Toribiong | Tuigamala |
+| 5 | Tuilaepa | Tuivasa | Tupou | Turepu | Uherbelau | Vea |
+| 6 | Waqa | Whipps | Whippy | Williams | Wingti | Zedkaia |
+
+### Polish Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adam | Agnieszka | Aleksandra | Alicja | Andrzej | Anna |
+| 2 | Antoni | Artur | Barbara | Bartosz | Beata | Błażej |
+| 3 | Bogdan | Bożena | Celina | Czesław | Damian | Danuta |
+| 4 | Daria | Dariusz | Dominik | Dorota | Edyta | Elżbieta |
+| 5 | Emilia | Ewa | Ewelina | Filip | Franciszek | Grażyna |
+| 6 | Grzegorz | Halina | Helena | Henryk | Irena | Iwona |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Izabela | Jadwiga | Jakub | Jan | Jerzy | Joanna |
+| 2 | Jolanta | Józef | Julia | Justyna | Kacper | Kamil |
+| 3 | Kamila | Karol | Karolina | Katarzyna | Kazimierz | Kinga |
+| 4 | Klaudia | Konrad | Krystyna | Krzysztof | Łukasz | Maciej |
+| 5 | Magdalena | Maksymilian | Małgorzata | Marcin | Marek | Maria |
+| 6 | Marian | Marta | Martyna | Mateusz | Michał | Mikołaj |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Milena | Mirosław | Monika | Natalia | Oliwia | Patrycja |
+| 2 | Patryk | Paulina | Paweł | Piotr | Przemysław | Rafał |
+| 3 | Robert | Roman | Rozalia | Ryszard | Sandra | Sebastian |
+| 4 | Stanisław | Stefan | Sylwia | Szymon | Tadeusz | Teresa |
+| 5 | Tomasz | Tymon | Ursula | Weronika | Wiktor | Wiktoria |
+| 6 | Wioletta | Władysław | Wojciech | Zbigniew | Zofia | Zuzanna |
+
+### Polish Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adamczyk | Adamowicz | Bąk | Baran | Barański | Bielecki |
+| 2 | Błaszczyk | Borkowski | Brzeziński | Chmielewski | Czarnecki | Dąbrowski |
+| 3 | Duda | Dudek | Gajewski | Głowacki | Góra | Grabowski |
+| 4 | Jabłoński | Jakubowski | Jankowski | Jasiński | Jaworski | Kaczmarczyk |
+| 5 | Kaczmarek | Kalinowski | Kamiński | Kasperczak | Kaźmierczak | Kołodziej |
+| 6 | Konieczny | Kopeć | Kowalczyk | Kowalewski | Kowalski | Kozak |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kozłowski | Krajewski | Krakowiak | Krawczyk | Król | Krupa |
+| 2 | Kubiak | Kucharski | Kurek | Kwiatkowski | Laskowski | Lewandowski |
+| 3 | Lipiński | Lis | Maciejewski | Madej | Majewski | Malinowski |
+| 4 | Marciniak | Marek | Mazur | Mazurek | Michalak | Michalski |
+| 5 | Mróz | Mucha | Nowak | Nowicki | Ostrowski | Pawlak |
+| 6 | Pawlikowski | Pawłowski | Piekarski | Pietrzak | Piotrowski | Rutkowski |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rybicki | Sadowski | Sawicki | Sikora | Sikorski | Sobczak |
+| 2 | Sokołowski | Sowa | Stanisławski | Stępień | Szczepański | Szewczyk |
+| 3 | Szymański | Szymczak | Tomaszewski | Urban | Walczak | Wasilewski |
+| 4 | Wieczorek | Wilk | Wiśniewski | Witkowski | Włodarczyk | Wojciechowski |
+| 5 | Wójcik | Wojtas | Woźniak | Wróbel | Wróblewski | Wrona |
+| 6 | Wysocki | Zając | Zakrzewski | Zalewski | Zawadzki | Zieliński |
+
+### Pulp Names Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abraham | Ace | Ada | Adeyemi | Adrian | Ahmed |
+| 2 | Aisha | Akiko | Akira | Alden | Alejandro | Alexander |
+| 3 | Alice | Allan | Amara | Amelia | Amir | Andrea |
+| 4 | Anjali | Annie | Ardeth | Arizona | Arjun | Arnold |
+| 5 | Austin | Azila | Barnaby | Baron | Bartholomew | Basil |
+| 6 | Beatrice | Bernard | Bogart | Brendan | Brick | Brother |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Buck | Cameron | Captain | Cassian | Cassidy | Catherine |
+| 2 | Charlotte | Chester | Claude | Clayton | Cole | Constance |
+| 3 | Cornelius | Crash | Cyril | Dale | Darius | Dash |
+| 4 | Declan | Dex | Diana | Dirk | Doc | Douglas |
+| 5 | Duke | Dum Dum | Dusty | Edie | Edmund | Eleanor |
+| 6 | Elena | Emerson | Ernest | Esme | Eva | Evelyn |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Everett | Eze | Fabian | Father | Fatima | Felix |
+| 2 | Fitzgerald | Flash | Flint | Forrest | Franklin | Gabriel |
+| 3 | Garrett | Geoffrey | Grace | Gregory | Greta | Hank |
+| 4 | Hardwick | Harlan | Harrison | Hector | Helena | Henry |
+| 5 | Hercule | Hiroshi | Hollis | Howard | Hugo | Indiana |
+| 6 | Inez | Ingrid | Irwin | Isaac | Isabella | Isabelle |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ivan | Jabari | Jack | Jake | Jane | Jasper |
+| 2 | Jerome | Jet | Jonathan | Josephine | Julian | Julius |
+| 3 | Juno | Karim | Kendall | Kenji | Kenneth | Khalid |
+| 4 | Kingsley | Kit | Kofi | Kwame | Landis | Lawrence |
+| 5 | Layla | Leopold | Lillian | Logan | Lord | Lucian |
+| 6 | Madeline | Malcolm | Mallory | Margaret | Margo | Marion |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Martin | Matthew | Max | Miller | Mina | Miss |
+| 2 | Mister | Morton | Nala | Nash | Nathaniel | Neville |
+| 3 | Nicholas | Nick | Nico | Nigel | Nora | Norman |
+| 4 | Okafor | Oliver | Ophelia | Orson | Oscar | Oswald |
+| 5 | Patrick | Peggy | Penelope | Percival | Peter | Phileas |
+| 6 | Philip | Phineas | Priya | Professor | Quentin | Quincy |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rafael | Rafe | Rafi | Rajesh | Reverend | Rex |
+| 2 | Rick | Ridge | Roland | Rose | Ruby | Sakura |
+| 3 | Sam | Scarlett | Sister | Slate | Smiles | Sophia |
+| 4 | Steve | Stone | Sydney | Sylvia | Takeshi | Theo |
+| 5 | Tyrell | Veronica | Victoria | Vikram | Vivian | Willie |
+| 6 | Wilma | Wyatt | Yasmin | Yuki | Zane | Zuri |
+
+### Pulp Names Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adani | Ahmed | Aldridge | Ali | Arden | Ashcroft |
+| 2 | Ashford | Ashton | Barrett | Baskerville | Bay | Benedikt |
+| 3 | Bergman | Blackburn | Blackwell | Blackwood | Blaine | Brennan |
+| 4 | Bruce | Caldwell | Carnahan | Carson | Carter | Castillo |
+| 5 | Chadwick | Chambers | Charles | Chase | Chen | Covington |
+| 6 | Crane | Cross | Crowley | Dalton | Danger | Davenport |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | de la Vega | Deering | Desai | Desmond | Devereaux | Diallo |
+| 2 | Dixon | Donovan | Drake | Drummond | Dryden | Dugan |
+| 3 | Erskine | Esmond | Everington | Everton | Fairchild | Falcone |
+| 4 | Fitzpatrick | Flannery | Flint | Fogg | Fordham | Forrester |
+| 5 | Fortune | Fox | Franklin | Frost | Galloway | Goodwin |
+| 6 | Gordon | Grantham | Grayson | Greenstreet | Greystoke | Gupta |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hardcastle | Harington | Harker | Harper | Harrington | Hart |
+| 2 | Hartley | Hassan | Hawke | Hawthorne | Hickman | Hunt |
+| 3 | Ibrahim | Ingram | Inverness | Iverson | Iyer | Jackson |
+| 4 | Jameson | Jamison | Jefferson | Jenkins | Jericho | Johnson |
+| 5 | Jones | Kane | Kapoor | Kellerman | Kensington | Khan |
+| 6 | Kimura | Kingsley | Kissinger | Knight | Kobayashi | LaBelle |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lancaster | Langley | Lawson | Lexington | Llewelyn | Locke |
+| 2 | Lorre | Malhotra | Mallory | Malone | Mansfield | Marlowe |
+| 3 | Marple | Marquette | Mattheson | Mbatha | Mensah | Mercer |
+| 4 | Middleton | Miller | Mohammed | Montero | Montgomery | Morgan |
+| 5 | Mori | Murrieta | Mwangi | Nakamura | Navarro | Neville |
+| 6 | Newberry | Njoku | Nkosi | Normandy | Northcote | O'Connor |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Oakley | Obi | Okonkwo | Okoro | Orlov | Orrington |
+| 2 | Osborne | Osmunde | Patel | Pemberton | Pennington | Peregrine |
+| 3 | Phillips | Pickering | Pierce | Poirot | Porter | Prentiss |
+| 4 | Quade | Quatermain | Questrom | Quincy | Quinn | Quinton |
+| 5 | Radcliffe | Raines | Ramsey | Rathbone | Ravenwood | Remington |
+| 6 | Rhodes | Rivers | Rochester | Rogers | Rourke | Sanderson |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Sato | Savage | Scott | Shadow | Sharma | Sharp |
+| 2 | Shelby | Shelton | Sinclair | Smith | Spade | Stanton |
+| 3 | Stark | Stavros | Steele | Sterling | Stone | Storm |
+| 4 | Suzuki | Tanaka | Thorne | Turner | Vale | Van Buren |
+| 5 | Vance | Vasquez | Verma | Villar | Walker | Watanabe |
+| 6 | Wexler | Wilde | Yamamoto | Zhe | Zorin | - |
+
+### Russian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Agata | Alexander | Alexei | Alina | Alla | Alyona |
+| 2 | Anastasia | Anatoly | Andrei | Anfisa | Anna | Anton |
+| 3 | Arina | Artem | Arthur | Boris | Daniil | Daria |
+| 4 | Demid | Denis | Diana | Dmitry | Egor | Ekaterina |
+| 5 | Elena | Eugenia | Eva | Evgeny | Fedor | Galina |
+| 6 | Gennady | Grigory | Igor | Ilya | Inna | Irina |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ivan | Julia | Karina | Kira | Kirill | Konstantin |
+| 2 | Kristina | Ksenia | Larisa | Leonid | Luka | Lydia |
+| 3 | Lyubov | Lyudmila | Marat | Margarita | Maria | Marina |
+| 4 | Matvei | Maxim | Mikhail | Milana | Miron | Miroslava |
+| 5 | Nadezhda | Natalia | Nikita | Nikolai | Nina | Oksana |
+| 6 | Oleg | Olga | Pavel | Petr | Platon | Polina |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Raisa | Roman | Ruslan | Savva | Semyon | Sergei |
+| 2 | Snezhana | Sofia | Stanislav | Stepan | Svetlana | Taisia |
+| 3 | Tamara | Tatiana | Timur | Ulyana | Vadim | Valentina |
+| 4 | Valery | Varvara | Vasilisa | Vasily | Vera | Veronika |
+| 5 | Victor | Victoria | Vitaly | Vladimir | Vsevolod | Vyacheslav |
+| 6 | Yana | Yaroslav | Yury | Zakhar | Zlata | Zoya |
+
+### Russian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abramov | Afanasyev | Aksyonov | Alexandrov | Alexeev | Andreev |
+| 2 | Anisimov | Antonov | Baranov | Belov | Belyaev | Bespalov |
+| 3 | Bogdanov | Borisov | Bykov | Chernov | Davydov | Demidov |
+| 4 | Denisov | Dmitriev | Efimov | Egorov | Fedorov | Filippov |
+| 5 | Fomin | Frolov | Galkin | Gerasimov | Gorbunov | Grigoriev |
+| 6 | Gromov | Gusev | Ignatiev | Ilyin | Ivanov | Karpov |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kazakov | Kiselev | Komarov | Konev | Konovalov | Korolev |
+| 2 | Kovalev | Kozlov | Krasnov | Krylov | Kudryavtsev | Kutuzov |
+| 3 | Kuzmin | Kuznetsov | Lapin | Lebedev | Loginov | Makarov |
+| 4 | Malakhov | Malyavin | Markov | Maslov | Matveev | Maximov |
+| 5 | Medvedev | Mikhailov | Mironov | Morozov | Nekrasov | Nikitin |
+| 6 | Nikolaev | Novikov | Orlov | Osipov | Panov | Parfenov |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pavlov | Petrov | Polyakov | Popov | Romanov | Ryabov |
+| 2 | Ryzhov | Safonov | Savin | Semenov | Sergeev | Shcherbakov |
+| 3 | Shevchenko | Sidorov | Smirnov | Sokolov | Soloviev | Sorokin |
+| 4 | Stepanov | Sushkin | Tarasov | Tikhonov | Tishchenko | Titov |
+| 5 | Trofimov | Uvarov | Vasiliev | Vinogradov | Volkov | Vorobiev |
+| 6 | Yakovlev | Yudin | Zaitsev | Zakharov | Zhukov | Zhuravlev |
+
+### Scandinavian (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Agneta | Åke | Alva | Anders | Andreas | Anita |
+| 2 | Anna | Astrid | Axel | Barbro | Bente | Berit |
+| 3 | Bertil | Birgitta | Bjarke | Björn | Bo | Britta |
+| 4 | Christian | Dagny | Daniel | Dorthe | Ebba | Einar |
+| 5 | Elisabeth | Elsa | Emma | Erik | Eva | Folke |
+| 6 | Fredrik | Freja | Frida | Gösta | Gunilla | Gunnar |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gustaf | Håkan | Hanna | Hans | Harald | Heidi |
+| 2 | Helga | Helle | Henrik | Ida | Ingeborg | Ingrid |
+| 3 | Ivar | Jakob | Jens | Johan | Jonas | Karen |
+| 4 | Karin | Karl | Kirsten | Kjell | Klara | Kristina |
+| 5 | Lars | Leif | Lene | Lennart | Linnea | Lotta |
+| 6 | Lovisa | Ludvig | Magnus | Margareta | Maria | Marta |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mette | Mikael | Monica | Morten | Niklas | Nils |
+| 2 | Olav | Olof | Patrik | Pernille | Peter | Pia |
+| 3 | Ragnar | Rolf | Rune | Saga | Sigrid | Sindre |
+| 4 | Siv | Solveig | Søren | Stefan | Stig | Sunniva |
+| 5 | Susanne | Sven | Thomas | Tilda | Tobias | Tore |
+| 6 | Torsten | Trygve | Ulla | Vibeke | Wilma | Yrsa |
+
+### Scandinavian (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Åberg | Alm | Andersen | Andersson | Arvidsson | Axelsson |
+| 2 | Bakke | Beck | Bengtsson | Berg | Bergström | Bjerg |
+| 3 | Björk | Björklund | Blomqvist | Broman | Christensen | Dahl |
+| 4 | Dahlberg | Danielsson | Ek | Eklund | Eliasson | Engström |
+| 5 | Eriksen | Eriksson | Forsberg | Fredriksson | Friberg | Grahn |
+| 6 | Gundersen | Gunnarsson | Gustafsson | Hagen | Håkansson | Hansen |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Haugen | Hedlund | Hellström | Henriksen | Hermansen | Holm |
+| 2 | Holmgren | Hult | Isaksson | Iversen | Jakobsen | Jakobsson |
+| 3 | Jensen | Johansen | Johansson | Jonsson | Jørgensen | Karlsson |
+| 4 | Kjær | Knudsen | Krantz | Larsen | Larsson | Lindberg |
+| 5 | Lindgren | Lindholm | Lindqvist | Lindström | Löfgren | Lund |
+| 6 | Lunde | Lundevall | Lundgren | Lundin | Madsen | Mårtensson |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mattsson | Mikkelsen | Møller | Nielsen | Nilsson | Nordström |
+| 2 | Nørgaard | Nyberg | Nyström | Olesen | Olsen | Olsson |
+| 3 | Pedersen | Persson | Petersen | Poulsen | Rasmussen | Rydberg |
+| 4 | Samuelsson | Sandberg | Sandström | Sivertsen | Sjöberg | Sjöström |
+| 5 | Söderberg | Solberg | Sørensen | Strøm | Sundberg | Sundqvist |
+| 6 | Svensson | Thomsen | Torp | Vestin | Vik | Wallin |
+
+### Scottish (18th Century to Modern) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Agnes | Ailith | Ailsa | Alan | Alasdair | Alexander |
+| 2 | Alistair | Andrew | Angus | Anne | Bethia | Blair |
+| 3 | Brian | Bruce | Callum | Calum | Cammy | Catherine |
+| 4 | Catriona | Charles | Christian | Colin | Craig | David |
+| 5 | Davina | Derek | Donald | Douglas | Duncan | Eilidh |
+| 6 | Elizabeth | Elspeth | Euan | Euphemia | Ewan | Fenella |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Fergus | Finlay | Fiona | Flora | Fraser | Gary |
+| 2 | Gavin | George | Gordon | Graham | Grant | Gregor |
+| 3 | Grisel | Grizel | Hamish | Helen | Iain | Ian |
+| 4 | Innes | Iona | Ishbel | Isobel | James | Janet |
+| 5 | Jean | John | Keir | Keith | Kenna | Kenneth |
+| 6 | Kevin | Kirsty | Lachlan | Lewis | Lilias | Logan |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Maisie | Malcolm | Margaret | Marion | Marjory | Marsaili |
+| 2 | Mary | Mhairi | Morag | Morna | Murdo | Murray |
+| 3 | Neil | Nellis | Niall | Rhona | Robert | Robina |
+| 4 | Roderick | Rory | Ross | Rowena | Ruairidh | Ruaridh |
+| 5 | Scott | Senga | Sheena | Shona | Sibilla | Sorley |
+| 6 | Stuart | Tavish | Thomas | Torquil | William | Wilma |
+
+### Scottish (18th Century to Modern) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Allan | Anderson | Bain | Balfour | Barr | Bell |
+| 2 | Black | Blair | Boyd | Brown | Buchanan | Burnett |
+| 3 | Cameron | Campbell | Clark | Cowie | Crawford | Cunningham |
+| 4 | Davidson | Douglas | Drummond | Duncan | Elliot | Erskine |
+| 5 | Farquharson | Ferguson | Findlay | Fleming | Forbes | Fraser |
+| 6 | Gordon | Gow | Graham | Grant | Grieve | Gunn |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Guthrie | Hamilton | Hardie | Hay | Henderson | Hunter |
+| 2 | Hutchison | Irvine | Johnston | Kennedy | Kerr | Lamont |
+| 3 | Lawson | Leask | Leslie | Lindsay | Livingstone | Low |
+| 4 | Lumsden | MacAlpin | MacBean | MacCormick | MacDonald | MacDougall |
+| 5 | MacFarlane | MacGillivray | MacGregor | MacInnes | Mackay | MacKinnon |
+| 6 | MacLaren | MacLeod | MacNab | MacNeil | MacPherson | MacRae |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Maitland | Mathieson | Maxwell | McIntosh | McKenzie | McLean |
+| 2 | McNee | McQueen | McTaggart | Menzies | Millar | Milne |
+| 3 | Mitchell | Morrison | Munro | Murray | Nicol | Paton |
+| 4 | Reid | Ritchie | Robertson | Ross | Scott | Simpson |
+| 5 | Sinclair | Smith | Steel | Stewart | Strachan | Tait |
+| 6 | Taylor | Thomson | Urquhart | Walker | Wallace | Wilson |
+
+### South African Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Albertina | Andile | Andries | Annatjie | Aphiwe | Ayanda |
+| 2 | Bhekizizwe | Boitumelo | Bongani | Bontle | Braam | Brenda |
+| 3 | Buhle | Busisiwe | Cyril | Danie | Desmond | Dineo |
+| 4 | Dudu | Dumisani | Elize | Fanie | Francois | Gerhard |
+| 5 | Graça | Gugulethu | Hanna | Hendrik | Hlengiwe | Itumeleng |
+| 6 | Jabulani | Jacobus | Johan | Kabelo | Kagiso | Katlego |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Katrina | Kelebogile | Khaya | Kobus | Lebogang | Lerato |
+| 2 | Lesedi | Lethabo | Liezel | Lindiwe | Lungelo | Lungile |
+| 3 | Lwazi | Mandla | Marietjie | Marthinus | Martie | Masechaba |
+| 4 | Miriam | Morné | Mpho | Muzi | Naledi | Nelson |
+| 5 | Neo | Nkosinathi | Nokuthula | Nomalanga | Nomusa | Nomvula |
+| 6 | Nonhlanhla | Nosipho | Ofentse | Oupa | Palesa | Phumzile |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pieter | Pulane | Refiloe | Riana | Ruan | Sandile |
+| 2 | Sanele | Sannie | Schalk | Sibongile | Sibusiso | Simphiwe |
+| 3 | Sindisiwe | Sipho | Siyabonga | Sizakele | Stefanus | Sunette |
+| 4 | Thabang | Thabo | Thandeka | Thandiwe | Themba | Thembeka |
+| 5 | Tiaan | Tshepo | Tsholofelo | Vusi | Willem | Winnie |
+| 6 | Xolani | Yvonne | Zanele | Zinhle | Zola | Zweli |
+
+### South African Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abrahams | Adams | Baloyi | Bhengu | Biko | Boesak |
+| 2 | Botha | Buthelezi | Cele | Chauke | Chetty | Coetzee |
+| 3 | De Beer | Dlamini | Du Plessis | Erasmus | February | Fourie |
+| 4 | Govender | Gqubule | Gumede | Hani | Hendricks | Isaacs |
+| 5 | Jacobs | Jordaan | Kgosana | Khumalo | Koekemoer | Kruger |
+| 6 | Ledwaba | Lekota | Louw | Luthuli | Mabunda | Mahlangu |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Majola | Makeba | Malema | Maluleke | Mamabolo | Mandela |
+| 2 | Mani | Maponya | Marais | Maredi | Masekela | Maseko |
+| 3 | Masemola | Mashatile | Mbeki | Meyer | Mkhize | Moerane |
+| 4 | Mofokeng | Mokoena | Molefe | Moodley | Motlanthe | Mphahlele |
+| 5 | Msimang | Mthethwa | Mtshali | Mudau | Mulaudzi | Naidoo |
+| 6 | Ndlovu | Ndou | Nel | Nemadzivhanani | Nene | Netshitenze |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ngcobo | Nkqayi | Nxumalo | Oosthuizen | Padayachee | Petersen |
+| 2 | Phala | Pienaar | Pillay | Pretorius | Radebe | Ramabulana |
+| 3 | Ramaphosa | Reddy | September | Shabangu | Sisulu | Sithole |
+| 4 | Skosana | Smit | Sobukwe | Solomons | Steyn | Swanepoel |
+| 5 | Tambo | Tlou | Tsotetsi | Tutu | Van Niekerk | Van Wyk |
+| 6 | Venter | Viljoen | Williams | Zondi | Zulu | Zuma |
+
+### South East Asian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aditya | Agus | Aishah | Amir | Ananda | Andi |
+| 2 | Anh | Ani | Anucha | Ari | Arthit | Ayu |
+| 3 | Bambang | Bao | Binh | Budi | Chai | Chainarong |
+| 4 | Chinh | Dani | Dao | Dewi | Dian | Duc |
+| 5 | Dung | Eko | Endang | Fah | Farah | Fitri |
+| 6 | Giang | Hai | Hendra | Hien | Hoa | Hung |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Huong | Ina | Indah | Intan | Izzat | Joko |
+| 2 | Kanya | Kasem | Khairul | Khanh | Kiet | Kittisak |
+| 3 | Kwan | Lan | Liem | Lilis | Linh | Mai |
+| 4 | Malee | Maree | Maya | Minh | Mohammad | Montri |
+| 5 | Nam | Narong | Nattapong | Ngoc | Nhung | Nor |
+| 6 | Nur | Nurul | Oanh | Phitsanu | Phuc | Phuong |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pim | Prawit | Quang | Ratchanee | Reza | Rina |
+| 2 | Rizky | Rudy | Sarawut | Silo | Siriporn | Siska |
+| 3 | Siti | Sokha | Somchai | Somsak | Son | Sri |
+| 4 | Sunee | Suriya | Syafiq | Syakira | Tati | Taufik |
+| 5 | Thanh | Thao | Thu | Tien | Trang | Tuan |
+| 6 | Ubon | Wandee | Wila | Woranit | Yen | Yupin |
+
+### South East Asian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdul | Ahmad | Ali | Arifin | Aziz | Bakar |
+| 2 | Basuki | Boon | Bui | Chai | Chansiri | Chua |
+| 3 | Dang | Dinh | Do | Duong | Gultom | Hamzah |
+| 4 | Hartono | Hasibuan | Hassan | Hidayat | Ho | Hoang |
+| 5 | Hua | Huynh | Ibrahim | Kitti | Kittipong | Koh |
+| 6 | Kusuma | Le | Lee | Lestari | Lim | Low |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lubis | Luong | Luu | Ly | Ma | Mulyadi |
+| 2 | Mustafa | Nasir | Nasution | Ng | Ngo | Nguyen |
+| 3 | Ningsih | Osman | Pane | Pangaribuan | Pham | Phan |
+| 4 | Prasert | Pratama | Purnama | Putra | Putri | Quach |
+| 5 | Rahman | Ramli | Rosli | Sae-Lee | Sae-Tang | Sae-Wong |
+| 6 | Sak | Salleh | Samsudin | Santika | Santoso | Sari |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Setiawan | Simanjuntak | Siregar | Sitorus | Soh | Som |
+| 2 | Sompong | Sukma | Sulaiman | Supangkat | Suryadi | Susanto |
+| 3 | Sutanto | Syah | Ta | Tampubolon | Tan | Tay |
+| 4 | Thai | Theparak | Thong | Tran | Trinh | Utomo |
+| 5 | Van | Vichai | Vo | Vu | Wanchai | Wati |
+| 6 | Wibowo | Widjaja | Wijaya | Wong | Yusof | Zainal |
+
+### Spanish Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adelaida | Adrian | Agustin | Alejandro | Alonso | Ana |
+| 2 | Andres | Angel | Antonia | Antonio | Baltasar | Barbara |
+| 3 | Bartolome | Beatriz | Bernardo | Carlos | Carmen | Catalina |
+| 4 | Clara | Clemente | Concepcion | Cristobal | Daniela | Diego |
+| 5 | Dionisio | Dolores | Domingo | Elena | Elvira | Emilio |
+| 6 | Esperanza | Esteban | Eugenio | Faustino | Feliciana | Felipe |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Fernando | Francisca | Francisco | Gabriel | Gaspar | Gertrudis |
+| 2 | Gilberto | Gregorio | Guadalupe | Hernando | Hilario | Ignacio |
+| 3 | Ines | Isabel | Isidro | Jacinta | Javier | Joaquin |
+| 4 | Jose | Juan | Juana | Julian | Leandro | Leonor |
+| 5 | Lope | Lorenzo | Lucia | Luciano | Luis | Magdalena |
+| 6 | Manuel | Marcos | Margarita | Maria | Marina | Mateo |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Melchor | Mercedes | Miguel | Narciso | Natalia | Nicolas |
+| 2 | Olga | Onofre | Paloma | Pasqual | Pedro | Petrona |
+| 3 | Pilar | Placido | Quintin | Rafael | Ramon | Ramona |
+| 4 | Ricardo | Roque | Rosario | Salvador | Santiago | Sebastian |
+| 5 | Silvestre | Silvia | Soledad | Teresa | Tomas | Tristan |
+| 6 | Ursula | Veronica | Vicente | Ximena | Yolanda | Zoraida |
+
+### Spanish Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Acosta | Aguilar | Alvarez | Aragon | Becerra | Beltran |
+| 2 | Benitez | Bravo | Cabrera | Calderon | Campos | Cano |
+| 3 | Carmona | Carrillo | Castillo | Castro | Cervantes | Cordova |
+| 4 | De la Cruz | De la Rosa | De la Torre | Delgado | Diaz | Dominguez |
+| 5 | Duarte | Duron | Escobar | Espinosa | Estrada | Fernandez |
+| 6 | Figueroa | Flores | Fuentes | Gallegos | Galvan | Garcia |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gomez | Gonzalez | Guerra | Gutierrez | Guzman | Heredia |
+| 2 | Hernandez | Herrera | Hidalgo | Ibanez | Ibarra | Islas |
+| 3 | Jaimes | Jara | Jimenez | Juarez | Lara | Leon |
+| 4 | Lopez | Lozano | Machado | Martinez | Mendez | Mendoza |
+| 5 | Meza | Miranda | Molina | Montoya | Morales | Navarro |
+| 6 | Negrete | Nieto | Nuñez | Olivares | Orozco | Ortiz |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pacheco | Padilla | Palacios | Pastor | Perez | Quintana |
+| 2 | Quintero | Ramirez | Ramos | Reyes | Rivera | Robledo |
+| 3 | Rodriguez | Rojas | Roman | Ruiz | Salas | Salazar |
+| 4 | Sanchez | Segura | Serrano | Sosa | Tapia | Tellez |
+| 5 | Torres | Urbina | Uribe | Valdez | Valenzuela | Vargas |
+| 6 | Vasquez | Vela | Villalobos | Zamora | Zavala | Zuniga |
+
+### Welsh Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aeddan | Aeron | Aerona | Alwyn | Alys | Aneirin |
+| 2 | Angharad | Anwen | Arthur | Bedwyr | Berwyn | Bethan |
+| 3 | Bleddyn | Bronwen | Bryn | Buddug | Cadfan | Cai |
+| 4 | Caradog | Carwyn | Carys | Catrin | Cerys | Dafydd |
+| 5 | Delyth | Derwyn | Dewi | Dilys | Dwynwen | Dylan |
+| 6 | Eira | Eirlys | Eleri | Elin | Elwyn | Emrys |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Enid | Euros | Evan | Ffion | Ffraid | Gareth |
+| 2 | Geraint | Gethin | Glenda | Griffith | Gruffudd | Gwalchmai |
+| 3 | Gwawr | Gwen | Gwenan | Gwenllian | Gwilym | Gwydion |
+| 4 | Gwynfor | Haf | Heledd | Hywel | Idris | Ieuan |
+| 5 | Indeg | Iola | Iolo | Iona | Iwan | Jevan |
+| 6 | Kyffin | Lewys | Llinos | Llywelyn | Lona | Lowri |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Luned | Macsen | Mair | Mali | Manon | Mari |
+| 2 | Meurig | Morgan | Morwenna | Myfanwy | Nella | Nia |
+| 3 | Non | Olwen | Osian | Owain | Owen | Peredur |
+| 4 | Prys | Rhiain | Rhian | Rhiannon | Rhodri | Rhun |
+| 5 | Rhys | Seren | Sian | Sion | Steffan | Sulien |
+| 6 | Taliesin | Tesni | Tomos | Tristan | Tudur | Wyn |
+
+### Welsh Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Anwyl | Aubrey | Bebb | Beddoe | Bevan | Beynon |
+| 2 | Bonsall | Bowen | Cadogan | Cadwallader | Clement | Collins |
+| 3 | Corbet | Cunnick | Davies | Dillwyn | Done | Duggan |
+| 4 | Dykins | Edwards | Ellis | Esau | Evans | Eynon |
+| 5 | Fido | Foulkes | Francis | Gee | Gethin | Gittins |
+| 6 | Gough | Griffith | Griffiths | Gwyn | Hamer | Havard |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hezekiah | Hopkins | Howell | Hughes | Humphreys | Iles |
+| 2 | Ithell | James | Jarman | Jenkins | Jeremiah | Jones |
+| 3 | Kinsey | Kneath | Kyffin | Lewis | Llewellyn | Lloyd |
+| 4 | Lougher | Mabe | Maddox | Maredudd | Matthews | Meredith |
+| 5 | Morgan | Morris | Moss | Mostyn | Nener | Oatley |
+| 6 | Owen | Parcell | Parry | Pask | Pennant | Phillips |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Powell | Price | Pritchard | Probert | Prosser | Pugh |
+| 2 | Quance | Rees | Richards | Roberts | Roderick | Rosser |
+| 3 | Rowlands | Russell | Sayce | Scurlock | Smith | Stephens |
+| 4 | Tew | Thomas | Traherne | Treharne | Trevor | Tudor |
+| 5 | Uphill | Vane | Vaughan | Walters | Warlow | Watkins |
+| 6 | Williams | Woosnam | Wynn | Yerbury | Yorath | Zerk |
+
+### West African Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abdoulaye | Abenaa | Abla | Adaeze | Adebowale | Adwoa |
+| 2 | Afawa | Afolabi | Afua | Akachi | Akofa | Akossiwa |
+| 3 | Akosua | Akua | Ama | Amadou | Amarachi | Ameyo |
+| 4 | Aminata | Araba | Ayawa | Ayo | Ayodeji | Babatunde |
+| 5 | Bakary | Ben | Bisi | Boubacar | Cheick | Chiamaka |
+| 6 | Chidi | Chimamanda | Chinedu | Chinua | Chinyere | Chioma |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Chukwuma | Djénéba | Dzigbodi | Efe | Efua | Emeka |
+| 2 | Eniola | Esi | Ezinne | Fanta | Fatoumata | Femi |
+| 3 | Folake | Hawa | Ifeanyi | Ifunanya | Kadiatou | Kadidia |
+| 4 | Kekeli | Kelechi | Ken | Kodjo | Koffi | Kofi |
+| 5 | Kojo | Kokou | Koku | Komla | Komlan | Kossivi |
+| 6 | Kouami | Koudjo | Kwabena | Kwaku | Kwame | Kwami |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kweku | Kwesi | Lamine | Mariam | Mawusi | Modibo |
+| 2 | Modupe | Moussa | Nana | Ngozi | Nkiru | Nnamdi |
+| 3 | Nnedi | Obinna | Olayinka | Oluchi | Olumide | Oluwaseun |
+| 4 | Ousmane | Rokia | Segun | Sena | Sira | Somto |
+| 5 | Souleymane | Temitope | Tosin | Tunde | Uchenna | Uzoamaka |
+| 6 | Wole | Yaa | Yaw | Yemi | Yetunde | Zikora |
+
+### West African Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abbey | Abubakar | Acheampong | Addae | Adebayo | Adenuga |
+| 2 | Adeyemi | Adjei | Afolayan | Agyemang | Ajayi | Akanbi |
+| 3 | Akufo | Ankrah | Annan | Appiah | Armah | Aryee |
+| 4 | Asare | Babalola | Bah | Balogun | Bamba | Bankole |
+| 5 | Bannerman | Barry | Bediako | Boakye | Boateng | Bonsu |
+| 6 | Bruce | Chineke | Cisse | Compaore | Coulibaly | Danquah |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Daramola | Diallo | Diarra | Diop | Dodoo | Eshun |
+| 2 | Eze | Fall | Fashola | Fofana | Gueye | Gyamfi |
+| 3 | Ibekwe | Ilboudo | Kaboré | Keita | Kojo | Kone |
+| 4 | Kufuor | Kwakye | Lamptey | Laryea | Lingani | Mahama |
+| 5 | Mensah | Mills | Mmadu | Moxon | Nartey | Ndiaye |
+| 6 | Nettey | Nwachukwu | Nwosu | Obi | Ofori | Okafor |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Okeke | Okonkwo | Olatunji | Olawale | Oluwole | Onwuka |
+| 2 | Osei | Ouattara | Ouedraogo | Owusu | Platt | Quansah |
+| 3 | Quaye | Rawlings | Sackey | Sankara | Sanogo | Sarpong |
+| 4 | Savané | Sawadogo | Sidibé | Sow | Sowah | Sulemana |
+| 5 | Sylla | Tagoe | Tetteh | Tiendrébéogo | Torgbor | Toure |
+| 6 | Traore | Uche | Umeh | Vanderpuye | Yameogo | Zongo |
 

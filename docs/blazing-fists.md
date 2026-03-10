@@ -9,13 +9,79 @@ In a realm of floating peaks and ancient blood-feuds, the path to enlightenment 
 ## Table of Contents
 
 - [Core Rules](#core-rules)
+  - [Core Mechanics](#core-mechanics)
+    - [Qi & Harmony](#qi-harmony)
+    - [Corruption](#corruption)
+    - [Cultivation](#cultivation)
+  - [Movement & Cover](#movement-cover)
+  - [Saves](#saves)
+  - [Conflict Scenes](#conflict-scenes)
+    - [Actions](#actions)
+    - [Reactions](#reactions)
+    - [Attacks](#attacks)
+  - [Conditions](#conditions)
 - [Character Creation](#character-creation)
 - [Abilities](#abilities)
+  - [Standard Abilities](#standard-abilities)
+    - [Combat Inclinations](#combat-inclinations)
+    - [Qi Inclinations](#qi-inclinations)
+    - [Mental Inclinations](#mental-inclinations)
+    - [Physical Inclinations](#physical-inclinations)
+    - [Social Inclinations](#social-inclinations)
+    - [Stealth Inclinations](#stealth-inclinations)
+    - [Wilderness Inclinations](#wilderness-inclinations)
 - [Cultivation Abilities](#cultivation-abilities)
+  - [Cultivation Techniques](#cultivation-techniques)
+  - [Dark Cultivation Techniques](#dark-cultivation-techniques)
 - [Gear & Equipment](#gear-equipment)
+  - [Outfits](#outfits)
+  - [Melee Weapons](#melee-weapons)
+  - [Ranged Weapons](#ranged-weapons)
+  - [Consumables](#consumables)
+  - [Equipment](#equipment)
+  - [Ammunition](#ammunition)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
+    - [Backgrounds](#backgrounds)
+      - [Table 1](#table-1)
+      - [Table 2](#table-2)
+      - [Table 3](#table-3)
+      - [Table 4](#table-4)
+      - [Table 5](#table-5)
+      - [Table 6](#table-6)
+    - [Personality Traits](#personality-traits)
+      - [Table 1](#table-1-1)
+      - [Table 2](#table-2-1)
+      - [Table 3](#table-3-1)
+      - [Table 4](#table-4-1)
+      - [Table 5](#table-5-1)
+      - [Table 6](#table-6-1)
+    - [Mottos](#mottos)
+      - [Table 1](#table-1-2)
+      - [Table 2](#table-2-2)
+      - [Table 3](#table-3-2)
+      - [Table 4](#table-4-2)
+      - [Table 5](#table-5-2)
+      - [Table 6](#table-6-2)
+    - [Secrets](#secrets)
+      - [Table 1](#table-1-3)
+      - [Table 2](#table-2-3)
+      - [Table 3](#table-3-3)
+      - [Table 4](#table-4-3)
+      - [Table 5](#table-5-3)
+      - [Table 6](#table-6-3)
   - [Names](#names)
+    - [Eastern Fantasy Names Forenames / Given Names](#eastern-fantasy-names-forenames-given-names)
+      - [Table 1](#table-1-4)
+      - [Table 2](#table-2-4)
+      - [Table 3](#table-3-4)
+    - [Eastern Fantasy Names Surnames / Family Names](#eastern-fantasy-names-surnames-family-names)
+      - [Table 1](#table-1-5)
+      - [Table 2](#table-2-5)
+      - [Table 3](#table-3-5)
+      - [Table 4](#table-4-4)
+      - [Table 5](#table-5-4)
+      - [Table 6](#table-6-4)
 
 ## Core Rules
 
@@ -36,8 +102,8 @@ Gain *Cultivation* from mystical entities, encounters and artefacts. At *3 Culti
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
-### Taking Cover
-Being in/behind cover increases attacker *To-Hit* by cover grade: **Light +1:** foliage, furniture, low walls. **Medium +2:** barricades, building edges. **Heavy +3:** concrete, metal fortifications. Effects that explicitly ignore cover (for example explosives, fire, gas) bypass cover.
+
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -368,1189 +434,411 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Quantity | Rarity |
 |------|-------------|----------|--------|
-| **Arrows** |  | 12 | Common |
+| **Arrows** | Standard arrows for bows. | 12 | Common |
 | **Bolts** | Standard bolts for crossbows. | 12 | Common |
 
 ## Reference Tables
 
 ## Aspects
 
-Aspects define who your character is beyond raw stats. Choose one from each category, or use the d100 tables to roll randomly.
+Aspects define who your character is beyond raw stats. Choose one from each category, or use the d6 tables to roll randomly.
 
 ### Backgrounds
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Wanderer |
-| 2 | Outcast |
-| 3 | Survivor |
-| 4 | Merchant |
-| 5 | Trader |
-| 6 | Artisan |
-| 7 | Craftsperson |
-| 8 | Healer |
-| 9 | Scout |
-| 10 | Guide |
-| 11 | Hunter |
-| 12 | Tracker |
-| 13 | Scavenger |
-| 14 | Laborer |
-| 15 | Apprentice |
-| 16 | Teacher |
-| 17 | Student |
-| 18 | Storyteller |
-| 19 | Entertainer |
-| 20 | Cook |
-| 21 | Innkeeper |
-| 22 | Bodyguard |
-| 23 | Mercenary |
-| 24 | Soldier |
-| 25 | Veteran |
-| 26 | Spy |
-| 27 | Courier |
-| 28 | Messenger |
-| 29 | Diplomat |
-| 30 | Negotiator |
-| 31 | Scholar |
-| 32 | Archivist |
-| 33 | Librarian |
-| 34 | Historian |
-| 35 | Inventor |
-| 36 | Engineer |
-| 37 | Tinkerer |
-| 38 | Gambler |
-| 39 | Smuggler |
-| 40 | Thief |
-| 41 | Con Artist |
-| 42 | Fence |
-| 43 | Bounty Hunter |
-| 44 | Explorer |
-| 45 | Cartographer |
-| 46 | Navigator |
-| 47 | Sailor |
-| 48 | Fisher |
-| 49 | Farmer |
-| 50 | Rancher |
-| 51 | Herder |
-| 52 | Beast Handler |
-| 53 | Animal Trainer |
-| 54 | Hermit |
-| 55 | Exile |
-| 56 | Refugee |
-| 57 | Orphan |
-| 58 | Street Urchin |
-| 59 | Nobility |
-| 60 | Fallen Noble |
-| 61 | Servant |
-| 62 | Worker |
-| 63 | Foreman |
-| 64 | Guard |
-| 65 | Sentry |
-| 66 | Protector |
-| 67 | Caretaker |
-| 68 | Medic |
-| 69 | Poisoner |
-| 70 | Assassin |
-| 71 | Infiltrator |
-| 72 | Saboteur |
-| 73 | Revolutionary |
-| 74 | Rebel |
-| 75 | Loyalist |
-| 76 | Patriot |
-| 77 | Deserter |
-| 78 | Turncoat |
-| 79 | Fugitive |
-| 80 | Prisoner |
-| 81 | Escapee |
-| 82 | Vagabond |
-| 83 | Drifter |
-| 84 | Nomad |
-| 85 | Pilgrim |
-| 86 | Seeker |
-| 87 | Mystic |
-| 88 | Visionary |
-| 89 | Prophet |
-| 90 | Cultist |
-| 91 | Believer |
-| 92 | Skeptic |
-| 93 | Philosopher |
-| 94 | Poet |
-| 95 | Artist |
-| 96 | Musician |
-| 97 | Dancer |
-| 98 | Mediator |
-| 99 | Researcher |
-| 100 | Specialist |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Wanderer | Outcast | Survivor | Merchant | Trader | Artisan |
+| 2 | Craftsperson | Healer | Scout | Guide | Hunter | Tracker |
+| 3 | Scavenger | Laborer | Apprentice | Teacher | Student | Storyteller |
+| 4 | Entertainer | Cook | Innkeeper | Bodyguard | Mercenary | Soldier |
+| 5 | Veteran | Spy | Courier | Messenger | Diplomat | Negotiator |
+| 6 | Scholar | Archivist | Librarian | Historian | Inventor | Engineer |
 
-| d100 | Result |
-|------|--------|
-| 1 | Mountain Sect Disciple |
-| 2 | Wandering Swordsman |
-| 3 | Temple Acolyte |
-| 4 | Riverboat Smuggler |
-| 5 | Tea House Informant |
-| 6 | Imperial Courier |
-| 7 | Bamboo Forest Hermit |
-| 8 | Jade Mine Laborer |
-| 9 | Lantern Festival Performer |
-| 10 | Border Garrison Scout |
-| 11 | Phoenix Opera Actor |
-| 12 | Storm Monastery Novice |
-| 13 | Street Apothecary |
-| 14 | Spirit Shrine Caretaker |
-| 15 | Silk Road Caravan Guard |
-| 16 | Moonlit Assassin |
-| 17 | Fallen Clan Heir |
-| 18 | Paper Charm Scribe |
-| 19 | Sword School Dropout |
-| 20 | Rice Terrace Farmer |
-| 21 | Canal Lock Keeper |
-| 22 | Bell Tower Watcher |
-| 23 | Bridge Toll Collector |
-| 24 | Pearl Diver |
-| 25 | Harbor Dockhand |
-| 26 | Whisper Market Broker |
-| 27 | Fortune Stick Reader |
-| 28 | Ancestral Archivist |
-| 29 | Thunder Drum Herald |
-| 30 | Tea Plantation Steward |
-| 31 | Reed Marsh Tracker |
-| 32 | Tea Master |
-| 33 | Bronze Bell Smith |
-| 34 | Jade Carver |
-| 35 | Porcelain Kiln Worker |
-| 36 | Firework Artisan |
-| 37 | Inkstone Merchant |
-| 38 | Seal Engraver |
-| 39 | Court Calligrapher |
-| 40 | Palace Clerk |
-| 41 | Tax Office Auditor |
-| 42 | Census Enumerator |
-| 43 | Village Headman's Scribe |
-| 44 | Bandit Camp Defector |
-| 45 | Ghost Story Teller |
-| 46 | Temple Bell Ringer |
-| 47 | Incense Road Trader |
-| 48 | Cloud Peak Goat Herder |
-| 49 | Lotus Pond Fisher |
-| 50 | Falconry Apprentice |
-| 51 | Messenger Crane Keeper |
-| 52 | Warfare Instructor |
-| 53 | Spear Yard Drillmaster |
-| 54 | Arrow Fletcher |
-| 55 | Gatehouse Quartermaster |
-| 56 | Supply Cart Driver |
-| 57 | Floodplain Engineer |
-| 58 | Irrigation Inspector |
-| 59 | Drought Relief Volunteer |
-| 60 | Refugee Camp Organizer |
-| 61 | Mountain Pass Guide |
-| 62 | Cave Temple Pilgrim |
-| 63 | Storm Lantern Keeper |
-| 64 | Night Market Vendor |
-| 65 | Mooncake Baker |
-| 66 | Noodle Stall Cook |
-| 67 | Medicinal Herb Gatherer |
-| 68 | Mushroom Cave Forager |
-| 69 | Spirit Beast Handler |
-| 70 | War Elephant Groom |
-| 71 | Horse Relic Breeder |
-| 72 | Falcon Post Warden |
-| 73 | Prison Caravan Escort |
-| 74 | Salt Flat Prospector |
-| 75 | Ironwood Lumber Scout |
-| 76 | Waterwheel Mechanic |
-| 77 | Bridge Repair Crew |
-| 78 | Monastery Librarian |
-| 79 | Forbidden Scroll Thief |
-| 80 | Court Musician |
-| 81 | Ceremonial Dancer |
-| 82 | Lantern Maker |
-| 83 | Mask Carver |
-| 84 | Shadow Puppet Master |
-| 85 | Festival Wrestler |
-| 86 | Street Duel Champion |
-| 87 | Dojo Groundskeeper |
-| 88 | Retired Bodyguard |
-| 89 | Debt Collector |
-| 90 | Village Mediator |
-| 91 | Clan Matchmaker |
-| 92 | Dowry Negotiator |
-| 93 | Funeral Rites Attendant |
-| 94 | Ancestor Tablet Keeper |
-| 95 | Tomb Warden |
-| 96 | Grave Robber Turned Penitent |
-| 97 | Alchemical Furnace Tender |
-| 98 | Spirit Exorcist Apprentice |
-| 99 | Ceremonial Ritualist |
-| 100 | Warlord's Standard Bearer |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Tinkerer | Gambler | Smuggler | Thief | Con Artist | Fence |
+| 2 | Bounty Hunter | Explorer | Cartographer | Navigator | Sailor | Fisher |
+| 3 | Farmer | Rancher | Herder | Beast Handler | Animal Trainer | Hermit |
+| 4 | Exile | Refugee | Orphan | Street Urchin | Nobility | Fallen Noble |
+| 5 | Servant | Worker | Foreman | Guard | Sentry | Protector |
+| 6 | Caretaker | Medic | Poisoner | Assassin | Infiltrator | Saboteur |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Revolutionary | Rebel | Loyalist | Patriot | Deserter | Turncoat |
+| 2 | Fugitive | Prisoner | Escapee | Vagabond | Drifter | Nomad |
+| 3 | Pilgrim | Seeker | Mystic | Visionary | Prophet | Cultist |
+| 4 | Believer | Skeptic | Philosopher | Poet | Artist | Musician |
+| 5 | Dancer | Mediator | Researcher | Specialist | Builder | Curator |
+| 6 | Fixer | Observer | Planner | Porter | Quartermaster | Responder |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mountain Sect Disciple | Wandering Swordsman | Temple Acolyte | Riverboat Smuggler | Tea House Informant | Imperial Courier |
+| 2 | Bamboo Forest Hermit | Jade Mine Laborer | Lantern Festival Performer | Border Garrison Scout | Phoenix Opera Actor | Storm Monastery Novice |
+| 3 | Street Apothecary | Spirit Shrine Caretaker | Silk Road Caravan Guard | Moonlit Assassin | Fallen Clan Heir | Paper Charm Scribe |
+| 4 | Sword School Dropout | Rice Terrace Farmer | Canal Lock Keeper | Bell Tower Watcher | Bridge Toll Collector | Pearl Diver |
+| 5 | Harbor Dockhand | Whisper Market Broker | Fortune Stick Reader | Ancestral Archivist | Thunder Drum Herald | Tea Plantation Steward |
+| 6 | Reed Marsh Tracker | Tea Master | Bronze Bell Smith | Jade Carver | Porcelain Kiln Worker | Firework Artisan |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Inkstone Merchant | Seal Engraver | Court Calligrapher | Palace Clerk | Tax Office Auditor | Census Enumerator |
+| 2 | Village Headman's Scribe | Bandit Camp Defector | Ghost Story Teller | Temple Bell Ringer | Incense Road Trader | Cloud Peak Goat Herder |
+| 3 | Lotus Pond Fisher | Falconry Apprentice | Messenger Crane Keeper | Warfare Instructor | Spear Yard Drillmaster | Arrow Fletcher |
+| 4 | Gatehouse Quartermaster | Supply Cart Driver | Floodplain Engineer | Irrigation Inspector | Drought Relief Volunteer | Refugee Camp Organizer |
+| 5 | Mountain Pass Guide | Cave Temple Pilgrim | Storm Lantern Keeper | Night Market Vendor | Mooncake Baker | Noodle Stall Cook |
+| 6 | Medicinal Herb Gatherer | Mushroom Cave Forager | Spirit Beast Handler | War Elephant Groom | Horse Relic Breeder | Falcon Post Warden |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Prison Caravan Escort | Salt Flat Prospector | Ironwood Lumber Scout | Waterwheel Mechanic | Bridge Repair Crew | Monastery Librarian |
+| 2 | Forbidden Scroll Thief | Court Musician | Ceremonial Dancer | Lantern Maker | Mask Carver | Shadow Puppet Master |
+| 3 | Festival Wrestler | Street Duel Champion | Dojo Groundskeeper | Retired Bodyguard | Debt Collector | Village Mediator |
+| 4 | Clan Matchmaker | Dowry Negotiator | Funeral Rites Attendant | Ancestor Tablet Keeper | Tomb Warden | Grave Robber Turned Penitent |
+| 5 | Alchemical Furnace Tender | Spirit Exorcist Apprentice | Ceremonial Ritualist | Warlord's Standard Bearer | Tea House Storykeeper | Lantern Festival Steward |
+| 6 | Monastery Bell Ringer | Rice Ledger Clerk | Storm Shrine Caretaker | Bamboo Raft Courier | Imperial Postal Runner | - |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Adaptable |
-| 2 | Affable |
-| 3 | Alert |
-| 4 | Ambitious |
-| 5 | Analytical |
-| 6 | Anchored |
-| 7 | Appreciative |
-| 8 | Articulate |
-| 9 | Assertive |
-| 10 | Attentive |
-| 11 | Balanced |
-| 12 | Benevolent |
-| 13 | Bold |
-| 14 | Brave |
-| 15 | Calm |
-| 16 | Candid |
-| 17 | Capable |
-| 18 | Careful |
-| 19 | Caring |
-| 20 | Centered |
-| 21 | Charismatic |
-| 22 | Cheerful |
-| 23 | Civic Minded |
-| 24 | Clear Eyed |
-| 25 | Clear Spoken |
-| 26 | Clever |
-| 27 | Compassionate |
-| 28 | Composed |
-| 29 | Confident |
-| 30 | Conscientious |
-| 31 | Consistent |
-| 32 | Constructive |
-| 33 | Courageous |
-| 34 | Courteous |
-| 35 | Creative |
-| 36 | Credible |
-| 37 | Curious |
-| 38 | Daring |
-| 39 | Decisive |
-| 40 | Dedicated |
-| 41 | Dependable |
-| 42 | Diplomatic |
-| 43 | Direct |
-| 44 | Disciplined |
-| 45 | Discerning |
-| 46 | Driven |
-| 47 | Earnest |
-| 48 | Easygoing |
-| 49 | Eloquent |
-| 50 | Empathetic |
-| 51 | Energetic |
-| 52 | Engaged |
-| 53 | Equitable |
-| 54 | Ethical |
-| 55 | Even Tempered |
-| 56 | Fair |
-| 57 | Faithful |
-| 58 | Fearless |
-| 59 | Flexible |
-| 60 | Focused |
-| 61 | Forgiving |
-| 62 | Forthright |
-| 63 | Friendly |
-| 64 | Gallant |
-| 65 | Generous |
-| 66 | Gentle |
-| 67 | Genuine |
-| 68 | Graceful |
-| 69 | Gracious |
-| 70 | Grounded |
-| 71 | Hardy |
-| 72 | Helpful |
-| 73 | Honest |
-| 74 | Honorable |
-| 75 | Humble |
-| 76 | Humorous |
-| 77 | Idealistic |
-| 78 | Imaginative |
-| 79 | Impartial |
-| 80 | Independent |
-| 81 | Industrious |
-| 82 | Insightful |
-| 83 | Intentional |
-| 84 | Intuitive |
-| 85 | Inventive |
-| 86 | Jovial |
-| 87 | Judicious |
-| 88 | Keen |
-| 89 | Kind |
-| 90 | Level Headed |
-| 91 | Logical |
-| 92 | Loyal |
-| 93 | Measured |
-| 94 | Methodical |
-| 95 | Meticulous |
-| 96 | Mindful |
-| 97 | Modest |
-| 98 | Motivated |
-| 99 | Nimble |
-| 100 | Noble |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adaptable | Accommodating | Affable | Alert | Ambitious | Analytical |
+| 2 | Anchored | Appreciative | Articulate | Assertive | Attentive | Balanced |
+| 3 | Benevolent | Big Hearted | Bold | Brave | Calm | Candid |
+| 4 | Capable | Careful | Caring | Centered | Charismatic | Cheerful |
+| 5 | Civic Minded | Clear Eyed | Clear Spoken | Clever | Compassionate | Composed |
+| 6 | Confident | Conscientious | Consistent | Constructive | Courageous | Courteous |
 
-| d100 | Result |
-|------|--------|
-| 1 | Observant |
-| 2 | Open Minded |
-| 3 | Optimistic |
-| 4 | Orderly |
-| 5 | Organized |
-| 6 | Original |
-| 7 | Patient |
-| 8 | Perceptive |
-| 9 | Persistent |
-| 10 | Persuasive |
-| 11 | Playful |
-| 12 | Poised |
-| 13 | Polished |
-| 14 | Practical |
-| 15 | Pragmatic |
-| 16 | Precise |
-| 17 | Principled |
-| 18 | Proactive |
-| 19 | Protective |
-| 20 | Prudent |
-| 21 | Quick Witted |
-| 22 | Rational |
-| 23 | Realistic |
-| 24 | Reflective |
-| 25 | Reliable |
-| 26 | Resilient |
-| 27 | Resolute |
-| 28 | Resourceful |
-| 29 | Respectful |
-| 30 | Responsible |
-| 31 | Self Aware |
-| 32 | Self Controlled |
-| 33 | Selfless |
-| 34 | Sensible |
-| 35 | Serene |
-| 36 | Sharp |
-| 37 | Sincere |
-| 38 | Sociable |
-| 39 | Solid |
-| 40 | Steadfast |
-| 41 | Strategic |
-| 42 | Studious |
-| 43 | Subtle |
-| 44 | Supportive |
-| 45 | Tactful |
-| 46 | Tenacious |
-| 47 | Thoughtful |
-| 48 | Tolerant |
-| 49 | Trustworthy |
-| 50 | Unassuming |
-| 51 | Understanding |
-| 52 | Uplifting |
-| 53 | Valiant |
-| 54 | Vigilant |
-| 55 | Warm |
-| 56 | Welcoming |
-| 57 | Wholehearted |
-| 58 | Wise |
-| 59 | Witty |
-| 60 | Worldly |
-| 61 | Zealous |
-| 62 | Agreeable |
-| 63 | Astute |
-| 64 | Compliant |
-| 65 | Dutiful |
-| 66 | Frank |
-| 67 | Good Natured |
-| 68 | High Spirited |
-| 69 | Hopeful |
-| 70 | Impassioned |
-| 71 | Influential |
-| 72 | Inquisitive |
-| 73 | Lively |
-| 74 | Merciful |
-| 75 | Merry |
-| 76 | Objective |
-| 77 | Outgoing |
-| 78 | Pensive |
-| 79 | Quietly Confident |
-| 80 | Receptive |
-| 81 | Reserved |
-| 82 | Self Reliant |
-| 83 | Steady |
-| 84 | Tidy |
-| 85 | Unflappable |
-| 86 | Versatile |
-| 87 | Watchful |
-| 88 | Well Mannered |
-| 89 | Willful |
-| 90 | Worthy |
-| 91 | Considerate |
-| 92 | Convivial |
-| 93 | Dispassionate |
-| 94 | Down To Earth |
-| 95 | Evenhanded |
-| 96 | Hospitable |
-| 97 | Nonreactive |
-| 98 | Openhearted |
-| 99 | Self Directed |
-| 100 | Stable |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creative | Credible | Curious | Daring | Decisive | Dedicated |
+| 2 | Dependable | Diplomatic | Direct | Disciplined | Discerning | Driven |
+| 3 | Earnest | Easygoing | Eloquent | Empathetic | Energetic | Engaged |
+| 4 | Equitable | Ethical | Even Keeled | Even Tempered | Fair | Faithful |
+| 5 | Fearless | Flexible | Focused | Forgiving | Forthright | Friendly |
+| 6 | Gallant | Generous | Gentle | Genuine | Graceful | Gracious |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grounded | Hardy | Helpful | Honest | Honorable | Humble |
+| 2 | Humorous | Idealistic | Imaginative | Impartial | Independent | Industrious |
+| 3 | Insightful | Intentional | Intuitive | Inventive | Jovial | Judicious |
+| 4 | Keen | Kind | Level Headed | Logical | Loyal | Measured |
+| 5 | Methodical | Meticulous | Mindful | Modest | Motivated | Nimble |
+| 6 | Noble | Observant | Open Minded | Optimistic | Orderly | Organized |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Original | Patient | Perceptive | Persistent | Persuasive | Playful |
+| 2 | Poised | Polished | Practical | Pragmatic | Precise | Principled |
+| 3 | Proactive | Protective | Prudent | Quick Witted | Rational | Realistic |
+| 4 | Reflective | Reliable | Resilient | Resolute | Resourceful | Respectful |
+| 5 | Responsible | Self Aware | Self Controlled | Selfless | Sensible | Serene |
+| 6 | Sharp | Sincere | Sociable | Solid | Steadfast | Strategic |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Studious | Subtle | Supportive | Tactful | Tenacious | Thoughtful |
+| 2 | Tolerant | Trustworthy | Unassuming | Understanding | Uplifting | Valiant |
+| 3 | Vigilant | Warm | Welcoming | Wholehearted | Wise | Witty |
+| 4 | Worldly | Zealous | Agreeable | Astute | Compliant | Dutiful |
+| 5 | Frank | Good Humored | Good Natured | High Spirited | Hopeful | Impassioned |
+| 6 | Influential | Inquisitive | Lively | Merciful | Merry | Objective |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outgoing | Pensive | Quietly Confident | Receptive | Reserved | Self Reliant |
+| 2 | Steady | Tidy | Unflappable | Versatile | Watchful | Well Mannered |
+| 3 | Willful | Worthy | Considerate | Convivial | Dispassionate | Down To Earth |
+| 4 | Evenhanded | Hospitable | Nonreactive | Openhearted | Self Directed | Stable |
+| 5 | Cooperative | Deliberate | Devoted | Farsighted | Neighborly | Reasonable |
+| 6 | Reassuring | Self Possessed | Soft Spoken | Stalwart | Tender Hearted | Visionary |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Train the basics until they become instinct. |
-| 2 | A clean stance is a quiet advantage. |
-| 3 | Technique carries farther than strength. |
-| 4 | Breathe first, strike second. |
-| 5 | Guard high, ego low. |
-| 6 | Every drill is a promise to your future self. |
-| 7 | Slow practice builds fast reactions. |
-| 8 | Control the distance, control the fight. |
-| 9 | Power without timing is wasted effort. |
-| 10 | Respect your partner, then test your limits. |
-| 11 | Precision ends fights before force does. |
-| 12 | A balanced foot never panics. |
-| 13 | The first opponent is your own impatience. |
-| 14 | Do not chase the hit; create it. |
-| 15 | Sharp focus beats loud aggression. |
-| 16 | Win the angle, not the argument. |
-| 17 | Hands fast, mind steady. |
-| 18 | A disciplined guard is hidden courage. |
-| 19 | Break rhythm, not composure. |
-| 20 | The mat records every excuse. |
-| 21 | Earn speed through relaxation. |
-| 22 | Protect your center and your principles. |
-| 23 | A fighter who listens learns twice. |
-| 24 | Leave your pride outside the dojo. |
-| 25 | Strength is useful; structure is reliable. |
-| 26 | The cleanest strike is the one you never telegraph. |
-| 27 | Train tired, perform calm. |
-| 28 | Read the shoulders, not the stories. |
-| 29 | Discipline turns sweat into confidence. |
-| 30 | Good defense creates honest offense. |
-| 31 | Do less, but do it exactly. |
-| 32 | Your stance should answer pressure. |
-| 33 | The best counter is prepared before contact. |
-| 34 | Be first with awareness, not with anger. |
-| 35 | Footwork writes the first chapter of victory. |
-| 36 | A calm clinch beats frantic punches. |
-| 37 | Angles are opportunities in disguise. |
-| 38 | Train your weaknesses until they become options. |
-| 39 | A quiet breath resets a noisy mind. |
-| 40 | Tap early, learn longer. |
-| 41 | Pressure reveals habits; practice chooses them. |
-| 42 | The belt marks time, not mastery. |
-| 43 | Humility keeps your guard up. |
-| 44 | One perfect repetition outweighs ten careless ones. |
-| 45 | Grip with intent, release with control. |
-| 46 | Balance wins where brawling fails. |
-| 47 | Commit to the movement, not the outcome. |
-| 48 | Fast hands come from quiet shoulders. |
-| 49 | When in doubt, return to form. |
-| 50 | True power lands without tension. |
-| 51 | Spar to improve, not to prove. |
-| 52 | Technique under pressure is character made visible. |
-| 53 | React less, recognize more. |
-| 54 | The opening appears for the patient. |
-| 55 | Discipline is defense for bad days. |
-| 56 | A good feint is a polite lie. |
-| 57 | Train your eyes to stay ahead of your hands. |
-| 58 | Every fall teaches where balance begins. |
-| 59 | The body obeys what repetition believes. |
-| 60 | Start smooth; speed arrives invited. |
-| 61 | Anchor the hips, free the strike. |
-| 62 | Control your pace, deny theirs. |
-| 63 | A strong base makes bold choices safe. |
-| 64 | Your calm is part of your defense. |
-| 65 | Guard the line between confidence and recklessness. |
-| 66 | The simplest technique survives chaos. |
-| 67 | Train with intent, recover with discipline. |
-| 68 | Use force like medicine: only as needed. |
-| 69 | A clear target begins with clear posture. |
-| 70 | Pressure the position, not the person. |
-| 71 | Move first with the feet, finish with the hands. |
-| 72 | Good timing makes average power dangerous. |
-| 73 | Build endurance in the details. |
-| 74 | Consistency is a fighter's secret weapon. |
-| 75 | Respect range like it can bite. |
-| 76 | Know your exits before your entries. |
-| 77 | Tension slows truth. |
-| 78 | Train the mind to shorten hesitation. |
-| 79 | Accuracy is mercy in disguise. |
-| 80 | A rushed attack invites a patient counter. |
-| 81 | The strongest grip is intelligent timing. |
-| 82 | Keep your chin humble and your hands honest. |
-| 83 | Protect your partner and your progress. |
-| 84 | A smart retreat preserves tomorrow's victory. |
-| 85 | Small adjustments decide close rounds. |
-| 86 | Fight the position, not your emotions. |
-| 87 | Conditioning is confidence you can carry. |
-| 88 | Master transitions and you master tempo. |
-| 89 | A patient setup lands cleaner than a desperate rush. |
-| 90 | Train composure like any other technique. |
-| 91 | If your breath breaks, your plan follows. |
-| 92 | Power from the ground, purpose from the mind. |
-| 93 | Leave every session sharper than you arrived. |
-| 94 | A disciplined fighter wastes no motion. |
-| 95 | Compete fiercely, recover graciously. |
-| 96 | Control the tie up, control the story. |
-| 97 | The body learns what the ego allows. |
-| 98 | Make your basics battle ready. |
-| 99 | Practice courage at training speed first. |
-| 100 | Learn to flow before you try to dominate. |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Train the basics until they become instinct. | A clean stance is a quiet advantage. | Technique carries farther than strength. | Breathe first, strike second. | Guard high, ego low. | Every drill is a promise to your future self. |
+| 2 | Slow practice builds fast reactions. | Control the distance, control the fight. | Power without timing is wasted effort. | Respect your partner, then test your limits. | Precision ends fights before force does. | A balanced foot never panics. |
+| 3 | The first opponent is your own impatience. | Do not chase the hit; create it. | Sharp focus beats loud aggression. | Win the angle, not the argument. | Hands fast, mind steady. | A disciplined guard is hidden courage. |
+| 4 | Break rhythm, not composure. | The mat records every excuse. | Earn speed through relaxation. | Protect your center and your principles. | A fighter who listens learns twice. | Leave your pride outside the dojo. |
+| 5 | Strength is useful; structure is reliable. | The cleanest strike is the one you never telegraph. | Train tired, perform calm. | Read the shoulders, not the stories. | Discipline turns sweat into confidence. | Good defense creates honest offense. |
+| 6 | Do less, but do it exactly. | Your stance should answer pressure. | The best counter is prepared before contact. | Be first with awareness, not with anger. | Footwork writes the first chapter of victory. | A calm clinch beats frantic punches. |
 
-| d100 | Result |
-|------|--------|
-| 1 | Steel the heart before drawing steel. |
-| 2 | A calm blade cuts deepest. |
-| 3 | Honor is carried, not declared. |
-| 4 | Walk softly; strike like thunder. |
-| 5 | The mountain yields to patient rain. |
-| 6 | Debt repaid is burden lifted. |
-| 7 | Do not shame your ancestors. |
-| 8 | Mercy given returns as strength. |
-| 9 | A loud boast dulls a sharp sword. |
-| 10 | The river remembers every stone. |
-| 11 | Guard your oath more than your life. |
-| 12 | Win the heart and the gate opens. |
-| 13 | Silence hears what pride cannot. |
-| 14 | To master others, master yourself first. |
-| 15 | Fear is a guest; do not house it. |
-| 16 | Where duty stands, I stand. |
-| 17 | An empty hand can still protect. |
-| 18 | Train in peace, survive in chaos. |
-| 19 | When the wind turns, bend, do not break. |
-| 20 | Truth walks slower than rumor, but farther. |
-| 21 | A promise made beneath moonlight still binds at dawn. |
-| 22 | The first victory is over impatience. |
-| 23 | Compassion is not weakness; it is control. |
-| 24 | I carry no grudge I cannot wield. |
-| 25 | One step each day crosses ten thousand li. |
-| 26 | A closed fist cannot receive wisdom. |
-| 27 | Justice without mercy becomes cruelty. |
-| 28 | Do not chase glory; let it chase deeds. |
-| 29 | Storms reveal the strength of roots. |
-| 30 | Read intent, not only words. |
-| 31 | I bow to none who prey on the weak. |
-| 32 | A clear mind defeats a quick temper. |
-| 33 | Respect is earned by restraint. |
-| 34 | A hidden knife cuts both ways. |
-| 35 | If you borrow trust, return it whole. |
-| 36 | I walk the narrow bridge without looking down. |
-| 37 | Do not waste breath on empty threats. |
-| 38 | The moon has phases; so does fortune. |
-| 39 | I would rather be late than unjust. |
-| 40 | Strength that serves only self is brittle. |
-| 41 | Keep your edge, keep your kindness. |
-| 42 | A sealed lip saves ten lives. |
-| 43 | The old path still leads home. |
-| 44 | I do not forget kindness, nor betrayal. |
-| 45 | Better a scar than a surrender. |
-| 46 | Discipline turns talent into destiny. |
-| 47 | When in doubt, protect the innocent first. |
-| 48 | A lantern is small, yet banishes darkness. |
-| 49 | I measure words as carefully as steps. |
-| 50 | The straight road is not always the righteous one. |
-| 51 | A righteous cause needs clean hands. |
-| 52 | Empty praise feeds no one. |
-| 53 | Cut through lies, not people. |
-| 54 | I would rather lose face than lose my soul. |
-| 55 | The blade obeys the spirit behind it. |
-| 56 | A patient hunter outlives a reckless one. |
-| 57 | Pride falls faster than leaves in autumn. |
-| 58 | Do not wake old ghosts without reason. |
-| 59 | I leave every village safer than I found it. |
-| 60 | Let your deeds speak in full sentences. |
-| 61 | The heart that listens seldom regrets. |
-| 62 | There is no shortcut around character. |
-| 63 | Stand straight, even when kneeling. |
-| 64 | One clean strike is better than ten wild ones. |
-| 65 | I drink tea before drawing blood. |
-| 66 | Fate writes in ink; will writes in steel. |
-| 67 | The loudest drum is not the surest signal. |
-| 68 | I answer insult with excellence. |
-| 69 | Do not mistake gentleness for surrender. |
-| 70 | A loyal friend is rarer than jade. |
-| 71 | I do not chase vengeance at the cost of tomorrow. |
-| 72 | Keep your robes clean and your conscience cleaner. |
-| 73 | No throne is higher than principle. |
-| 74 | When the gate closes, find the path over the wall. |
-| 75 | Mastery begins where excuses end. |
-| 76 | I fear becoming cruel more than being defeated. |
-| 77 | Every meal may be your last; taste it with gratitude. |
-| 78 | If I must fight, I finish it. |
-| 79 | A quiet promise outlives a loud vow. |
-| 80 | Count blessings before enemies. |
-| 81 | Listen to elders, test with your own feet. |
-| 82 | I keep my word even in enemy courts. |
-| 83 | Water finds a way; so will I. |
-| 84 | A single spark can warm or burn a kingdom. |
-| 85 | The just path is rarely crowded. |
-| 86 | I choose resolve over rage. |
-| 87 | A clean retreat is wiser than a vain death. |
-| 88 | My clan is my duty; the people are my purpose. |
-| 89 | To endure is also victory. |
-| 90 | I bow once, then stand forever. |
-| 91 | Mercy for the repentant, steel for the cruel. |
-| 92 | I do not gamble with lives I cannot repay. |
-| 93 | A full cup spills; leave room to learn. |
-| 94 | The way of the sword begins with respect. |
-| 95 | I trade comfort for clarity. |
-| 96 | When fear rises, breathe and advance. |
-| 97 | Guard the village, and the road guards itself. |
-| 98 | I mend what I break. |
-| 99 | In every duel, leave room for peace. |
-| 100 | The sunrise favors those already moving. |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Angles are opportunities in disguise. | Train your weaknesses until they become options. | A quiet breath resets a noisy mind. | Tap early, learn longer. | Pressure reveals habits; practice chooses them. | The belt marks time, not mastery. |
+| 2 | Humility keeps your guard up. | One perfect repetition outweighs ten careless ones. | Grip with intent, release with control. | Balance wins where brawling fails. | Commit to the movement, not the outcome. | Fast hands come from quiet shoulders. |
+| 3 | When in doubt, return to form. | True power lands without tension. | Spar to improve, not to prove. | Technique under pressure is character made visible. | React less, recognize more. | The opening appears for the patient. |
+| 4 | Discipline is defense for bad days. | A good feint is a polite lie. | Train your eyes to stay ahead of your hands. | Every fall teaches where balance begins. | The body obeys what repetition believes. | Start smooth; speed arrives invited. |
+| 5 | Anchor the hips, free the strike. | Control your pace, deny theirs. | A strong base makes bold choices safe. | Your calm is part of your defense. | Guard the line between confidence and recklessness. | The simplest technique survives chaos. |
+| 6 | Train with intent, recover with discipline. | Use force like medicine: only as needed. | A clear target begins with clear posture. | Pressure the position, not the person. | Move first with the feet, finish with the hands. | Good timing makes average power dangerous. |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Build endurance in the details. | Consistency is a fighter's secret weapon. | Respect range like it can bite. | Know your exits before your entries. | Tension slows truth. | Train the mind to shorten hesitation. |
+| 2 | Accuracy is mercy in disguise. | A rushed attack invites a patient counter. | The strongest grip is intelligent timing. | Keep your chin humble and your hands honest. | Protect your partner and your progress. | A smart retreat preserves tomorrow's victory. |
+| 3 | Small adjustments decide close rounds. | Fight the position, not your emotions. | Conditioning is confidence you can carry. | Master transitions and you master tempo. | A patient setup lands cleaner than a desperate rush. | Train composure like any other technique. |
+| 4 | If your breath breaks, your plan follows. | Power from the ground, purpose from the mind. | Leave every session sharper than you arrived. | A disciplined fighter wastes no motion. | Compete fiercely, recover graciously. | Control the tie up, control the story. |
+| 5 | The body learns what the ego allows. | Make your basics battle ready. | Practice courage at training speed first. | Learn to flow before you try to dominate. | Technique is patience made visible. | Pressure reveals the hole in every guard. |
+| 6 | Train your mind where others train their pride. | Respect sharpens what ego dulls. | The cleanest move is the one you earned. | Stay rooted long enough to move freely. | Timing beats force when force gets impatient. | The disciplined hand lands last and best. |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Steel the heart before drawing steel. | A calm blade cuts deepest. | Honor is carried, not declared. | Walk softly; strike like thunder. | The mountain yields to patient rain. | Debt repaid is burden lifted. |
+| 2 | Do not shame your ancestors. | Mercy given returns as strength. | A loud boast dulls a sharp sword. | The river remembers every stone. | Guard your oath more than your life. | Win the heart and the gate opens. |
+| 3 | Silence hears what pride cannot. | To master others, master yourself first. | Fear is a guest; do not house it. | Where duty stands, I stand. | An empty hand can still protect. | Train in peace, survive in chaos. |
+| 4 | When the wind turns, bend, do not break. | Truth walks slower than rumor, but farther. | A promise made beneath moonlight still binds at dawn. | The first victory is over impatience. | Compassion is not weakness; it is control. | I carry no grudge I cannot wield. |
+| 5 | One step each day crosses ten thousand li. | A closed fist cannot receive wisdom. | Justice without mercy becomes cruelty. | Do not chase glory; let it chase deeds. | Storms reveal the strength of roots. | Read intent, not only words. |
+| 6 | I bow to none who prey on the weak. | A clear mind defeats a quick temper. | Respect is earned by restraint. | A hidden knife cuts both ways. | If you borrow trust, return it whole. | I walk the narrow bridge without looking down. |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Do not waste breath on empty threats. | The moon has phases; so does fortune. | I would rather be late than unjust. | Strength that serves only self is brittle. | Keep your edge, keep your kindness. | A sealed lip saves ten lives. |
+| 2 | The old path still leads home. | I do not forget kindness, nor betrayal. | Better a scar than a surrender. | Discipline turns talent into destiny. | When in doubt, protect the innocent first. | A lantern is small, yet banishes darkness. |
+| 3 | I measure words as carefully as steps. | The straight road is not always the righteous one. | A righteous cause needs clean hands. | Empty praise feeds no one. | Cut through lies, not people. | I would rather lose face than lose my soul. |
+| 4 | The blade obeys the spirit behind it. | A patient hunter outlives a reckless one. | Pride falls faster than leaves in autumn. | Do not wake old ghosts without reason. | I leave every village safer than I found it. | Let your deeds speak in full sentences. |
+| 5 | The heart that listens seldom regrets. | There is no shortcut around character. | Stand straight, even when kneeling. | One clean strike is better than ten wild ones. | I drink tea before drawing blood. | Fate writes in ink; will writes in steel. |
+| 6 | The loudest drum is not the surest signal. | I answer insult with excellence. | Do not mistake gentleness for surrender. | A loyal friend is rarer than jade. | I do not chase vengeance at the cost of tomorrow. | Keep your robes clean and your conscience cleaner. |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | No throne is higher than principle. | When the gate closes, find the path over the wall. | Mastery begins where excuses end. | I fear becoming cruel more than being defeated. | Every meal may be your last; taste it with gratitude. | If I must fight, I finish it. |
+| 2 | A quiet promise outlives a loud vow. | Count blessings before enemies. | Listen to elders, test with your own feet. | I keep my word even in enemy courts. | Water finds a way; so will I. | A single spark can warm or burn a kingdom. |
+| 3 | The just path is rarely crowded. | I choose resolve over rage. | A clean retreat is wiser than a vain death. | My clan is my duty; the people are my purpose. | To endure is also victory. | I bow once, then stand forever. |
+| 4 | Mercy for the repentant, steel for the cruel. | I do not gamble with lives I cannot repay. | A full cup spills; leave room to learn. | The way of the sword begins with respect. | I trade comfort for clarity. | When fear rises, breathe and advance. |
+| 5 | Guard the village, and the road guards itself. | I mend what I break. | In every duel, leave room for peace. | The sunrise favors those already moving. | The patient hand survives the storm. | Honor grows in the choices no one sees. |
+| 6 | A quiet spirit cuts deepest. | Balance is guarded, not granted. | The worthy bow only to wisdom. | Carry grace into every conflict. | A straight path begins with a clear heart. | The river yields, yet reaches the sea. |
 
 ### Secrets
 
 Roll or choose a Secret: something your character hides from the world. A source of vulnerability, guilt, or dangerous knowledge.
 
-**Table 1 of 3**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Terrible Secret |
-| 2 | Dark Past |
-| 3 | Hidden Identity |
-| 4 | False Identity |
-| 5 | Assumed Name |
-| 6 | Wanted Criminal |
-| 7 | Former Slave |
-| 8 | Escaped Prisoner |
-| 9 | Deserter |
-| 10 | Traitor |
-| 11 | Turncoat |
-| 12 | Double Agent |
-| 13 | Deep Cover |
-| 14 | Witness to Atrocity |
-| 15 | Survivor's Guilt |
-| 16 | Blood Debt |
-| 17 | Unpaid Debt |
-| 18 | Sworn Oath |
-| 19 | Broken Vow |
-| 20 | Betrayed Trust |
-| 21 | Betrayed Ally |
-| 22 | Abandoned Comrade |
-| 23 | Left for Dead |
-| 24 | Sole Survivor |
-| 25 | Last of Their Kind |
-| 26 | Cursed Bloodline |
-| 27 | Marked for Death |
-| 28 | Hunted |
-| 29 | Price on Head |
-| 30 | Vendetta |
-| 31 | Secret Grudge |
-| 32 | Hidden Agenda |
-| 33 | Secret Mission |
-| 34 | Undercover |
-| 35 | Sleeper Agent |
-| 36 | Forbidden Knowledge |
-| 37 | Dangerous Discovery |
-| 38 | Witnessed Conspiracy |
-| 39 | Knows Too Much |
-| 40 | Blackmailed |
-| 41 | Compromised |
-| 42 | Secret Weakness |
-| 43 | Hidden Disability |
-| 44 | Concealed Illness |
-| 45 | Terminal Condition |
-| 46 | Addiction |
-| 47 | Dependency |
-| 48 | Secret Love |
-| 49 | Forbidden Romance |
-| 50 | Star-Crossed Lover |
-| 51 | Secret Child |
-| 52 | Hidden Family |
-| 53 | Disowned |
-| 54 | Illegitimate Heir |
-| 55 | Secret Royalty |
-| 56 | Hidden Noble |
-| 57 | False Commoner |
-| 58 | Imposter |
-| 59 | Fraud |
-| 60 | Charlatan |
-| 61 | Fake Credentials |
-| 62 | Stolen Identity |
-| 63 | Body Double |
-| 64 | Doppelganger |
-| 65 | Secret Twin |
-| 66 | Split Personality |
-| 67 | Possessed |
-| 68 | Haunted |
-| 69 | Cursed |
-| 70 | Damned |
-| 71 | Soul Bargain |
-| 72 | Devil's Deal |
-| 73 | Blood Pact |
-| 74 | Dark Covenant |
-| 75 | Secret Society Member |
-| 76 | Cult Initiate |
-| 77 | Heretic |
-| 78 | Apostate |
-| 79 | Lost Faith |
-| 80 | Secret Believer |
-| 81 | Closet Fanatic |
-| 82 | Zealot in Hiding |
-| 83 | Reformed Criminal |
-| 84 | Former Assassin |
-| 85 | Ex-Torturer |
-| 86 | War Criminal |
-| 87 | Mass Murderer |
-| 88 | Secret Prankster |
-| 89 | Staged a Dramatic Duel |
-| 90 | Ruined a Family Feast on Purpose |
-| 91 | Impersonated Royalty for a Night |
-| 92 | Sold a Family Heirloom in Secret |
-| 93 | Accidental Killer |
-| 94 | Mercy Killer |
-| 95 | Self-Defense Killer |
-| 96 | Never Killed |
-| 97 | Secret Pacifist |
-| 98 | Hidden Coward |
-| 99 | False Hero |
-| 100 | Unearned Glory |
+#### Table 1
 
-**Table 2 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Terrible Secret | Dark Past | Hidden Identity | False Identity | Assumed Name | Wanted Criminal |
+| 2 | Former Slave | Escaped Prisoner | Deserter | Traitor | Turncoat | Witness to Atrocity |
+| 3 | Survivor's Guilt | Blood Debt | Unpaid Debt | Sworn Oath | Broken Vow | Betrayed Trust |
+| 4 | Betrayed Ally | Abandoned Comrade | Left for Dead | Sole Survivor | Last of Their Kind | Cursed Bloodline |
+| 5 | Marked for Death | Hunted | Price on Head | Vendetta | Secret Grudge | Hidden Agenda |
+| 6 | Secret Mission | Forbidden Knowledge | Dangerous Discovery | Witnessed Conspiracy | Knows Too Much | Blackmailed |
 
-| d100 | Result |
-|------|--------|
-| 1 | Stolen Valor |
-| 2 | Credit Thief |
-| 3 | Plagiarist |
-| 4 | Art Forger |
-| 5 | Document Faker |
-| 6 | Identity Thief |
-| 7 | Embezzler |
-| 8 | Thief |
-| 9 | Smuggler |
-| 10 | Black Marketeer |
-| 11 | Fence |
-| 12 | Receiver of Stolen Goods |
-| 13 | Grave Robber |
-| 14 | Relic Thief |
-| 15 | Artifact Smuggler |
-| 16 | Secret Hoarder |
-| 17 | Hidden Wealth |
-| 18 | Treasure Map Keeper |
-| 19 | Location of Riches Known |
-| 20 | Guardian of Secret |
-| 21 | Keeper of Knowledge |
-| 22 | Sole Witness |
-| 23 | Only Survivor Who Knows |
-| 24 | Confessed to the Wrong Crime |
-| 25 | Owes a Favor to a Blackmailer |
-| 26 | Hid a Body No One Found |
-| 27 | Let an Innocent Take the Fall |
-| 28 | Knows Where the Missing Witness Is |
-| 29 | Signed a False Statement |
-| 30 | Carries Evidence They Never Turned In |
-| 31 | Burned the Only Copy |
-| 32 | Secretly Related to the Antagonist |
-| 33 | Keeps a Forbidden Correspondence |
-| 34 | Broke Quarantine and Lied About It |
-| 35 | Took Bribe Money and Buried It |
-| 36 | Planted the Weapon |
-| 37 | Altered the Official Timeline |
-| 38 | Destroyed Incriminating Evidence |
-| 39 | Lied to a Dying Person |
-| 40 | Promised Protection and Failed |
-| 41 | Faked an Alibi for Family |
-| 42 | Opened the Door to the Killer |
-| 43 | Left Before the Explosion |
-| 44 | Knows the Safe Combination |
-| 45 | Hides a Second Identity Document |
-| 46 | Smuggled Someone Across the Border |
-| 47 | Secretly Married an Enemy |
-| 48 | Owes Debt to a Loan Shark |
-| 49 | Keeps Two Sets of Books |
-| 50 | Embezzled Relief Funds |
-| 51 | Collected Blood Money |
-| 52 | Took a Ring from the Dead |
-| 53 | Sold Names to Hunters |
-| 54 | Gave False Testimony |
-| 55 | Broke a Ceasefire First |
-| 56 | Started a Rumor That Got Someone Killed |
-| 57 | Hid the Antidote |
-| 58 | Stole a Cure Shipment |
-| 59 | Chose Who Got the Last Seat |
-| 60 | Sabotaged a Vital Mechanism |
-| 61 | Sabotaged Emergency Systems |
-| 62 | Framed a Rival with Forged Letters |
-| 63 | Knows the Escape Route |
-| 64 | Opened a Sealed Archive |
-| 65 | Defied Evacuation Orders |
-| 66 | Left a Child Behind |
-| 67 | Secretly Supports Both Sides |
-| 68 | Hid a Lover in Enemy Territory |
-| 69 | Leaked a Battle Plan |
-| 70 | Took an Oath Under Duress |
-| 71 | Has a Child with a Disgraced Leader |
-| 72 | Helped a Fugitive Change Identity |
-| 73 | Turned Off the Alarm |
-| 74 | Took Payment to Stay Silent |
-| 75 | Stashed Contraband in a Shrine |
-| 76 | Covered a Friend's Fatal Mistake |
-| 77 | Lied About Being There |
-| 78 | Accepted a Medal They Didn't Earn |
-| 79 | Kept a Map from the Team |
-| 80 | Falsified Medical Records |
-| 81 | Gave the Wrong Coordinates on Purpose |
-| 82 | Destroyed a Family Will |
-| 83 | Withheld a Critical Warning |
-| 84 | Knows the Key Passphrase |
-| 85 | Hides a Poison Recipe |
-| 86 | Secretly Cannot Read Official Script |
-| 87 | Forged a Signature That Changed History |
-| 88 | Keeps the Last Key |
-| 89 | Was the Anonymous Informant |
-| 90 | Knows Who Started the Fire |
-| 91 | Hid in Safety While Others Fought |
-| 92 | Broke Into a Vault for Love Letters |
-| 93 | Smuggled Messages in Sacred Texts |
-| 94 | Manipulated a Final Tally |
-| 95 | Made a Promise to the Villain |
-| 96 | Saw the Truth and Stayed Quiet |
-| 97 | Invented a Heroic Story That Stuck |
-| 98 | Keeps a Confession Letter Unsent |
-| 99 | Secretly Owns the Deed |
-| 100 | Chose the Spotlight Over Duty |
+#### Table 2
 
-**Table 3 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Compromised | Secret Weakness | Hidden Disability | Concealed Illness | Terminal Condition | Addiction |
+| 2 | Dependency | Secret Love | Forbidden Romance | Star-Crossed Lover | Secret Child | Hidden Family |
+| 3 | Disowned | Illegitimate Heir | Secret Royalty | Hidden Noble | False Commoner | Imposter |
+| 4 | Fraud | Charlatan | Fake Credentials | Stolen Identity | Body Double | Secret Twin |
+| 5 | Split Personality | Haunted | Cursed | Damned | Blood Pact | Secret Society Member |
+| 6 | Cult Initiate | Heretic | Apostate | Lost Faith | Secret Believer | Closet Fanatic |
 
-| d100 | Result |
-|------|--------|
-| 1 | Last Heir of a Fallen Clan |
-| 2 | Branded by a Forbidden Sect |
-| 3 | Owes Blood Debt to a Warlord |
-| 4 | Swore Oath to a Hidden Master |
-| 5 | Witnessed the Emperor's Betrayal |
-| 6 | Bearer of a Stolen Jade Seal |
-| 7 | Secretly Born of Spirit Blood |
-| 8 | Trained by an Exiled Sword Saint |
-| 9 | Faked Death at Red Crane Bridge |
-| 10 | Smuggled Relics from a Sacred Tomb |
-| 11 | Carried Messages for Rebels |
-| 12 | Poisoned a Corrupt Magistrate |
-| 13 | Forged an Imperial Decree |
-| 14 | Hid an Exile in a Monastery |
-| 15 | Abandoned a Comrade in Battle |
-| 16 | Killed Under Forged Orders |
-| 17 | Broke a Temple Sanctuary Law |
-| 18 | Burned a Clan Record Hall |
-| 19 | Altered Ancestral Genealogy |
-| 20 | Knows the True Imperial Line |
-| 21 | Sold Secrets to Two Rival Courts |
-| 22 | Bound to Another by Contract |
-| 23 | Speaks to Evil Spirits |
-| 24 | Keeps a Forbidden Cultivation Manual |
-| 25 | Stole Techniques from a Grandmaster |
-| 26 | Won a Famous Game by Cheating |
-| 27 | Used Black-Market Alchemy |
-| 28 | Smuggled Opium |
-| 29 | Carries a Cursed Family Blade |
-| 30 | Murder Framed as Duel |
-| 31 | Accepted Bribe to Lose a Match |
-| 32 | Leaked Fortress Layout |
-| 33 | Knows the Passphrase to the Jade Vault |
-| 34 | Keeps the Last Map to Sky Temple |
-| 35 | Secret Child in Enemy Province |
-| 36 | Married into Rival Clan in Secret |
-| 37 | Wrote Love Letters to a Court Enemy |
-| 38 | Betrayed Siblings for Promotion |
-| 39 | Sheltered a Wanted Assassin |
-| 40 | Let a Villain Escape for Payment |
-| 41 | Counterfeits Temple Donation Records |
-| 42 | Smuggled Arms in Rice Sacks |
-| 43 | Posed as Noble Through Forgery |
-| 44 | Impersonated a Monk |
-| 45 | Hid Evidence of Spirit Possession |
-| 46 | Knows How the Phoenix King Died |
-| 47 | Saw the General Flee First |
-| 48 | Buried War Loot in Bamboo Marsh |
-| 49 | Destroyed a Cure to Protect a Secret |
-| 50 | Let Innocent Be Convicted |
-| 51 | Took Credit for Another's Heroism |
-| 52 | Secretly Illiterate |
-| 53 | Forged Exam Scores |
-| 54 | Extorted Villages as Tax Collector |
-| 55 | Kept Bribe Ledger Hidden |
-| 56 | Broke a Peace Accord |
-| 57 | Started a Clan Feud with Rumors |
-| 58 | Knows Who Opened the Demon Gate |
-| 59 | Switched Newborns in a Noble House |
-| 60 | Hid the True Cause of Plague |
-| 61 | Profited from Famine Grain |
-| 62 | Planted Contraband in Rival Home |
-| 63 | Turned Informant for Survival |
-| 64 | Secretly Funds Bandit Refuge |
-| 65 | Burned Debt Records for a Price |
-| 66 | Bears Tattoo of Forbidden Order |
-| 67 | Spirit Binding Ritual Gone Wrong |
-| 68 | Cannot Control Inner Peace |
-| 69 | Falls Asleep When Meditating |
-| 70 | Lives with Borrowed Name |
-| 71 | Escaped Execution by Bribery |
-| 72 | Knows a Magistrate's Hidden Child |
-| 73 | Took Sacred Vows Under False Identity |
-| 74 | Smuggled Prisoners Past Border |
-| 75 | Sank a Refugee Barge by Mistake |
-| 76 | Hid During Siege While Others Died |
-| 77 | Sold Coordinates of Safe Haven |
-| 78 | Surrendered a Friend to Hunters |
-| 79 | Steals from Shrine Offerings |
-| 80 | Keeps a Book of Blackmail Letters |
-| 81 | Silenced a Witness |
-| 82 | Broke Celestial Burial Rites |
-| 83 | Defiled an Ancestor Tomb |
-| 84 | Knows Which Elder Is a Fraud |
-| 85 | Poisoned a Tournament Well |
-| 86 | Rigged a Martial Trial |
-| 87 | Staged Kidnapping for Ransom |
-| 88 | Turned Away Refugees at the Gate |
-| 89 | Smuggled Demon Relics to Scholars |
-| 90 | Secretly Worships a Banned Deity |
-| 91 | Hides a Spirit Egg |
-| 92 | Collected Bounties on Innocents |
-| 93 | Falsified Military Casualty Lists |
-| 94 | Erased Name from Clan Tablets |
-| 95 | Suppressed Prophecy for Political Gain |
-| 96 | Delivered False Oracle Reading |
-| 97 | Swore Loyalty to Two Masters |
-| 98 | Knows Route Through the Ghost Peaks |
-| 99 | Hides the Key to the Earth Prison |
-| 100 | Was the Masked Duelist at Moon Festival |
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Zealot in Hiding | Reformed Criminal | Former Assassin | Ex-Torturer | War Criminal | Mass Murderer |
+| 2 | Accidental Killer | Mercy Killer | Self-Defense Killer | Never Killed | Secret Pacifist | Hidden Coward |
+| 3 | False Hero | Unearned Glory | Stolen Valor | Credit Thief | Plagiarist | Art Forger |
+| 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
+| 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
+| 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Last Heir of a Fallen Clan | Branded by a Forbidden Sect | Owes Blood Debt to a Warlord | Swore Oath to a Hidden Master | Witnessed the Emperor's Betrayal | Bearer of a Stolen Jade Seal |
+| 2 | Secretly Born of Spirit Blood | Trained by an Exiled Sword Saint | Faked Death at Red Crane Bridge | Smuggled Relics from a Sacred Tomb | Carried Messages for Rebels | Poisoned a Corrupt Magistrate |
+| 3 | Forged an Imperial Decree | Hid an Exile in a Monastery | Abandoned a Comrade in Battle | Killed Under Forged Orders | Broke a Temple Sanctuary Law | Burned a Clan Record Hall |
+| 4 | Altered Ancestral Genealogy | Knows the True Imperial Line | Sold Secrets to Two Rival Courts | Bound to Another by Contract | Speaks to Evil Spirits | Keeps a Forbidden Cultivation Manual |
+| 5 | Stole Techniques from a Grandmaster | Won a Famous Game by Cheating | Used Black-Market Alchemy | Smuggled Opium | Carries a Cursed Family Blade | Murder Framed as Duel |
+| 6 | Accepted Bribe to Lose a Match | Leaked Fortress Layout | Knows the Passphrase to the Jade Vault | Keeps the Last Map to Sky Temple | Secret Child in Enemy Province | Married into Rival Clan in Secret |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Wrote Love Letters to a Court Enemy | Betrayed Siblings for Promotion | Sheltered a Wanted Assassin | Let a Villain Escape for Payment | Counterfeits Temple Donation Records | Smuggled Arms in Rice Sacks |
+| 2 | Posed as Noble Through Forgery | Impersonated a Monk | Hid Evidence of Spirit Possession | Knows How the Phoenix King Died | Saw the General Flee First | Buried War Loot in Bamboo Marsh |
+| 3 | Destroyed a Cure to Protect a Secret | Let Innocent Be Convicted | Took Credit for Another's Heroism | Secretly Illiterate | Forged Exam Scores | Extorted Villages as Tax Collector |
+| 4 | Kept Bribe Ledger Hidden | Broke a Peace Accord | Started a Clan Feud with Rumors | Knows Who Opened the Demon Gate | Switched Newborns in a Noble House | Hid the True Cause of Plague |
+| 5 | Profited from Famine Grain | Planted Contraband in Rival Home | Turned Informant for Survival | Secretly Funds Bandit Refuge | Burned Debt Records for a Price | Bears Tattoo of Forbidden Order |
+| 6 | Spirit Binding Ritual Gone Wrong | Cannot Control Inner Peace | Falls Asleep When Meditating | Lives with Borrowed Name | Escaped Execution by Bribery | Knows a Magistrate's Hidden Child |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Took Sacred Vows Under False Identity | Smuggled Prisoners Past Border | Sank a Refugee Barge by Mistake | Hid During Siege While Others Died | Sold Coordinates of Safe Haven | Surrendered a Friend to Hunters |
+| 2 | Steals from Shrine Offerings | Keeps a Book of Blackmail Letters | Silenced a Witness | Broke Celestial Burial Rites | Defiled an Ancestor Tomb | Knows Which Elder Is a Fraud |
+| 3 | Poisoned a Tournament Well | Rigged a Martial Trial | Staged Kidnapping for Ransom | Turned Away Refugees at the Gate | Smuggled Demon Relics to Scholars | Secretly Worships a Banned Deity |
+| 4 | Hides a Spirit Egg | Collected Bounties on Innocents | Falsified Military Casualty Lists | Erased Name from Clan Tablets | Suppressed Prophecy for Political Gain | Delivered False Oracle Reading |
+| 5 | Swore Loyalty to Two Masters | Knows Route Through the Ghost Peaks | Hides the Key to the Earth Prison | Was the Masked Duelist at Moon Festival | Hid a Petition That Would Have Saved a Village | Knows the Shrine Where the Fox Spirit Feeds |
+| 6 | Forged a Clan Seal to Prevent a Marriage | Took Silver to Delay the Flood Gates | Sheltered a Sword Saint Under a False Name | Buried a Cursed Banner on Sacred Ground | Led Tax Riders to an Innocent Hamlet | Keeps the Real Verdict from the Jade Court |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Eastern Fantasy Names
+### Eastern Fantasy Names Forenames / Given Names
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Airi | An |
-| 2 | Akari | Anh |
-| 3 | Ancestorspeaker | Apsara |
-| 4 | Arrowsong | Autumnleaf |
-| 5 | Axewielder | Bamboo |
-| 6 | Azuresky | Bamboochime |
-| 7 | Baojun | Bamboogrove |
-| 8 | Binh | Bao |
-| 9 | Blademaster | Bingwen |
-| 10 | Chao | Binh |
-| 11 | Chiyome | Bo |
-| 12 | Cloudwalker | Bora |
-| 13 | Cranedance | Chai |
-| 14 | Cranefeather | Chang |
-| 15 | Crimsondawn | Chaoxiang |
-| 16 | Daehyun | Chen |
-| 17 | Darkbane | Chun |
-| 18 | Dewdrop | Cloudlantern |
-| 19 | Dongmei | Cloudpetal |
-| 20 | Dragonborn | Cranemoon |
-| 21 | Dragonwhisper | Crimsonjade |
-| 22 | Dreamweaver | Dae |
-| 23 | Earthshaker | Daiyu |
-| 24 | Emberlight | Dawnbreaker |
-| 25 | Etsuko | Delun |
-| 26 | Fen | Dragonbloom |
-| 27 | Firekeeper | Duc |
-| 28 | Fisherman | Fang |
-| 29 | Fortuneteller | Feng |
-| 30 | Frostwind | Gang |
-| 31 | Genji | Goldenstream |
-| 32 | Goldensun | Guang |
-| 33 | Haneul | Hai |
-| 34 | Haruka | Haneul |
-| 35 | Ironmonk | Hoa |
-| 36 | Isamu | Hong |
-| 37 | Ivorycloud | Hua |
-| 38 | Jadeecho | Huan |
-| 39 | Jadeheart | Huizhong |
-| 40 | Jiahao | Inkbrush |
-| 41 | Jisoo | Jadebrook |
-| 42 | Kaede | Jadewing |
-| 43 | Kiyoshi | Jasmine |
-| 44 | Lanternkeeper | Jian |
-| 45 | Lian | Jing |
-| 46 | Lightbringer | Joon |
-| 47 | Lotusbloom | Jun |
-| 48 | Master | Junjie |
-| 49 | Meilin | Kulap |
-| 50 | Minseo | Lan |
-| 51 | Mistborn | Lanternmist |
-| 52 | Mistwalker | Lei |
-| 53 | Monkeyfist | Li |
-| 54 | Moonblade | Lian |
-| 55 | Nari | Lihua |
-| 56 | Onyxnight | Ling |
-| 57 | Petalfall | Liu |
-| 58 | Phoenixheart | Long |
-| 59 | Phoenixsong | Longwei |
-| 60 | Plumdawn | Lotus |
-| 61 | Qianru | Lotusrain |
-| 62 | Raindancer | Lotuswind |
-| 63 | Renshu | Mei-Ling |
-| 64 | Ricefarmer | Min |
-| 65 | Riverwhisper | Ming |
-| 66 | Ryota | Mingzhu |
-| 67 | Satoshi | Minh |
-| 68 | Scholar | Moonflower |
-| 69 | Scrollkeeper | Moonpetal |
-| 70 | Scrollsage | Moonstone |
-| 71 | Serpentfang | Nari |
-| 72 | Shadowdancer | Narong |
-| 73 | Shieldbearer | Nightblossom |
-| 74 | Shiori | Ning |
-| 75 | Silkmaster | Niran |
-| 76 | Silvermoon | of the Amber Lantern |
-| 77 | Snowfall | of the Ancient Temple |
-| 78 | Spearbreaker | of the Azure Dragon |
-| 79 | Spiritwalker | of the Black Tortoise |
-| 80 | Staffkeeper | of the Celestial Court |
-| 81 | Stargazer | of the Crimson Maple |
-| 82 | Stormcaller | of the Crimson Phoenix |
-| 83 | Sunstrike | of the Dawn Pavilion |
-| 84 | Swordmaster | of the Divine Palace |
-| 85 | Teabrewer | of the Eastern Peaks |
-| 86 | Teacher | of the Eternal Garden |
-| 87 | Tenzin | of the Falling Plum |
-| 88 | Thunderstep | of the Golden Lotus |
-| 89 | Tigerclaw | of the Golden Reed |
-| 90 | Tigerstride | of the Hidden Moon |
-| 91 | Ume | of the Hidden Valley |
-| 92 | Vinh | of the Jade Lantern |
-| 93 | Waterweaver | of the Jade Mountain |
-| 94 | Wenli | of the Misty Terrace |
-| 95 | Willowdream | of the Moonlit Lake |
-| 96 | Windwhisperer | of the Nine Petals |
-| 97 | Woodcarver | of the Northern Forests |
-| 98 | Xinyi | of the Painted Fan |
-| 99 | Yori | of the Pearl Current |
-| 100 | Zhen | of the Quiet River |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aiko | Airi | Akari | Ancestorspeaker | Arrowsong | Axewielder |
+| 2 | Azuresky | Baojun | Binh | Blademaster | Chao | Chiyome |
+| 3 | Cloudwalker | Cranedance | Cranefeather | Crimsondawn | Daehyun | Darkbane |
+| 4 | Dewdrop | Dongmei | Dragonborn | Dragonwhisper | Dreamweaver | Earthshaker |
+| 5 | Emberlight | Etsuko | Fen | Firekeeper | Fisherman | Fortuneteller |
+| 6 | Frostwind | Genji | Goldensun | Haneul | Haruka | Hiroto |
 
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 101 | - | of the Rain-Washed Shrine |
-| 102 | - | of the Sacred Grove |
-| 103 | - | of the Sapphire Lake |
-| 104 | - | of the Silent Bell |
-| 105 | - | of the Silver Moon |
-| 106 | - | of the Singing Reeds |
-| 107 | - | of the Southern Seas |
-| 108 | - | of the Thousand Steps |
-| 109 | - | of the Vermillion Bird |
-| 110 | - | of the Western Plains |
-| 111 | - | of the Whispering Pines |
-| 112 | - | of the White Tiger |
-| 113 | - | Pearldew |
-| 114 | - | Peng |
-| 115 | - | Phoenixmist |
-| 116 | - | Pinewhisper |
-| 117 | - | Ping |
-| 118 | - | Plumblossom |
-| 119 | - | Plumrain |
-| 120 | - | Qi |
-| 121 | - | Qiang |
-| 122 | - | Qing |
-| 123 | - | Qiuyue |
-| 124 | - | Ricepaddy |
-| 125 | - | Riverpearl |
-| 126 | - | Riversong |
-| 127 | - | Rong |
-| 128 | - | Ru |
-| 129 | - | Ruolan |
-| 130 | - | Ryujin |
-| 131 | - | Saffrondawn |
-| 132 | - | Seung |
-| 133 | - | Shan |
-| 134 | - | Shen |
-| 135 | - | Shi |
-| 136 | - | Silentshadow |
-| 137 | - | Silkthread |
-| 138 | - | Silkwind |
-| 139 | - | Silverreed |
-| 140 | - | Somchai |
-| 141 | - | Song |
-| 142 | - | Springrain |
-| 143 | - | Starlight |
-| 144 | - | Starwhisper |
-| 145 | - | Stormheart |
-| 146 | - | Suda |
-| 147 | - | Sunan |
-| 148 | - | Sunfire |
-| 149 | - | Tao |
-| 150 | - | Teacup |
-| 151 | - | Thanh |
-| 152 | - | the Calm |
-| 153 | - | the Cloud-Minded |
-| 154 | - | the Dawn-Blessed |
-| 155 | - | the Devoted |
-| 156 | - | the Enlightened |
-| 157 | - | the Fierce |
-| 158 | - | the Gentle |
-| 159 | - | the Honorable |
-| 160 | - | the Lantern-Born |
-| 161 | - | the Lotus-Crowned |
-| 162 | - | the Moon-Kissed |
-| 163 | - | the Peaceful |
-| 164 | - | the Rain-Gentle |
-| 165 | - | the River-Patient |
-| 166 | - | the Serene |
-| 167 | - | the Starlit |
-| 168 | - | the Strong |
-| 169 | - | the Swift |
-| 170 | - | the Virtuous |
-| 171 | - | the Willow-Hearted |
-| 172 | - | the Wise |
-| 173 | - | Thuy |
-| 174 | - | Tuan |
-| 175 | - | Wei |
-| 176 | - | Wen |
-| 177 | - | Willowbend |
-| 178 | - | Willowmist |
-| 179 | - | Willowrain |
-| 180 | - | Windrose |
-| 181 | - | Wintermoon |
-| 182 | - | Xia |
-| 183 | - | Xiaoli |
-| 184 | - | Xin |
-| 185 | - | Xiu |
-| 186 | - | Yan |
-| 187 | - | Yang |
-| 188 | - | Yeon |
-| 189 | - | Yi |
-| 190 | - | Yin |
-| 191 | - | Ying |
-| 192 | - | Yu |
-| 193 | - | Yuan |
-| 194 | - | Yue |
-| 195 | - | Yun |
-| 196 | - | Zhang |
-| 197 | - | Zhao |
-| 198 | - | Zhen |
-| 199 | - | Zhi |
-| 200 | - | Zhou |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ironmonk | Isamu | Ivorycloud | Jadeecho | Jadeheart | Jiahao |
+| 2 | Jiayi | Jisoo | Kaede | Kiyoshi | Lanternkeeper | Lian |
+| 3 | Lightbringer | Lotusbloom | Master | Meilin | Meixiu | Minseo |
+| 4 | Mistborn | Mistwalker | Monkeyfist | Moonblade | Nari | Onyxnight |
+| 5 | Petalfall | Phoenixheart | Phoenixsong | Plumdawn | Qianru | Raindancer |
+| 6 | Renji | Renshu | Ricefarmer | Riverwhisper | Ryota | Satoshi |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Scholar | Scrollkeeper | Scrollsage | Serpentfang | Shadowdancer | Shieldbearer |
+| 2 | Shiori | Silkmaster | Silvermoon | Snowfall | Sora | Spearbreaker |
+| 3 | Spiritwalker | Staffkeeper | Stargazer | Stormcaller | Sunstrike | Suyin |
+| 4 | Swordmaster | Takara | Teabrewer | Teacher | Tenzin | Thunderstep |
+| 5 | Tigerclaw | Tigerstride | Ume | Vinh | Waterweaver | Wenli |
+| 6 | Willowdream | Windwhisperer | Woodcarver | Xinyi | Yori | Zhen |
+
+### Eastern Fantasy Names Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | An | Anh | Apsara | Autumnleaf | Bamboo | Bamboochime |
+| 2 | Bamboogrove | Bao | Bingwen | Binh | Bo | Bora |
+| 3 | Chai | Chang | Chaoxiang | Chen | Chun | Cloudlantern |
+| 4 | Cloudpetal | Cranecrest | Cranemoon | Crimsonjade | Dae | Daiyu |
+| 5 | Dawnbreaker | Delun | Dragonbloom | Dragonlake | Duc | Emberlotus |
+| 6 | Fang | Feng | Gang | Goldenstream | Guang | Hai |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Han | Haneul | Hoa | Hong | Hua | Huan |
+| 2 | Huizhong | Inkbrush | Jadebrook | Jadewing | Jasmine | Jian |
+| 3 | Jing | Joon | Jun | Junjie | Kulap | Kuroda |
+| 4 | Lan | Lanternmist | Lanternsnow | Lei | Li | Lian |
+| 5 | Lihua | Lin | Ling | Liu | Long | Longwei |
+| 6 | Lotus | Lotusrain | Lotuswind | Maplewind | Matsuda | Mei-Ling |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Min | Ming | Mingzhu | Minh | Moonflower | Moonpetal |
+| 2 | Moonstone | Nari | Narong | Nightblossom | Ning | Niran |
+| 3 | of the Amber Lantern | of the Amber Pavilion | of the Ancient Temple | of the Azure Dragon | of the Black Tortoise | of the Celestial Court |
+| 4 | of the Crimson Maple | of the Crimson Phoenix | of the Dawn Pavilion | of the Divine Palace | of the Eastern Peaks | of the Eternal Garden |
+| 5 | of the Falling Plum | of the Golden Lotus | of the Golden Reed | of the Hidden Moon | of the Hidden Valley | of the Jade Lantern |
+| 6 | of the Jade Mountain | of the Misty Terrace | of the Moonlit Lake | of the Nine Petals | of the Northern Forests | of the Painted Fan |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | of the Pearl Current | of the Quiet River | of the Rain-Washed Shrine | of the Sacred Grove | of the Sapphire Lake | of the Silent Bell |
+| 2 | of the Silver Moon | of the Singing Reeds | of the Southern Seas | of the Thousand Steps | of the Vermillion Bird | of the Western Plains |
+| 3 | of the Whispering Pines | of the White Tiger | Park | Pearldew | Pearlriver | Peng |
+| 4 | Phoenixmist | Pinewhisper | Ping | Plumblossom | Plumrain | Qi |
+| 5 | Qiang | Qiao | Qing | Qiuyue | Ricepaddy | Riverpearl |
+| 6 | Riversong | Rong | Ru | Ruolan | Ryujin | Saffrondawn |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Seung | Shan | Shen | Shi | Silentshadow | Silkthread |
+| 2 | Silkwind | Silverbamboo | Silverreed | Somchai | Song | Springrain |
+| 3 | Starlight | Starwhisper | Stormheart | Suda | Sunan | Sunfire |
+| 4 | Takahara | Tao | Teacup | Thanh | the Calm | the Cloud-Minded |
+| 5 | the Dawn-Blessed | the Devoted | the Enlightened | the Fierce | the Gentle | the Honorable |
+| 6 | the Lantern-Born | the Lotus-Crowned | the Moon-Kissed | the Peaceful | the Rain-Gentle | the River-Patient |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | the Serene | the Starlit | the Strong | the Swift | the Virtuous | the Willow-Hearted |
+| 2 | the Wise | Thuy | Tuan | Uehara | Wei | Wen |
+| 3 | Willowbend | Willowmist | Willowrain | Windrose | Wintermoon | Xia |
+| 4 | Xiaoli | Xin | Xiu | Yan | Yang | Yeon |
+| 5 | Yi | Yin | Ying | Yu | Yuan | Yue |
+| 6 | Yun | Zhang | Zhao | Zhen | Zhi | Zhou |
 

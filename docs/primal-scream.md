@@ -9,13 +9,75 @@ At the dawn of an age of bone and blood, forge your legend in a primordial land 
 ## Table of Contents
 
 - [Core Rules](#core-rules)
+  - [Core Mechanics](#core-mechanics)
+    - [Spirit & Talisman](#spirit-talisman)
+  - [Movement & Cover](#movement-cover)
+  - [Saves](#saves)
+  - [Conflict Scenes](#conflict-scenes)
+    - [Actions](#actions)
+    - [Reactions](#reactions)
+    - [Attacks](#attacks)
+  - [Conditions](#conditions)
 - [Character Creation](#character-creation)
 - [Abilities](#abilities)
+  - [Standard Abilities](#standard-abilities)
+    - [Combat Inclinations](#combat-inclinations)
+    - [Spirit Inclinations](#spirit-inclinations)
+    - [Mental Inclinations](#mental-inclinations)
+    - [Physical Inclinations](#physical-inclinations)
+    - [Social Inclinations](#social-inclinations)
+    - [Stealth Inclinations](#stealth-inclinations)
+    - [Wilderness Inclinations](#wilderness-inclinations)
+    - [Companion Inclinations](#companion-inclinations)
+    - [Spiritual Powers](#spiritual-powers)
+    - [Freeform Powers](#freeform-powers)
+    - [Nature Powers](#nature-powers)
+    - [Biological Mutations](#biological-mutations)
 - [Gear & Equipment](#gear-equipment)
+  - [Outfits](#outfits)
+  - [Melee Weapons](#melee-weapons)
+  - [Ranged Weapons](#ranged-weapons)
+  - [Equipment](#equipment)
+  - [Ammunition](#ammunition)
 - [Vehicles & Companions](#vehicles-companions)
+  - [Companions](#companions)
+  - [Companion Upgrades](#companion-upgrades)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
+    - [Backgrounds](#backgrounds)
+      - [Table 1](#table-1)
+      - [Table 2](#table-2)
+      - [Table 3](#table-3)
+    - [Personality Traits](#personality-traits)
+      - [Table 1](#table-1-1)
+      - [Table 2](#table-2-1)
+      - [Table 3](#table-3-1)
+      - [Table 4](#table-4)
+      - [Table 5](#table-5)
+      - [Table 6](#table-6)
+    - [Mottos](#mottos)
+      - [Table 1](#table-1-2)
+      - [Table 2](#table-2-2)
+      - [Table 3](#table-3-2)
+    - [Secrets](#secrets)
+      - [Table 1](#table-1-3)
+      - [Table 2](#table-2-3)
+      - [Table 3](#table-3-3)
   - [Names](#names)
+    - [Primal Names Forenames / Given Names](#primal-names-forenames-given-names)
+      - [Table 1](#table-1-4)
+      - [Table 2](#table-2-4)
+      - [Table 3](#table-3-4)
+      - [Table 4](#table-4-1)
+      - [Table 5](#table-5-1)
+      - [Table 6](#table-6-1)
+    - [Primal Names Surnames / Family Names](#primal-names-surnames-family-names)
+      - [Table 1](#table-1-5)
+      - [Table 2](#table-2-5)
+      - [Table 3](#table-3-5)
+      - [Table 4](#table-4-2)
+      - [Table 5](#table-5-2)
+      - [Table 6](#table-6-2)
 
 ## Core Rules
 
@@ -30,8 +92,8 @@ You start with *3 Spirit and 1 Talisman* per session. You can add *Spirit* to an
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
-### Taking Cover
-Being in/behind cover increases attacker *To-Hit* by cover grade: **Light +1:** foliage, furniture, low walls. **Medium +2:** barricades, building edges. **Heavy +3:** concrete, metal fortifications. Effects that explicitly ignore cover (for example explosives, fire, gas) bypass cover.
+
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -401,725 +463,338 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 ## Aspects
 
-Aspects define who your character is beyond raw stats. Choose one from each category, or use the d100 tables to roll randomly.
+Aspects define who your character is beyond raw stats. Choose one from each category, or use the d6 tables to roll randomly.
 
 ### Backgrounds
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-| d100 | Result |
-|------|--------|
-| 1 | Ruin Scavenger |
-| 2 | Beast Hunter |
-| 3 | Tracker for Hire |
-| 4 | Cliff Guide |
-| 5 | Swamp Stalker |
-| 6 | Forest Forager |
-| 7 | Desert Runner |
-| 8 | Mountain Hermit |
-| 9 | Fungal Farmer |
-| 10 | Herb Keeper |
-| 11 | Shaman's Apprentice |
-| 12 | Tribe Envoy |
-| 13 | Camp Quartermaster |
-| 14 | Tusk Wrestler |
-| 15 | Bone Carver |
-| 16 | Relic Digger |
-| 17 | Glowstone Miner |
-| 18 | Torrent Fisher |
-| 19 | Headhunter |
-| 20 | Pit Fighter |
-| 21 | Warband Scout |
-| 22 | Shield Bearer |
-| 23 | Sling Expert |
-| 24 | Spear Dancer |
-| 25 | Feral Child |
-| 26 | Lost Noble |
-| 27 | Mask Maker |
-| 28 | Cave Artist |
-| 29 | Lore Collector |
-| 30 | Star Watcher |
-| 31 | Trail Singer |
-| 32 | Beast-Touched |
-| 33 | Spirit-Bonded |
-| 34 | Exiled |
-| 35 | Pact Breaker |
-| 36 | Witch's Errand-Runner |
-| 37 | Gatherer |
-| 38 | Trap Layer |
-| 39 | Animal Skinner |
-| 40 | Mushroom Hunter |
-| 41 | Water Finder |
-| 42 | Fire Tender |
-| 43 | Signal Drummer |
-| 44 | Bone Flutist |
-| 45 | Clan Heir |
-| 46 | Blood Oath Keeper |
-| 47 | Renegade Scout |
-| 48 | Relic Porter |
-| 49 | Beast Whisperer |
-| 50 | Spirit Medium |
-| 51 | Cold Trader |
-| 52 | Dust Caravaner |
-| 53 | Ice Diver |
-| 54 | Storm Chaser |
-| 55 | Grave Tender |
-| 56 | Shell Collector |
-| 57 | Nest Builder |
-| 58 | Fire Watcher |
-| 59 | Berry Picker |
-| 60 | Mud Sculptor |
-| 61 | Sun Chaser |
-| 62 | Shadow Lurker |
-| 63 | Egg Thief |
-| 64 | Root Digger |
-| 65 | Pebble Counter |
-| 66 | Cloud Gazer |
-| 67 | Thorn Gatherer |
-| 68 | Sap Drinker |
-| 69 | Frost Walker |
-| 70 | Echo Listener |
-| 71 | Omen Reader |
-| 72 | Wind Caller |
-| 73 | Star Speaker |
-| 74 | Moon Follower |
-| 75 | Sun Dancer |
-| 76 | Sky Watcher |
-| 77 | Wave Rider |
-| 78 | Flint Knapper |
-| 79 | Mammoth Driver |
-| 80 | River Reed Weaver |
-| 81 | Cave Sentinel |
-| 82 | Totem Carver |
-| 83 | Hearth Keeper |
-| 84 | Clan Storykeeper |
-| 85 | Hunt Caller |
-| 86 | Spear Crafter |
-| 87 | Hide Tanner |
-| 88 | Bone Needle Maker |
-| 89 | Tallow Maker |
-| 90 | Stone Slinger |
-| 91 | Marsh Reed Gatherer |
-| 92 | Path Finder |
-| 93 | Ritual Drummer |
-| 94 | Clan Peacebroker |
-| 95 | Fire Carrier |
-| 96 | Mountain Forager |
-| 97 | Rune Reader |
-| 98 | Amber Seeker |
-| 99 | Honey Hunter |
-| 100 | Butcher |
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ruin Scavenger | Beast Hunter | Tracker for Hire | Cliff Guide | Swamp Stalker | Forest Forager |
+| 2 | Desert Runner | Mountain Hermit | Fungal Farmer | Herb Keeper | Shaman's Apprentice | Tribe Envoy |
+| 3 | Camp Quartermaster | Tusk Wrestler | Bone Carver | Relic Digger | Glowstone Miner | River Fisher |
+| 4 | Headhunter | Pit Fighter | Warband Scout | Shield Bearer | Sling Expert | Spear Dancer |
+| 5 | Feral Child | Lost Noble | Mask Maker | Cave Artist | Lore Collector | Star Watcher |
+| 6 | Trail Singer | Beast-Touched | Spirit-Bonded | Exiled | Pact Breaker | Witch's Errand-Runner |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gatherer | Trap Layer | Animal Skinner | Mushroom Hunter | Water Finder | Fire Tender |
+| 2 | Signal Drummer | Bone Flutist | Clan Heir | Blood Oath Keeper | Renegade Scout | Relic Porter |
+| 3 | Beast Whisperer | Spirit Medium | Cold Trader | Dust Caravaner | Ice Diver | Storm Chaser |
+| 4 | Grave Tender | Shell Collector | Nest Builder | Fire Watcher | Berry Picker | Mud Sculptor |
+| 5 | Sun Chaser | Shadow Lurker | Egg Thief | Root Digger | Pebble Counter | Cloud Gazer |
+| 6 | Thorn Gatherer | Sap Drinker | Frost Walker | Echo Listener | Omen Reader | Wind Caller |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Star Speaker | Moon Follower | Sun Dancer | Sky Watcher | Wave Rider | Flint Knapper |
+| 2 | Mammoth Driver | River Reed Weaver | Cave Sentinel | Totem Carver | Hearth Keeper | Clan Storykeeper |
+| 3 | Hunt Caller | Spear Crafter | Hide Tanner | Bone Needle Maker | Tallow Maker | Stone Slinger |
+| 4 | Marsh Reed Gatherer | Path Finder | Ritual Drummer | Clan Peacebroker | Fire Carrier | Mountain Forager |
+| 5 | Rune Reader | Amber Seeker | Honey Hunter | Butcher | Cave Painter | Sea Fisher |
+| 6 | River Stone Knapper | Shell Ornament Maker | Snare Setter | Totem Keeper | - | - |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Adaptable |
-| 2 | Affable |
-| 3 | Alert |
-| 4 | Ambitious |
-| 5 | Analytical |
-| 6 | Anchored |
-| 7 | Appreciative |
-| 8 | Articulate |
-| 9 | Assertive |
-| 10 | Attentive |
-| 11 | Balanced |
-| 12 | Benevolent |
-| 13 | Bold |
-| 14 | Brave |
-| 15 | Calm |
-| 16 | Candid |
-| 17 | Capable |
-| 18 | Careful |
-| 19 | Caring |
-| 20 | Centered |
-| 21 | Charismatic |
-| 22 | Cheerful |
-| 23 | Civic Minded |
-| 24 | Clear Eyed |
-| 25 | Clear Spoken |
-| 26 | Clever |
-| 27 | Compassionate |
-| 28 | Composed |
-| 29 | Confident |
-| 30 | Conscientious |
-| 31 | Consistent |
-| 32 | Constructive |
-| 33 | Courageous |
-| 34 | Courteous |
-| 35 | Creative |
-| 36 | Credible |
-| 37 | Curious |
-| 38 | Daring |
-| 39 | Decisive |
-| 40 | Dedicated |
-| 41 | Dependable |
-| 42 | Diplomatic |
-| 43 | Direct |
-| 44 | Disciplined |
-| 45 | Discerning |
-| 46 | Driven |
-| 47 | Earnest |
-| 48 | Easygoing |
-| 49 | Eloquent |
-| 50 | Empathetic |
-| 51 | Energetic |
-| 52 | Engaged |
-| 53 | Equitable |
-| 54 | Ethical |
-| 55 | Even Tempered |
-| 56 | Fair |
-| 57 | Faithful |
-| 58 | Fearless |
-| 59 | Flexible |
-| 60 | Focused |
-| 61 | Forgiving |
-| 62 | Forthright |
-| 63 | Friendly |
-| 64 | Gallant |
-| 65 | Generous |
-| 66 | Gentle |
-| 67 | Genuine |
-| 68 | Graceful |
-| 69 | Gracious |
-| 70 | Grounded |
-| 71 | Hardy |
-| 72 | Helpful |
-| 73 | Honest |
-| 74 | Honorable |
-| 75 | Humble |
-| 76 | Humorous |
-| 77 | Idealistic |
-| 78 | Imaginative |
-| 79 | Impartial |
-| 80 | Independent |
-| 81 | Industrious |
-| 82 | Insightful |
-| 83 | Intentional |
-| 84 | Intuitive |
-| 85 | Inventive |
-| 86 | Jovial |
-| 87 | Judicious |
-| 88 | Keen |
-| 89 | Kind |
-| 90 | Level Headed |
-| 91 | Logical |
-| 92 | Loyal |
-| 93 | Measured |
-| 94 | Methodical |
-| 95 | Meticulous |
-| 96 | Mindful |
-| 97 | Modest |
-| 98 | Motivated |
-| 99 | Nimble |
-| 100 | Noble |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adaptable | Accommodating | Affable | Alert | Ambitious | Analytical |
+| 2 | Anchored | Appreciative | Articulate | Assertive | Attentive | Balanced |
+| 3 | Benevolent | Big Hearted | Bold | Brave | Calm | Candid |
+| 4 | Capable | Careful | Caring | Centered | Charismatic | Cheerful |
+| 5 | Civic Minded | Clear Eyed | Clear Spoken | Clever | Compassionate | Composed |
+| 6 | Confident | Conscientious | Consistent | Constructive | Courageous | Courteous |
 
-| d100 | Result |
-|------|--------|
-| 1 | Observant |
-| 2 | Open Minded |
-| 3 | Optimistic |
-| 4 | Orderly |
-| 5 | Organized |
-| 6 | Original |
-| 7 | Patient |
-| 8 | Perceptive |
-| 9 | Persistent |
-| 10 | Persuasive |
-| 11 | Playful |
-| 12 | Poised |
-| 13 | Polished |
-| 14 | Practical |
-| 15 | Pragmatic |
-| 16 | Precise |
-| 17 | Principled |
-| 18 | Proactive |
-| 19 | Protective |
-| 20 | Prudent |
-| 21 | Quick Witted |
-| 22 | Rational |
-| 23 | Realistic |
-| 24 | Reflective |
-| 25 | Reliable |
-| 26 | Resilient |
-| 27 | Resolute |
-| 28 | Resourceful |
-| 29 | Respectful |
-| 30 | Responsible |
-| 31 | Self Aware |
-| 32 | Self Controlled |
-| 33 | Selfless |
-| 34 | Sensible |
-| 35 | Serene |
-| 36 | Sharp |
-| 37 | Sincere |
-| 38 | Sociable |
-| 39 | Solid |
-| 40 | Steadfast |
-| 41 | Strategic |
-| 42 | Studious |
-| 43 | Subtle |
-| 44 | Supportive |
-| 45 | Tactful |
-| 46 | Tenacious |
-| 47 | Thoughtful |
-| 48 | Tolerant |
-| 49 | Trustworthy |
-| 50 | Unassuming |
-| 51 | Understanding |
-| 52 | Uplifting |
-| 53 | Valiant |
-| 54 | Vigilant |
-| 55 | Warm |
-| 56 | Welcoming |
-| 57 | Wholehearted |
-| 58 | Wise |
-| 59 | Witty |
-| 60 | Worldly |
-| 61 | Zealous |
-| 62 | Agreeable |
-| 63 | Astute |
-| 64 | Compliant |
-| 65 | Dutiful |
-| 66 | Frank |
-| 67 | Good Natured |
-| 68 | High Spirited |
-| 69 | Hopeful |
-| 70 | Impassioned |
-| 71 | Influential |
-| 72 | Inquisitive |
-| 73 | Lively |
-| 74 | Merciful |
-| 75 | Merry |
-| 76 | Objective |
-| 77 | Outgoing |
-| 78 | Pensive |
-| 79 | Quietly Confident |
-| 80 | Receptive |
-| 81 | Reserved |
-| 82 | Self Reliant |
-| 83 | Steady |
-| 84 | Tidy |
-| 85 | Unflappable |
-| 86 | Versatile |
-| 87 | Watchful |
-| 88 | Well Mannered |
-| 89 | Willful |
-| 90 | Worthy |
-| 91 | Considerate |
-| 92 | Convivial |
-| 93 | Dispassionate |
-| 94 | Down To Earth |
-| 95 | Evenhanded |
-| 96 | Hospitable |
-| 97 | Nonreactive |
-| 98 | Openhearted |
-| 99 | Self Directed |
-| 100 | Stable |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creative | Credible | Curious | Daring | Decisive | Dedicated |
+| 2 | Dependable | Diplomatic | Direct | Disciplined | Discerning | Driven |
+| 3 | Earnest | Easygoing | Eloquent | Empathetic | Energetic | Engaged |
+| 4 | Equitable | Ethical | Even Keeled | Even Tempered | Fair | Faithful |
+| 5 | Fearless | Flexible | Focused | Forgiving | Forthright | Friendly |
+| 6 | Gallant | Generous | Gentle | Genuine | Graceful | Gracious |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grounded | Hardy | Helpful | Honest | Honorable | Humble |
+| 2 | Humorous | Idealistic | Imaginative | Impartial | Independent | Industrious |
+| 3 | Insightful | Intentional | Intuitive | Inventive | Jovial | Judicious |
+| 4 | Keen | Kind | Level Headed | Logical | Loyal | Measured |
+| 5 | Methodical | Meticulous | Mindful | Modest | Motivated | Nimble |
+| 6 | Noble | Observant | Open Minded | Optimistic | Orderly | Organized |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Original | Patient | Perceptive | Persistent | Persuasive | Playful |
+| 2 | Poised | Polished | Practical | Pragmatic | Precise | Principled |
+| 3 | Proactive | Protective | Prudent | Quick Witted | Rational | Realistic |
+| 4 | Reflective | Reliable | Resilient | Resolute | Resourceful | Respectful |
+| 5 | Responsible | Self Aware | Self Controlled | Selfless | Sensible | Serene |
+| 6 | Sharp | Sincere | Sociable | Solid | Steadfast | Strategic |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Studious | Subtle | Supportive | Tactful | Tenacious | Thoughtful |
+| 2 | Tolerant | Trustworthy | Unassuming | Understanding | Uplifting | Valiant |
+| 3 | Vigilant | Warm | Welcoming | Wholehearted | Wise | Witty |
+| 4 | Worldly | Zealous | Agreeable | Astute | Compliant | Dutiful |
+| 5 | Frank | Good Humored | Good Natured | High Spirited | Hopeful | Impassioned |
+| 6 | Influential | Inquisitive | Lively | Merciful | Merry | Objective |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outgoing | Pensive | Quietly Confident | Receptive | Reserved | Self Reliant |
+| 2 | Steady | Tidy | Unflappable | Versatile | Watchful | Well Mannered |
+| 3 | Willful | Worthy | Considerate | Convivial | Dispassionate | Down To Earth |
+| 4 | Evenhanded | Hospitable | Nonreactive | Openhearted | Self Directed | Stable |
+| 5 | Cooperative | Deliberate | Devoted | Farsighted | Neighborly | Reasonable |
+| 6 | Reassuring | Self Possessed | Soft Spoken | Stalwart | Tender Hearted | Visionary |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-| d100 | Result |
-|------|--------|
-| 1 | The hunt calls. I answer. |
-| 2 | Only the strong survive the wild. |
-| 3 | I am predator, not prey. |
-| 4 | The earth provides for those who respect it. |
-| 5 | In the wild, hesitation means death. |
-| 6 | My spear never misses. |
-| 7 | The spirits guide my path. |
-| 8 | I walk where others fear to tread. |
-| 9 | The pack is my strength. |
-| 10 | Blood and bone, that's all we are. |
-| 11 | Nature's law is simple: hunt or be hunted. |
-| 12 | I fear no beast. |
-| 13 | The wilds are my home; you are just visiting. |
-| 14 | Every scar tells a story of survival. |
-| 15 | I move like the wind, strike like lightning. |
-| 16 | The strong take what they need. |
-| 17 | My ancestors watch over me. |
-| 18 | Fire warms, but the wild makes us strong. |
-| 19 | I have killed greater beasts than you. |
-| 20 | The hunt never ends. |
-| 21 | My blade thirsts for blood. |
-| 22 | In the wild, only action matters. |
-| 23 | I am one with the land. |
-| 24 | The spirits whisper warnings. I listen. |
-| 25 | Survival is earned, not given. |
-| 26 | I track, I hunt, I conquer. |
-| 27 | The wild respects only strength. |
-| 28 | My tribe depends on me. I will not fail. |
-| 29 | Every day alive is a victory. |
-| 30 | In nature, there is no mercy. |
-| 31 | Teeth are honest. |
-| 32 | Cold water, clear mind. |
-| 33 | Track first, strike second. |
-| 34 | The forest speaks in prints and silence. |
-| 35 | Storms make hunters. |
-| 36 | I eat what I earn. |
-| 37 | Roots hold longer than promises. |
-| 38 | A sharp stone beats a dull excuse. |
-| 39 | The moon decides the pace of blood. |
-| 40 | I listen before I leap. |
-| 41 | River paths never lie. |
-| 42 | Smoke means shelter or danger. |
-| 43 | The oldest trail is in the bones. |
-| 44 | I carry winter in my lungs. |
-| 45 | Meat, fire, sleep, repeat. |
-| 46 | The weak complain; the strong prepare. |
-| 47 | No trophy matters more than the tribe. |
-| 48 | When crows circle, pay attention. |
-| 49 | Quiet feet keep full bellies. |
-| 50 | Respect fang and claw. |
-| 51 | Hunger teaches quickly. |
-| 52 | The mountain bows to no one. |
-| 53 | I share the kill, not the credit. |
-| 54 | Rain is a blessing with teeth. |
-| 55 | Choose ground, then choose battle. |
-| 56 | A true hunter leaves no waste. |
-| 57 | The den survives through loyalty. |
-| 58 | Wind at my back, danger ahead. |
-| 59 | Ash marks where we endured. |
-| 60 | I read skies like stories. |
-| 61 | Bone cracks; spirit doesn't. |
-| 62 | The night belongs to those who hear it. |
-| 63 | No fire, no future. |
-| 64 | Pack before pride. |
-| 65 | The first spear was courage. |
-| 66 | Every path asks a price. |
-| 67 | Mud on my feet, purpose in my hands. |
-| 68 | The old songs keep us alive. |
-| 69 | I fear famine more than foes. |
-| 70 | Stronger together, dead alone. |
-| 71 | When beasts move, so do I. |
-| 72 | The trail remembers the careless. |
-| 73 | I keep watch while others dream. |
-| 74 | Winter honors no excuses. |
-| 75 | Breathe with the trees. |
-| 76 | A hunter without patience is prey. |
-| 77 | Our dead feed our resolve. |
-| 78 | Dawn belongs to the prepared. |
-| 79 | No wall is safer than the wild. |
-| 80 | I test myself against the elements. |
-| 81 | Protect your own. |
-| 82 | I take only what the land can spare. |
-| 83 | Sun on skin, steel in hand. |
-| 84 | The drumbeat is a heartbeat. |
-| 85 | Predators don't ask permission. |
-| 86 | I return with food or not at all. |
-| 87 | Thunder is just the sky hunting. |
-| 88 | The strongest roar least. |
-| 89 | Scars are maps of lessons. |
-| 90 | The hunt begins before first light. |
-| 91 | I run where fear runs from. |
-| 92 | Every ember is a promise. |
-| 93 | Stone, sinew, spirit. |
-| 94 | I was born in hard country. |
-| 95 | Nature rewards attention. |
-| 96 | Pack hunger makes brave hearts. |
-| 97 | I stand where claws once stood. |
-| 98 | No season lasts, but struggle does. |
-| 99 | The land is harsh, not cruel. |
-| 100 | Life answers to effort. |
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | The hunt calls. I answer. | Only the strong survive the wild. | I am predator, not prey. | The earth provides for those who respect it. | In the wild, hesitation means death. | My spear never misses. |
+| 2 | The spirits guide my path. | I walk where others fear to tread. | The pack is my strength. | Blood and bone, that's all we are. | Nature's law is simple: hunt or be hunted. | I fear no beast. |
+| 3 | The wilds are my home; you are just visiting. | Every scar tells a story of survival. | I move like the wind, strike like lightning. | The strong take what they need. | My ancestors watch over me. | Fire warms, but the wild makes us strong. |
+| 4 | I have killed greater beasts than you. | The hunt never ends. | My blade thirsts for blood. | In the wild, only action matters. | I am one with the land. | The spirits whisper warnings. I listen. |
+| 5 | Survival is earned, not given. | I track, I hunt, I conquer. | The wild respects only strength. | My tribe depends on me. I will not fail. | Every day alive is a victory. | In nature, there is no mercy. |
+| 6 | Teeth are honest. | Cold water, clear mind. | Track first, strike second. | The forest speaks in prints and silence. | Storms make hunters. | I eat what I earn. |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Roots hold longer than promises. | A sharp stone beats a dull excuse. | The moon decides the pace of blood. | I listen before I leap. | River paths never lie. | Smoke means shelter or danger. |
+| 2 | The oldest trail is in the bones. | I carry winter in my lungs. | Meat, fire, sleep, repeat. | The weak complain; the strong prepare. | No trophy matters more than the tribe. | When crows circle, pay attention. |
+| 3 | Quiet feet keep full bellies. | Respect fang and claw. | Hunger teaches quickly. | The mountain bows to no one. | I share the kill, not the credit. | Rain is a blessing with teeth. |
+| 4 | Choose ground, then choose battle. | A true hunter leaves no waste. | The den survives through loyalty. | Wind at my back, danger ahead. | Ash marks where we endured. | I read skies like stories. |
+| 5 | Bone cracks; spirit doesn't. | The night belongs to those who hear it. | No fire, no future. | Pack before pride. | The first spear was courage. | Every path asks a price. |
+| 6 | Mud on my feet, purpose in my hands. | The old songs keep us alive. | I fear famine more than foes. | Stronger together, dead alone. | When beasts move, so do I. | The trail remembers the careless. |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | I keep watch while others dream. | Winter honors no excuses. | Breathe with the trees. | A hunter without patience is prey. | Our dead feed our resolve. | Dawn belongs to the prepared. |
+| 2 | No wall is safer than the wild. | I test myself against the elements. | Protect your own. | I take only what the land can spare. | Sun on skin, steel in hand. | The drumbeat is a heartbeat. |
+| 3 | Predators don't ask permission. | I return with food or not at all. | Thunder is just the sky hunting. | The strongest roar least. | Scars are maps of lessons. | The hunt begins before first light. |
+| 4 | I run where fear runs from. | Every ember is a promise. | Stone, sinew, spirit. | I was born in hard country. | Nature rewards attention. | Pack hunger makes brave hearts. |
+| 5 | I stand where claws once stood. | No season lasts, but struggle does. | The land is harsh, not cruel. | Life answers to effort. | The trail remembers every careless step. | Hunt clean, waste nothing. |
+| 6 | Cold tests the careless first. | The fire listens to steady hands. | What the pack endures, the pack becomes. | Move with the land, not against it. | Strength is shared before it is shown. | The patient spear eats as well as the swift one. |
 
 ### Secrets
 
 Roll or choose a Secret: something your character hides from the world. A source of vulnerability, guilt, or dangerous knowledge.
 
-| d100 | Result |
-|------|--------|
-| 1 | Cursed by a Spirit |
-| 2 | Hidden Pact |
-| 3 | Exiled for Betrayal |
-| 4 | Aided a Beast |
-| 5 | Aided the Enemy Tribe |
-| 6 | Secretly a Witch |
-| 7 | Forbidden Love |
-| 8 | Ancestor Visions |
-| 9 | Hears the Dead |
-| 10 | Black Market Trader |
-| 11 | Relic Hoarder |
-| 12 | Stole Clan Relic |
-| 13 | Broke a Totem |
-| 14 | Buried a Secret |
-| 15 | Left Someone Behind |
-| 16 | Sacrificed an Ally |
-| 17 | Sold Out a Camp |
-| 18 | Marked by the Wild |
-| 19 | Sleeps with Eyes Open |
-| 20 | Cannot Swim |
-| 21 | Fear of Fire |
-| 22 | Fear of Tunnels |
-| 23 | Forbidden Research |
-| 24 | Took a Spirit Oath |
-| 25 | Secret Offspring |
-| 26 | Stole Ritual Herbs |
-| 27 | Caught with Tainted Meat |
-| 28 | Drank from the Wrong Spring |
-| 29 | Carries a Plague Rumor |
-| 30 | Smuggles Relics |
-| 31 | Guides Invaders |
-| 32 | Shadow Patron |
-| 33 | Deserted Patrol |
-| 34 | Old Wound Won't Heal |
-| 35 | Voices in the Wind |
-| 36 | Walked the Forbidden Path |
-| 37 | Buried Bones in the Hut |
-| 38 | Secretly from the Stars |
-| 39 | Dreams of the Before Times |
-| 40 | Stole a Child |
-| 41 | Traded in Blood |
-| 42 | Hidden Stash of Tech |
-| 43 | Took the Last Rations |
-| 44 | Sabotaged a Hunt |
-| 45 | Poisoned a Well |
-| 46 | Spirit Marked |
-| 47 | Guilty of Fire Starting |
-| 48 | Fled a Trial |
-| 49 | Maskless in Sacred Ground |
-| 50 | Mushroom Poisoner |
-| 51 | Night Meetings with a Stranger |
-| 52 | Sold Clan Maps |
-| 53 | Hunted by a Spirit |
-| 54 | Song of Betrayal |
-| 55 | Keeps a Forbidden Bone Charm |
-| 56 | Broke Taboo by Entering a Spirit Cave |
-| 57 | Knows Which Elder Ordered the Sacrifice |
-| 58 | Hid a Fever Outbreak from the Clan |
-| 59 | Traded Hunting Grounds to Rivals |
-| 60 | Stole Fire from a Sacred Hearth |
-| 61 | Sheltered an Enemy Scout |
-| 62 | Lied During the Ancestor Oath |
-| 63 | Buried a Rival's Totem |
-| 64 | Poisoned a Chief's Hound |
-| 65 | Guided Raiders Through a Winter Pass |
-| 66 | Burned Evidence of a Failed Rite |
-| 67 | Carries an Unblessed Child's Name |
-| 68 | Sold Flint Stores During Drought |
-| 69 | Defied Exile and Returned in Secret |
-| 70 | Knows the True Heir of the Clan |
-| 71 | Staged an Omen with Painted Blood |
-| 72 | Kept Silent About a Broken Truce |
-| 73 | Hides a Spirit Idol in Their Pack |
-| 74 | Swore Fealty to Two Warbands |
-| 75 | Helped Loot a Burial Mound |
-| 76 | Traded Sacred Songs for Iron |
-| 77 | Marked a Rival for Spirit Vengeance |
-| 78 | Left the Watchfire Unlit |
-| 79 | Broke Burial Law for Coin |
-| 80 | Smuggled Outsiders into the Valley |
-| 81 | Withheld Water Routes in Dry Season |
-| 82 | Knows Who Poisoned the Winter Stores |
-| 83 | Carved False Hunt Marks |
-| 84 | Abandoned the Wounded on Migration |
-| 85 | Carries Proof of a False Shaman |
-| 86 | Took Tribute Meant for the Ancestors |
-| 87 | Hid a Child from Blood Reckoning |
-| 88 | Spoke a Forbidden Name at Solstice |
-| 89 | Ate Taboo Meat During Winter Famine |
-| 90 | Hid a Relic Beneath the Ancestor Tree |
-| 91 | Swore a Mating Oath in Two Clans |
-| 92 | Knows the Cave Where the Old Spirits Sleep |
-| 93 | Left Warning Drums Silent Before a Raid |
-| 94 | Traded Sacred Amber |
-| 95 | Buried a Chief's Bones in Enemy Soil |
-| 96 | Secretly Taught Children Forbidden Signs |
-| 97 | Witnessed Sky-Fire and Kept the Shard |
-| 98 | Took Blame for a Shaman's Failed Rite |
-| 99 | Hides a Mask Stained with Kin Blood |
-| 100 | Led Hunters Away from a Dying Animal |
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Cursed by a Spirit | Hidden Pact | Exiled for Betrayal | Aided a Beast | Aided the Enemy Tribe | Secretly a Witch |
+| 2 | Forbidden Love | Ancestor Visions | Hears the Dead | Black Market Trader | Relic Hoarder | Stole Clan Relic |
+| 3 | Broke a Totem | Buried a Secret | Left Someone Behind | Sacrificed an Ally | Sold Out a Camp | Marked by the Wild |
+| 4 | Sleeps with Eyes Open | Cannot Swim | Fear of Fire | Fear of Tunnels | Forbidden Research | Took a Spirit Oath |
+| 5 | Secret Offspring | Stole Ritual Herbs | Caught with Tainted Meat | Drank from the Wrong Spring | Carries a Plague Rumor | Smuggles Relics |
+| 6 | Guides Invaders | Shadow Patron | Deserted Patrol | Old Wound Won't Heal | Voices in the Wind | Walked the Forbidden Path |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Buried Bones in the Hut | Secretly from the Stars | Dreams of the Before Times | Stole a Child | Traded in Blood | Hidden Stash of Tech |
+| 2 | Took the Last Rations | Sabotaged a Hunt | Poisoned a Well | Spirit Marked | Guilty of Fire Starting | Fled a Trial |
+| 3 | Maskless in Sacred Ground | Mushroom Poisoner | Night Meetings with a Stranger | Sold Clan Maps | Hunted by a Spirit | Song of Betrayal |
+| 4 | Keeps a Forbidden Bone Charm | Broke Taboo by Entering a Spirit Cave | Knows Which Elder Ordered the Sacrifice | Hid a Fever Outbreak from the Clan | Traded Hunting Grounds to Rivals | Stole Fire from a Sacred Hearth |
+| 5 | Sheltered an Enemy Scout | Lied During the Ancestor Oath | Buried a Rival's Totem | Poisoned a Chief's Hound | Guided Raiders Through a Winter Pass | Burned Evidence of a Failed Rite |
+| 6 | Carries an Unblessed Child's Name | Sold Flint Stores During Drought | Defied Exile and Returned in Secret | Knows the True Heir of the Clan | Staged an Omen with Painted Blood | Kept Silent About a Broken Truce |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hides a Spirit Idol in Their Pack | Swore Fealty to Two Warbands | Helped Loot a Burial Mound | Traded Sacred Songs for Iron | Marked a Rival for Spirit Vengeance | Left the Watchfire Unlit |
+| 2 | Broke Burial Law for Coin | Smuggled Outsiders into the Valley | Withheld Water Routes in Dry Season | Knows Who Poisoned the Winter Stores | Carved False Hunt Marks | Abandoned the Wounded on Migration |
+| 3 | Carries Proof of a False Shaman | Took Tribute Meant for the Ancestors | Hid a Child from Blood Reckoning | Spoke a Forbidden Name at Solstice | Ate Taboo Meat During Winter Famine | Hid a Relic Beneath the Ancestor Tree |
+| 4 | Swore a Mating Oath in Two Clans | Knows the Cave Where the Old Spirits Sleep | Left Warning Drums Silent Before a Raid | Traded Sacred Amber | Buried a Chief's Bones in Enemy Soil | Secretly Taught Children Forbidden Signs |
+| 5 | Witnessed Sky-Fire and Kept the Shard | Took Blame for a Shaman's Failed Rite | Hides a Mask Stained with Kin Blood | Led Hunters Away from a Dying Animal | Hid Fire From a Rival Winter Camp | Broke the Moon Fast in Secret |
+| 6 | Knows Which Elder Poisoned the Peace Bowl | Buried a Cave Mark to Mislead the Clan | Traded a Spirit Carving to Strangers | Left a Child on the Wrong Trail | Claims a Kill That Belonged to Another | Keeps Flint From a Sacred Lightning Strike |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Primal Names
+### Primal Names Forenames / Given Names
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Ash | Amber-Eye |
-| 2 | Axe | Ash-Ember |
-| 3 | Birch | Ash-Walker |
-| 4 | Blade | Ashmane |
-| 5 | Blaze | Bearclaw |
-| 6 | Bone | Beast-Slayer |
-| 7 | Boulder | Blacktalon |
-| 8 | Bracken | Blood-Bone |
-| 9 | Branch | Blood-Born |
-| 10 | Breeze | Blood-Moon |
-| 11 | Briar | Bone-Carver |
-| 12 | Brook | Bonebreaker |
-| 13 | Canyon | Boulderkin |
-| 14 | Cascade | Branch-Breaker |
-| 15 | Cedar | Bristleback |
-| 16 | Chasm | Caveborn |
-| 17 | Cinder | Cinder-Swift |
-| 18 | Claw | Cliff-Dancer |
-| 19 | Clay | Cliffborn |
-| 20 | Cliff | Cloud-Seeker |
-| 21 | Cloud | Dawn-Bringer |
-| 22 | Coal | Dawn-Dusk |
-| 23 | Copper | Deepfur |
-| 24 | Crater | Dream-Walker |
-| 25 | Creek | Dust-Runner |
-| 26 | Crow | Earth-Shaper |
-| 27 | Crystal | Earth-Sky |
-| 28 | Current | Emberhide |
-| 29 | Dagger | Far-Seer |
-| 30 | Dawn | Fire-Heart |
-| 31 | Deep | Fire-Ice |
-| 32 | Delta | Firemane |
-| 33 | Drift | Flame-Keeper |
-| 34 | Drum | Flesh-Stone |
-| 35 | Dune | Flint-Striker |
-| 36 | Eagle | Flintheart |
-| 37 | Earth | Frost-Born |
-| 38 | East | Frosthide |
-| 39 | Echo | Fury-Born |
-| 40 | Ember | Ghost-Step |
-| 41 | Falls | Grass-Whisperer |
-| 42 | Fang | Greyclaw |
-| 43 | Fern | Hill-Watcher |
-| 44 | Flame | Horn-Bearer |
-| 45 | Flint | Hornbreaker |
-| 46 | Fog | Howling-Pride |
-| 47 | Forest | Ice-Breaker |
-| 48 | Forge | Icefang |
-| 49 | Fox | Iron-Will |
-| 50 | Frost | Irontooth |
-| 51 | Gale | Keen-Sight |
-| 52 | Glade | Leaf-Branch |
-| 53 | Gorge | Leaf-Dancer |
-| 54 | Granite | Light-Foot |
-| 55 | Grass | Lightning-Strikes |
-| 56 | Gravel | Longfang |
-| 57 | Grind | Many-Arrows |
-| 58 | Grit | Moon-Dancer |
-| 59 | Grove | Moon-Star |
-| 60 | Gust | Moon-Touched |
-| 61 | Hail | Moonhowl |
-| 62 | Hazel | Mossbeard |
-| 63 | Hearth | Mudrunner |
-| 64 | Heath | Night-Song |
-| 65 | Heather | Night-Walker |
-| 66 | Hill | Nightclaw |
-| 67 | Horizon | Oak-Heart |
-| 68 | Horn | Oakblood |
-| 69 | Hunter | Path-Finder |
-| 70 | Ice | Pure-Force |
-| 71 | Iron | Quick-Strike |
-| 72 | Ivy | Raging-Storm |
-| 73 | Jade | Rain-Dancer |
-| 74 | Lake | Rain-Thunder |
-| 75 | Leaf | Ravenmark |
-| 76 | Lightning | Red-Feather |
-| 77 | Loom | Redtusk |
-| 78 | Maple | Ridge-Runner |
-| 79 | Marsh | Ridgewalker |
-| 80 | Mesa | River-Crossed |
-| 81 | Midnight | Riverstone |
-| 82 | Mist | Rock-Splitter |
-| 83 | Moon | Root-Digger |
-| 84 | Moss | Rootstrider |
-| 85 | Mountain | Scar-Face |
-| 86 | Needle | Shadow-Born |
-| 87 | North | Shadow-Light |
-| 88 | Oak | Shadowpaw |
-| 89 | Obsidian | Skullcrusher |
-| 90 | Ochre | Sky-Gazer |
-| 91 | Peak | Smoke-Ash |
-| 92 | Pebble | Smoke-Singer |
-| 93 | Pine | Snow-Strider |
-| 94 | Pitch | Spear-Thrower |
-| 95 | Quarry | Spearbone |
-| 96 | Quartz | Spirit-Flesh |
-| 97 | Rain | Spirit-Talker |
-| 98 | Reed | Star-Reader |
-| 99 | Ridge | Stone-Fist |
-| 100 | Rift | Stone-Steel |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Alder | Antler | Ash | Ashen | Axe | Badger |
+| 2 | Birch | Bison | Blade | Blaze | Bluff | Boar |
+| 3 | Bone | Boulder | Bracken | Bramble | Branch | Breeze |
+| 4 | Briar | Brook | Cairn | Caldera | Canyon | Cascade |
+| 5 | Cavern | Cedar | Chasm | Cinder | Claw | Clay |
+| 6 | Cliff | Cloud | Coal | Copper | Coyote | Crag |
 
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 101 | River | Stonefang |
-| 102 | Rock | Storm-Caller |
-| 103 | Root | Stormpelt |
-| 104 | Rust | Sun-Blessed |
-| 105 | Sage | Sun-Moon |
-| 106 | Salt | Sunscar |
-| 107 | Sand | Swift-Arrow |
-| 108 | Scar | Swiftantler |
-| 109 | Scorch | Taloncrest |
-| 110 | Shadow | Thorn-Rose |
-| 111 | Shaft | Thorn-Walker |
-| 112 | Shale | Thornhide |
-| 113 | Shard | Thunder-Maker |
-| 114 | Shell | Thunder-Voice |
-| 115 | Shimmer | Thunderfoot |
-| 116 | Shore | Track-Finder |
-| 117 | Shroud | Tree-Climber |
-| 118 | Silence | Truth-Seeker |
-| 119 | Silt | Untamed-Spirit |
-| 120 | Singe | Valley-Born |
-| 121 | Sky | Vengeful-Storm |
-| 122 | Slash | War-Singer |
-| 123 | Slate | Wave-Rider |
-| 124 | Smoke | Wild-Heart |
-| 125 | Smolder | Wildfire-Heart |
-| 126 | Snow | Wildroot |
-| 127 | South | Wind-Runner |
-| 128 | Spark | Wind-Wave |
-| 129 | Spear | Windhunter |
-| 130 | Spider | Wolfhide |
-| 131 | Spirit | Zealous-Hunt |
-| 132 | Split | - |
-| 133 | Spruce | - |
-| 134 | Star | - |
-| 135 | Steel | - |
-| 136 | Stone | - |
-| 137 | Storm | - |
-| 138 | Stream | - |
-| 139 | Summit | - |
-| 140 | Sun | - |
-| 141 | Surge | - |
-| 142 | Swift | - |
-| 143 | Talon | - |
-| 144 | Thaw | - |
-| 145 | Thorn | - |
-| 146 | Thunder | - |
-| 147 | Tide | - |
-| 148 | Timber | - |
-| 149 | Torch | - |
-| 150 | Torrent | - |
-| 151 | Track | - |
-| 152 | Trail | - |
-| 153 | Trunk | - |
-| 154 | Tusk | - |
-| 155 | Valley | - |
-| 156 | Veil | - |
-| 157 | Vine | - |
-| 158 | Void | - |
-| 159 | Wanderer | - |
-| 160 | Warden | - |
-| 161 | Wave | - |
-| 162 | Wedge | - |
-| 163 | West | - |
-| 164 | Whisper | - |
-| 165 | Wild | - |
-| 166 | Willow | - |
-| 167 | Wind | - |
-| 168 | Wisp | - |
-| 169 | Zephyr | - |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Crater | Creek | Crow | Crystal | Current | Cypress |
+| 2 | Dagger | Dawn | Deep | Delta | Drift | Drum |
+| 3 | Dune | Eagle | Earth | East | Echo | Elk |
+| 4 | Ember | Falls | Fang | Fawn | Fern | Flame |
+| 5 | Flint | Fog | Forest | Forge | Fox | Frost |
+| 6 | Gale | Glade | Gorge | Granite | Grass | Gravel |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grind | Grit | Grove | Gully | Gust | Hail |
+| 2 | Hawk | Hazel | Hearth | Heath | Heather | Heron |
+| 3 | Hill | Horizon | Horn | Hunter | Ice | Iron |
+| 4 | Ivy | Jade | Juniper | Kestrel | Lake | Leaf |
+| 5 | Ledge | Lichen | Lightning | Loom | Lynx | Magma |
+| 6 | Maple | Marsh | Mesa | Midnight | Mist | Monsoon |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Moon | Moss | Mountain | Needle | North | Oak |
+| 2 | Obsidian | Ochre | Otter | Owl | Peak | Pebble |
+| 3 | Pelt | Pine | Pitch | Quarry | Quartz | Rain |
+| 4 | Raven | Reed | Ridge | Rift | Rill | Rime |
+| 5 | River | Roan | Rock | Root | Rowan | Rush |
+| 6 | Rust | Sable | Sage | Salt | Sand | Sap |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Scar | Scorch | Serpent | Shadow | Shaft | Shale |
+| 2 | Shard | Shell | Shimmer | Shoal | Shore | Shroud |
+| 3 | Silence | Silt | Singe | Sky | Slash | Slate |
+| 4 | Smoke | Smolder | Snow | Solstice | South | Spark |
+| 5 | Spear | Spider | Spirit | Split | Spruce | Stag |
+| 6 | Star | Steel | Stone | Storm | Stream | Summit |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Sun | Surge | Swift | Talon | Tempest | Thaw |
+| 2 | Thicket | Thorn | Thunder | Tide | Timber | Torch |
+| 3 | Torrent | Track | Trail | Trunk | Tusk | Valley |
+| 4 | Veil | Vine | Viper | Void | Wanderer | Warden |
+| 5 | Wave | Wedge | West | Whisper | Wild | Willow |
+| 6 | Wind | Wisp | Wolf | Wren | Yarrow | Zephyr |
+
+### Primal Names Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Alder-Root | Amber-Eye | Amber-Fang | Ash-Ember | Ash-Walker | Ashmane |
+| 2 | Ashstride | Badger-Tooth | Bear-Track | Bearclaw | Beast-Slayer | Birch-Sap |
+| 3 | Black-Stone | Blacktalon | Blood-Bone | Blood-Born | Blood-Moon | Boar-Tusk |
+| 4 | Bone-Carver | Bone-Shadow | Bonebreaker | Boulderkin | Branch-Breaker | Briar-Runner |
+| 5 | Bristleback | Brook-Voice | Caveborn | Cedar-Shade | Cinder-Swift | Cinder-Track |
+| 6 | Claw-Drum | Cliff-Dancer | Cliffborn | Cloud-Hunter | Cloud-Seeker | Coal-Eye |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Coyote-Step | Crag-Watcher | Crow-Bone | Dawn-Bringer | Dawn-Dusk | Deep-Root |
+| 2 | Deep-Water | Deepfur | Dream-Walker | Dusk-Runner | Dust-Runner | Eagle-Shadow |
+| 3 | Earth-Shaper | Earth-Sky | Elk-Blood | Ember-Root | Emberhide | Far-Seer |
+| 4 | Fern-Hide | Fire-Heart | Fire-Ice | Fire-Trail | Firemane | Flame-Keeper |
+| 5 | Flesh-Stone | Flint-Blood | Flint-Striker | Flintheart | Fog-Hunter | Fox-Shadow |
+| 6 | Frost-Born | Frost-Branch | Frosthide | Fury-Born | Gale-Singer | Ghost-Step |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gorge-Runner | Grass-Born | Grass-Whisperer | Grey-Hunter | Greyclaw | Hawk-Caller |
+| 2 | Heather-Foot | Heron-Step | Hill-Shadow | Hill-Watcher | Horn-Bearer | Horn-Caller |
+| 3 | Hornbreaker | Howling-Pride | Ice-Breaker | Ice-Runner | Icefang | Iron-Will |
+| 4 | Irontooth | Juniper-Ash | Keen-Eye | Keen-Sight | Lake-Born | Leaf-Branch |
+| 5 | Leaf-Dancer | Light-Foot | Lightning-Strikes | Longfang | Lynx-Track | Many-Arrows |
+| 6 | Moon-Dancer | Moon-Star | Moon-Touched | Moon-Tracker | Moonhowl | Moss-Runner |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mossbeard | Mud-Stalker | Mudrunner | Night-Reed | Night-Song | Night-Walker |
+| 2 | Nightclaw | Oak-Heart | Oak-Shadow | Oakblood | Otter-Swift | Owl-Voice |
+| 3 | Path-Finder | Pine-Blood | Pure-Force | Quick-Strike | Raging-Storm | Rain-Dancer |
+| 4 | Rain-Howl | Rain-Thunder | Raven-Caller | Ravenmark | Red-Feather | Red-Stone |
+| 5 | Redtusk | Reed-Shadow | Ridge-Runner | Ridgewalker | Riftpaw | River-Crossed |
+| 6 | River-Song | Riverstone | Rock-Hunter | Rock-Splitter | Root-Digger | Root-Shadow |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rootstrider | Sand-Caller | Scar-Face | Serpent-Strike | Shadow-Born | Shadow-Light |
+| 2 | Shadowpaw | Shale-Born | Shell-Voice | Skullcrusher | Sky-Gazer | Sky-Runner |
+| 3 | Smoke-Ash | Smoke-Singer | Snow-Reed | Snow-Strider | Spear-Shadow | Spear-Thrower |
+| 4 | Spearbone | Spirit-Flesh | Spirit-Howl | Spirit-Talker | Stag-Caller | Star-Hunter |
+| 5 | Star-Reader | Stone-Blood | Stone-Fist | Stone-Reed | Stone-Steel | Stonefang |
+| 6 | Storm-Caller | Storm-Eye | Stormhide | Stormpelt | Sun-Blessed | Sun-Chaser |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Sun-Moon | Sun-Tracker | Sunscar | Swift-Arrow | Swift-Reed | Swiftantler |
+| 2 | Taloncrest | Thicket-Runner | Thorn-Rose | Thorn-Walker | Thornhide | Thunder-Blood |
+| 3 | Thunder-Maker | Thunder-Voice | Thunderfoot | Timber-Shadow | Track-Finder | Tree-Climber |
+| 4 | Truth-Seeker | Tusk-Caller | Untamed-Spirit | Valley-Born | Vengeful-Storm | War-Singer |
+| 5 | Wave-Rider | Wild-Caller | Wild-Heart | Wildfire-Heart | Wildroot | Willow-Voice |
+| 6 | Wind-Howl | Wind-Runner | Wind-Wave | Windhunter | Wolfhide | Zealous-Hunt |
 

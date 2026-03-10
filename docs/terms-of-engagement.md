@@ -9,13 +9,97 @@ Clad in the galaxy’s most devastating tactical rigs, your elite squad deploys 
 ## Table of Contents
 
 - [Core Rules](#core-rules)
+  - [Core Mechanics](#core-mechanics)
+    - [Grit & Gambits](#grit-gambits)
+  - [Movement & Cover](#movement-cover)
+  - [Saves](#saves)
+  - [Conflict Scenes](#conflict-scenes)
+    - [Actions](#actions)
+    - [Reactions](#reactions)
+    - [Attacks](#attacks)
+  - [Conditions](#conditions)
 - [Character Creation](#character-creation)
 - [Abilities](#abilities)
+  - [Standard Abilities](#standard-abilities)
+    - [High Tech Inclinations](#high-tech-inclinations)
+    - [Combat Inclinations](#combat-inclinations)
+    - [Firearm Inclinations](#firearm-inclinations)
+    - [Grit Inclinations](#grit-inclinations)
+    - [Knowledge Inclinations](#knowledge-inclinations)
+    - [Mental Inclinations](#mental-inclinations)
+    - [Physical Inclinations](#physical-inclinations)
+    - [Social Inclinations](#social-inclinations)
+    - [Stealth Inclinations](#stealth-inclinations)
+    - [Vehicle Inclinations](#vehicle-inclinations)
+    - [Wilderness Inclinations](#wilderness-inclinations)
+    - [Companion Inclinations](#companion-inclinations)
+    - [Biological Mutations](#biological-mutations)
+    - [Psychic Powers](#psychic-powers)
 - [Gear & Equipment](#gear-equipment)
+  - [Outfits](#outfits)
+  - [Firearms](#firearms)
+  - [Melee Weapons](#melee-weapons)
+  - [Explosives](#explosives)
+  - [Consumables](#consumables)
+  - [Equipment](#equipment)
+  - [Ammunition](#ammunition)
 - [Vehicles & Companions](#vehicles-companions)
+  - [Vehicles](#vehicles)
+  - [Vehicle Upgrades](#vehicle-upgrades)
+  - [Companions](#companions)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
+    - [Backgrounds](#backgrounds)
+      - [Table 1](#table-1)
+      - [Table 2](#table-2)
+      - [Table 3](#table-3)
+      - [Table 4](#table-4)
+      - [Table 5](#table-5)
+      - [Table 6](#table-6)
+      - [Table 7](#table-7)
+      - [Table 8](#table-8)
+      - [Table 9](#table-9)
+    - [Personality Traits](#personality-traits)
+      - [Table 1](#table-1-1)
+      - [Table 2](#table-2-1)
+      - [Table 3](#table-3-1)
+      - [Table 4](#table-4-1)
+      - [Table 5](#table-5-1)
+      - [Table 6](#table-6-1)
+    - [Mottos](#mottos)
+      - [Table 1](#table-1-2)
+      - [Table 2](#table-2-2)
+      - [Table 3](#table-3-2)
+      - [Table 4](#table-4-2)
+      - [Table 5](#table-5-2)
+      - [Table 6](#table-6-2)
+    - [Secrets](#secrets)
+      - [Table 1](#table-1-3)
+      - [Table 2](#table-2-3)
+      - [Table 3](#table-3-3)
+      - [Table 4](#table-4-3)
+      - [Table 5](#table-5-3)
+      - [Table 6](#table-6-3)
   - [Names](#names)
+    - [Nicknames Names](#nicknames-names)
+      - [Table 1](#table-1-4)
+      - [Table 2](#table-2-4)
+      - [Table 3](#table-3-4)
+      - [Table 4](#table-4-4)
+      - [Table 5](#table-5-4)
+      - [Table 6](#table-6-4)
+      - [Table 7](#table-7-1)
+      - [Table 8](#table-8-1)
+      - [Table 9](#table-9-1)
+      - [Table 10](#table-10)
+      - [Table 11](#table-11)
+      - [Table 12](#table-12)
+      - [Table 13](#table-13)
+      - [Table 14](#table-14)
+      - [Table 15](#table-15)
+      - [Table 16](#table-16)
+      - [Table 17](#table-17)
+      - [Table 18](#table-18)
 
 ## Core Rules
 
@@ -30,8 +114,8 @@ You start with *3 Grit and 1 Gambit* per session. You can add *Grit* to any roll
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
-### Taking Cover
-Being in/behind cover increases attacker *To-Hit* by cover grade: **Light +1:** foliage, furniture, low walls. **Medium +2:** barricades, building edges. **Heavy +3:** concrete, metal fortifications. Effects that explicitly ignore cover (for example explosives, fire, gas) bypass cover.
+
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -538,1617 +622,532 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 ## Aspects
 
-Aspects define who your character is beyond raw stats. Choose one from each category, or use the d100 tables to roll randomly.
+Aspects define who your character is beyond raw stats. Choose one from each category, or use the d6 tables to roll randomly.
 
 ### Backgrounds
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-**Table 1 of 3**
+Roll **1d9** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Orbital Dockhand |
-| 2 | Hazmat Loader |
-| 3 | Courier Pilot |
-| 4 | Shuttle Crew |
-| 5 | Drop Ship Gunner |
-| 6 | Mechanized Infantry |
-| 7 | Power-Armour Operator |
-| 8 | Recon Drone Tech |
-| 9 | Field Mechanic |
-| 10 | Fabricator |
-| 11 | Ship Engineer |
-| 12 | Zero-G Rigger |
-| 13 | Asteroid Miner |
-| 14 | Terraformer |
-| 15 | Hydroponics Farmer |
-| 16 | Xenobotanist |
-| 17 | Exogeologist |
-| 18 | Exobiologist |
-| 19 | Lab Tech |
-| 20 | Field Medic |
-| 21 | Combat Lifesaver |
-| 22 | Security Contractor |
-| 23 | Gun for Hire |
-| 24 | Blockade Runner |
-| 25 | Data Broker |
-| 26 | Info Courier |
-| 27 | Corporate Fixer |
-| 28 | Salvage Diver |
-| 29 | Derelict Scavenger |
-| 30 | Artifact Prospector |
-| 31 | Relic Curator |
-| 32 | Colony Marshal |
-| 33 | Habitat Warden |
-| 34 | Rimworld Ranger |
-| 35 | Tunnel Scout |
-| 36 | Vacuum Welder |
-| 37 | Power Systems Tech |
-| 38 | Sensor Analyst |
-| 39 | Long-Range Sniper |
-| 40 | Demolitions Specialist |
-| 41 | Electronic Warfare Officer |
-| 42 | Mech Pilot |
-| 43 | Frame Commander |
-| 44 | Dropship Pilot |
-| 45 | Cargo Master |
-| 46 | Supply Quartermaster |
-| 47 | Orbital Traffic Control |
-| 48 | AI Ethics Officer |
-| 49 | Diplomatic Attaché |
-| 50 | Cultural Liaison |
-| 51 | Corporate Heir |
-| 52 | Indenture Escapee |
-| 53 | Black Market Surgeon |
-| 54 | Cybernetics Tech |
-| 55 | Neurolink Operator |
-| 56 | Zero-G Acrobat |
-| 57 | Starport Dispatcher |
-| 58 | Quantum Network Auditor |
-| 59 | Cryo Bay Attendant |
-| 60 | Nanoforge Specialist |
-| 61 | Habitat Structural Analyst |
-| 62 | Fusion Reactor Tender |
-| 63 | Orbital Surveyor |
-| 64 | Deep Void Prospector |
-| 65 | Debris Field Navigator |
-| 66 | Grav Bike Courier |
-| 67 | Synthetic Tissue Grower |
-| 68 | Memory Archive Curator |
-| 69 | Gene Vault Custodian |
-| 70 | Atmospheric Processor Tech |
-| 71 | Shield Grid Operator |
-| 72 | Telemetry Officer |
-| 73 | Probe Recovery Specialist |
-| 74 | Drone Swarm Coordinator |
-| 75 | Autonomous Vehicle Wrangler |
-| 76 | Holo Stage Producer |
-| 77 | Sensory Sim Designer |
-| 78 | Language Model Trainer |
-| 79 | Civilian Evacuation Planner |
-| 80 | Colony Mediator |
-| 81 | Trade Corridor Broker |
-| 82 | Stellar Cartography Cadet |
-| 83 | Wormgate Traffic Marshal |
-| 84 | Radiation Safety Inspector |
-| 85 | Cryonics Counselor |
-| 86 | Exosuit Calibrator |
-| 87 | Tactical AI Wrangler |
-| 88 | Drone Racing Champion |
-| 89 | Lagrange Station Clerk |
-| 90 | Hull Plating Technician |
-| 91 | Biofilter Maintainer |
-| 92 | Water Reclamation Supervisor |
-| 93 | Food Printer Operator |
-| 94 | Solar Sail Rigger |
-| 95 | Planetfall Pathfinder |
-| 96 | Blackbox Investigator |
-| 97 | Interstellar Notary |
-| 98 | Grav Lift Mechanic |
-| 99 | Bulk Freighter Captain |
-| 100 | Fuel Refinery Technician |
+#### Table 1
 
-**Table 2 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Orbital Dockhand | Hazmat Loader | Courier Pilot | Shuttle Crew | Drop Ship Gunner | Mechanized Infantry |
+| 2 | Power-Armour Operator | Recon Drone Tech | Field Mechanic | Fabricator | Ship Engineer | Zero-G Rigger |
+| 3 | Asteroid Miner | Terraformer | Hydroponics Farmer | Xenobotanist | Exogeologist | Exobiologist |
+| 4 | Lab Tech | Field Medic | Combat Lifesaver | Security Contractor | Gun for Hire | Blockade Runner |
+| 5 | Data Broker | Info Courier | Corporate Fixer | Salvage Diver | Derelict Scavenger | Artifact Prospector |
+| 6 | Relic Curator | Colony Marshal | Habitat Warden | Rimworld Ranger | Tunnel Scout | Vacuum Welder |
 
-| d100 | Result |
-|------|--------|
-| 1 | Ice Hauler |
-| 2 | Orbital Scaffolder |
-| 3 | Plasma Torch Operator |
-| 4 | Pressurized Cargo Handler |
-| 5 | Reactor Shielding Specialist |
-| 6 | Sludge Tank Cleaner |
-| 7 | Space Elevator Attendant |
-| 8 | Space Tug Pilot |
-| 9 | Titanium Smelter |
-| 10 | Vacuum Suit Tailor |
-| 11 | Anomalous Signal Analyst |
-| 12 | Black Hole Researcher |
-| 13 | Dark Matter Physicist |
-| 14 | Deep Space Signal Decoder |
-| 15 | Exoplanetary Meteorologist |
-| 16 | Extreme Environment Tester |
-| 17 | First Contact Protocolist |
-| 18 | Gravitational Wave Observer |
-| 19 | High-Gravity Biologist |
-| 20 | Interstellar Mycologist |
-| 21 | Magnetosphere Engineer |
-| 22 | Nebula Gas Harvester |
-| 23 | Sub-Surface Ocean Diver |
-| 24 | Temporal Physicist |
-| 25 | Aegis Shield Technician |
-| 26 | Boarding Party Breacher |
-| 27 | Clandestine Insertion Pilot |
-| 28 | Combat Synthetic Handler |
-| 29 | Counter-Intelligence Agent |
-| 30 | Deep Cover Operative |
-| 31 | Drone Hive Strategist |
-| 32 | Kinetic Bombardment Spotter |
-| 33 | Military AI Psychologist |
-| 34 | Neural Interface Commando |
-| 35 | Orbital Drop Trooper |
-| 36 | Planetary Defense Cannoneer |
-| 37 | Point Defense Gunner |
-| 38 | Power-Armor Calibrator |
-| 39 | Sedition Investigator |
-| 40 | Zero-G Brawler |
-| 41 | Augmented Reality Architect |
-| 42 | Cloud City Systems Admin |
-| 43 | Code Archaeologist |
-| 44 | Cyber-Defense Consultant |
-| 45 | Digital Ghost Hunter |
-| 46 | Encryption Cracker |
-| 47 | Holographic Interface Designer |
-| 48 | Mainframe Cooling Engineer |
-| 49 | Neural Network Gardener |
-| 50 | Optic Fiber Splicer |
-| 51 | Quantum Cryptographer |
-| 52 | Server Farm Guardian |
-| 53 | Sub-Ethernet Technician |
-| 54 | Virtual Reality Worldbuilder |
-| 55 | Augmentation Surgeon |
-| 56 | Bionic Limb Fitter |
-| 57 | Clone Batch Supervisor |
-| 58 | Cryogenic Revivalist |
-| 59 | DNA Sequence Editor |
-| 60 | Epidemiologist (Exo-Virus) |
-| 61 | Implant Rejection Specialist |
-| 62 | Memory Extraction Tech |
-| 63 | Neuro-Splicer |
-| 64 | Organ Printer Technician |
-| 65 | Parasite Removalist |
-| 66 | Psychotropic Chemist |
-| 67 | Radiation Sickness Specialist |
-| 68 | Rehabilitation Therapist |
-| 69 | Anti-Trust Enforcer |
-| 70 | Asteroid Claim Lawyer |
-| 71 | Bureau of Statistics Analyst |
-| 72 | Colony Charter Drafter |
-| 73 | Corporate Espionage Specialist |
-| 74 | Debt Collection Agent |
-| 75 | Extradition Officer |
-| 76 | Federation Tax Auditor |
-| 77 | Hegemony News Anchor |
-| 78 | High-Society Escort |
-| 79 | Intergalactic Peacebroker |
-| 80 | Labor Union Organizer |
-| 81 | Megacorp Brand Ambassador |
-| 82 | Mercantile Exchange Trader |
-| 83 | Private Security Consultant |
-| 84 | Terraforming Project Manager |
-| 85 | Airlock Maintenance Worker |
-| 86 | Artificial Intelligence Chaplain |
-| 87 | Biosphere Maintenance Crew |
-| 88 | Carbon Sequestration Tech |
-| 89 | Colony Entertainment Director |
-| 90 | Exo-Wildlife Wrangler |
-| 91 | Freight Mag-Lev Driver |
-| 92 | Hydro-Plant Diver |
-| 93 | In-System Ferry Pilot |
-| 94 | Mining Laser Calibrationist |
-| 95 | Mobile Habitat Pilot |
-| 96 | Orbital Sanitation Engineer |
-| 97 | Recycling Reclamation Tech |
-| 98 | Synth-Food Flavorist |
-| 99 | Gravity Well Architect |
-| 100 | Solar Flare Forecaster |
+#### Table 2
 
-**Table 3 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Power Systems Tech | Sensor Analyst | Long-Range Sniper | Demolitions Specialist | Electronic Warfare Officer | Mech Pilot |
+| 2 | Frame Commander | Dropship Pilot | Cargo Master | Supply Quartermaster | Orbital Traffic Control | AI Ethics Officer |
+| 3 | Diplomatic Attaché | Cultural Liaison | Corporate Heir | Indenture Escapee | Black Market Surgeon | Cybernetics Tech |
+| 4 | Neurolink Operator | Zero-G Acrobat | Starport Dispatcher | Quantum Network Auditor | Cryo Bay Attendant | Nanoforge Specialist |
+| 5 | Habitat Structural Analyst | Fusion Reactor Tender | Orbital Surveyor | Deep Void Prospector | Debris Field Navigator | Grav Bike Courier |
+| 6 | Synthetic Tissue Grower | Memory Archive Curator | Gene Vault Custodian | Atmospheric Processor Tech | Shield Grid Operator | Telemetry Officer |
 
-| d100 | Result |
-|------|--------|
-| 1 | Wanderer |
-| 2 | Outcast |
-| 3 | Survivor |
-| 4 | Merchant |
-| 5 | Trader |
-| 6 | Artisan |
-| 7 | Craftsperson |
-| 8 | Healer |
-| 9 | Scout |
-| 10 | Guide |
-| 11 | Hunter |
-| 12 | Tracker |
-| 13 | Scavenger |
-| 14 | Laborer |
-| 15 | Apprentice |
-| 16 | Teacher |
-| 17 | Student |
-| 18 | Storyteller |
-| 19 | Entertainer |
-| 20 | Cook |
-| 21 | Innkeeper |
-| 22 | Bodyguard |
-| 23 | Mercenary |
-| 24 | Soldier |
-| 25 | Veteran |
-| 26 | Spy |
-| 27 | Courier |
-| 28 | Messenger |
-| 29 | Diplomat |
-| 30 | Negotiator |
-| 31 | Scholar |
-| 32 | Archivist |
-| 33 | Librarian |
-| 34 | Historian |
-| 35 | Inventor |
-| 36 | Engineer |
-| 37 | Tinkerer |
-| 38 | Gambler |
-| 39 | Smuggler |
-| 40 | Thief |
-| 41 | Con Artist |
-| 42 | Fence |
-| 43 | Bounty Hunter |
-| 44 | Explorer |
-| 45 | Cartographer |
-| 46 | Navigator |
-| 47 | Sailor |
-| 48 | Fisher |
-| 49 | Farmer |
-| 50 | Rancher |
-| 51 | Herder |
-| 52 | Beast Handler |
-| 53 | Animal Trainer |
-| 54 | Hermit |
-| 55 | Exile |
-| 56 | Refugee |
-| 57 | Orphan |
-| 58 | Street Urchin |
-| 59 | Nobility |
-| 60 | Fallen Noble |
-| 61 | Servant |
-| 62 | Worker |
-| 63 | Foreman |
-| 64 | Guard |
-| 65 | Sentry |
-| 66 | Protector |
-| 67 | Caretaker |
-| 68 | Medic |
-| 69 | Poisoner |
-| 70 | Assassin |
-| 71 | Infiltrator |
-| 72 | Saboteur |
-| 73 | Revolutionary |
-| 74 | Rebel |
-| 75 | Loyalist |
-| 76 | Patriot |
-| 77 | Deserter |
-| 78 | Turncoat |
-| 79 | Fugitive |
-| 80 | Prisoner |
-| 81 | Escapee |
-| 82 | Vagabond |
-| 83 | Drifter |
-| 84 | Nomad |
-| 85 | Pilgrim |
-| 86 | Seeker |
-| 87 | Mystic |
-| 88 | Visionary |
-| 89 | Prophet |
-| 90 | Cultist |
-| 91 | Believer |
-| 92 | Skeptic |
-| 93 | Philosopher |
-| 94 | Poet |
-| 95 | Artist |
-| 96 | Musician |
-| 97 | Dancer |
-| 98 | Mediator |
-| 99 | Researcher |
-| 100 | Specialist |
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Probe Recovery Specialist | Drone Swarm Coordinator | Autonomous Vehicle Wrangler | Holo Stage Producer | Sensory Sim Designer | Language Model Trainer |
+| 2 | Civilian Evacuation Planner | Colony Mediator | Trade Corridor Broker | Stellar Cartography Cadet | Wormgate Traffic Marshal | Radiation Safety Inspector |
+| 3 | Cryonics Counselor | Exosuit Calibrator | Tactical AI Wrangler | Drone Racing Champion | Lagrange Station Clerk | Hull Plating Technician |
+| 4 | Biofilter Maintainer | Water Reclamation Supervisor | Food Printer Operator | Solar Sail Rigger | Planetfall Pathfinder | Blackbox Investigator |
+| 5 | Interstellar Notary | Grav Lift Mechanic | Bulk Freighter Captain | Fuel Refinery Technician | Ice Hauler | Orbital Scaffolder |
+| 6 | Plasma Torch Operator | Pressurized Cargo Handler | Reactor Shielding Specialist | Sludge Tank Cleaner | Space Elevator Attendant | Space Tug Pilot |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Titanium Smelter | Vacuum Suit Tailor | Anomalous Signal Analyst | Black Hole Researcher | Dark Matter Physicist | Deep Space Signal Decoder |
+| 2 | Exoplanetary Meteorologist | Extreme Environment Tester | First Contact Protocolist | Gravitational Wave Observer | High-Gravity Biologist | Interstellar Mycologist |
+| 3 | Magnetosphere Engineer | Nebula Gas Harvester | Sub-Surface Ocean Diver | Temporal Physicist | Aegis Shield Technician | Boarding Party Breacher |
+| 4 | Clandestine Insertion Pilot | Combat Synthetic Handler | Counter-Intelligence Agent | Deep Cover Operative | Drone Hive Strategist | Kinetic Bombardment Spotter |
+| 5 | Military AI Psychologist | Neural Interface Commando | Orbital Drop Trooper | Planetary Defense Cannoneer | Point Defense Gunner | Power-Armor Calibrator |
+| 6 | Sedition Investigator | Zero-G Brawler | Augmented Reality Architect | Cloud City Systems Admin | Code Archaeologist | Cyber-Defense Consultant |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Digital Ghost Hunter | Encryption Cracker | Holographic Interface Designer | Mainframe Cooling Engineer | Neural Network Gardener | Optic Fiber Splicer |
+| 2 | Quantum Cryptographer | Server Farm Guardian | Sub-Ethernet Technician | Virtual Reality Worldbuilder | Augmentation Surgeon | Bionic Limb Fitter |
+| 3 | Clone Batch Supervisor | Cryogenic Revivalist | DNA Sequence Editor | Epidemiologist (Exo-Virus) | Implant Rejection Specialist | Memory Extraction Tech |
+| 4 | Neuro-Splicer | Organ Printer Technician | Parasite Removalist | Psychotropic Chemist | Radiation Sickness Specialist | Rehabilitation Therapist |
+| 5 | Anti-Trust Enforcer | Asteroid Claim Lawyer | Bureau of Statistics Analyst | Colony Charter Drafter | Corporate Espionage Specialist | Debt Collection Agent |
+| 6 | Extradition Officer | Federation Tax Auditor | Hegemony News Anchor | High-Society Escort | Intergalactic Peacebroker | Labor Union Organizer |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Megacorp Brand Ambassador | Mercantile Exchange Trader | Private Security Consultant | Terraforming Project Manager | Airlock Maintenance Worker | Artificial Intelligence Chaplain |
+| 2 | Biosphere Maintenance Crew | Carbon Sequestration Tech | Colony Entertainment Director | Exo-Wildlife Wrangler | Freight Mag-Lev Driver | Hydro-Plant Diver |
+| 3 | In-System Ferry Pilot | Mining Laser Calibrationist | Mobile Habitat Pilot | Orbital Sanitation Engineer | Recycling Reclamation Tech | Synth-Food Flavorist |
+| 4 | Gravity Well Architect | Solar Flare Forecaster | Astrogation Tutor | Atmospheric Shield Diver | Docking Clamp Inspector | Emergency Clone Liaison |
+| 5 | Hull Breach First Responder | Ion Trail Analyst | Jump Gate Salvager | Microgravity Fire Marshal | Orbital Debris Sweeper | Planetary Customs Screener |
+| 6 | Quantum Relay Maintainer | Rescue Pod Recovery Specialist | Ring Habitat Gardener | Starship Insurance Adjuster | Thermal Veil Installer | Vacuum Rescue Swimmer |
+
+#### Table 7
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Wanderer | Outcast | Survivor | Merchant | Trader | Artisan |
+| 2 | Craftsperson | Healer | Scout | Guide | Hunter | Tracker |
+| 3 | Scavenger | Laborer | Apprentice | Teacher | Student | Storyteller |
+| 4 | Entertainer | Cook | Innkeeper | Bodyguard | Mercenary | Soldier |
+| 5 | Veteran | Spy | Courier | Messenger | Diplomat | Negotiator |
+| 6 | Scholar | Archivist | Librarian | Historian | Inventor | Engineer |
+
+#### Table 8
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Tinkerer | Gambler | Smuggler | Thief | Con Artist | Fence |
+| 2 | Bounty Hunter | Explorer | Cartographer | Navigator | Sailor | Fisher |
+| 3 | Farmer | Rancher | Herder | Beast Handler | Animal Trainer | Hermit |
+| 4 | Exile | Refugee | Orphan | Street Urchin | Nobility | Fallen Noble |
+| 5 | Servant | Worker | Foreman | Guard | Sentry | Protector |
+| 6 | Caretaker | Medic | Poisoner | Assassin | Infiltrator | Saboteur |
+
+#### Table 9
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Revolutionary | Rebel | Loyalist | Patriot | Deserter | Turncoat |
+| 2 | Fugitive | Prisoner | Escapee | Vagabond | Drifter | Nomad |
+| 3 | Pilgrim | Seeker | Mystic | Visionary | Prophet | Cultist |
+| 4 | Believer | Skeptic | Philosopher | Poet | Artist | Musician |
+| 5 | Dancer | Mediator | Researcher | Specialist | Builder | Curator |
+| 6 | Fixer | Observer | Planner | Porter | Quartermaster | Responder |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Adaptable |
-| 2 | Affable |
-| 3 | Alert |
-| 4 | Ambitious |
-| 5 | Analytical |
-| 6 | Anchored |
-| 7 | Appreciative |
-| 8 | Articulate |
-| 9 | Assertive |
-| 10 | Attentive |
-| 11 | Balanced |
-| 12 | Benevolent |
-| 13 | Bold |
-| 14 | Brave |
-| 15 | Calm |
-| 16 | Candid |
-| 17 | Capable |
-| 18 | Careful |
-| 19 | Caring |
-| 20 | Centered |
-| 21 | Charismatic |
-| 22 | Cheerful |
-| 23 | Civic Minded |
-| 24 | Clear Eyed |
-| 25 | Clear Spoken |
-| 26 | Clever |
-| 27 | Compassionate |
-| 28 | Composed |
-| 29 | Confident |
-| 30 | Conscientious |
-| 31 | Consistent |
-| 32 | Constructive |
-| 33 | Courageous |
-| 34 | Courteous |
-| 35 | Creative |
-| 36 | Credible |
-| 37 | Curious |
-| 38 | Daring |
-| 39 | Decisive |
-| 40 | Dedicated |
-| 41 | Dependable |
-| 42 | Diplomatic |
-| 43 | Direct |
-| 44 | Disciplined |
-| 45 | Discerning |
-| 46 | Driven |
-| 47 | Earnest |
-| 48 | Easygoing |
-| 49 | Eloquent |
-| 50 | Empathetic |
-| 51 | Energetic |
-| 52 | Engaged |
-| 53 | Equitable |
-| 54 | Ethical |
-| 55 | Even Tempered |
-| 56 | Fair |
-| 57 | Faithful |
-| 58 | Fearless |
-| 59 | Flexible |
-| 60 | Focused |
-| 61 | Forgiving |
-| 62 | Forthright |
-| 63 | Friendly |
-| 64 | Gallant |
-| 65 | Generous |
-| 66 | Gentle |
-| 67 | Genuine |
-| 68 | Graceful |
-| 69 | Gracious |
-| 70 | Grounded |
-| 71 | Hardy |
-| 72 | Helpful |
-| 73 | Honest |
-| 74 | Honorable |
-| 75 | Humble |
-| 76 | Humorous |
-| 77 | Idealistic |
-| 78 | Imaginative |
-| 79 | Impartial |
-| 80 | Independent |
-| 81 | Industrious |
-| 82 | Insightful |
-| 83 | Intentional |
-| 84 | Intuitive |
-| 85 | Inventive |
-| 86 | Jovial |
-| 87 | Judicious |
-| 88 | Keen |
-| 89 | Kind |
-| 90 | Level Headed |
-| 91 | Logical |
-| 92 | Loyal |
-| 93 | Measured |
-| 94 | Methodical |
-| 95 | Meticulous |
-| 96 | Mindful |
-| 97 | Modest |
-| 98 | Motivated |
-| 99 | Nimble |
-| 100 | Noble |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adaptable | Accommodating | Affable | Alert | Ambitious | Analytical |
+| 2 | Anchored | Appreciative | Articulate | Assertive | Attentive | Balanced |
+| 3 | Benevolent | Big Hearted | Bold | Brave | Calm | Candid |
+| 4 | Capable | Careful | Caring | Centered | Charismatic | Cheerful |
+| 5 | Civic Minded | Clear Eyed | Clear Spoken | Clever | Compassionate | Composed |
+| 6 | Confident | Conscientious | Consistent | Constructive | Courageous | Courteous |
 
-| d100 | Result |
-|------|--------|
-| 1 | Observant |
-| 2 | Open Minded |
-| 3 | Optimistic |
-| 4 | Orderly |
-| 5 | Organized |
-| 6 | Original |
-| 7 | Patient |
-| 8 | Perceptive |
-| 9 | Persistent |
-| 10 | Persuasive |
-| 11 | Playful |
-| 12 | Poised |
-| 13 | Polished |
-| 14 | Practical |
-| 15 | Pragmatic |
-| 16 | Precise |
-| 17 | Principled |
-| 18 | Proactive |
-| 19 | Protective |
-| 20 | Prudent |
-| 21 | Quick Witted |
-| 22 | Rational |
-| 23 | Realistic |
-| 24 | Reflective |
-| 25 | Reliable |
-| 26 | Resilient |
-| 27 | Resolute |
-| 28 | Resourceful |
-| 29 | Respectful |
-| 30 | Responsible |
-| 31 | Self Aware |
-| 32 | Self Controlled |
-| 33 | Selfless |
-| 34 | Sensible |
-| 35 | Serene |
-| 36 | Sharp |
-| 37 | Sincere |
-| 38 | Sociable |
-| 39 | Solid |
-| 40 | Steadfast |
-| 41 | Strategic |
-| 42 | Studious |
-| 43 | Subtle |
-| 44 | Supportive |
-| 45 | Tactful |
-| 46 | Tenacious |
-| 47 | Thoughtful |
-| 48 | Tolerant |
-| 49 | Trustworthy |
-| 50 | Unassuming |
-| 51 | Understanding |
-| 52 | Uplifting |
-| 53 | Valiant |
-| 54 | Vigilant |
-| 55 | Warm |
-| 56 | Welcoming |
-| 57 | Wholehearted |
-| 58 | Wise |
-| 59 | Witty |
-| 60 | Worldly |
-| 61 | Zealous |
-| 62 | Agreeable |
-| 63 | Astute |
-| 64 | Compliant |
-| 65 | Dutiful |
-| 66 | Frank |
-| 67 | Good Natured |
-| 68 | High Spirited |
-| 69 | Hopeful |
-| 70 | Impassioned |
-| 71 | Influential |
-| 72 | Inquisitive |
-| 73 | Lively |
-| 74 | Merciful |
-| 75 | Merry |
-| 76 | Objective |
-| 77 | Outgoing |
-| 78 | Pensive |
-| 79 | Quietly Confident |
-| 80 | Receptive |
-| 81 | Reserved |
-| 82 | Self Reliant |
-| 83 | Steady |
-| 84 | Tidy |
-| 85 | Unflappable |
-| 86 | Versatile |
-| 87 | Watchful |
-| 88 | Well Mannered |
-| 89 | Willful |
-| 90 | Worthy |
-| 91 | Considerate |
-| 92 | Convivial |
-| 93 | Dispassionate |
-| 94 | Down To Earth |
-| 95 | Evenhanded |
-| 96 | Hospitable |
-| 97 | Nonreactive |
-| 98 | Openhearted |
-| 99 | Self Directed |
-| 100 | Stable |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creative | Credible | Curious | Daring | Decisive | Dedicated |
+| 2 | Dependable | Diplomatic | Direct | Disciplined | Discerning | Driven |
+| 3 | Earnest | Easygoing | Eloquent | Empathetic | Energetic | Engaged |
+| 4 | Equitable | Ethical | Even Keeled | Even Tempered | Fair | Faithful |
+| 5 | Fearless | Flexible | Focused | Forgiving | Forthright | Friendly |
+| 6 | Gallant | Generous | Gentle | Genuine | Graceful | Gracious |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grounded | Hardy | Helpful | Honest | Honorable | Humble |
+| 2 | Humorous | Idealistic | Imaginative | Impartial | Independent | Industrious |
+| 3 | Insightful | Intentional | Intuitive | Inventive | Jovial | Judicious |
+| 4 | Keen | Kind | Level Headed | Logical | Loyal | Measured |
+| 5 | Methodical | Meticulous | Mindful | Modest | Motivated | Nimble |
+| 6 | Noble | Observant | Open Minded | Optimistic | Orderly | Organized |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Original | Patient | Perceptive | Persistent | Persuasive | Playful |
+| 2 | Poised | Polished | Practical | Pragmatic | Precise | Principled |
+| 3 | Proactive | Protective | Prudent | Quick Witted | Rational | Realistic |
+| 4 | Reflective | Reliable | Resilient | Resolute | Resourceful | Respectful |
+| 5 | Responsible | Self Aware | Self Controlled | Selfless | Sensible | Serene |
+| 6 | Sharp | Sincere | Sociable | Solid | Steadfast | Strategic |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Studious | Subtle | Supportive | Tactful | Tenacious | Thoughtful |
+| 2 | Tolerant | Trustworthy | Unassuming | Understanding | Uplifting | Valiant |
+| 3 | Vigilant | Warm | Welcoming | Wholehearted | Wise | Witty |
+| 4 | Worldly | Zealous | Agreeable | Astute | Compliant | Dutiful |
+| 5 | Frank | Good Humored | Good Natured | High Spirited | Hopeful | Impassioned |
+| 6 | Influential | Inquisitive | Lively | Merciful | Merry | Objective |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outgoing | Pensive | Quietly Confident | Receptive | Reserved | Self Reliant |
+| 2 | Steady | Tidy | Unflappable | Versatile | Watchful | Well Mannered |
+| 3 | Willful | Worthy | Considerate | Convivial | Dispassionate | Down To Earth |
+| 4 | Evenhanded | Hospitable | Nonreactive | Openhearted | Self Directed | Stable |
+| 5 | Cooperative | Deliberate | Devoted | Farsighted | Neighborly | Reasonable |
+| 6 | Reassuring | Self Possessed | Soft Spoken | Stalwart | Tender Hearted | Visionary |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Victory or death! |
-| 2 | No surrender! |
-| 3 | We fight so others don't have to. |
-| 4 | One strike, one kill. Precision is everything. |
-| 5 | Adapt, improvise, overcome. |
-| 6 | Fortune favors the bold, but discipline favors the living. |
-| 7 | No mission too difficult, no sacrifice too great. |
-| 8 | We are the shield between chaos and civilization. |
-| 9 | Duty first, always. |
-| 10 | The only easy day was yesterday. |
-| 11 | Hold the line, no matter the cost. |
-| 12 | Through fire and darkness, we endure. |
-| 13 | Failure is not an option. |
-| 14 | We few, we happy few. |
-| 15 | Leave no one behind. |
-| 16 | Advance or die. There is no retreat. |
-| 17 | Death smiles at us all; all we can do is smile back. |
-| 18 | Through hardships to the stars. |
-| 19 | When the going gets tough, the tough get going. |
-| 20 | Steady hands, steady hearts. |
-| 21 | In the face of impossible odds, we are inevitable. |
-| 22 | We are the hammer against the anvil of war. |
-| 23 | Blood, sweat, and glory. |
-| 24 | Courage is not the absence of fear, it is action despite it. |
-| 25 | Stand fast. Fight hard. Win at all costs. |
-| 26 | We are soldiers. Our duty defines us. |
-| 27 | No rest for the righteous. |
-| 28 | We do the impossible before dawn. |
-| 29 | Strike hard, strike fast. |
-| 30 | Train hard. Fight easy. |
-| 31 | Order in chaos. |
-| 32 | Discipline is a force multiplier. |
-| 33 | Sweat in peace, bleed less in war. |
-| 34 | Secure the objective, then the credit. |
-| 35 | Calm is contagious. |
-| 36 | Check your kit, then check your team. |
-| 37 | Speed, surprise, violence of action. |
-| 38 | Hold fast under pressure. |
-| 39 | Complacency kills. |
-| 40 | Eyes up, watch the horizon. |
-| 41 | No plan survives first contact; good leaders do. |
-| 42 | Move with purpose. |
-| 43 | Courage is contagious too. |
-| 44 | Win the next minute. |
-| 45 | Short commands, long memories. |
-| 46 | We don't rise to the occasion; we fall to our training. |
-| 47 | Protect the flank. |
-| 48 | Supplies low means creativity high. |
-| 49 | Silence in the ranks, focus on the task. |
-| 50 | Every step earned. |
-| 51 | Cover and maneuver. |
-| 52 | Initiative beats hesitation. |
-| 53 | Read terrain, not tea leaves. |
-| 54 | Pressure makes professionals. |
-| 55 | Never outrun your supplies. |
-| 56 | Bravery without discipline is just noise. |
-| 57 | Respect the enemy, defeat the enemy. |
-| 58 | Sharp kit, sharper mind. |
-| 59 | Take ground, hold ground. |
-| 60 | First in, last out. |
-| 61 | Plans are tools, not religion. |
-| 62 | Know your role; own your lane. |
-| 63 | Trust is built in rehearsals. |
-| 64 | One team, one standard. |
-| 65 | Do not look back at the ruin. |
-| 66 | Knowledge wins the day. |
-| 67 | Keep it simple under attack. |
-| 68 | We move as one weapon. |
-| 69 | No glory in friendly fire. |
-| 70 | Hard choices, clear orders. |
-| 71 | Lead from the front when it matters. |
-| 72 | Distance favors the prepared. |
-| 73 | Fatigue lies; standards don't. |
-| 74 | Always be ready for the charge. |
-| 75 | Weather is not an excuse. |
-| 76 | Tempo is a weapon. |
-| 77 | Rehearse until boring, execute until done. |
-| 78 | Fight tonight. |
-| 79 | Leave excuses at the gate. |
-| 80 | Dominate the decisive point. |
-| 81 | If you can breathe, you can push. |
-| 82 | Discipline turns fear into function. |
-| 83 | Crisis reveals character. |
-| 84 | Secure people, then position. |
-| 85 | Aggressive patience wins battles. |
-| 86 | Death knows no rank. |
-| 87 | Hard ground makes hard soldiers. |
-| 88 | Clarity saves lives. |
-| 89 | A good retreat is still a plan. |
-| 90 | Hit, assess, adapt. |
-| 91 | Honor the fallen by finishing. |
-| 92 | Aim small, miss small. |
-| 93 | Courage with competence. |
-| 94 | Keep your head when the iron flies. |
-| 95 | Fear less, prepare more. |
-| 96 | Take the hill. Keep the hill. |
-| 97 | Mission complete means everyone home. |
-| 98 | Steel nerves, steady hand. |
-| 99 | Peace through superior strength. |
-| 100 | Suffer in silence, strike with noise. |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Victory or death! | No surrender! | We fight so others don't have to. | One strike, one kill. Precision is everything. | Adapt, improvise, overcome. | Fortune favors the bold, but discipline favors the living. |
+| 2 | No mission too difficult, no sacrifice too great. | We are the shield between chaos and civilization. | Duty first, always. | The only easy day was yesterday. | Hold the line, no matter the cost. | Through fire and darkness, we endure. |
+| 3 | Failure is not an option. | We few, we happy few. | Leave no one behind. | Advance or die. There is no retreat. | Death smiles at us all; all we can do is smile back. | Through hardships to the stars. |
+| 4 | When the going gets tough, the tough get going. | Steady hands, steady hearts. | In the face of impossible odds, we are inevitable. | We are the hammer against the anvil of war. | Blood, sweat, and glory. | Courage is not the absence of fear, it is action despite it. |
+| 5 | Stand fast. Fight hard. Win at all costs. | We are soldiers. Our duty defines us. | No rest for the righteous. | We do the impossible before dawn. | Strike hard, strike fast. | Train hard. Fight easy. |
+| 6 | Order in chaos. | Discipline is a force multiplier. | Sweat in peace, bleed less in war. | Secure the objective, then the credit. | Calm is contagious. | Check your kit, then check your team. |
 
-| d100 | Result |
-|------|--------|
-| 1 | Actions speak louder than words. |
-| 2 | Never give up. |
-| 3 | Trust no one. |
-| 4 | Trust your instincts. |
-| 5 | Hope for the best, prepare for the worst. |
-| 6 | Fortune favors the bold. |
-| 7 | Better safe than sorry. |
-| 8 | Live and let live. |
-| 9 | An eye for an eye. |
-| 10 | Do unto others. |
-| 11 | Every person for themselves. |
-| 12 | We're in this together. |
-| 13 | Know when to hold 'em, know when to fold 'em. |
-| 14 | Strike first, ask questions later. |
-| 15 | Nothing ventured, nothing gained. |
-| 16 | The ends justify the means. |
-| 17 | The road to hell is paved with good intentions. |
-| 18 | What doesn't kill you makes you stronger. |
-| 19 | Knowledge is power. |
-| 20 | Might makes right. |
-| 21 | There's no honor among thieves. |
-| 22 | A promise is a promise. |
-| 23 | Seize the day. |
-| 24 | Patience is a virtue. |
-| 25 | If you want something done right, do it yourself. |
-| 26 | United we stand, divided we fall. |
-| 27 | Keep your friends close and your enemies closer. |
-| 28 | Revenge is a dish best served cold. |
-| 29 | Never forgive, never forget. |
-| 30 | Blood is thicker than water. |
-| 31 | Family first. |
-| 32 | The truth will set you free. |
-| 33 | Honesty is the best policy. |
-| 34 | All's fair in love and war. |
-| 35 | Pride goes before a fall. |
-| 36 | Never show weakness. |
-| 37 | Stand your ground. |
-| 38 | Discretion is the better part of valor. |
-| 39 | No sacrifice, no victory. |
-| 40 | The needs of the many outweigh the needs of the few. |
-| 41 | Look out for number one. |
-| 42 | Do no harm. |
-| 43 | Survival of the fittest. |
-| 44 | Adapt or die. |
-| 45 | Change is the only constant. |
-| 46 | This too shall pass. |
-| 47 | What goes around comes around. |
-| 48 | You reap what you sow. |
-| 49 | Make your own luck. |
-| 50 | Everything happens for a reason. |
-| 51 | Expect the unexpected. |
-| 52 | Stay alert, stay alive. |
-| 53 | Never let them see you sweat. |
-| 54 | Keep calm and carry on. |
-| 55 | Live to fight another day. |
-| 56 | Death before dishonor. |
-| 57 | Whatever it takes. |
-| 58 | By any means necessary. |
-| 59 | The mission comes first. |
-| 60 | No one gets left behind. |
-| 61 | I work alone. |
-| 62 | If it ain't broke, don't fix it. |
-| 63 | Measure twice, cut once. |
-| 64 | Question everything. |
-| 65 | Follow orders. |
-| 66 | Rules are made to be broken. |
-| 67 | Honor above all. |
-| 68 | Survival above all. |
-| 69 | Never tell me the odds. |
-| 70 | Embrace the chaos. |
-| 71 | Never surrender. |
-| 72 | Know when to quit. |
-| 73 | The best defense is a good offense. |
-| 74 | Strike while the iron is hot. |
-| 75 | The bigger they are, the harder they fall. |
-| 76 | Speak softly and carry a big stick. |
-| 77 | Actions have consequences. |
-| 78 | No regrets. |
-| 79 | Learn from your mistakes. |
-| 80 | Once bitten, twice shy. |
-| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 82 | Lead by example. |
-| 83 | Be useful. |
-| 84 | Finish what you start. |
-| 85 | Grace under pressure. |
-| 86 | Stay teachable. |
-| 87 | No panic, just priorities. |
-| 88 | Truth over comfort. |
-| 89 | Aim true. |
-| 90 | Own the outcome. |
-| 91 | Respond, don't react. |
-| 92 | Prepared is powerful. |
-| 93 | Keep your edge. |
-| 94 | Discipline buys freedom. |
-| 95 | Raise your standards quietly. |
-| 96 | Protect the vulnerable. |
-| 97 | Simple is strong. |
-| 98 | Own your mistakes quickly. |
-| 99 | Steady wins storms. |
-| 100 | Leave it better. |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Speed, surprise, violence of action. | Hold fast under pressure. | Complacency kills. | Eyes up, watch the horizon. | No plan survives first contact; good leaders do. | Move with purpose. |
+| 2 | Courage is contagious too. | Win the next minute. | Short commands, long memories. | We don't rise to the occasion; we fall to our training. | Protect the flank. | Supplies low means creativity high. |
+| 3 | Silence in the ranks, focus on the task. | Every step earned. | Cover and maneuver. | Initiative beats hesitation. | Read terrain, not tea leaves. | Pressure makes professionals. |
+| 4 | Never outrun your supplies. | Bravery without discipline is just noise. | Respect the enemy, defeat the enemy. | Sharp kit, sharper mind. | Take ground, hold ground. | First in, last out. |
+| 5 | Plans are tools, not religion. | Know your role; own your lane. | Trust is built in rehearsals. | One team, one standard. | Do not look back at the ruin. | Knowledge wins the day. |
+| 6 | Keep it simple under attack. | We move as one weapon. | No glory in friendly fire. | Hard choices, clear orders. | Lead from the front when it matters. | Distance favors the prepared. |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Fatigue lies; standards don't. | Always be ready for the charge. | Weather is not an excuse. | Tempo is a weapon. | Rehearse until boring, execute until done. | Fight tonight. |
+| 2 | Leave excuses at the gate. | Dominate the decisive point. | If you can breathe, you can push. | Discipline turns fear into function. | Crisis reveals character. | Secure people, then position. |
+| 3 | Aggressive patience wins battles. | Death knows no rank. | Hard ground makes hard soldiers. | Clarity saves lives. | A good retreat is still a plan. | Hit, assess, adapt. |
+| 4 | Honor the fallen by finishing. | Aim small, miss small. | Courage with competence. | Keep your head when the iron flies. | Fear less, prepare more. | Take the hill. Keep the hill. |
+| 5 | Mission complete means everyone home. | Steel nerves, steady hand. | Peace through superior strength. | Suffer in silence, strike with noise. | Calm wins what panic loses. | Make the first move the right one. |
+| 6 | Check your flank, then check your people. | A unit survives by doing the small things well. | Train hard enough that luck feels optional. | Hold the line, then move it. | Clarity under fire is its own weapon. | Read the ground before you spend the blood. |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Actions speak louder than words. | Never give up. | Trust no one. | Trust your instincts. | Hope for the best, prepare for the worst. | Fortune favors the bold. |
+| 2 | Better safe than sorry. | Live and let live. | An eye for an eye. | Do unto others. | Every person for themselves. | We're in this together. |
+| 3 | Know when to hold 'em, know when to fold 'em. | Strike first, ask questions later. | Nothing ventured, nothing gained. | The ends justify the means. | The road to hell is paved with good intentions. | What doesn't kill you makes you stronger. |
+| 4 | Knowledge is power. | Might makes right. | There's no honor among thieves. | A promise is a promise. | Seize the day. | Patience is a virtue. |
+| 5 | If you want something done right, do it yourself. | United we stand, divided we fall. | Keep your friends close and your enemies closer. | Revenge is a dish best served cold. | Never forgive, never forget. | Blood is thicker than water. |
+| 6 | Family first. | The truth will set you free. | Honesty is the best policy. | All's fair in love and war. | Pride goes before a fall. | Never show weakness. |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stand your ground. | Discretion is the better part of valor. | No sacrifice, no victory. | The needs of the many outweigh the needs of the few. | Look out for number one. | Do no harm. |
+| 2 | Survival of the fittest. | Adapt or die. | Change is the only constant. | This too shall pass. | What goes around comes around. | You reap what you sow. |
+| 3 | Make your own luck. | Everything happens for a reason. | Expect the unexpected. | Stay alert, stay alive. | Never let them see you sweat. | Keep calm and carry on. |
+| 4 | Live to fight another day. | Death before dishonor. | Whatever it takes. | By any means necessary. | The mission comes first. | No one gets left behind. |
+| 5 | I work alone. | If it ain't broke, don't fix it. | Measure twice, cut once. | Question everything. | Follow orders. | Rules are made to be broken. |
+| 6 | Honor above all. | Survival above all. | Never tell me the odds. | Embrace the chaos. | Never surrender. | Know when to quit. |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | The best defense is a good offense. | Strike while the iron is hot. | The bigger they are, the harder they fall. | Speak softly and carry a big stick. | Actions have consequences. | No regrets. |
+| 2 | Learn from your mistakes. | Once bitten, twice shy. | Fool me once, shame on you. Fool me twice, shame on me. | Lead by example. | Be useful. | Finish what you start. |
+| 3 | Grace under pressure. | Stay teachable. | No panic, just priorities. | Truth over comfort. | Aim true. | Own the outcome. |
+| 4 | Respond, don't react. | Prepared is powerful. | Keep your edge. | Discipline buys freedom. | Raise your standards quietly. | Protect the vulnerable. |
+| 5 | Simple is strong. | Own your mistakes quickly. | Steady wins storms. | Leave it better. | Do the hard right thing. | Stay kind, stay dangerous. |
+| 6 | Make yourself useful before you make yourself known. | Nothing improves by avoiding it. | If you can help, help. | Earn trust in small moments. | A steady hand changes outcomes. | Courage is a habit. |
 
 ### Secrets
 
 Roll or choose a Secret: something your character hides from the world. A source of vulnerability, guilt, or dangerous knowledge.
 
-**Table 1 of 3**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Black Ops Past |
-| 2 | Corporate Plant |
-| 3 | Spy for a Rival House |
-| 4 | Sabotaged a Mission |
-| 5 | Friendly Fire Incident |
-| 6 | Left a Squad Behind |
-| 7 | Illicit Neural Hack |
-| 8 | Smuggled Xenotech |
-| 9 | Illegal Cybernetics |
-| 10 | Hidden AI Companion |
-| 11 | Debt to a Syndicate |
-| 12 | Sold Stolen Data |
-| 13 | Implant Malfunction |
-| 14 | Classified Kill List |
-| 15 | Witness Protection |
-| 16 | Escaped Experiment |
-| 17 | Prototype Thief |
-| 18 | Secretly Vat-Grown |
-| 19 | Cloned Twice |
-| 20 | Ghost Identity |
-| 21 | Secret Family on Another World |
-| 22 | Deals with Pirates |
-| 23 | Blood Oath to a Warlord |
-| 24 | Deserted Post |
-| 25 | Court-Martial Dodger |
-| 26 | Undercover Rebel |
-| 27 | Shadow Government Asset |
-| 28 | Illicit AI Worship |
-| 29 | Illicit Psionic Dabbling |
-| 30 | Data Leak Whistleblower |
-| 31 | Siphoned Mission Funds |
-| 32 | Hidden Stash in the Hull |
-| 33 | Encrypted Black Box |
-| 34 | Secret Sickbay |
-| 35 | Experimental Weapon Tester |
-| 36 | Mind-Wipe Survivor |
-| 37 | Memory Edits |
-| 38 | Illegal Drone Swarm |
-| 39 | Biohazard Carrier |
-| 40 | Nanite Addiction |
-| 41 | Stole a Mech |
-| 42 | Sold Out a Colony |
-| 43 | Marooned Crew Once |
-| 44 | Smuggled Organics |
-| 45 | War Crime Rumor |
-| 46 | Covered Up a Crash |
-| 47 | Destroyed Evidence |
-| 48 | Hacked Command Orders |
-| 49 | Off-Books Strike |
-| 50 | Contraband Supplier |
-| 51 | Silent Mutiny |
-| 52 | Xeno Contact Cover-up |
-| 53 | Runs an Illicit Comedy Broadcast |
-| 54 | Hides Restricted Retro Archive Media |
-| 55 | Avoids Transit Shafts After Incident |
-| 56 | Keeps a Smuggled Memory Core |
-| 57 | Leaks Insider Events as Satire |
-| 58 | Maintains Contraband Ration Cache |
-| 59 | Unlicensed Gene Modder |
-| 60 | Unlicensed Pilot |
-| 61 | Frequent System Failures Follow Them |
-| 62 | Unusual Appearance |
-| 63 | Vigilante Past |
-| 64 | Archives Banned Propaganda Reels |
-| 65 | Predicted an Event Others Buried |
-| 66 | Wanted on Three Systems |
-| 67 | Wears a Mask in Public |
-| 68 | Known for Untraceable Prank Tech |
-| 69 | Knows an AI Override Backdoor |
-| 70 | Never Sleeps in the Same Berth |
-| 71 | Embedded Behavioral Profiler |
-| 72 | Hunts Proscribed Technology |
-| 73 | Cultivates Banned Bioflora |
-| 74 | Runs a Pirate Signal Karaoke Node |
-| 75 | Voiceprint Found on a Pirate Variety Transmission |
-| 76 | Crafts Counterfeit Event Badges |
-| 77 | Smuggles Alien Ingredients |
-| 78 | Avoids Maintenance Ducts After Ambush |
-| 79 | Carries a Stolen Access Token |
-| 80 | Wears a Stolen Unit Insignia |
-| 81 | Knows the Backdoor Phrase for Station Lockdown |
-| 82 | Swapped Dog Tags After the Boarding Action |
-| 83 | Hid a Synthetic Refugee in Cargo |
-| 84 | Sold Cryo-Pod Slots During Evacuation |
-| 85 | Witnessed First Contact and Signed Gag Orders |
-| 86 | Keeps a Dead Admiral's Command Cipher |
-| 87 | Ran a Ghost Ship for One Jump |
-| 88 | Erased a Colony Distress Call |
-| 89 | Owes a Favor to a Nonhuman Smuggling Cartel |
-| 90 | Secretly Related to a Megacorp Founder |
-| 91 | Took Bribes to Reroute Med Supplies |
-| 92 | Carries an Alien Parasite in Remission |
-| 93 | Burned Their Service Record with a Solar Flare Spoof |
-| 94 | Knows Which Moon Hosts Illegal Clone Vats |
-| 95 | Faked Telemetry to Start a Border War |
-| 96 | Smuggled a Sentient Algorithm Off-World |
-| 97 | Covered Up a Mutiny with Forged Logs |
-| 98 | Traded VIP Docking Permits on the Side |
-| 99 | Hid Survivors in a Decommissioned War Mech |
-| 100 | Owns the Key to a Black-Site Airlock |
+#### Table 1
 
-**Table 2 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Black Ops Past | Corporate Plant | Spy for a Rival House | Sabotaged a Mission | Friendly Fire Incident | Left a Squad Behind |
+| 2 | Illicit Neural Hack | Smuggled Xenotech | Illegal Cybernetics | Hidden AI Companion | Debt to a Syndicate | Sold Stolen Data |
+| 3 | Implant Malfunction | Classified Kill List | Witness Protection | Escaped Experiment | Prototype Thief | Secretly Vat-Grown |
+| 4 | Cloned Twice | Ghost Identity | Secret Family on Another World | Deals with Pirates | Blood Oath to a Warlord | Deserted Post |
+| 5 | Court-Martial Dodger | Undercover Rebel | Shadow Government Asset | Illicit AI Worship | Illicit Psionic Dabbling | Data Leak Whistleblower |
+| 6 | Siphoned Mission Funds | Hidden Stash in the Hull | Encrypted Black Box | Secret Sickbay | Experimental Weapon Tester | Mind-Wipe Survivor |
 
-| d100 | Result |
-|------|--------|
-| 1 | Terrible Secret |
-| 2 | Dark Past |
-| 3 | Hidden Identity |
-| 4 | False Identity |
-| 5 | Assumed Name |
-| 6 | Wanted Criminal |
-| 7 | Former Slave |
-| 8 | Escaped Prisoner |
-| 9 | Deserter |
-| 10 | Traitor |
-| 11 | Turncoat |
-| 12 | Double Agent |
-| 13 | Deep Cover |
-| 14 | Witness to Atrocity |
-| 15 | Survivor's Guilt |
-| 16 | Blood Debt |
-| 17 | Unpaid Debt |
-| 18 | Sworn Oath |
-| 19 | Broken Vow |
-| 20 | Betrayed Trust |
-| 21 | Betrayed Ally |
-| 22 | Abandoned Comrade |
-| 23 | Left for Dead |
-| 24 | Sole Survivor |
-| 25 | Last of Their Kind |
-| 26 | Cursed Bloodline |
-| 27 | Marked for Death |
-| 28 | Hunted |
-| 29 | Price on Head |
-| 30 | Vendetta |
-| 31 | Secret Grudge |
-| 32 | Hidden Agenda |
-| 33 | Secret Mission |
-| 34 | Undercover |
-| 35 | Sleeper Agent |
-| 36 | Forbidden Knowledge |
-| 37 | Dangerous Discovery |
-| 38 | Witnessed Conspiracy |
-| 39 | Knows Too Much |
-| 40 | Blackmailed |
-| 41 | Compromised |
-| 42 | Secret Weakness |
-| 43 | Hidden Disability |
-| 44 | Concealed Illness |
-| 45 | Terminal Condition |
-| 46 | Addiction |
-| 47 | Dependency |
-| 48 | Secret Love |
-| 49 | Forbidden Romance |
-| 50 | Star-Crossed Lover |
-| 51 | Secret Child |
-| 52 | Hidden Family |
-| 53 | Disowned |
-| 54 | Illegitimate Heir |
-| 55 | Secret Royalty |
-| 56 | Hidden Noble |
-| 57 | False Commoner |
-| 58 | Imposter |
-| 59 | Fraud |
-| 60 | Charlatan |
-| 61 | Fake Credentials |
-| 62 | Stolen Identity |
-| 63 | Body Double |
-| 64 | Doppelganger |
-| 65 | Secret Twin |
-| 66 | Split Personality |
-| 67 | Possessed |
-| 68 | Haunted |
-| 69 | Cursed |
-| 70 | Damned |
-| 71 | Soul Bargain |
-| 72 | Devil's Deal |
-| 73 | Blood Pact |
-| 74 | Dark Covenant |
-| 75 | Secret Society Member |
-| 76 | Cult Initiate |
-| 77 | Heretic |
-| 78 | Apostate |
-| 79 | Lost Faith |
-| 80 | Secret Believer |
-| 81 | Closet Fanatic |
-| 82 | Zealot in Hiding |
-| 83 | Reformed Criminal |
-| 84 | Former Assassin |
-| 85 | Ex-Torturer |
-| 86 | War Criminal |
-| 87 | Mass Murderer |
-| 88 | Secret Prankster |
-| 89 | Staged a Dramatic Duel |
-| 90 | Ruined a Family Feast on Purpose |
-| 91 | Impersonated Royalty for a Night |
-| 92 | Sold a Family Heirloom in Secret |
-| 93 | Accidental Killer |
-| 94 | Mercy Killer |
-| 95 | Self-Defense Killer |
-| 96 | Never Killed |
-| 97 | Secret Pacifist |
-| 98 | Hidden Coward |
-| 99 | False Hero |
-| 100 | Unearned Glory |
+#### Table 2
 
-**Table 3 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Memory Edits | Illegal Drone Swarm | Biohazard Carrier | Nanite Addiction | Stole a Mech | Sold Out a Colony |
+| 2 | Marooned Crew Once | Smuggled Organics | War Crime Rumor | Covered Up a Crash | Destroyed Evidence | Hacked Command Orders |
+| 3 | Off-Books Strike | Contraband Supplier | Silent Mutiny | Xeno Contact Cover-up | Runs an Illicit Comedy Broadcast | Hides Restricted Retro Archive Media |
+| 4 | Avoids Transit Shafts After Incident | Keeps a Smuggled Memory Core | Leaks Insider Events as Satire | Maintains Contraband Ration Cache | Unlicensed Gene Modder | Unlicensed Pilot |
+| 5 | Frequent System Failures Follow Them | Unusual Appearance | Vigilante Past | Archives Banned Propaganda Reels | Predicted an Event Others Buried | Wanted on Three Systems |
+| 6 | Wears a Mask in Public | Known for Untraceable Prank Tech | Knows an AI Override Backdoor | Never Sleeps in the Same Berth | Embedded Behavioral Profiler | Hunts Proscribed Technology |
 
-| d100 | Result |
-|------|--------|
-| 1 | Stolen Valor |
-| 2 | Credit Thief |
-| 3 | Plagiarist |
-| 4 | Art Forger |
-| 5 | Document Faker |
-| 6 | Identity Thief |
-| 7 | Embezzler |
-| 8 | Thief |
-| 9 | Smuggler |
-| 10 | Black Marketeer |
-| 11 | Fence |
-| 12 | Receiver of Stolen Goods |
-| 13 | Grave Robber |
-| 14 | Relic Thief |
-| 15 | Artifact Smuggler |
-| 16 | Secret Hoarder |
-| 17 | Hidden Wealth |
-| 18 | Treasure Map Keeper |
-| 19 | Location of Riches Known |
-| 20 | Guardian of Secret |
-| 21 | Keeper of Knowledge |
-| 22 | Sole Witness |
-| 23 | Only Survivor Who Knows |
-| 24 | Confessed to the Wrong Crime |
-| 25 | Owes a Favor to a Blackmailer |
-| 26 | Hid a Body No One Found |
-| 27 | Let an Innocent Take the Fall |
-| 28 | Knows Where the Missing Witness Is |
-| 29 | Signed a False Statement |
-| 30 | Carries Evidence They Never Turned In |
-| 31 | Burned the Only Copy |
-| 32 | Secretly Related to the Antagonist |
-| 33 | Keeps a Forbidden Correspondence |
-| 34 | Broke Quarantine and Lied About It |
-| 35 | Took Bribe Money and Buried It |
-| 36 | Planted the Weapon |
-| 37 | Altered the Official Timeline |
-| 38 | Destroyed Incriminating Evidence |
-| 39 | Lied to a Dying Person |
-| 40 | Promised Protection and Failed |
-| 41 | Faked an Alibi for Family |
-| 42 | Opened the Door to the Killer |
-| 43 | Left Before the Explosion |
-| 44 | Knows the Safe Combination |
-| 45 | Hides a Second Identity Document |
-| 46 | Smuggled Someone Across the Border |
-| 47 | Secretly Married an Enemy |
-| 48 | Owes Debt to a Loan Shark |
-| 49 | Keeps Two Sets of Books |
-| 50 | Embezzled Relief Funds |
-| 51 | Collected Blood Money |
-| 52 | Took a Ring from the Dead |
-| 53 | Sold Names to Hunters |
-| 54 | Gave False Testimony |
-| 55 | Broke a Ceasefire First |
-| 56 | Started a Rumor That Got Someone Killed |
-| 57 | Hid the Antidote |
-| 58 | Stole a Cure Shipment |
-| 59 | Chose Who Got the Last Seat |
-| 60 | Sabotaged a Vital Mechanism |
-| 61 | Sabotaged Emergency Systems |
-| 62 | Framed a Rival with Forged Letters |
-| 63 | Knows the Escape Route |
-| 64 | Opened a Sealed Archive |
-| 65 | Defied Evacuation Orders |
-| 66 | Left a Child Behind |
-| 67 | Secretly Supports Both Sides |
-| 68 | Hid a Lover in Enemy Territory |
-| 69 | Leaked a Battle Plan |
-| 70 | Took an Oath Under Duress |
-| 71 | Has a Child with a Disgraced Leader |
-| 72 | Helped a Fugitive Change Identity |
-| 73 | Turned Off the Alarm |
-| 74 | Took Payment to Stay Silent |
-| 75 | Stashed Contraband in a Shrine |
-| 76 | Covered a Friend's Fatal Mistake |
-| 77 | Lied About Being There |
-| 78 | Accepted a Medal They Didn't Earn |
-| 79 | Kept a Map from the Team |
-| 80 | Falsified Medical Records |
-| 81 | Gave the Wrong Coordinates on Purpose |
-| 82 | Destroyed a Family Will |
-| 83 | Withheld a Critical Warning |
-| 84 | Knows the Key Passphrase |
-| 85 | Hides a Poison Recipe |
-| 86 | Secretly Cannot Read Official Script |
-| 87 | Forged a Signature That Changed History |
-| 88 | Keeps the Last Key |
-| 89 | Was the Anonymous Informant |
-| 90 | Knows Who Started the Fire |
-| 91 | Hid in Safety While Others Fought |
-| 92 | Broke Into a Vault for Love Letters |
-| 93 | Smuggled Messages in Sacred Texts |
-| 94 | Manipulated a Final Tally |
-| 95 | Made a Promise to the Villain |
-| 96 | Saw the Truth and Stayed Quiet |
-| 97 | Invented a Heroic Story That Stuck |
-| 98 | Keeps a Confession Letter Unsent |
-| 99 | Secretly Owns the Deed |
-| 100 | Chose the Spotlight Over Duty |
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Cultivates Banned Bioflora | Runs a Pirate Signal Karaoke Node | Voiceprint Found on a Pirate Variety Transmission | Crafts Counterfeit Event Badges | Smuggles Alien Ingredients | Avoids Maintenance Ducts After Ambush |
+| 2 | Carries a Stolen Access Token | Wears a Stolen Unit Insignia | Knows the Backdoor Phrase for Station Lockdown | Swapped Dog Tags After the Boarding Action | Hid a Synthetic Refugee in Cargo | Sold Cryo-Pod Slots During Evacuation |
+| 3 | Witnessed First Contact and Signed Gag Orders | Keeps a Dead Admiral's Command Cipher | Ran a Ghost Ship for One Jump | Erased a Colony Distress Call | Owes a Favor to a Nonhuman Smuggling Cartel | Secretly Related to a Megacorp Founder |
+| 4 | Took Bribes to Reroute Med Supplies | Carries an Alien Parasite in Remission | Burned Their Service Record with a Solar Flare Spoof | Knows Which Moon Hosts Illegal Clone Vats | Faked Telemetry to Start a Border War | Smuggled a Sentient Algorithm Off-World |
+| 5 | Covered Up a Mutiny with Forged Logs | Traded VIP Docking Permits on the Side | Hid Survivors in a Decommissioned War Mech | Owns the Key to a Black-Site Airlock | Sold a Refugee Manifest to Corporate Security | Knows Which AI Passed the Turing Tribunal Illegally |
+| 6 | Faked Life Signs During a Rescue Lottery | Hid a Prototype in a Funeral Satellite | Rerouted Evac Shuttles to Save One VIP | Carries a Dead Station's Master Access Chip | Opened the Wormgate Before the All Clear | Wiped a Warbot's Guilt Logs |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Terrible Secret | Dark Past | Hidden Identity | False Identity | Assumed Name | Wanted Criminal |
+| 2 | Former Slave | Escaped Prisoner | Deserter | Traitor | Turncoat | Witness to Atrocity |
+| 3 | Survivor's Guilt | Blood Debt | Unpaid Debt | Sworn Oath | Broken Vow | Betrayed Trust |
+| 4 | Betrayed Ally | Abandoned Comrade | Left for Dead | Sole Survivor | Last of Their Kind | Cursed Bloodline |
+| 5 | Marked for Death | Hunted | Price on Head | Vendetta | Secret Grudge | Hidden Agenda |
+| 6 | Secret Mission | Forbidden Knowledge | Dangerous Discovery | Witnessed Conspiracy | Knows Too Much | Blackmailed |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Compromised | Secret Weakness | Hidden Disability | Concealed Illness | Terminal Condition | Addiction |
+| 2 | Dependency | Secret Love | Forbidden Romance | Star-Crossed Lover | Secret Child | Hidden Family |
+| 3 | Disowned | Illegitimate Heir | Secret Royalty | Hidden Noble | False Commoner | Imposter |
+| 4 | Fraud | Charlatan | Fake Credentials | Stolen Identity | Body Double | Secret Twin |
+| 5 | Split Personality | Haunted | Cursed | Damned | Blood Pact | Secret Society Member |
+| 6 | Cult Initiate | Heretic | Apostate | Lost Faith | Secret Believer | Closet Fanatic |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Zealot in Hiding | Reformed Criminal | Former Assassin | Ex-Torturer | War Criminal | Mass Murderer |
+| 2 | Accidental Killer | Mercy Killer | Self-Defense Killer | Never Killed | Secret Pacifist | Hidden Coward |
+| 3 | False Hero | Unearned Glory | Stolen Valor | Credit Thief | Plagiarist | Art Forger |
+| 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
+| 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
+| 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Nicknames Forenames / Given Names
+### Nicknames Names
 
-**Table 1 of 6**
+Roll **1d18** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Ace |
-| 2 | Actual |
-| 3 | Albatross |
-| 4 | Alpha |
-| 5 | Amber |
-| 6 | Amethyst |
-| 7 | Anchor |
-| 8 | Angler |
-| 9 | Anvil |
-| 10 | Apex |
-| 11 | Avalanche |
-| 12 | Avenger |
-| 13 | Axle |
-| 14 | Badger |
-| 15 | Ballistic |
-| 16 | BamBam |
-| 17 | Bandit |
-| 18 | Banshee |
-| 19 | Baron |
-| 20 | Barrel |
-| 21 | Basecamp |
-| 22 | Bash |
-| 23 | Basilisk |
-| 24 | Beatdown |
-| 25 | Bedrock |
-| 26 | Biggs |
-| 27 | Bingo |
-| 28 | Birdie |
-| 29 | Biscuit |
-| 30 | Blackbird |
-| 31 | Blade |
-| 32 | Blaze |
-| 33 | Blink |
-| 34 | Blitz |
-| 35 | Bloodshot |
-| 36 | Bluewing |
-| 37 | Bolt |
-| 38 | Bonehead |
-| 39 | Bones |
-| 40 | Bonfire |
-| 41 | Book |
-| 42 | Boomer |
-| 43 | Boomstick |
-| 44 | Brass |
-| 45 | Bravo |
-| 46 | Breaker |
-| 47 | Breeze |
-| 48 | Brick |
-| 49 | Brisk |
-| 50 | Brute |
-| 51 | Bubbles |
-| 52 | Buck |
-| 53 | Buckle |
-| 54 | Buckshot |
-| 55 | Buddy |
-| 56 | Bullet |
-| 57 | Bullseye |
-| 58 | Bumper |
-| 59 | Bunker |
-| 60 | Burnout |
-| 61 | Buzz |
-| 62 | Buzzard |
-| 63 | Caboose |
-| 64 | Cairn |
-| 65 | Cakewalk |
-| 66 | Candystick |
-| 67 | Cannonball |
-| 68 | Captain |
-| 69 | Carmine |
-| 70 | Cartridge |
-| 71 | Cascade |
-| 72 | Cashew |
-| 73 | Castle |
-| 74 | Catalyst |
-| 75 | Catcher |
-| 76 | Catfish |
-| 77 | Caveman |
-| 78 | Centurion |
-| 79 | Chalk |
-| 80 | Challenger |
-| 81 | Champion |
-| 82 | Chaos |
-| 83 | Charger |
-| 84 | Charm |
-| 85 | Checkmate |
-| 86 | Cheerio |
-| 87 | Cherokee |
-| 88 | Chestnut |
-| 89 | Cheyenne |
-| 90 | Chieftain |
-| 91 | Chilly |
-| 92 | Chimera |
-| 93 | Chip |
-| 94 | Chisel |
-| 95 | Chops |
-| 96 | Chowder |
-| 97 | Chrome |
-| 98 | Chuckles |
-| 99 | Chunk |
-| 100 | Cipher |
+#### Table 1
 
-**Table 2 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ace | Actual | Aegis | Alpha | Amber | Amethyst |
+| 2 | Anchor | Anvil | Apex | Arc | Artifact | Ash |
+| 3 | Astray | Avalanche | Avenger | Axle | Ballistic | BamBam |
+| 4 | Bandit | Banshee | Baron | Barrel | Basecamp | Bash |
+| 5 | Basin | Bastion | Beam | Beatdown | Bedrock | Biggs |
+| 6 | Binary | Bingo | Biscuit | Bit | Black | Blade |
 
-| d100 | Result |
-|------|--------|
-| 1 | Circuit |
-| 2 | Clank |
-| 3 | Clasp |
-| 4 | Cleric |
-| 5 | Clever |
-| 6 | Click |
-| 7 | Climber |
-| 8 | Clincher |
-| 9 | Cloak |
-| 10 | Cobalt |
-| 11 | Cobra |
-| 12 | Cocktail |
-| 13 | Cocky |
-| 14 | Codger |
-| 15 | Coercer |
-| 16 | Coffin |
-| 17 | Cogent |
-| 18 | Coin |
-| 19 | Coke |
-| 20 | Coldsnap |
-| 21 | Colt |
-| 22 | Comanche |
-| 23 | Combat |
-| 24 | Combover |
-| 25 | Comeback |
-| 26 | Comedian |
-| 27 | Comet |
-| 28 | Comfort |
-| 29 | Comic |
-| 30 | Commander |
-| 31 | Compass |
-| 32 | Compete |
-| 33 | Competent |
-| 34 | Competitor |
-| 35 | Complain |
-| 36 | Complaint |
-| 37 | Complete |
-| 38 | Complex |
-| 39 | Compliant |
-| 40 | Composer |
-| 41 | Composite |
-| 42 | Comrade |
-| 43 | Coral |
-| 44 | Corsair |
-| 45 | Count |
-| 46 | Cove |
-| 47 | Crash |
-| 48 | Cricket |
-| 49 | Crown |
-| 50 | Crusher |
-| 51 | Crystal |
-| 52 | Cutter |
-| 53 | Cutthroat |
-| 54 | Cypher |
-| 55 | Dagger |
-| 56 | Dancer |
-| 57 | Danger |
-| 58 | Dart |
-| 59 | Dash |
-| 60 | Deadeye |
-| 61 | Dealbreaker |
-| 62 | Deathblow |
-| 63 | Deathwish |
-| 64 | Deejay |
-| 65 | Deep |
-| 66 | Delta |
-| 67 | Demise |
-| 68 | Demon |
-| 69 | Deuce |
-| 70 | Devastate |
-| 71 | Devastation |
-| 72 | Devil |
-| 73 | Devious |
-| 74 | Devour |
-| 75 | Dexter |
-| 76 | Diablo |
-| 77 | Diamond |
-| 78 | Diehard |
-| 79 | Diesel |
-| 80 | Digger |
-| 81 | Dingo |
-| 82 | Dinker |
-| 83 | Diplomat |
-| 84 | Dipstick |
-| 85 | Dirge |
-| 86 | Dirk |
-| 87 | Dirt |
-| 88 | Dirtbag |
-| 89 | Dirtnap |
-| 90 | Discord |
-| 91 | Dispatch |
-| 92 | Disrupt |
-| 93 | Ditch |
-| 94 | Dive |
-| 95 | Doc |
-| 96 | Dragon |
-| 97 | Duke |
-| 98 | Dynamo |
-| 99 | Eagle |
-| 100 | Earl |
+#### Table 2
 
-**Table 3 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Blank | Blaze | Blip | Blitz | Block | Bloodshot |
+| 2 | Bloom | Blue | Blunt | Bolt | Bonehead | Bones |
+| 3 | Bonfire | Book | Boomer | Boomstick | Bore | Bound |
+| 4 | Brass | Bravo | Breach | Breaker | Breeze | Brick |
+| 5 | Bridge | Brink | Brisk | Bronze | Brute | Bubbles |
+| 6 | Buckle | Buckshot | Buddy | Buffer | Bullet | Bullseye |
 
-| d100 | Result |
-|------|--------|
-| 1 | Echo |
-| 2 | Ember |
-| 3 | Emerald |
-| 4 | Enforcer |
-| 5 | Enigma |
-| 6 | Failsafe |
-| 7 | Falcon |
-| 8 | Fang |
-| 9 | Farseer |
-| 10 | Fidget |
-| 11 | Fire |
-| 12 | Firestarter |
-| 13 | Five |
-| 14 | Fixer |
-| 15 | Flash |
-| 16 | Flatline |
-| 17 | Flicker |
-| 18 | Foxtrot |
-| 19 | Fridge |
-| 20 | Frost |
-| 21 | Fumbles |
-| 22 | Furnace |
-| 23 | Gadget |
-| 24 | Gale |
-| 25 | Garnet |
-| 26 | Gator |
-| 27 | Ghost |
-| 28 | Giggles |
-| 29 | Gizmo |
-| 30 | Glint |
-| 31 | Glitch |
-| 32 | Goober |
-| 33 | Goose |
-| 34 | Griffin |
-| 35 | Grudge |
-| 36 | Gunfire |
-| 37 | Gutshot |
-| 38 | Hammer |
-| 39 | Harbor |
-| 40 | Harrow |
-| 41 | Havoc |
-| 42 | Hawk |
-| 43 | Hazard |
-| 44 | Heatwave |
-| 45 | Hellhound |
-| 46 | Hellion |
-| 47 | Hex |
-| 48 | Highroller |
-| 49 | Hopper |
-| 50 | Hotshot |
-| 51 | Hunter |
-| 52 | Hush |
-| 53 | Ice |
-| 54 | Impulse |
-| 55 | Inferno |
-| 56 | Ironclad |
-| 57 | Ironman |
-| 58 | Ironside |
-| 59 | Jackal |
-| 60 | Jackpot |
-| 61 | Jade |
-| 62 | Jager |
-| 63 | Jammer |
-| 64 | Jasper |
-| 65 | Jester |
-| 66 | Jetstream |
-| 67 | Jinx |
-| 68 | Jockey |
-| 69 | Joker |
-| 70 | Jostle |
-| 71 | Judge |
-| 72 | Jugular |
-| 73 | Kaiser |
-| 74 | Kestrel |
-| 75 | Kilo |
-| 76 | King |
-| 77 | Knight |
-| 78 | Knockout |
-| 79 | Knucklehead |
-| 80 | Knuckles |
-| 81 | Kraken |
-| 82 | Labrador |
-| 83 | Lancer |
-| 84 | Laser |
-| 85 | Launchpad |
-| 86 | Leadfoot |
-| 87 | Ledger |
-| 88 | Lefty |
-| 89 | Lima |
-| 90 | Lineman |
-| 91 | Link |
-| 92 | Livewire |
-| 93 | Longshot |
-| 94 | Lord |
-| 95 | Lucky |
-| 96 | Lunchmeat |
-| 97 | Lynx |
-| 98 | Mackerel |
-| 99 | Madman |
-| 100 | Mainframe |
+#### Table 3
 
-**Table 4 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Bulwark | Bumper | Bunker | Burnout | Burst | Buzz |
+| 2 | Caboose | Cairn | Cakewalk | Candystick | Cannonball | Captain |
+| 3 | Carmine | Cartridge | Cascade | Case | Cashew | Castle |
+| 4 | Catalyst | Catcher | Caustic | Caveman | Cell | Center |
+| 5 | Centurion | Chain | Chalk | Challenger | Champion | Channel |
+| 6 | Chaos | Charger | Charm | Check | Checkmate | Cheerio |
 
-| d100 | Result |
-|------|--------|
-| 1 | Makeover |
-| 2 | Mako |
-| 3 | Mantis |
-| 4 | Marauder |
-| 5 | Maverick |
-| 6 | Meatball |
-| 7 | Meathead |
-| 8 | Mercury |
-| 9 | Midnight |
-| 10 | Mimic |
-| 11 | Minefield |
-| 12 | Mischief |
-| 13 | Mojo |
-| 14 | Mole |
-| 15 | Monarch |
-| 16 | Mongoose |
-| 17 | Monsoon |
-| 18 | Moonlight |
-| 19 | Mortar |
-| 20 | Moss |
-| 21 | Mothball |
-| 22 | Mudslinger |
-| 23 | Mule |
-| 24 | Mumbles |
-| 25 | Mustang |
-| 26 | Nails |
-| 27 | Narrator |
-| 28 | Nemesis |
-| 29 | Nickel |
-| 30 | Niner |
-| 31 | Nitro |
-| 32 | Nobody |
-| 33 | Nomad |
-| 34 | Noodle |
-| 35 | Nosedive |
-| 36 | Nova |
-| 37 | Nugget |
-| 38 | Numbskull |
-| 39 | Obsidian |
-| 40 | Ogre |
-| 41 | Omega |
-| 42 | Omen |
-| 43 | One |
-| 44 | Onyx |
-| 45 | Opal |
-| 46 | Operator |
-| 47 | Opportunist |
-| 48 | Oracle |
-| 49 | Oriel |
-| 50 | Orion |
-| 51 | Orphan |
-| 52 | Outlaw |
-| 53 | Outpost |
-| 54 | Outsider |
-| 55 | Overload |
-| 56 | Overtime |
-| 57 | Packrat |
-| 58 | Paladin |
-| 59 | Panther |
-| 60 | Paperboy |
-| 61 | Paratrooper |
-| 62 | Patches |
-| 63 | Patchwork |
-| 64 | Pathfinder |
-| 65 | Patriarch |
-| 66 | Patrol |
-| 67 | Pattern |
-| 68 | Payback |
-| 69 | Peacemaker |
-| 70 | Pearl |
-| 71 | Pebbles |
-| 72 | Peephole |
-| 73 | Peewee |
-| 74 | Penthouse |
-| 75 | Pepper |
-| 76 | Periscope |
-| 77 | Perp |
-| 78 | Phantom |
-| 79 | Phoenix |
-| 80 | Piper |
-| 81 | Piston |
-| 82 | Potato |
-| 83 | Prime |
-| 84 | Prince |
-| 85 | Prof |
-| 86 | Prophet |
-| 87 | Pry |
-| 88 | Pyro |
-| 89 | Quake |
-| 90 | Quartz |
-| 91 | Quickdraw |
-| 92 | Quill |
-| 93 | Radar |
-| 94 | Raptor |
-| 95 | Rascal |
-| 96 | Raven |
-| 97 | Razor |
-| 98 | Reaper |
-| 99 | Rebel |
-| 100 | Reptile |
+#### Table 4
 
-**Table 5 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Chip | Chisel | Chops | Chowder | Chrome | Chuckles |
+| 2 | Chunk | Cinder | Cipher | Circuit | Clamp | Clank |
+| 3 | Clasp | Clear | Cleft | Cleric | Clever | Click |
+| 4 | Clicker | Cliff | Climax | Climber | Clincher | Cloak |
+| 5 | Clock | Clone | Close | Cloud | Clutch | Cobalt |
+| 6 | Cocktail | Cocky | Code | Codger | Coercer | Coffin |
 
-| d100 | Result |
-|------|--------|
-| 1 | Rex |
-| 2 | Ricochet |
-| 3 | Rivet |
-| 4 | Rogue |
-| 5 | Ronin |
-| 6 | Rook |
-| 7 | Rookie |
-| 8 | Rover |
-| 9 | Royal |
-| 10 | Ruby |
-| 11 | Runner |
-| 12 | Sable |
-| 13 | Sabotage |
-| 14 | Samurai |
-| 15 | Sapphire |
-| 16 | Saw |
-| 17 | Scorpion |
-| 18 | Scout |
-| 19 | Screwball |
-| 20 | Screwup |
-| 21 | Sentinel |
-| 22 | Seven |
-| 23 | Shadow |
-| 24 | Shark |
-| 25 | Sharky |
-| 26 | Shiv |
-| 27 | Shorty |
-| 28 | Shutdown |
-| 29 | Sigma |
-| 30 | Six |
-| 31 | Skipper |
-| 32 | Skippy |
-| 33 | Slack |
-| 34 | Slash |
-| 35 | Slate |
-| 36 | Slick |
-| 37 | Smiley |
-| 38 | Sneezy |
-| 39 | Snipes |
-| 40 | Sovereign |
-| 41 | Spark |
-| 42 | Specter |
-| 43 | Spider |
-| 44 | Spike |
-| 45 | Splinter |
-| 46 | Stalker |
-| 47 | Static |
-| 48 | Steel |
-| 49 | Stinger |
-| 50 | Stinkbug |
-| 51 | Storm |
-| 52 | Straggler |
-| 53 | Striker |
-| 54 | Stumpy |
-| 55 | Swindle |
-| 56 | Talon |
-| 57 | Tango |
-| 58 | Tank |
-| 59 | Tempest |
-| 60 | Thorn |
-| 61 | Three |
-| 62 | Thunder |
-| 63 | Tinker |
-| 64 | Tiny |
-| 65 | Titan |
-| 66 | Topaz |
-| 67 | Torch |
-| 68 | Torque |
-| 69 | Touchdown |
-| 70 | Trick |
-| 71 | Trigger |
-| 72 | Trooper |
-| 73 | Twitch |
-| 74 | Two |
-| 75 | Tycoon |
-| 76 | Umber |
-| 77 | Umbra |
-| 78 | Vagabond |
-| 79 | Valkyrie |
-| 80 | Vanguard |
-| 81 | Vector |
-| 82 | Vertigo |
-| 83 | Victor |
-| 84 | Vigil |
-| 85 | Viper |
-| 86 | Vulcan |
-| 87 | Waddles |
-| 88 | Warden |
-| 89 | Warlock |
-| 90 | Warlord |
-| 91 | Watchdog |
-| 92 | Wayfinder |
-| 93 | Weasel |
-| 94 | Whiskey |
-| 95 | Whisper |
-| 96 | Whiz |
-| 97 | Wildcard |
-| 98 | Wildcat |
-| 99 | Wingnut |
-| 100 | Wobbles |
+#### Table 5
 
-**Table 6 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Cog | Cogent | Coil | Coin | Coke | Cold |
+| 2 | Coldsnap | Combat | Combover | Comeback | Comedian | Comet |
+| 3 | Comfort | Comic | Commander | Compass | Compete | Competent |
+| 4 | Competitor | Complain | Complete | Complex | Composer | Composite |
+| 5 | Comrade | Conduit | Contact | Coral | Core | Corsair |
+| 6 | Count | Cove | Crack | Crag | Crank | Crash |
 
-| d10 | Result |
-|------|--------|
-| 1 | Wolf |
-| 2 | Wraith |
-| 3 | Wrench |
-| 4 | Wrongway |
-| 5 | Xylo |
-| 6 | Zenith |
-| 7 | Zephyr |
-| 8 | Zero |
-| 9 | Zodiac |
-| 10 | Zulu |
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creed | Crest | Cross | Crown | Crunch | Crusher |
+| 2 | Crust | Crypt | Crystal | Cube | Curb | Current |
+| 3 | Cutter | Cutthroat | Cycle | Dagger | Damper | Dancer |
+| 4 | Danger | Dart | Dash | Data | Deadeye | Deadlock |
+| 5 | Dealbreaker | Deathblow | Deathwish | Decay | Deck | Decree |
+| 6 | Deejay | Deep | Default | Defect | Degree | Delay |
+
+#### Table 7
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Delete | Delta | Demise | Demon | Dense | Depth |
+| 2 | Detail | Deuce | Devastate | Devastation | Device | Devil |
+| 3 | Devious | Devour | Dexter | Diablo | Dial | Diamond |
+| 4 | Diehard | Diesel | Digger | Digit | Dim | Dinker |
+| 5 | Diplomat | Dipstick | Direct | Dirge | Dirk | Dirt |
+| 6 | Dirtbag | Dirtnap | Disc | Discord | Dish | Disk |
+
+#### Table 8
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Dispatch | Disrupt | Dissolve | Distance | Ditch | Dive |
+| 2 | Divide | Doc | Domain | Dome | Dose | Double |
+| 3 | Down | Draft | Drag | Drain | Draw | Dream |
+| 4 | Drift | Drill | Drink | Drip | Drive | Drop |
+| 5 | Drum | Dry | Dual | Duct | Duke | Dull |
+| 6 | Dummy | Dump | Dune | Dust | Duty | Dynamo |
+
+#### Table 9
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Earl | Echo | Edge | Ember | Emerald | Enforcer |
+| 2 | Engine | Enigma | Failsafe | Farseer | Fast | Fidget |
+| 3 | Fire | Firestarter | Five | Fixer | Flare | Flash |
+| 4 | Flatline | Flicker | Flint | Flood | Flow | Flux |
+| 5 | Forge | Foxtrot | Frequency | Fridge | Frost | Fumbles |
+| 6 | Furnace | Fuse | Gadget | Gale | Garnet | Gate |
+
+#### Table 10
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gear | Gem | Ghost | Giggles | Gizmo | Glare |
+| 2 | Glass | Glint | Gloss | Glow | Gold | Goober |
+| 3 | Grit | Grudge | Gunfire | Gust | Gutshot | Hail |
+| 4 | Hammer | Harbor | Hard | Harrow | Havoc | Hazard |
+| 5 | Haze | Heatwave | Heavy | Hellion | Hex | Highroller |
+| 6 | Hopper | Hotshot | Hunter | Hush | Husk | Ice |
+
+#### Table 11
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Impulse | Inferno | Ion | Iron | Ironclad | Ironman |
+| 2 | Ironside | Jackpot | Jade | Jager | Jammer | Jasper |
+| 3 | Jester | Jetstream | Jewel | Jinx | Jockey | Joker |
+| 4 | Jostle | Judge | Jugular | Kaiser | Key | Kiln |
+| 5 | Kilo | King | Knight | Knockout | Knucklehead | Knuckles |
+| 6 | Lancer | Laser | Launchpad | Lead | Leadfoot | Ledger |
+
+#### Table 12
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lefty | Lever | Light | Lima | Lineman | Link |
+| 2 | Livewire | Lock | Longshot | Lord | Lucky | Lunchmeat |
+| 3 | Luster | Madman | Mainframe | Makeover | Mantle | Marauder |
+| 4 | Matte | Maverick | Meatball | Meathead | Mercury | Midnight |
+| 5 | Mimic | Minefield | Mischief | Mist | Mojo | Monarch |
+| 6 | Monsoon | Moonlight | Mortar | Moss | Mothball | Motor |
+
+#### Table 13
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mudslinger | Mumbles | Nadir | Nails | Narrator | Nemesis |
+| 2 | Nickel | Niner | Nitro | Nobody | Nomad | Noodle |
+| 3 | Nosedive | Nova | Nugget | Null | Numbskull | Nut |
+| 4 | Obsidian | Ogre | Omega | Omen | One | Onyx |
+| 5 | Opal | Operator | Opportunist | Oracle | Orbit | Oriel |
+| 6 | Orion | Orphan | Outlaw | Outpost | Outsider | Overload |
+
+#### Table 14
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Overtime | Packrat | Paladin | Paperboy | Paratrooper | Patches |
+| 2 | Patchwork | Pathfinder | Patriarch | Patrol | Pattern | Payback |
+| 3 | Peacemaker | Peak | Pearl | Pebbles | Peephole | Peewee |
+| 4 | Penthouse | Pepper | Periscope | Perp | Phantom | Phoenix |
+| 5 | Pin | Piper | Piston | Point | Potato | Prime |
+| 6 | Prince | Prof | Prophet | Pulse | Pyro | Quake |
+
+#### Table 15
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Quartz | Quickdraw | Quill | Radar | Rampart | Rascal |
+| 2 | Ray | Razor | Reaper | Rebel | Red | Reef |
+| 3 | Resonance | Rex | Ricochet | Ridge | Rift | Rime |
+| 4 | Ripple | Rivet | Rogue | Ronin | Rook | Rookie |
+| 5 | Rough | Rover | Royal | Ruby | Runner | Rust |
+| 6 | Sable | Sabotage | Samurai | Sapphire | Saw | Scorch |
+
+#### Table 16
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Scout | Screwball | Screwup | Sentinel | Seven | Shadow |
+| 2 | Shard | Sharp | Shell | Shield | Shiv | Shorty |
+| 3 | Shutdown | Sigma | Signal | Silver | Singe | Six |
+| 4 | Skipper | Skippy | Slack | Slash | Slate | Sleet |
+| 5 | Slick | Slope | Smiley | Smooth | Sneezy | Snipes |
+| 6 | Sovereign | Spark | Specter | Spike | Splinter | Squall |
+
+#### Table 17
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stalker | Stark | Static | Steel | Stinger | Storm |
+| 2 | Straggler | Striker | Stumpy | Summit | Surge | Swell |
+| 3 | Swindle | Tango | Tank | Tempest | Thorn | Three |
+| 4 | Thunder | Tide | Tinker | Tiny | Titan | Topaz |
+| 5 | Torch | Torque | Torrent | Touchdown | Trigger | Trooper |
+| 6 | Twitch | Two | Tycoon | Umber | Umbra | Vagabond |
+
+#### Table 18
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Valkyrie | Valve | Vanguard | Vapor | Vector | Vertigo |
+| 2 | Victor | Vigil | Void | Volt | Vortex | Vulcan |
+| 3 | Waddles | Wall | Warden | Warlock | Warlord | Watchdog |
+| 4 | Wave | Wayfinder | Weld | Whiskey | Whisper | Whiz |
+| 5 | Wildcard | Wingnut | Wobbles | Wraith | Wrench | Wrongway |
+| 6 | Xylo | Zenith | Zephyr | Zero | Zodiac | Zulu |
 

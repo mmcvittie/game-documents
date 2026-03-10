@@ -9,13 +9,84 @@ A streamlined, classless hack of EZD6
 ## Table of Contents
 
 - [Core Rules](#core-rules)
+  - [Core Mechanics](#core-mechanics)
+    - [Karma & Hero Dice](#karma-hero-dice)
+  - [Movement & Cover](#movement-cover)
+  - [Saves](#saves)
+  - [Conflict Scenes](#conflict-scenes)
+    - [Actions](#actions)
+    - [Reactions](#reactions)
+    - [Attacks](#attacks)
+  - [Conditions](#conditions)
 - [Character Creation](#character-creation)
 - [Abilities](#abilities)
+  - [Standard Abilities](#standard-abilities)
+    - [Combat Inclinations](#combat-inclinations)
+    - [Companion Inclinations](#companion-inclinations)
+    - [Firearm Inclinations](#firearm-inclinations)
+    - [High Tech Inclinations](#high-tech-inclinations)
+    - [Horror Inclinations](#horror-inclinations)
+    - [Karma Inclinations](#karma-inclinations)
+    - [Knowledge Inclinations](#knowledge-inclinations)
+    - [Mental Inclinations](#mental-inclinations)
+    - [Biological Mutations](#biological-mutations)
+    - [Physical Inclinations](#physical-inclinations)
+    - [Pulp Inclinations](#pulp-inclinations)
+    - [Social Inclinations](#social-inclinations)
+    - [Stealth Inclinations](#stealth-inclinations)
+    - [Vehicle Inclinations](#vehicle-inclinations)
+    - [Wilderness Inclinations](#wilderness-inclinations)
 - [Gear & Equipment](#gear-equipment)
+  - [Outfits](#outfits)
+  - [Melee Weapons](#melee-weapons)
+  - [Ranged Weapons](#ranged-weapons)
+  - [Consumables](#consumables)
+  - [Equipment](#equipment)
 - [Vehicles & Companions](#vehicles-companions)
+  - [Vehicles](#vehicles)
+  - [Vehicle Upgrades](#vehicle-upgrades)
+  - [Companions](#companions)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
+    - [Backgrounds](#backgrounds)
+      - [Table 1](#table-1)
+      - [Table 2](#table-2)
+      - [Table 3](#table-3)
+    - [Personality Traits](#personality-traits)
+      - [Table 1](#table-1-1)
+      - [Table 2](#table-2-1)
+      - [Table 3](#table-3-1)
+      - [Table 4](#table-4)
+      - [Table 5](#table-5)
+      - [Table 6](#table-6)
+    - [Mottos](#mottos)
+      - [Table 1](#table-1-2)
+      - [Table 2](#table-2-2)
+      - [Table 3](#table-3-2)
+    - [Secrets](#secrets)
+      - [Table 1](#table-1-3)
+      - [Table 2](#table-2-3)
+      - [Table 3](#table-3-3)
   - [Names](#names)
+    - [Nicknames Names](#nicknames-names)
+      - [Table 1](#table-1-4)
+      - [Table 2](#table-2-4)
+      - [Table 3](#table-3-4)
+      - [Table 4](#table-4-1)
+      - [Table 5](#table-5-1)
+      - [Table 6](#table-6-1)
+      - [Table 7](#table-7)
+      - [Table 8](#table-8)
+      - [Table 9](#table-9)
+      - [Table 10](#table-10)
+      - [Table 11](#table-11)
+      - [Table 12](#table-12)
+      - [Table 13](#table-13)
+      - [Table 14](#table-14)
+      - [Table 15](#table-15)
+      - [Table 16](#table-16)
+      - [Table 17](#table-17)
+      - [Table 18](#table-18)
 
 ## Core Rules
 
@@ -30,8 +101,8 @@ You start with *3 Karma and 1 Hero Dice* per session. You can add *Karma* to any
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
-### Taking Cover
-Being in/behind cover increases attacker *To-Hit* by cover grade: **Light +1:** foliage, furniture, low walls. **Medium +2:** barricades, building edges. **Heavy +3:** concrete, metal fortifications. Effects that explicitly ignore cover (for example explosives, fire, gas) bypass cover.
+
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -405,1193 +476,400 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 ## Aspects
 
-Aspects define who your character is beyond raw stats. Choose one from each category, or use the d100 tables to roll randomly.
+Aspects define who your character is beyond raw stats. Choose one from each category, or use the d6 tables to roll randomly.
 
 ### Backgrounds
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-| d100 | Result |
-|------|--------|
-| 1 | Wanderer |
-| 2 | Outcast |
-| 3 | Survivor |
-| 4 | Merchant |
-| 5 | Trader |
-| 6 | Artisan |
-| 7 | Craftsperson |
-| 8 | Healer |
-| 9 | Scout |
-| 10 | Guide |
-| 11 | Hunter |
-| 12 | Tracker |
-| 13 | Scavenger |
-| 14 | Laborer |
-| 15 | Apprentice |
-| 16 | Teacher |
-| 17 | Student |
-| 18 | Storyteller |
-| 19 | Entertainer |
-| 20 | Cook |
-| 21 | Innkeeper |
-| 22 | Bodyguard |
-| 23 | Mercenary |
-| 24 | Soldier |
-| 25 | Veteran |
-| 26 | Spy |
-| 27 | Courier |
-| 28 | Messenger |
-| 29 | Diplomat |
-| 30 | Negotiator |
-| 31 | Scholar |
-| 32 | Archivist |
-| 33 | Librarian |
-| 34 | Historian |
-| 35 | Inventor |
-| 36 | Engineer |
-| 37 | Tinkerer |
-| 38 | Gambler |
-| 39 | Smuggler |
-| 40 | Thief |
-| 41 | Con Artist |
-| 42 | Fence |
-| 43 | Bounty Hunter |
-| 44 | Explorer |
-| 45 | Cartographer |
-| 46 | Navigator |
-| 47 | Sailor |
-| 48 | Fisher |
-| 49 | Farmer |
-| 50 | Rancher |
-| 51 | Herder |
-| 52 | Beast Handler |
-| 53 | Animal Trainer |
-| 54 | Hermit |
-| 55 | Exile |
-| 56 | Refugee |
-| 57 | Orphan |
-| 58 | Street Urchin |
-| 59 | Nobility |
-| 60 | Fallen Noble |
-| 61 | Servant |
-| 62 | Worker |
-| 63 | Foreman |
-| 64 | Guard |
-| 65 | Sentry |
-| 66 | Protector |
-| 67 | Caretaker |
-| 68 | Medic |
-| 69 | Poisoner |
-| 70 | Assassin |
-| 71 | Infiltrator |
-| 72 | Saboteur |
-| 73 | Revolutionary |
-| 74 | Rebel |
-| 75 | Loyalist |
-| 76 | Patriot |
-| 77 | Deserter |
-| 78 | Turncoat |
-| 79 | Fugitive |
-| 80 | Prisoner |
-| 81 | Escapee |
-| 82 | Vagabond |
-| 83 | Drifter |
-| 84 | Nomad |
-| 85 | Pilgrim |
-| 86 | Seeker |
-| 87 | Mystic |
-| 88 | Visionary |
-| 89 | Prophet |
-| 90 | Cultist |
-| 91 | Believer |
-| 92 | Skeptic |
-| 93 | Philosopher |
-| 94 | Poet |
-| 95 | Artist |
-| 96 | Musician |
-| 97 | Dancer |
-| 98 | Mediator |
-| 99 | Researcher |
-| 100 | Specialist |
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Wanderer | Outcast | Survivor | Merchant | Trader | Artisan |
+| 2 | Craftsperson | Healer | Scout | Guide | Hunter | Tracker |
+| 3 | Scavenger | Laborer | Apprentice | Teacher | Student | Storyteller |
+| 4 | Entertainer | Cook | Innkeeper | Bodyguard | Mercenary | Soldier |
+| 5 | Veteran | Spy | Courier | Messenger | Diplomat | Negotiator |
+| 6 | Scholar | Archivist | Librarian | Historian | Inventor | Engineer |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Tinkerer | Gambler | Smuggler | Thief | Con Artist | Fence |
+| 2 | Bounty Hunter | Explorer | Cartographer | Navigator | Sailor | Fisher |
+| 3 | Farmer | Rancher | Herder | Beast Handler | Animal Trainer | Hermit |
+| 4 | Exile | Refugee | Orphan | Street Urchin | Nobility | Fallen Noble |
+| 5 | Servant | Worker | Foreman | Guard | Sentry | Protector |
+| 6 | Caretaker | Medic | Poisoner | Assassin | Infiltrator | Saboteur |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Revolutionary | Rebel | Loyalist | Patriot | Deserter | Turncoat |
+| 2 | Fugitive | Prisoner | Escapee | Vagabond | Drifter | Nomad |
+| 3 | Pilgrim | Seeker | Mystic | Visionary | Prophet | Cultist |
+| 4 | Believer | Skeptic | Philosopher | Poet | Artist | Musician |
+| 5 | Dancer | Mediator | Researcher | Specialist | Builder | Curator |
+| 6 | Fixer | Observer | Planner | Porter | Quartermaster | Responder |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Adaptable |
-| 2 | Affable |
-| 3 | Alert |
-| 4 | Ambitious |
-| 5 | Analytical |
-| 6 | Anchored |
-| 7 | Appreciative |
-| 8 | Articulate |
-| 9 | Assertive |
-| 10 | Attentive |
-| 11 | Balanced |
-| 12 | Benevolent |
-| 13 | Bold |
-| 14 | Brave |
-| 15 | Calm |
-| 16 | Candid |
-| 17 | Capable |
-| 18 | Careful |
-| 19 | Caring |
-| 20 | Centered |
-| 21 | Charismatic |
-| 22 | Cheerful |
-| 23 | Civic Minded |
-| 24 | Clear Eyed |
-| 25 | Clear Spoken |
-| 26 | Clever |
-| 27 | Compassionate |
-| 28 | Composed |
-| 29 | Confident |
-| 30 | Conscientious |
-| 31 | Consistent |
-| 32 | Constructive |
-| 33 | Courageous |
-| 34 | Courteous |
-| 35 | Creative |
-| 36 | Credible |
-| 37 | Curious |
-| 38 | Daring |
-| 39 | Decisive |
-| 40 | Dedicated |
-| 41 | Dependable |
-| 42 | Diplomatic |
-| 43 | Direct |
-| 44 | Disciplined |
-| 45 | Discerning |
-| 46 | Driven |
-| 47 | Earnest |
-| 48 | Easygoing |
-| 49 | Eloquent |
-| 50 | Empathetic |
-| 51 | Energetic |
-| 52 | Engaged |
-| 53 | Equitable |
-| 54 | Ethical |
-| 55 | Even Tempered |
-| 56 | Fair |
-| 57 | Faithful |
-| 58 | Fearless |
-| 59 | Flexible |
-| 60 | Focused |
-| 61 | Forgiving |
-| 62 | Forthright |
-| 63 | Friendly |
-| 64 | Gallant |
-| 65 | Generous |
-| 66 | Gentle |
-| 67 | Genuine |
-| 68 | Graceful |
-| 69 | Gracious |
-| 70 | Grounded |
-| 71 | Hardy |
-| 72 | Helpful |
-| 73 | Honest |
-| 74 | Honorable |
-| 75 | Humble |
-| 76 | Humorous |
-| 77 | Idealistic |
-| 78 | Imaginative |
-| 79 | Impartial |
-| 80 | Independent |
-| 81 | Industrious |
-| 82 | Insightful |
-| 83 | Intentional |
-| 84 | Intuitive |
-| 85 | Inventive |
-| 86 | Jovial |
-| 87 | Judicious |
-| 88 | Keen |
-| 89 | Kind |
-| 90 | Level Headed |
-| 91 | Logical |
-| 92 | Loyal |
-| 93 | Measured |
-| 94 | Methodical |
-| 95 | Meticulous |
-| 96 | Mindful |
-| 97 | Modest |
-| 98 | Motivated |
-| 99 | Nimble |
-| 100 | Noble |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adaptable | Accommodating | Affable | Alert | Ambitious | Analytical |
+| 2 | Anchored | Appreciative | Articulate | Assertive | Attentive | Balanced |
+| 3 | Benevolent | Big Hearted | Bold | Brave | Calm | Candid |
+| 4 | Capable | Careful | Caring | Centered | Charismatic | Cheerful |
+| 5 | Civic Minded | Clear Eyed | Clear Spoken | Clever | Compassionate | Composed |
+| 6 | Confident | Conscientious | Consistent | Constructive | Courageous | Courteous |
 
-| d100 | Result |
-|------|--------|
-| 1 | Observant |
-| 2 | Open Minded |
-| 3 | Optimistic |
-| 4 | Orderly |
-| 5 | Organized |
-| 6 | Original |
-| 7 | Patient |
-| 8 | Perceptive |
-| 9 | Persistent |
-| 10 | Persuasive |
-| 11 | Playful |
-| 12 | Poised |
-| 13 | Polished |
-| 14 | Practical |
-| 15 | Pragmatic |
-| 16 | Precise |
-| 17 | Principled |
-| 18 | Proactive |
-| 19 | Protective |
-| 20 | Prudent |
-| 21 | Quick Witted |
-| 22 | Rational |
-| 23 | Realistic |
-| 24 | Reflective |
-| 25 | Reliable |
-| 26 | Resilient |
-| 27 | Resolute |
-| 28 | Resourceful |
-| 29 | Respectful |
-| 30 | Responsible |
-| 31 | Self Aware |
-| 32 | Self Controlled |
-| 33 | Selfless |
-| 34 | Sensible |
-| 35 | Serene |
-| 36 | Sharp |
-| 37 | Sincere |
-| 38 | Sociable |
-| 39 | Solid |
-| 40 | Steadfast |
-| 41 | Strategic |
-| 42 | Studious |
-| 43 | Subtle |
-| 44 | Supportive |
-| 45 | Tactful |
-| 46 | Tenacious |
-| 47 | Thoughtful |
-| 48 | Tolerant |
-| 49 | Trustworthy |
-| 50 | Unassuming |
-| 51 | Understanding |
-| 52 | Uplifting |
-| 53 | Valiant |
-| 54 | Vigilant |
-| 55 | Warm |
-| 56 | Welcoming |
-| 57 | Wholehearted |
-| 58 | Wise |
-| 59 | Witty |
-| 60 | Worldly |
-| 61 | Zealous |
-| 62 | Agreeable |
-| 63 | Astute |
-| 64 | Compliant |
-| 65 | Dutiful |
-| 66 | Frank |
-| 67 | Good Natured |
-| 68 | High Spirited |
-| 69 | Hopeful |
-| 70 | Impassioned |
-| 71 | Influential |
-| 72 | Inquisitive |
-| 73 | Lively |
-| 74 | Merciful |
-| 75 | Merry |
-| 76 | Objective |
-| 77 | Outgoing |
-| 78 | Pensive |
-| 79 | Quietly Confident |
-| 80 | Receptive |
-| 81 | Reserved |
-| 82 | Self Reliant |
-| 83 | Steady |
-| 84 | Tidy |
-| 85 | Unflappable |
-| 86 | Versatile |
-| 87 | Watchful |
-| 88 | Well Mannered |
-| 89 | Willful |
-| 90 | Worthy |
-| 91 | Considerate |
-| 92 | Convivial |
-| 93 | Dispassionate |
-| 94 | Down To Earth |
-| 95 | Evenhanded |
-| 96 | Hospitable |
-| 97 | Nonreactive |
-| 98 | Openhearted |
-| 99 | Self Directed |
-| 100 | Stable |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creative | Credible | Curious | Daring | Decisive | Dedicated |
+| 2 | Dependable | Diplomatic | Direct | Disciplined | Discerning | Driven |
+| 3 | Earnest | Easygoing | Eloquent | Empathetic | Energetic | Engaged |
+| 4 | Equitable | Ethical | Even Keeled | Even Tempered | Fair | Faithful |
+| 5 | Fearless | Flexible | Focused | Forgiving | Forthright | Friendly |
+| 6 | Gallant | Generous | Gentle | Genuine | Graceful | Gracious |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grounded | Hardy | Helpful | Honest | Honorable | Humble |
+| 2 | Humorous | Idealistic | Imaginative | Impartial | Independent | Industrious |
+| 3 | Insightful | Intentional | Intuitive | Inventive | Jovial | Judicious |
+| 4 | Keen | Kind | Level Headed | Logical | Loyal | Measured |
+| 5 | Methodical | Meticulous | Mindful | Modest | Motivated | Nimble |
+| 6 | Noble | Observant | Open Minded | Optimistic | Orderly | Organized |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Original | Patient | Perceptive | Persistent | Persuasive | Playful |
+| 2 | Poised | Polished | Practical | Pragmatic | Precise | Principled |
+| 3 | Proactive | Protective | Prudent | Quick Witted | Rational | Realistic |
+| 4 | Reflective | Reliable | Resilient | Resolute | Resourceful | Respectful |
+| 5 | Responsible | Self Aware | Self Controlled | Selfless | Sensible | Serene |
+| 6 | Sharp | Sincere | Sociable | Solid | Steadfast | Strategic |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Studious | Subtle | Supportive | Tactful | Tenacious | Thoughtful |
+| 2 | Tolerant | Trustworthy | Unassuming | Understanding | Uplifting | Valiant |
+| 3 | Vigilant | Warm | Welcoming | Wholehearted | Wise | Witty |
+| 4 | Worldly | Zealous | Agreeable | Astute | Compliant | Dutiful |
+| 5 | Frank | Good Humored | Good Natured | High Spirited | Hopeful | Impassioned |
+| 6 | Influential | Inquisitive | Lively | Merciful | Merry | Objective |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outgoing | Pensive | Quietly Confident | Receptive | Reserved | Self Reliant |
+| 2 | Steady | Tidy | Unflappable | Versatile | Watchful | Well Mannered |
+| 3 | Willful | Worthy | Considerate | Convivial | Dispassionate | Down To Earth |
+| 4 | Evenhanded | Hospitable | Nonreactive | Openhearted | Self Directed | Stable |
+| 5 | Cooperative | Deliberate | Devoted | Farsighted | Neighborly | Reasonable |
+| 6 | Reassuring | Self Possessed | Soft Spoken | Stalwart | Tender Hearted | Visionary |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-| d100 | Result |
-|------|--------|
-| 1 | Actions speak louder than words. |
-| 2 | Never give up. |
-| 3 | Trust no one. |
-| 4 | Trust your instincts. |
-| 5 | Hope for the best, prepare for the worst. |
-| 6 | Fortune favors the bold. |
-| 7 | Better safe than sorry. |
-| 8 | Live and let live. |
-| 9 | An eye for an eye. |
-| 10 | Do unto others. |
-| 11 | Every person for themselves. |
-| 12 | We're in this together. |
-| 13 | Know when to hold 'em, know when to fold 'em. |
-| 14 | Strike first, ask questions later. |
-| 15 | Nothing ventured, nothing gained. |
-| 16 | The ends justify the means. |
-| 17 | The road to hell is paved with good intentions. |
-| 18 | What doesn't kill you makes you stronger. |
-| 19 | Knowledge is power. |
-| 20 | Might makes right. |
-| 21 | There's no honor among thieves. |
-| 22 | A promise is a promise. |
-| 23 | Seize the day. |
-| 24 | Patience is a virtue. |
-| 25 | If you want something done right, do it yourself. |
-| 26 | United we stand, divided we fall. |
-| 27 | Keep your friends close and your enemies closer. |
-| 28 | Revenge is a dish best served cold. |
-| 29 | Never forgive, never forget. |
-| 30 | Blood is thicker than water. |
-| 31 | Family first. |
-| 32 | The truth will set you free. |
-| 33 | Honesty is the best policy. |
-| 34 | All's fair in love and war. |
-| 35 | Pride goes before a fall. |
-| 36 | Never show weakness. |
-| 37 | Stand your ground. |
-| 38 | Discretion is the better part of valor. |
-| 39 | No sacrifice, no victory. |
-| 40 | The needs of the many outweigh the needs of the few. |
-| 41 | Look out for number one. |
-| 42 | Do no harm. |
-| 43 | Survival of the fittest. |
-| 44 | Adapt or die. |
-| 45 | Change is the only constant. |
-| 46 | This too shall pass. |
-| 47 | What goes around comes around. |
-| 48 | You reap what you sow. |
-| 49 | Make your own luck. |
-| 50 | Everything happens for a reason. |
-| 51 | Expect the unexpected. |
-| 52 | Stay alert, stay alive. |
-| 53 | Never let them see you sweat. |
-| 54 | Keep calm and carry on. |
-| 55 | Live to fight another day. |
-| 56 | Death before dishonor. |
-| 57 | Whatever it takes. |
-| 58 | By any means necessary. |
-| 59 | The mission comes first. |
-| 60 | No one gets left behind. |
-| 61 | I work alone. |
-| 62 | If it ain't broke, don't fix it. |
-| 63 | Measure twice, cut once. |
-| 64 | Question everything. |
-| 65 | Follow orders. |
-| 66 | Rules are made to be broken. |
-| 67 | Honor above all. |
-| 68 | Survival above all. |
-| 69 | Never tell me the odds. |
-| 70 | Embrace the chaos. |
-| 71 | Never surrender. |
-| 72 | Know when to quit. |
-| 73 | The best defense is a good offense. |
-| 74 | Strike while the iron is hot. |
-| 75 | The bigger they are, the harder they fall. |
-| 76 | Speak softly and carry a big stick. |
-| 77 | Actions have consequences. |
-| 78 | No regrets. |
-| 79 | Learn from your mistakes. |
-| 80 | Once bitten, twice shy. |
-| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 82 | Lead by example. |
-| 83 | Be useful. |
-| 84 | Finish what you start. |
-| 85 | Grace under pressure. |
-| 86 | Stay teachable. |
-| 87 | No panic, just priorities. |
-| 88 | Truth over comfort. |
-| 89 | Aim true. |
-| 90 | Own the outcome. |
-| 91 | Respond, don't react. |
-| 92 | Prepared is powerful. |
-| 93 | Keep your edge. |
-| 94 | Discipline buys freedom. |
-| 95 | Raise your standards quietly. |
-| 96 | Protect the vulnerable. |
-| 97 | Simple is strong. |
-| 98 | Own your mistakes quickly. |
-| 99 | Steady wins storms. |
-| 100 | Leave it better. |
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Actions speak louder than words. | Never give up. | Trust no one. | Trust your instincts. | Hope for the best, prepare for the worst. | Fortune favors the bold. |
+| 2 | Better safe than sorry. | Live and let live. | An eye for an eye. | Do unto others. | Every person for themselves. | We're in this together. |
+| 3 | Know when to hold 'em, know when to fold 'em. | Strike first, ask questions later. | Nothing ventured, nothing gained. | The ends justify the means. | The road to hell is paved with good intentions. | What doesn't kill you makes you stronger. |
+| 4 | Knowledge is power. | Might makes right. | There's no honor among thieves. | A promise is a promise. | Seize the day. | Patience is a virtue. |
+| 5 | If you want something done right, do it yourself. | United we stand, divided we fall. | Keep your friends close and your enemies closer. | Revenge is a dish best served cold. | Never forgive, never forget. | Blood is thicker than water. |
+| 6 | Family first. | The truth will set you free. | Honesty is the best policy. | All's fair in love and war. | Pride goes before a fall. | Never show weakness. |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stand your ground. | Discretion is the better part of valor. | No sacrifice, no victory. | The needs of the many outweigh the needs of the few. | Look out for number one. | Do no harm. |
+| 2 | Survival of the fittest. | Adapt or die. | Change is the only constant. | This too shall pass. | What goes around comes around. | You reap what you sow. |
+| 3 | Make your own luck. | Everything happens for a reason. | Expect the unexpected. | Stay alert, stay alive. | Never let them see you sweat. | Keep calm and carry on. |
+| 4 | Live to fight another day. | Death before dishonor. | Whatever it takes. | By any means necessary. | The mission comes first. | No one gets left behind. |
+| 5 | I work alone. | If it ain't broke, don't fix it. | Measure twice, cut once. | Question everything. | Follow orders. | Rules are made to be broken. |
+| 6 | Honor above all. | Survival above all. | Never tell me the odds. | Embrace the chaos. | Never surrender. | Know when to quit. |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | The best defense is a good offense. | Strike while the iron is hot. | The bigger they are, the harder they fall. | Speak softly and carry a big stick. | Actions have consequences. | No regrets. |
+| 2 | Learn from your mistakes. | Once bitten, twice shy. | Fool me once, shame on you. Fool me twice, shame on me. | Lead by example. | Be useful. | Finish what you start. |
+| 3 | Grace under pressure. | Stay teachable. | No panic, just priorities. | Truth over comfort. | Aim true. | Own the outcome. |
+| 4 | Respond, don't react. | Prepared is powerful. | Keep your edge. | Discipline buys freedom. | Raise your standards quietly. | Protect the vulnerable. |
+| 5 | Simple is strong. | Own your mistakes quickly. | Steady wins storms. | Leave it better. | Do the hard right thing. | Stay kind, stay dangerous. |
+| 6 | Make yourself useful before you make yourself known. | Nothing improves by avoiding it. | If you can help, help. | Earn trust in small moments. | A steady hand changes outcomes. | Courage is a habit. |
 
 ### Secrets
 
 Roll or choose a Secret: something your character hides from the world. A source of vulnerability, guilt, or dangerous knowledge.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Terrible Secret |
-| 2 | Dark Past |
-| 3 | Hidden Identity |
-| 4 | False Identity |
-| 5 | Assumed Name |
-| 6 | Wanted Criminal |
-| 7 | Former Slave |
-| 8 | Escaped Prisoner |
-| 9 | Deserter |
-| 10 | Traitor |
-| 11 | Turncoat |
-| 12 | Double Agent |
-| 13 | Deep Cover |
-| 14 | Witness to Atrocity |
-| 15 | Survivor's Guilt |
-| 16 | Blood Debt |
-| 17 | Unpaid Debt |
-| 18 | Sworn Oath |
-| 19 | Broken Vow |
-| 20 | Betrayed Trust |
-| 21 | Betrayed Ally |
-| 22 | Abandoned Comrade |
-| 23 | Left for Dead |
-| 24 | Sole Survivor |
-| 25 | Last of Their Kind |
-| 26 | Cursed Bloodline |
-| 27 | Marked for Death |
-| 28 | Hunted |
-| 29 | Price on Head |
-| 30 | Vendetta |
-| 31 | Secret Grudge |
-| 32 | Hidden Agenda |
-| 33 | Secret Mission |
-| 34 | Undercover |
-| 35 | Sleeper Agent |
-| 36 | Forbidden Knowledge |
-| 37 | Dangerous Discovery |
-| 38 | Witnessed Conspiracy |
-| 39 | Knows Too Much |
-| 40 | Blackmailed |
-| 41 | Compromised |
-| 42 | Secret Weakness |
-| 43 | Hidden Disability |
-| 44 | Concealed Illness |
-| 45 | Terminal Condition |
-| 46 | Addiction |
-| 47 | Dependency |
-| 48 | Secret Love |
-| 49 | Forbidden Romance |
-| 50 | Star-Crossed Lover |
-| 51 | Secret Child |
-| 52 | Hidden Family |
-| 53 | Disowned |
-| 54 | Illegitimate Heir |
-| 55 | Secret Royalty |
-| 56 | Hidden Noble |
-| 57 | False Commoner |
-| 58 | Imposter |
-| 59 | Fraud |
-| 60 | Charlatan |
-| 61 | Fake Credentials |
-| 62 | Stolen Identity |
-| 63 | Body Double |
-| 64 | Doppelganger |
-| 65 | Secret Twin |
-| 66 | Split Personality |
-| 67 | Possessed |
-| 68 | Haunted |
-| 69 | Cursed |
-| 70 | Damned |
-| 71 | Soul Bargain |
-| 72 | Devil's Deal |
-| 73 | Blood Pact |
-| 74 | Dark Covenant |
-| 75 | Secret Society Member |
-| 76 | Cult Initiate |
-| 77 | Heretic |
-| 78 | Apostate |
-| 79 | Lost Faith |
-| 80 | Secret Believer |
-| 81 | Closet Fanatic |
-| 82 | Zealot in Hiding |
-| 83 | Reformed Criminal |
-| 84 | Former Assassin |
-| 85 | Ex-Torturer |
-| 86 | War Criminal |
-| 87 | Mass Murderer |
-| 88 | Secret Prankster |
-| 89 | Staged a Dramatic Duel |
-| 90 | Ruined a Family Feast on Purpose |
-| 91 | Impersonated Royalty for a Night |
-| 92 | Sold a Family Heirloom in Secret |
-| 93 | Accidental Killer |
-| 94 | Mercy Killer |
-| 95 | Self-Defense Killer |
-| 96 | Never Killed |
-| 97 | Secret Pacifist |
-| 98 | Hidden Coward |
-| 99 | False Hero |
-| 100 | Unearned Glory |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Terrible Secret | Dark Past | Hidden Identity | False Identity | Assumed Name | Wanted Criminal |
+| 2 | Former Slave | Escaped Prisoner | Deserter | Traitor | Turncoat | Witness to Atrocity |
+| 3 | Survivor's Guilt | Blood Debt | Unpaid Debt | Sworn Oath | Broken Vow | Betrayed Trust |
+| 4 | Betrayed Ally | Abandoned Comrade | Left for Dead | Sole Survivor | Last of Their Kind | Cursed Bloodline |
+| 5 | Marked for Death | Hunted | Price on Head | Vendetta | Secret Grudge | Hidden Agenda |
+| 6 | Secret Mission | Forbidden Knowledge | Dangerous Discovery | Witnessed Conspiracy | Knows Too Much | Blackmailed |
 
-| d100 | Result |
-|------|--------|
-| 1 | Stolen Valor |
-| 2 | Credit Thief |
-| 3 | Plagiarist |
-| 4 | Art Forger |
-| 5 | Document Faker |
-| 6 | Identity Thief |
-| 7 | Embezzler |
-| 8 | Thief |
-| 9 | Smuggler |
-| 10 | Black Marketeer |
-| 11 | Fence |
-| 12 | Receiver of Stolen Goods |
-| 13 | Grave Robber |
-| 14 | Relic Thief |
-| 15 | Artifact Smuggler |
-| 16 | Secret Hoarder |
-| 17 | Hidden Wealth |
-| 18 | Treasure Map Keeper |
-| 19 | Location of Riches Known |
-| 20 | Guardian of Secret |
-| 21 | Keeper of Knowledge |
-| 22 | Sole Witness |
-| 23 | Only Survivor Who Knows |
-| 24 | Confessed to the Wrong Crime |
-| 25 | Owes a Favor to a Blackmailer |
-| 26 | Hid a Body No One Found |
-| 27 | Let an Innocent Take the Fall |
-| 28 | Knows Where the Missing Witness Is |
-| 29 | Signed a False Statement |
-| 30 | Carries Evidence They Never Turned In |
-| 31 | Burned the Only Copy |
-| 32 | Secretly Related to the Antagonist |
-| 33 | Keeps a Forbidden Correspondence |
-| 34 | Broke Quarantine and Lied About It |
-| 35 | Took Bribe Money and Buried It |
-| 36 | Planted the Weapon |
-| 37 | Altered the Official Timeline |
-| 38 | Destroyed Incriminating Evidence |
-| 39 | Lied to a Dying Person |
-| 40 | Promised Protection and Failed |
-| 41 | Faked an Alibi for Family |
-| 42 | Opened the Door to the Killer |
-| 43 | Left Before the Explosion |
-| 44 | Knows the Safe Combination |
-| 45 | Hides a Second Identity Document |
-| 46 | Smuggled Someone Across the Border |
-| 47 | Secretly Married an Enemy |
-| 48 | Owes Debt to a Loan Shark |
-| 49 | Keeps Two Sets of Books |
-| 50 | Embezzled Relief Funds |
-| 51 | Collected Blood Money |
-| 52 | Took a Ring from the Dead |
-| 53 | Sold Names to Hunters |
-| 54 | Gave False Testimony |
-| 55 | Broke a Ceasefire First |
-| 56 | Started a Rumor That Got Someone Killed |
-| 57 | Hid the Antidote |
-| 58 | Stole a Cure Shipment |
-| 59 | Chose Who Got the Last Seat |
-| 60 | Sabotaged a Vital Mechanism |
-| 61 | Sabotaged Emergency Systems |
-| 62 | Framed a Rival with Forged Letters |
-| 63 | Knows the Escape Route |
-| 64 | Opened a Sealed Archive |
-| 65 | Defied Evacuation Orders |
-| 66 | Left a Child Behind |
-| 67 | Secretly Supports Both Sides |
-| 68 | Hid a Lover in Enemy Territory |
-| 69 | Leaked a Battle Plan |
-| 70 | Took an Oath Under Duress |
-| 71 | Has a Child with a Disgraced Leader |
-| 72 | Helped a Fugitive Change Identity |
-| 73 | Turned Off the Alarm |
-| 74 | Took Payment to Stay Silent |
-| 75 | Stashed Contraband in a Shrine |
-| 76 | Covered a Friend's Fatal Mistake |
-| 77 | Lied About Being There |
-| 78 | Accepted a Medal They Didn't Earn |
-| 79 | Kept a Map from the Team |
-| 80 | Falsified Medical Records |
-| 81 | Gave the Wrong Coordinates on Purpose |
-| 82 | Destroyed a Family Will |
-| 83 | Withheld a Critical Warning |
-| 84 | Knows the Key Passphrase |
-| 85 | Hides a Poison Recipe |
-| 86 | Secretly Cannot Read Official Script |
-| 87 | Forged a Signature That Changed History |
-| 88 | Keeps the Last Key |
-| 89 | Was the Anonymous Informant |
-| 90 | Knows Who Started the Fire |
-| 91 | Hid in Safety While Others Fought |
-| 92 | Broke Into a Vault for Love Letters |
-| 93 | Smuggled Messages in Sacred Texts |
-| 94 | Manipulated a Final Tally |
-| 95 | Made a Promise to the Villain |
-| 96 | Saw the Truth and Stayed Quiet |
-| 97 | Invented a Heroic Story That Stuck |
-| 98 | Keeps a Confession Letter Unsent |
-| 99 | Secretly Owns the Deed |
-| 100 | Chose the Spotlight Over Duty |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Compromised | Secret Weakness | Hidden Disability | Concealed Illness | Terminal Condition | Addiction |
+| 2 | Dependency | Secret Love | Forbidden Romance | Star-Crossed Lover | Secret Child | Hidden Family |
+| 3 | Disowned | Illegitimate Heir | Secret Royalty | Hidden Noble | False Commoner | Imposter |
+| 4 | Fraud | Charlatan | Fake Credentials | Stolen Identity | Body Double | Secret Twin |
+| 5 | Split Personality | Haunted | Cursed | Damned | Blood Pact | Secret Society Member |
+| 6 | Cult Initiate | Heretic | Apostate | Lost Faith | Secret Believer | Closet Fanatic |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Zealot in Hiding | Reformed Criminal | Former Assassin | Ex-Torturer | War Criminal | Mass Murderer |
+| 2 | Accidental Killer | Mercy Killer | Self-Defense Killer | Never Killed | Secret Pacifist | Hidden Coward |
+| 3 | False Hero | Unearned Glory | Stolen Valor | Credit Thief | Plagiarist | Art Forger |
+| 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
+| 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
+| 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Nicknames Forenames / Given Names
+### Nicknames Names
 
-**Table 1 of 6**
+Roll **1d18** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Ace |
-| 2 | Actual |
-| 3 | Albatross |
-| 4 | Alpha |
-| 5 | Amber |
-| 6 | Amethyst |
-| 7 | Anchor |
-| 8 | Angler |
-| 9 | Anvil |
-| 10 | Apex |
-| 11 | Avalanche |
-| 12 | Avenger |
-| 13 | Axle |
-| 14 | Badger |
-| 15 | Ballistic |
-| 16 | BamBam |
-| 17 | Bandit |
-| 18 | Banshee |
-| 19 | Baron |
-| 20 | Barrel |
-| 21 | Basecamp |
-| 22 | Bash |
-| 23 | Basilisk |
-| 24 | Beatdown |
-| 25 | Bedrock |
-| 26 | Biggs |
-| 27 | Bingo |
-| 28 | Birdie |
-| 29 | Biscuit |
-| 30 | Blackbird |
-| 31 | Blade |
-| 32 | Blaze |
-| 33 | Blink |
-| 34 | Blitz |
-| 35 | Bloodshot |
-| 36 | Bluewing |
-| 37 | Bolt |
-| 38 | Bonehead |
-| 39 | Bones |
-| 40 | Bonfire |
-| 41 | Book |
-| 42 | Boomer |
-| 43 | Boomstick |
-| 44 | Brass |
-| 45 | Bravo |
-| 46 | Breaker |
-| 47 | Breeze |
-| 48 | Brick |
-| 49 | Brisk |
-| 50 | Brute |
-| 51 | Bubbles |
-| 52 | Buck |
-| 53 | Buckle |
-| 54 | Buckshot |
-| 55 | Buddy |
-| 56 | Bullet |
-| 57 | Bullseye |
-| 58 | Bumper |
-| 59 | Bunker |
-| 60 | Burnout |
-| 61 | Buzz |
-| 62 | Buzzard |
-| 63 | Caboose |
-| 64 | Cairn |
-| 65 | Cakewalk |
-| 66 | Candystick |
-| 67 | Cannonball |
-| 68 | Captain |
-| 69 | Carmine |
-| 70 | Cartridge |
-| 71 | Cascade |
-| 72 | Cashew |
-| 73 | Castle |
-| 74 | Catalyst |
-| 75 | Catcher |
-| 76 | Catfish |
-| 77 | Caveman |
-| 78 | Centurion |
-| 79 | Chalk |
-| 80 | Challenger |
-| 81 | Champion |
-| 82 | Chaos |
-| 83 | Charger |
-| 84 | Charm |
-| 85 | Checkmate |
-| 86 | Cheerio |
-| 87 | Cherokee |
-| 88 | Chestnut |
-| 89 | Cheyenne |
-| 90 | Chieftain |
-| 91 | Chilly |
-| 92 | Chimera |
-| 93 | Chip |
-| 94 | Chisel |
-| 95 | Chops |
-| 96 | Chowder |
-| 97 | Chrome |
-| 98 | Chuckles |
-| 99 | Chunk |
-| 100 | Cipher |
+#### Table 1
 
-**Table 2 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ace | Actual | Aegis | Alpha | Amber | Amethyst |
+| 2 | Anchor | Anvil | Apex | Arc | Artifact | Ash |
+| 3 | Astray | Avalanche | Avenger | Axle | Ballistic | BamBam |
+| 4 | Bandit | Banshee | Baron | Barrel | Basecamp | Bash |
+| 5 | Basin | Bastion | Beam | Beatdown | Bedrock | Biggs |
+| 6 | Binary | Bingo | Biscuit | Bit | Black | Blade |
 
-| d100 | Result |
-|------|--------|
-| 1 | Circuit |
-| 2 | Clank |
-| 3 | Clasp |
-| 4 | Cleric |
-| 5 | Clever |
-| 6 | Click |
-| 7 | Climber |
-| 8 | Clincher |
-| 9 | Cloak |
-| 10 | Cobalt |
-| 11 | Cobra |
-| 12 | Cocktail |
-| 13 | Cocky |
-| 14 | Codger |
-| 15 | Coercer |
-| 16 | Coffin |
-| 17 | Cogent |
-| 18 | Coin |
-| 19 | Coke |
-| 20 | Coldsnap |
-| 21 | Colt |
-| 22 | Comanche |
-| 23 | Combat |
-| 24 | Combover |
-| 25 | Comeback |
-| 26 | Comedian |
-| 27 | Comet |
-| 28 | Comfort |
-| 29 | Comic |
-| 30 | Commander |
-| 31 | Compass |
-| 32 | Compete |
-| 33 | Competent |
-| 34 | Competitor |
-| 35 | Complain |
-| 36 | Complaint |
-| 37 | Complete |
-| 38 | Complex |
-| 39 | Compliant |
-| 40 | Composer |
-| 41 | Composite |
-| 42 | Comrade |
-| 43 | Coral |
-| 44 | Corsair |
-| 45 | Count |
-| 46 | Cove |
-| 47 | Crash |
-| 48 | Cricket |
-| 49 | Crown |
-| 50 | Crusher |
-| 51 | Crystal |
-| 52 | Cutter |
-| 53 | Cutthroat |
-| 54 | Cypher |
-| 55 | Dagger |
-| 56 | Dancer |
-| 57 | Danger |
-| 58 | Dart |
-| 59 | Dash |
-| 60 | Deadeye |
-| 61 | Dealbreaker |
-| 62 | Deathblow |
-| 63 | Deathwish |
-| 64 | Deejay |
-| 65 | Deep |
-| 66 | Delta |
-| 67 | Demise |
-| 68 | Demon |
-| 69 | Deuce |
-| 70 | Devastate |
-| 71 | Devastation |
-| 72 | Devil |
-| 73 | Devious |
-| 74 | Devour |
-| 75 | Dexter |
-| 76 | Diablo |
-| 77 | Diamond |
-| 78 | Diehard |
-| 79 | Diesel |
-| 80 | Digger |
-| 81 | Dingo |
-| 82 | Dinker |
-| 83 | Diplomat |
-| 84 | Dipstick |
-| 85 | Dirge |
-| 86 | Dirk |
-| 87 | Dirt |
-| 88 | Dirtbag |
-| 89 | Dirtnap |
-| 90 | Discord |
-| 91 | Dispatch |
-| 92 | Disrupt |
-| 93 | Ditch |
-| 94 | Dive |
-| 95 | Doc |
-| 96 | Dragon |
-| 97 | Duke |
-| 98 | Dynamo |
-| 99 | Eagle |
-| 100 | Earl |
+#### Table 2
 
-**Table 3 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Blank | Blaze | Blip | Blitz | Block | Bloodshot |
+| 2 | Bloom | Blue | Blunt | Bolt | Bonehead | Bones |
+| 3 | Bonfire | Book | Boomer | Boomstick | Bore | Bound |
+| 4 | Brass | Bravo | Breach | Breaker | Breeze | Brick |
+| 5 | Bridge | Brink | Brisk | Bronze | Brute | Bubbles |
+| 6 | Buckle | Buckshot | Buddy | Buffer | Bullet | Bullseye |
 
-| d100 | Result |
-|------|--------|
-| 1 | Echo |
-| 2 | Ember |
-| 3 | Emerald |
-| 4 | Enforcer |
-| 5 | Enigma |
-| 6 | Failsafe |
-| 7 | Falcon |
-| 8 | Fang |
-| 9 | Farseer |
-| 10 | Fidget |
-| 11 | Fire |
-| 12 | Firestarter |
-| 13 | Five |
-| 14 | Fixer |
-| 15 | Flash |
-| 16 | Flatline |
-| 17 | Flicker |
-| 18 | Foxtrot |
-| 19 | Fridge |
-| 20 | Frost |
-| 21 | Fumbles |
-| 22 | Furnace |
-| 23 | Gadget |
-| 24 | Gale |
-| 25 | Garnet |
-| 26 | Gator |
-| 27 | Ghost |
-| 28 | Giggles |
-| 29 | Gizmo |
-| 30 | Glint |
-| 31 | Glitch |
-| 32 | Goober |
-| 33 | Goose |
-| 34 | Griffin |
-| 35 | Grudge |
-| 36 | Gunfire |
-| 37 | Gutshot |
-| 38 | Hammer |
-| 39 | Harbor |
-| 40 | Harrow |
-| 41 | Havoc |
-| 42 | Hawk |
-| 43 | Hazard |
-| 44 | Heatwave |
-| 45 | Hellhound |
-| 46 | Hellion |
-| 47 | Hex |
-| 48 | Highroller |
-| 49 | Hopper |
-| 50 | Hotshot |
-| 51 | Hunter |
-| 52 | Hush |
-| 53 | Ice |
-| 54 | Impulse |
-| 55 | Inferno |
-| 56 | Ironclad |
-| 57 | Ironman |
-| 58 | Ironside |
-| 59 | Jackal |
-| 60 | Jackpot |
-| 61 | Jade |
-| 62 | Jager |
-| 63 | Jammer |
-| 64 | Jasper |
-| 65 | Jester |
-| 66 | Jetstream |
-| 67 | Jinx |
-| 68 | Jockey |
-| 69 | Joker |
-| 70 | Jostle |
-| 71 | Judge |
-| 72 | Jugular |
-| 73 | Kaiser |
-| 74 | Kestrel |
-| 75 | Kilo |
-| 76 | King |
-| 77 | Knight |
-| 78 | Knockout |
-| 79 | Knucklehead |
-| 80 | Knuckles |
-| 81 | Kraken |
-| 82 | Labrador |
-| 83 | Lancer |
-| 84 | Laser |
-| 85 | Launchpad |
-| 86 | Leadfoot |
-| 87 | Ledger |
-| 88 | Lefty |
-| 89 | Lima |
-| 90 | Lineman |
-| 91 | Link |
-| 92 | Livewire |
-| 93 | Longshot |
-| 94 | Lord |
-| 95 | Lucky |
-| 96 | Lunchmeat |
-| 97 | Lynx |
-| 98 | Mackerel |
-| 99 | Madman |
-| 100 | Mainframe |
+#### Table 3
 
-**Table 4 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Bulwark | Bumper | Bunker | Burnout | Burst | Buzz |
+| 2 | Caboose | Cairn | Cakewalk | Candystick | Cannonball | Captain |
+| 3 | Carmine | Cartridge | Cascade | Case | Cashew | Castle |
+| 4 | Catalyst | Catcher | Caustic | Caveman | Cell | Center |
+| 5 | Centurion | Chain | Chalk | Challenger | Champion | Channel |
+| 6 | Chaos | Charger | Charm | Check | Checkmate | Cheerio |
 
-| d100 | Result |
-|------|--------|
-| 1 | Makeover |
-| 2 | Mako |
-| 3 | Mantis |
-| 4 | Marauder |
-| 5 | Maverick |
-| 6 | Meatball |
-| 7 | Meathead |
-| 8 | Mercury |
-| 9 | Midnight |
-| 10 | Mimic |
-| 11 | Minefield |
-| 12 | Mischief |
-| 13 | Mojo |
-| 14 | Mole |
-| 15 | Monarch |
-| 16 | Mongoose |
-| 17 | Monsoon |
-| 18 | Moonlight |
-| 19 | Mortar |
-| 20 | Moss |
-| 21 | Mothball |
-| 22 | Mudslinger |
-| 23 | Mule |
-| 24 | Mumbles |
-| 25 | Mustang |
-| 26 | Nails |
-| 27 | Narrator |
-| 28 | Nemesis |
-| 29 | Nickel |
-| 30 | Niner |
-| 31 | Nitro |
-| 32 | Nobody |
-| 33 | Nomad |
-| 34 | Noodle |
-| 35 | Nosedive |
-| 36 | Nova |
-| 37 | Nugget |
-| 38 | Numbskull |
-| 39 | Obsidian |
-| 40 | Ogre |
-| 41 | Omega |
-| 42 | Omen |
-| 43 | One |
-| 44 | Onyx |
-| 45 | Opal |
-| 46 | Operator |
-| 47 | Opportunist |
-| 48 | Oracle |
-| 49 | Oriel |
-| 50 | Orion |
-| 51 | Orphan |
-| 52 | Outlaw |
-| 53 | Outpost |
-| 54 | Outsider |
-| 55 | Overload |
-| 56 | Overtime |
-| 57 | Packrat |
-| 58 | Paladin |
-| 59 | Panther |
-| 60 | Paperboy |
-| 61 | Paratrooper |
-| 62 | Patches |
-| 63 | Patchwork |
-| 64 | Pathfinder |
-| 65 | Patriarch |
-| 66 | Patrol |
-| 67 | Pattern |
-| 68 | Payback |
-| 69 | Peacemaker |
-| 70 | Pearl |
-| 71 | Pebbles |
-| 72 | Peephole |
-| 73 | Peewee |
-| 74 | Penthouse |
-| 75 | Pepper |
-| 76 | Periscope |
-| 77 | Perp |
-| 78 | Phantom |
-| 79 | Phoenix |
-| 80 | Piper |
-| 81 | Piston |
-| 82 | Potato |
-| 83 | Prime |
-| 84 | Prince |
-| 85 | Prof |
-| 86 | Prophet |
-| 87 | Pry |
-| 88 | Pyro |
-| 89 | Quake |
-| 90 | Quartz |
-| 91 | Quickdraw |
-| 92 | Quill |
-| 93 | Radar |
-| 94 | Raptor |
-| 95 | Rascal |
-| 96 | Raven |
-| 97 | Razor |
-| 98 | Reaper |
-| 99 | Rebel |
-| 100 | Reptile |
+#### Table 4
 
-**Table 5 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Chip | Chisel | Chops | Chowder | Chrome | Chuckles |
+| 2 | Chunk | Cinder | Cipher | Circuit | Clamp | Clank |
+| 3 | Clasp | Clear | Cleft | Cleric | Clever | Click |
+| 4 | Clicker | Cliff | Climax | Climber | Clincher | Cloak |
+| 5 | Clock | Clone | Close | Cloud | Clutch | Cobalt |
+| 6 | Cocktail | Cocky | Code | Codger | Coercer | Coffin |
 
-| d100 | Result |
-|------|--------|
-| 1 | Rex |
-| 2 | Ricochet |
-| 3 | Rivet |
-| 4 | Rogue |
-| 5 | Ronin |
-| 6 | Rook |
-| 7 | Rookie |
-| 8 | Rover |
-| 9 | Royal |
-| 10 | Ruby |
-| 11 | Runner |
-| 12 | Sable |
-| 13 | Sabotage |
-| 14 | Samurai |
-| 15 | Sapphire |
-| 16 | Saw |
-| 17 | Scorpion |
-| 18 | Scout |
-| 19 | Screwball |
-| 20 | Screwup |
-| 21 | Sentinel |
-| 22 | Seven |
-| 23 | Shadow |
-| 24 | Shark |
-| 25 | Sharky |
-| 26 | Shiv |
-| 27 | Shorty |
-| 28 | Shutdown |
-| 29 | Sigma |
-| 30 | Six |
-| 31 | Skipper |
-| 32 | Skippy |
-| 33 | Slack |
-| 34 | Slash |
-| 35 | Slate |
-| 36 | Slick |
-| 37 | Smiley |
-| 38 | Sneezy |
-| 39 | Snipes |
-| 40 | Sovereign |
-| 41 | Spark |
-| 42 | Specter |
-| 43 | Spider |
-| 44 | Spike |
-| 45 | Splinter |
-| 46 | Stalker |
-| 47 | Static |
-| 48 | Steel |
-| 49 | Stinger |
-| 50 | Stinkbug |
-| 51 | Storm |
-| 52 | Straggler |
-| 53 | Striker |
-| 54 | Stumpy |
-| 55 | Swindle |
-| 56 | Talon |
-| 57 | Tango |
-| 58 | Tank |
-| 59 | Tempest |
-| 60 | Thorn |
-| 61 | Three |
-| 62 | Thunder |
-| 63 | Tinker |
-| 64 | Tiny |
-| 65 | Titan |
-| 66 | Topaz |
-| 67 | Torch |
-| 68 | Torque |
-| 69 | Touchdown |
-| 70 | Trick |
-| 71 | Trigger |
-| 72 | Trooper |
-| 73 | Twitch |
-| 74 | Two |
-| 75 | Tycoon |
-| 76 | Umber |
-| 77 | Umbra |
-| 78 | Vagabond |
-| 79 | Valkyrie |
-| 80 | Vanguard |
-| 81 | Vector |
-| 82 | Vertigo |
-| 83 | Victor |
-| 84 | Vigil |
-| 85 | Viper |
-| 86 | Vulcan |
-| 87 | Waddles |
-| 88 | Warden |
-| 89 | Warlock |
-| 90 | Warlord |
-| 91 | Watchdog |
-| 92 | Wayfinder |
-| 93 | Weasel |
-| 94 | Whiskey |
-| 95 | Whisper |
-| 96 | Whiz |
-| 97 | Wildcard |
-| 98 | Wildcat |
-| 99 | Wingnut |
-| 100 | Wobbles |
+#### Table 5
 
-**Table 6 of 6**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Cog | Cogent | Coil | Coin | Coke | Cold |
+| 2 | Coldsnap | Combat | Combover | Comeback | Comedian | Comet |
+| 3 | Comfort | Comic | Commander | Compass | Compete | Competent |
+| 4 | Competitor | Complain | Complete | Complex | Composer | Composite |
+| 5 | Comrade | Conduit | Contact | Coral | Core | Corsair |
+| 6 | Count | Cove | Crack | Crag | Crank | Crash |
 
-| d10 | Result |
-|------|--------|
-| 1 | Wolf |
-| 2 | Wraith |
-| 3 | Wrench |
-| 4 | Wrongway |
-| 5 | Xylo |
-| 6 | Zenith |
-| 7 | Zephyr |
-| 8 | Zero |
-| 9 | Zodiac |
-| 10 | Zulu |
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creed | Crest | Cross | Crown | Crunch | Crusher |
+| 2 | Crust | Crypt | Crystal | Cube | Curb | Current |
+| 3 | Cutter | Cutthroat | Cycle | Dagger | Damper | Dancer |
+| 4 | Danger | Dart | Dash | Data | Deadeye | Deadlock |
+| 5 | Dealbreaker | Deathblow | Deathwish | Decay | Deck | Decree |
+| 6 | Deejay | Deep | Default | Defect | Degree | Delay |
+
+#### Table 7
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Delete | Delta | Demise | Demon | Dense | Depth |
+| 2 | Detail | Deuce | Devastate | Devastation | Device | Devil |
+| 3 | Devious | Devour | Dexter | Diablo | Dial | Diamond |
+| 4 | Diehard | Diesel | Digger | Digit | Dim | Dinker |
+| 5 | Diplomat | Dipstick | Direct | Dirge | Dirk | Dirt |
+| 6 | Dirtbag | Dirtnap | Disc | Discord | Dish | Disk |
+
+#### Table 8
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Dispatch | Disrupt | Dissolve | Distance | Ditch | Dive |
+| 2 | Divide | Doc | Domain | Dome | Dose | Double |
+| 3 | Down | Draft | Drag | Drain | Draw | Dream |
+| 4 | Drift | Drill | Drink | Drip | Drive | Drop |
+| 5 | Drum | Dry | Dual | Duct | Duke | Dull |
+| 6 | Dummy | Dump | Dune | Dust | Duty | Dynamo |
+
+#### Table 9
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Earl | Echo | Edge | Ember | Emerald | Enforcer |
+| 2 | Engine | Enigma | Failsafe | Farseer | Fast | Fidget |
+| 3 | Fire | Firestarter | Five | Fixer | Flare | Flash |
+| 4 | Flatline | Flicker | Flint | Flood | Flow | Flux |
+| 5 | Forge | Foxtrot | Frequency | Fridge | Frost | Fumbles |
+| 6 | Furnace | Fuse | Gadget | Gale | Garnet | Gate |
+
+#### Table 10
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gear | Gem | Ghost | Giggles | Gizmo | Glare |
+| 2 | Glass | Glint | Gloss | Glow | Gold | Goober |
+| 3 | Grit | Grudge | Gunfire | Gust | Gutshot | Hail |
+| 4 | Hammer | Harbor | Hard | Harrow | Havoc | Hazard |
+| 5 | Haze | Heatwave | Heavy | Hellion | Hex | Highroller |
+| 6 | Hopper | Hotshot | Hunter | Hush | Husk | Ice |
+
+#### Table 11
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Impulse | Inferno | Ion | Iron | Ironclad | Ironman |
+| 2 | Ironside | Jackpot | Jade | Jager | Jammer | Jasper |
+| 3 | Jester | Jetstream | Jewel | Jinx | Jockey | Joker |
+| 4 | Jostle | Judge | Jugular | Kaiser | Key | Kiln |
+| 5 | Kilo | King | Knight | Knockout | Knucklehead | Knuckles |
+| 6 | Lancer | Laser | Launchpad | Lead | Leadfoot | Ledger |
+
+#### Table 12
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lefty | Lever | Light | Lima | Lineman | Link |
+| 2 | Livewire | Lock | Longshot | Lord | Lucky | Lunchmeat |
+| 3 | Luster | Madman | Mainframe | Makeover | Mantle | Marauder |
+| 4 | Matte | Maverick | Meatball | Meathead | Mercury | Midnight |
+| 5 | Mimic | Minefield | Mischief | Mist | Mojo | Monarch |
+| 6 | Monsoon | Moonlight | Mortar | Moss | Mothball | Motor |
+
+#### Table 13
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mudslinger | Mumbles | Nadir | Nails | Narrator | Nemesis |
+| 2 | Nickel | Niner | Nitro | Nobody | Nomad | Noodle |
+| 3 | Nosedive | Nova | Nugget | Null | Numbskull | Nut |
+| 4 | Obsidian | Ogre | Omega | Omen | One | Onyx |
+| 5 | Opal | Operator | Opportunist | Oracle | Orbit | Oriel |
+| 6 | Orion | Orphan | Outlaw | Outpost | Outsider | Overload |
+
+#### Table 14
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Overtime | Packrat | Paladin | Paperboy | Paratrooper | Patches |
+| 2 | Patchwork | Pathfinder | Patriarch | Patrol | Pattern | Payback |
+| 3 | Peacemaker | Peak | Pearl | Pebbles | Peephole | Peewee |
+| 4 | Penthouse | Pepper | Periscope | Perp | Phantom | Phoenix |
+| 5 | Pin | Piper | Piston | Point | Potato | Prime |
+| 6 | Prince | Prof | Prophet | Pulse | Pyro | Quake |
+
+#### Table 15
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Quartz | Quickdraw | Quill | Radar | Rampart | Rascal |
+| 2 | Ray | Razor | Reaper | Rebel | Red | Reef |
+| 3 | Resonance | Rex | Ricochet | Ridge | Rift | Rime |
+| 4 | Ripple | Rivet | Rogue | Ronin | Rook | Rookie |
+| 5 | Rough | Rover | Royal | Ruby | Runner | Rust |
+| 6 | Sable | Sabotage | Samurai | Sapphire | Saw | Scorch |
+
+#### Table 16
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Scout | Screwball | Screwup | Sentinel | Seven | Shadow |
+| 2 | Shard | Sharp | Shell | Shield | Shiv | Shorty |
+| 3 | Shutdown | Sigma | Signal | Silver | Singe | Six |
+| 4 | Skipper | Skippy | Slack | Slash | Slate | Sleet |
+| 5 | Slick | Slope | Smiley | Smooth | Sneezy | Snipes |
+| 6 | Sovereign | Spark | Specter | Spike | Splinter | Squall |
+
+#### Table 17
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stalker | Stark | Static | Steel | Stinger | Storm |
+| 2 | Straggler | Striker | Stumpy | Summit | Surge | Swell |
+| 3 | Swindle | Tango | Tank | Tempest | Thorn | Three |
+| 4 | Thunder | Tide | Tinker | Tiny | Titan | Topaz |
+| 5 | Torch | Torque | Torrent | Touchdown | Trigger | Trooper |
+| 6 | Twitch | Two | Tycoon | Umber | Umbra | Vagabond |
+
+#### Table 18
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Valkyrie | Valve | Vanguard | Vapor | Vector | Vertigo |
+| 2 | Victor | Vigil | Void | Volt | Vortex | Vulcan |
+| 3 | Waddles | Wall | Warden | Warlock | Warlord | Watchdog |
+| 4 | Wave | Wayfinder | Weld | Whiskey | Whisper | Whiz |
+| 5 | Wildcard | Wingnut | Wobbles | Wraith | Wrench | Wrongway |
+| 6 | Xylo | Zenith | Zephyr | Zero | Zodiac | Zulu |
 

@@ -9,13 +9,89 @@ From neon-lit alleys to crumbling jungle temples, step into a race against time 
 ## Table of Contents
 
 - [Core Rules](#core-rules)
+  - [Core Mechanics](#core-mechanics)
+    - [Grit & Gambits](#grit-gambits)
+  - [Movement & Cover](#movement-cover)
+  - [Saves](#saves)
+  - [Conflict Scenes](#conflict-scenes)
+    - [Actions](#actions)
+    - [Reactions](#reactions)
+    - [Attacks](#attacks)
+  - [Conditions](#conditions)
 - [Character Creation](#character-creation)
 - [Abilities](#abilities)
+  - [Standard Abilities](#standard-abilities)
+    - [Pulp Inclinations](#pulp-inclinations)
+    - [Combat Inclinations](#combat-inclinations)
+    - [Firearm Inclinations](#firearm-inclinations)
+    - [Grit Inclinations](#grit-inclinations)
+    - [Knowledge Inclinations](#knowledge-inclinations)
+    - [Mental Inclinations](#mental-inclinations)
+    - [Physical Inclinations](#physical-inclinations)
+    - [Social Inclinations](#social-inclinations)
+    - [Stealth Inclinations](#stealth-inclinations)
+    - [Vehicle Inclinations](#vehicle-inclinations)
+    - [Wilderness Inclinations](#wilderness-inclinations)
+    - [Spiritual Powers](#spiritual-powers)
+    - [Psychic Powers](#psychic-powers)
+    - [Dark Powers](#dark-powers)
 - [Gear & Equipment](#gear-equipment)
+  - [Outfits](#outfits)
+  - [Firearms](#firearms)
+  - [Melee Weapons](#melee-weapons)
+  - [Ranged Weapons](#ranged-weapons)
+  - [Explosives](#explosives)
+  - [Consumables](#consumables)
+  - [Equipment](#equipment)
+  - [Ammunition](#ammunition)
 - [Vehicles & Companions](#vehicles-companions)
+  - [Vehicles](#vehicles)
+  - [Companions](#companions)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
+    - [Backgrounds](#backgrounds)
+      - [Table 1](#table-1)
+      - [Table 2](#table-2)
+      - [Table 3](#table-3)
+      - [Table 4](#table-4)
+      - [Table 5](#table-5)
+      - [Table 6](#table-6)
+    - [Personality Traits](#personality-traits)
+      - [Table 1](#table-1-1)
+      - [Table 2](#table-2-1)
+      - [Table 3](#table-3-1)
+      - [Table 4](#table-4-1)
+      - [Table 5](#table-5-1)
+      - [Table 6](#table-6-1)
+    - [Mottos](#mottos)
+      - [Table 1](#table-1-2)
+      - [Table 2](#table-2-2)
+      - [Table 3](#table-3-2)
+      - [Table 4](#table-4-2)
+      - [Table 5](#table-5-2)
+      - [Table 6](#table-6-2)
+    - [Secrets](#secrets)
+      - [Table 1](#table-1-3)
+      - [Table 2](#table-2-3)
+      - [Table 3](#table-3-3)
+      - [Table 4](#table-4-3)
+      - [Table 5](#table-5-3)
+      - [Table 6](#table-6-3)
   - [Names](#names)
+    - [Pulp Names Forenames / Given Names](#pulp-names-forenames-given-names)
+      - [Table 1](#table-1-4)
+      - [Table 2](#table-2-4)
+      - [Table 3](#table-3-4)
+      - [Table 4](#table-4-4)
+      - [Table 5](#table-5-4)
+      - [Table 6](#table-6-4)
+    - [Pulp Names Surnames / Family Names](#pulp-names-surnames-family-names)
+      - [Table 1](#table-1-5)
+      - [Table 2](#table-2-5)
+      - [Table 3](#table-3-5)
+      - [Table 4](#table-4-5)
+      - [Table 5](#table-5-5)
+      - [Table 6](#table-6-5)
 
 ## Core Rules
 
@@ -30,8 +106,8 @@ You start with *3 Grit and 1 Gambit* per session. You can add *Grit* to any roll
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
-### Taking Cover
-Being in/behind cover increases attacker *To-Hit* by cover grade: **Light +1:** foliage, furniture, low walls. **Medium +2:** barricades, building edges. **Heavy +3:** concrete, metal fortifications. Effects that explicitly ignore cover (for example explosives, fire, gas) bypass cover.
+
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -513,1182 +589,437 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 ## Aspects
 
-Aspects define who your character is beyond raw stats. Choose one from each category, or use the d100 tables to roll randomly.
+Aspects define who your character is beyond raw stats. Choose one from each category, or use the d6 tables to roll randomly.
 
 ### Backgrounds
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Ace Pilot |
-| 2 | Antiquarian Scholar |
-| 3 | Archaeological Expert |
-| 4 | Aristocratic Background |
-| 5 | Bare Knuckle Brawler |
-| 6 | Big Game Hunter |
-| 7 | Black Marketeer |
-| 8 | Hotel Detective |
-| 9 | Charismatic Charmer |
-| 10 | Code Breaker |
-| 11 | Combat Veteran |
-| 12 | Cultured Sophisticate |
-| 13 | Daredevil Stunt Driver |
-| 14 | Determined Pursuer |
-| 15 | Diplomatic Immunity |
-| 16 | Easygoing' Musician |
-| 17 | Eagle-Eyed Scout |
-| 18 | Escaped Captive |
-| 19 | Ex-Military Officer |
-| 20 | Famous Explorer |
-| 21 | Fortune Hunter |
-| 22 | Gambler's Luck |
-| 23 | Gentleman Thief |
-| 24 | Globe-Trotter |
-| 25 | Graduate of Miskatonic University |
-| 26 | Guardian of the Eternal Vigal |
-| 27 | History Professor |
-| 28 | Hotshot Pilot |
-| 29 | Cult Infiltrator |
-| 30 | Intrepid Explorer |
-| 31 | International Smuggler |
-| 32 | Intrepid Reporter |
-| 33 | Investigative Journalist |
-| 34 | Jungle Survival Expert |
-| 35 | Known to the Authorities |
-| 36 | High Society Type |
-| 37 | Experimental Physicist |
-| 38 | Lost Expedition Survivor |
-| 39 | Nightclub Singer |
-| 40 | Master of Disguise |
-| 41 | Member of the Explorer's Club |
-| 42 | Museum Curator |
-| 43 | Noble Protector |
-| 44 | Notorious Adventurer |
-| 45 | Occult Scholar |
-| 46 | Private Detective |
-| 47 | Professional Thief |
-| 48 | Quick-Witted Escape Artist |
-| 49 | Renowned Combat Master |
-| 50 | Ruthless Operator |
-| 51 | Safecracker Extraordinaire |
-| 52 | Scholar of Ancient Languages |
-| 53 | Secret Service Agent |
-| 54 | Self-Made Millionaire |
-| 55 | Skilled Mechanic |
-| 56 | Skilled Negotiator |
-| 57 | Sleuth |
-| 58 | Investigator |
-| 59 | Smooth Talker |
-| 60 | Soldier of Fortune |
-| 61 | Magician |
-| 62 | Street Sweeper |
-| 63 | Streetwise Hustler |
-| 64 | Survivalist |
-| 65 | Chemist |
-| 66 | Forger |
-| 67 | Impersonator |
-| 68 | Cat Burglar |
-| 69 | The Consummate Liar |
-| 70 | The Daring Escape Artist |
-| 71 | The Great Seducer |
-| 72 | The Notorious Rake |
-| 73 | The Swashbuckler |
-| 74 | Trusted Confidant |
-| 75 | Two-Fisted Fighter |
-| 76 | Underworld Insider |
-| 77 | Unflinching Marksman |
-| 78 | Unlikely Hero |
-| 79 | Weapon Master |
-| 80 | Wilderness Tracker |
-| 81 | Window Washer |
-| 82 | Wise Mentor |
-| 83 | World Traveller |
-| 84 | Wrestling Champion |
-| 85 | Airfield Mechanic |
-| 86 | Amateur Radio Operator |
-| 87 | Battlefield Correspondent |
-| 88 | Bootlegger |
-| 89 | Carnival Strongman |
-| 90 | Codebook Courier |
-| 91 | Dime Novel Writer |
-| 92 | G-Man Informant |
-| 93 | Prizefighter |
-| 94 | Railway Detective |
-| 95 | Test Pilot |
-| 96 | War Surplus Dealer |
-| 97 | Wire Service Reporter |
-| 98 | Foreign Legion Deserter |
-| 99 | Agitator |
-| 100 | Deep Sea Diver |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ace Pilot | Antiquarian Scholar | Archaeological Expert | Aristocratic Background | Bare Knuckle Brawler | Big Game Hunter |
+| 2 | Black Marketeer | Hotel Detective | Charismatic Charmer | Code Breaker | Combat Veteran | Cultured Sophisticate |
+| 3 | Daredevil Stunt Driver | Determined Pursuer | Diplomatic Immunity | Easygoing' Musician | Eagle-Eyed Scout | Escaped Captive |
+| 4 | Ex-Military Officer | Famous Explorer | Fortune Hunter | Gambler's Luck | Gentleman Thief | Globe-Trotter |
+| 5 | Graduate of Miskatonic University | Guardian of the Eternal Vigal | History Professor | Hotshot Pilot | Cult Infiltrator | Intrepid Explorer |
+| 6 | International Smuggler | Intrepid Reporter | Investigative Journalist | Jungle Survival Expert | Known to the Authorities | High Society Type |
 
-| d100 | Result |
-|------|--------|
-| 1 | Wanderer |
-| 2 | Outcast |
-| 3 | Survivor |
-| 4 | Merchant |
-| 5 | Trader |
-| 6 | Artisan |
-| 7 | Craftsperson |
-| 8 | Healer |
-| 9 | Scout |
-| 10 | Guide |
-| 11 | Hunter |
-| 12 | Tracker |
-| 13 | Scavenger |
-| 14 | Laborer |
-| 15 | Apprentice |
-| 16 | Teacher |
-| 17 | Student |
-| 18 | Storyteller |
-| 19 | Entertainer |
-| 20 | Cook |
-| 21 | Innkeeper |
-| 22 | Bodyguard |
-| 23 | Mercenary |
-| 24 | Soldier |
-| 25 | Veteran |
-| 26 | Spy |
-| 27 | Courier |
-| 28 | Messenger |
-| 29 | Diplomat |
-| 30 | Negotiator |
-| 31 | Scholar |
-| 32 | Archivist |
-| 33 | Librarian |
-| 34 | Historian |
-| 35 | Inventor |
-| 36 | Engineer |
-| 37 | Tinkerer |
-| 38 | Gambler |
-| 39 | Smuggler |
-| 40 | Thief |
-| 41 | Con Artist |
-| 42 | Fence |
-| 43 | Bounty Hunter |
-| 44 | Explorer |
-| 45 | Cartographer |
-| 46 | Navigator |
-| 47 | Sailor |
-| 48 | Fisher |
-| 49 | Farmer |
-| 50 | Rancher |
-| 51 | Herder |
-| 52 | Beast Handler |
-| 53 | Animal Trainer |
-| 54 | Hermit |
-| 55 | Exile |
-| 56 | Refugee |
-| 57 | Orphan |
-| 58 | Street Urchin |
-| 59 | Nobility |
-| 60 | Fallen Noble |
-| 61 | Servant |
-| 62 | Worker |
-| 63 | Foreman |
-| 64 | Guard |
-| 65 | Sentry |
-| 66 | Protector |
-| 67 | Caretaker |
-| 68 | Medic |
-| 69 | Poisoner |
-| 70 | Assassin |
-| 71 | Infiltrator |
-| 72 | Saboteur |
-| 73 | Revolutionary |
-| 74 | Rebel |
-| 75 | Loyalist |
-| 76 | Patriot |
-| 77 | Deserter |
-| 78 | Turncoat |
-| 79 | Fugitive |
-| 80 | Prisoner |
-| 81 | Escapee |
-| 82 | Vagabond |
-| 83 | Drifter |
-| 84 | Nomad |
-| 85 | Pilgrim |
-| 86 | Seeker |
-| 87 | Mystic |
-| 88 | Visionary |
-| 89 | Prophet |
-| 90 | Cultist |
-| 91 | Believer |
-| 92 | Skeptic |
-| 93 | Philosopher |
-| 94 | Poet |
-| 95 | Artist |
-| 96 | Musician |
-| 97 | Dancer |
-| 98 | Mediator |
-| 99 | Researcher |
-| 100 | Specialist |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Experimental Physicist | Lost Expedition Survivor | Nightclub Singer | Master of Disguise | Member of the Explorer's Club | Museum Curator |
+| 2 | Noble Protector | Notorious Adventurer | Occult Scholar | Private Detective | Professional Thief | Quick-Witted Escape Artist |
+| 3 | Renowned Combat Master | Ruthless Operator | Safecracker Extraordinaire | Scholar of Ancient Languages | Secret Service Agent | Self-Made Millionaire |
+| 4 | Skilled Mechanic | Skilled Negotiator | Sleuth | Investigator | Smooth Talker | Soldier of Fortune |
+| 5 | Magician | Street Sweeper | Streetwise Hustler | Survivalist | Chemist | Forger |
+| 6 | Impersonator | Cat Burglar | The Consummate Liar | The Daring Escape Artist | The Great Seducer | The Notorious Rake |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | The Swashbuckler | Trusted Confidant | Two-Fisted Fighter | Underworld Insider | Unflinching Marksman | Unlikely Hero |
+| 2 | Weapon Master | Wilderness Tracker | Window Washer | Wise Mentor | World Traveller | Wrestling Champion |
+| 3 | Airfield Mechanic | Amateur Radio Operator | Battlefield Correspondent | Bootlegger | Carnival Strongman | Codebook Courier |
+| 4 | Dime Novel Writer | G-Man Informant | Prizefighter | Railway Detective | Test Pilot | War Surplus Dealer |
+| 5 | Wire Service Reporter | Foreign Legion Deserter | Agitator | Deep Sea Diver | Codebreaker | Expedition Quartermaster |
+| 6 | Newsreel Cameraman | Palm Reader | Riverboat Cardsharp | Storm Chaser | Treasure Salvager | Wanderer |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outcast | Survivor | Merchant | Trader | Artisan | Craftsperson |
+| 2 | Healer | Scout | Guide | Hunter | Tracker | Scavenger |
+| 3 | Laborer | Apprentice | Teacher | Student | Storyteller | Entertainer |
+| 4 | Cook | Innkeeper | Bodyguard | Mercenary | Soldier | Veteran |
+| 5 | Spy | Courier | Messenger | Diplomat | Negotiator | Scholar |
+| 6 | Archivist | Librarian | Historian | Inventor | Engineer | Tinkerer |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gambler | Smuggler | Thief | Con Artist | Fence | Bounty Hunter |
+| 2 | Explorer | Cartographer | Navigator | Sailor | Fisher | Farmer |
+| 3 | Rancher | Herder | Beast Handler | Animal Trainer | Hermit | Exile |
+| 4 | Refugee | Orphan | Street Urchin | Nobility | Fallen Noble | Servant |
+| 5 | Worker | Foreman | Guard | Sentry | Protector | Caretaker |
+| 6 | Medic | Poisoner | Assassin | Infiltrator | Saboteur | Revolutionary |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rebel | Loyalist | Patriot | Deserter | Turncoat | Fugitive |
+| 2 | Prisoner | Escapee | Vagabond | Drifter | Nomad | Pilgrim |
+| 3 | Seeker | Mystic | Visionary | Prophet | Cultist | Believer |
+| 4 | Skeptic | Philosopher | Poet | Artist | Musician | Dancer |
+| 5 | Mediator | Researcher | Specialist | Builder | Curator | Fixer |
+| 6 | Observer | Planner | Porter | Quartermaster | Responder | - |
 
 ### Personality Traits
 
 Roll or choose a Personality Trait to define how your character behaves, reacts under pressure, and interacts with others.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Adaptable |
-| 2 | Affable |
-| 3 | Alert |
-| 4 | Ambitious |
-| 5 | Analytical |
-| 6 | Anchored |
-| 7 | Appreciative |
-| 8 | Articulate |
-| 9 | Assertive |
-| 10 | Attentive |
-| 11 | Balanced |
-| 12 | Benevolent |
-| 13 | Bold |
-| 14 | Brave |
-| 15 | Calm |
-| 16 | Candid |
-| 17 | Capable |
-| 18 | Careful |
-| 19 | Caring |
-| 20 | Centered |
-| 21 | Charismatic |
-| 22 | Cheerful |
-| 23 | Civic Minded |
-| 24 | Clear Eyed |
-| 25 | Clear Spoken |
-| 26 | Clever |
-| 27 | Compassionate |
-| 28 | Composed |
-| 29 | Confident |
-| 30 | Conscientious |
-| 31 | Consistent |
-| 32 | Constructive |
-| 33 | Courageous |
-| 34 | Courteous |
-| 35 | Creative |
-| 36 | Credible |
-| 37 | Curious |
-| 38 | Daring |
-| 39 | Decisive |
-| 40 | Dedicated |
-| 41 | Dependable |
-| 42 | Diplomatic |
-| 43 | Direct |
-| 44 | Disciplined |
-| 45 | Discerning |
-| 46 | Driven |
-| 47 | Earnest |
-| 48 | Easygoing |
-| 49 | Eloquent |
-| 50 | Empathetic |
-| 51 | Energetic |
-| 52 | Engaged |
-| 53 | Equitable |
-| 54 | Ethical |
-| 55 | Even Tempered |
-| 56 | Fair |
-| 57 | Faithful |
-| 58 | Fearless |
-| 59 | Flexible |
-| 60 | Focused |
-| 61 | Forgiving |
-| 62 | Forthright |
-| 63 | Friendly |
-| 64 | Gallant |
-| 65 | Generous |
-| 66 | Gentle |
-| 67 | Genuine |
-| 68 | Graceful |
-| 69 | Gracious |
-| 70 | Grounded |
-| 71 | Hardy |
-| 72 | Helpful |
-| 73 | Honest |
-| 74 | Honorable |
-| 75 | Humble |
-| 76 | Humorous |
-| 77 | Idealistic |
-| 78 | Imaginative |
-| 79 | Impartial |
-| 80 | Independent |
-| 81 | Industrious |
-| 82 | Insightful |
-| 83 | Intentional |
-| 84 | Intuitive |
-| 85 | Inventive |
-| 86 | Jovial |
-| 87 | Judicious |
-| 88 | Keen |
-| 89 | Kind |
-| 90 | Level Headed |
-| 91 | Logical |
-| 92 | Loyal |
-| 93 | Measured |
-| 94 | Methodical |
-| 95 | Meticulous |
-| 96 | Mindful |
-| 97 | Modest |
-| 98 | Motivated |
-| 99 | Nimble |
-| 100 | Noble |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adaptable | Accommodating | Affable | Alert | Ambitious | Analytical |
+| 2 | Anchored | Appreciative | Articulate | Assertive | Attentive | Balanced |
+| 3 | Benevolent | Big Hearted | Bold | Brave | Calm | Candid |
+| 4 | Capable | Careful | Caring | Centered | Charismatic | Cheerful |
+| 5 | Civic Minded | Clear Eyed | Clear Spoken | Clever | Compassionate | Composed |
+| 6 | Confident | Conscientious | Consistent | Constructive | Courageous | Courteous |
 
-| d100 | Result |
-|------|--------|
-| 1 | Observant |
-| 2 | Open Minded |
-| 3 | Optimistic |
-| 4 | Orderly |
-| 5 | Organized |
-| 6 | Original |
-| 7 | Patient |
-| 8 | Perceptive |
-| 9 | Persistent |
-| 10 | Persuasive |
-| 11 | Playful |
-| 12 | Poised |
-| 13 | Polished |
-| 14 | Practical |
-| 15 | Pragmatic |
-| 16 | Precise |
-| 17 | Principled |
-| 18 | Proactive |
-| 19 | Protective |
-| 20 | Prudent |
-| 21 | Quick Witted |
-| 22 | Rational |
-| 23 | Realistic |
-| 24 | Reflective |
-| 25 | Reliable |
-| 26 | Resilient |
-| 27 | Resolute |
-| 28 | Resourceful |
-| 29 | Respectful |
-| 30 | Responsible |
-| 31 | Self Aware |
-| 32 | Self Controlled |
-| 33 | Selfless |
-| 34 | Sensible |
-| 35 | Serene |
-| 36 | Sharp |
-| 37 | Sincere |
-| 38 | Sociable |
-| 39 | Solid |
-| 40 | Steadfast |
-| 41 | Strategic |
-| 42 | Studious |
-| 43 | Subtle |
-| 44 | Supportive |
-| 45 | Tactful |
-| 46 | Tenacious |
-| 47 | Thoughtful |
-| 48 | Tolerant |
-| 49 | Trustworthy |
-| 50 | Unassuming |
-| 51 | Understanding |
-| 52 | Uplifting |
-| 53 | Valiant |
-| 54 | Vigilant |
-| 55 | Warm |
-| 56 | Welcoming |
-| 57 | Wholehearted |
-| 58 | Wise |
-| 59 | Witty |
-| 60 | Worldly |
-| 61 | Zealous |
-| 62 | Agreeable |
-| 63 | Astute |
-| 64 | Compliant |
-| 65 | Dutiful |
-| 66 | Frank |
-| 67 | Good Natured |
-| 68 | High Spirited |
-| 69 | Hopeful |
-| 70 | Impassioned |
-| 71 | Influential |
-| 72 | Inquisitive |
-| 73 | Lively |
-| 74 | Merciful |
-| 75 | Merry |
-| 76 | Objective |
-| 77 | Outgoing |
-| 78 | Pensive |
-| 79 | Quietly Confident |
-| 80 | Receptive |
-| 81 | Reserved |
-| 82 | Self Reliant |
-| 83 | Steady |
-| 84 | Tidy |
-| 85 | Unflappable |
-| 86 | Versatile |
-| 87 | Watchful |
-| 88 | Well Mannered |
-| 89 | Willful |
-| 90 | Worthy |
-| 91 | Considerate |
-| 92 | Convivial |
-| 93 | Dispassionate |
-| 94 | Down To Earth |
-| 95 | Evenhanded |
-| 96 | Hospitable |
-| 97 | Nonreactive |
-| 98 | Openhearted |
-| 99 | Self Directed |
-| 100 | Stable |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Creative | Credible | Curious | Daring | Decisive | Dedicated |
+| 2 | Dependable | Diplomatic | Direct | Disciplined | Discerning | Driven |
+| 3 | Earnest | Easygoing | Eloquent | Empathetic | Energetic | Engaged |
+| 4 | Equitable | Ethical | Even Keeled | Even Tempered | Fair | Faithful |
+| 5 | Fearless | Flexible | Focused | Forgiving | Forthright | Friendly |
+| 6 | Gallant | Generous | Gentle | Genuine | Graceful | Gracious |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Grounded | Hardy | Helpful | Honest | Honorable | Humble |
+| 2 | Humorous | Idealistic | Imaginative | Impartial | Independent | Industrious |
+| 3 | Insightful | Intentional | Intuitive | Inventive | Jovial | Judicious |
+| 4 | Keen | Kind | Level Headed | Logical | Loyal | Measured |
+| 5 | Methodical | Meticulous | Mindful | Modest | Motivated | Nimble |
+| 6 | Noble | Observant | Open Minded | Optimistic | Orderly | Organized |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Original | Patient | Perceptive | Persistent | Persuasive | Playful |
+| 2 | Poised | Polished | Practical | Pragmatic | Precise | Principled |
+| 3 | Proactive | Protective | Prudent | Quick Witted | Rational | Realistic |
+| 4 | Reflective | Reliable | Resilient | Resolute | Resourceful | Respectful |
+| 5 | Responsible | Self Aware | Self Controlled | Selfless | Sensible | Serene |
+| 6 | Sharp | Sincere | Sociable | Solid | Steadfast | Strategic |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Studious | Subtle | Supportive | Tactful | Tenacious | Thoughtful |
+| 2 | Tolerant | Trustworthy | Unassuming | Understanding | Uplifting | Valiant |
+| 3 | Vigilant | Warm | Welcoming | Wholehearted | Wise | Witty |
+| 4 | Worldly | Zealous | Agreeable | Astute | Compliant | Dutiful |
+| 5 | Frank | Good Humored | Good Natured | High Spirited | Hopeful | Impassioned |
+| 6 | Influential | Inquisitive | Lively | Merciful | Merry | Objective |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Outgoing | Pensive | Quietly Confident | Receptive | Reserved | Self Reliant |
+| 2 | Steady | Tidy | Unflappable | Versatile | Watchful | Well Mannered |
+| 3 | Willful | Worthy | Considerate | Convivial | Dispassionate | Down To Earth |
+| 4 | Evenhanded | Hospitable | Nonreactive | Openhearted | Self Directed | Stable |
+| 5 | Cooperative | Deliberate | Devoted | Farsighted | Neighborly | Reasonable |
+| 6 | Reassuring | Self Possessed | Soft Spoken | Stalwart | Tender Hearted | Visionary |
 
 ### Mottos
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Kid, you ain't seen nothin' yet! |
-| 2 | Danger? Hah! I laugh in the face of danger! |
-| 3 | Where others see risk, I see opportunity! |
-| 4 | I will fulfil my duty, even unto death. |
-| 5 | Born to brawl, bred to win! |
-| 6 | Fast fingers, faster feet, that's my motto! |
-| 7 | Lights, camera, action! My favourite words, darling. |
-| 8 | Every note tells a different story, let's make them all swing! |
-| 9 | Sigh... another day, another ancient puzzle... |
-| 10 | If you take a moment to look, you'll see it all fits together. |
-| 11 | I follow the facts, no matter where they lead! |
-| 12 | Fortune and glory, that's what it's all about. |
-| 13 | Fortune favors the bold! |
-| 14 | Do or die, so long as you do it with style. |
-| 15 | I'll be back with the treasure. |
-| 16 | I play to win. Always. |
-| 17 | Never say never. That's how you miss legends. |
-| 18 | Fear is a luxury I can't afford. |
-| 19 | I came, I saw, I charmed. |
-| 20 | A fortune awaits those bold enough to claim it! |
-| 21 | Every legend starts as a rumor. |
-| 22 | The only way out is forward. |
-| 23 | I'm built for this kind of madness. |
-| 24 | Dead men tell no tales. |
-| 25 | I live for moments like these. |
-| 26 | Rule one: get in alive. Rule two: get out alive. Rule three: take the treasure. |
-| 27 | Adventures don't wait for the prepared. |
-| 28 | Every step forward is a step closer to glory. |
-| 29 | This is where legends are made. |
-| 30 | I never leave a job half-done. |
-| 31 | My word is my bond. Everything else is negotiable. |
-| 32 | I follow my instincts, and they've never failed. |
-| 33 | One day they'll write songs about this. |
-| 34 | I live on my own terms. |
-| 35 | Curiosity may kill the cat, but not this one. |
-| 36 | I'm good at what I do, and what I do is win. |
-| 37 | Hold fast, the real adventure awaits. |
-| 38 | Where others fear, I thrive. |
-| 39 | I make my own luck. |
-| 40 | The truth is always buried deeper than expected. |
-| 41 | I don't ask permission, I ask for forgiveness. |
-| 42 | There's always a way if you're clever enough. |
-| 43 | I'm fearless and fabulous. |
-| 44 | Each artifact tells a thousand stories. |
-| 45 | The real treasure is the legend we become. |
-| 46 | I've faced worse and lived to boast about it. |
-| 47 | Only the bold deserve the spoils. |
-| 48 | I trust my blade and my wits above all. |
-| 49 | Every lock has a key. I just find it faster. |
-| 50 | I'm one step ahead of everyone else. |
-| 51 | The past is prologue. I'm writing something better. |
-| 52 | I'm wired for danger, built for survival. |
-| 53 | Walk softly, hit hard, vanish completely. |
-| 54 | I thrive where others merely survive. |
-| 55 | That's one way to make an entrance. |
-| 56 | I'm always ready for the next adventure. |
-| 57 | The world is mine for the taking. |
-| 58 | I laugh in the face of the impossible. |
-| 59 | Being careful is for the unadventurous. |
-| 60 | I've earned every scar and every story. |
-| 61 | There's treasure in the strangest places. |
-| 62 | Strike fast, strike hard, disappear faster. |
-| 63 | I don't fear death, I fear boredom. |
-| 64 | The best offense is a good plan and better execution. |
-| 65 | Every mystery is just a puzzle waiting to be solved. |
-| 66 | I've learned to expect the unexpected. |
-| 67 | Nothing ventured, nothing gained, and I always venture. |
-| 68 | My reputation precedes me. |
-| 69 | I'm drawn to danger like a moth to flame. |
-| 70 | The impossible is just a starting point. |
-| 71 | I play by my own rules. |
-| 72 | Time is a luxury, action is a necessity. |
-| 73 | Let's make history before they rewrite it. |
-| 74 | I've survived worse odds than this. |
-| 75 | The real trick is knowing when to run. |
-| 76 | Death or Glory, there's no middle ground. |
-| 77 | I'm far more dangerous than I appear. |
-| 78 | The night is my kingdom. |
-| 79 | I always find what I'm looking for. |
-| 80 | Breaking the law is just following my own rules. |
-| 81 | Some things are worth the risk. |
-| 82 | I'm genetically incapable of playing it safe. |
-| 83 | I don't believe in limits. |
-| 84 | The greatest treasures require the greatest risks. |
-| 85 | I've been called a lot of things. Most are true. |
-| 86 | The more daring the victory, the sweeter it tastes. |
-| 87 | Punch first, quip second. |
-| 88 | I can smell a trap and profit from it. |
-| 89 | Adventure's knocking and I'm already out the window. |
-| 90 | I brought charm, luck, and a spare magazine. |
-| 91 | If it's impossible, put me on the guest list. |
-| 92 | Trouble follows me because it has taste. |
-| 93 | I don't chase headlines, I make them. |
-| 94 | The map ends where my story starts. |
-| 95 | One clean getaway beats a perfect plan. |
-| 96 | I came for clues and stayed for chaos. |
-| 97 | The villain monologues, I improvise. |
-| 98 | I travel light: grit, wit, and bad ideas. |
-| 99 | A locked vault is just an invitation. |
-| 100 | Heroes are just survivors with better timing. |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kid, you ain't seen nothin' yet! | Danger? Hah! I laugh in the face of danger! | Where others see risk, I see opportunity! | I will fulfil my duty, even unto death. | Born to brawl, bred to win! | Fast fingers, faster feet, that's my motto! |
+| 2 | Lights, camera, action! My favourite words, darling. | Every note tells a different story, let's make them all swing! | Sigh... another day, another ancient puzzle... | If you take a moment to look, you'll see it all fits together. | I follow the facts, no matter where they lead! | Fortune and glory, that's what it's all about. |
+| 3 | Fortune favors the bold! | Do or die, so long as you do it with style. | I'll be back with the treasure. | I play to win. Always. | Never say never. That's how you miss legends. | Fear is a luxury I can't afford. |
+| 4 | I came, I saw, I charmed. | A fortune awaits those bold enough to claim it! | Every legend starts as a rumor. | The only way out is forward. | I'm built for this kind of madness. | Dead men tell no tales. |
+| 5 | I live for moments like these. | Rule one: get in alive. Rule two: get out alive. Rule three: take the treasure. | Adventures don't wait for the prepared. | Every step forward is a step closer to glory. | This is where legends are made. | I never leave a job half-done. |
+| 6 | My word is my bond. Everything else is negotiable. | I follow my instincts, and they've never failed. | One day they'll write songs about this. | I live on my own terms. | Curiosity may kill the cat, but not this one. | I'm good at what I do, and what I do is win. |
 
-| d100 | Result |
-|------|--------|
-| 1 | Actions speak louder than words. |
-| 2 | Never give up. |
-| 3 | Trust no one. |
-| 4 | Trust your instincts. |
-| 5 | Hope for the best, prepare for the worst. |
-| 6 | Fortune favors the bold. |
-| 7 | Better safe than sorry. |
-| 8 | Live and let live. |
-| 9 | An eye for an eye. |
-| 10 | Do unto others. |
-| 11 | Every person for themselves. |
-| 12 | We're in this together. |
-| 13 | Know when to hold 'em, know when to fold 'em. |
-| 14 | Strike first, ask questions later. |
-| 15 | Nothing ventured, nothing gained. |
-| 16 | The ends justify the means. |
-| 17 | The road to hell is paved with good intentions. |
-| 18 | What doesn't kill you makes you stronger. |
-| 19 | Knowledge is power. |
-| 20 | Might makes right. |
-| 21 | There's no honor among thieves. |
-| 22 | A promise is a promise. |
-| 23 | Seize the day. |
-| 24 | Patience is a virtue. |
-| 25 | If you want something done right, do it yourself. |
-| 26 | United we stand, divided we fall. |
-| 27 | Keep your friends close and your enemies closer. |
-| 28 | Revenge is a dish best served cold. |
-| 29 | Never forgive, never forget. |
-| 30 | Blood is thicker than water. |
-| 31 | Family first. |
-| 32 | The truth will set you free. |
-| 33 | Honesty is the best policy. |
-| 34 | All's fair in love and war. |
-| 35 | Pride goes before a fall. |
-| 36 | Never show weakness. |
-| 37 | Stand your ground. |
-| 38 | Discretion is the better part of valor. |
-| 39 | No sacrifice, no victory. |
-| 40 | The needs of the many outweigh the needs of the few. |
-| 41 | Look out for number one. |
-| 42 | Do no harm. |
-| 43 | Survival of the fittest. |
-| 44 | Adapt or die. |
-| 45 | Change is the only constant. |
-| 46 | This too shall pass. |
-| 47 | What goes around comes around. |
-| 48 | You reap what you sow. |
-| 49 | Make your own luck. |
-| 50 | Everything happens for a reason. |
-| 51 | Expect the unexpected. |
-| 52 | Stay alert, stay alive. |
-| 53 | Never let them see you sweat. |
-| 54 | Keep calm and carry on. |
-| 55 | Live to fight another day. |
-| 56 | Death before dishonor. |
-| 57 | Whatever it takes. |
-| 58 | By any means necessary. |
-| 59 | The mission comes first. |
-| 60 | No one gets left behind. |
-| 61 | I work alone. |
-| 62 | If it ain't broke, don't fix it. |
-| 63 | Measure twice, cut once. |
-| 64 | Question everything. |
-| 65 | Follow orders. |
-| 66 | Rules are made to be broken. |
-| 67 | Honor above all. |
-| 68 | Survival above all. |
-| 69 | Never tell me the odds. |
-| 70 | Embrace the chaos. |
-| 71 | Never surrender. |
-| 72 | Know when to quit. |
-| 73 | The best defense is a good offense. |
-| 74 | Strike while the iron is hot. |
-| 75 | The bigger they are, the harder they fall. |
-| 76 | Speak softly and carry a big stick. |
-| 77 | Actions have consequences. |
-| 78 | No regrets. |
-| 79 | Learn from your mistakes. |
-| 80 | Once bitten, twice shy. |
-| 81 | Fool me once, shame on you. Fool me twice, shame on me. |
-| 82 | Lead by example. |
-| 83 | Be useful. |
-| 84 | Finish what you start. |
-| 85 | Grace under pressure. |
-| 86 | Stay teachable. |
-| 87 | No panic, just priorities. |
-| 88 | Truth over comfort. |
-| 89 | Aim true. |
-| 90 | Own the outcome. |
-| 91 | Respond, don't react. |
-| 92 | Prepared is powerful. |
-| 93 | Keep your edge. |
-| 94 | Discipline buys freedom. |
-| 95 | Raise your standards quietly. |
-| 96 | Protect the vulnerable. |
-| 97 | Simple is strong. |
-| 98 | Own your mistakes quickly. |
-| 99 | Steady wins storms. |
-| 100 | Leave it better. |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hold fast, the real adventure awaits. | Where others fear, I thrive. | I make my own luck. | The truth is always buried deeper than expected. | I don't ask permission, I ask for forgiveness. | There's always a way if you're clever enough. |
+| 2 | I'm fearless and fabulous. | Each artifact tells a thousand stories. | The real treasure is the legend we become. | I've faced worse and lived to boast about it. | Only the bold deserve the spoils. | I trust my blade and my wits above all. |
+| 3 | Every lock has a key. I just find it faster. | I'm one step ahead of everyone else. | The past is prologue. I'm writing something better. | I'm wired for danger, built for survival. | Walk softly, hit hard, vanish completely. | I thrive where others merely survive. |
+| 4 | That's one way to make an entrance. | I'm always ready for the next adventure. | The world is mine for the taking. | I laugh in the face of the impossible. | Being careful is for the unadventurous. | I've earned every scar and every story. |
+| 5 | There's treasure in the strangest places. | Strike fast, strike hard, disappear faster. | I don't fear death, I fear boredom. | The best offense is a good plan and better execution. | Every mystery is just a puzzle waiting to be solved. | I've learned to expect the unexpected. |
+| 6 | Nothing ventured, nothing gained, and I always venture. | My reputation precedes me. | I'm drawn to danger like a moth to flame. | The impossible is just a starting point. | I play by my own rules. | Time is a luxury, action is a necessity. |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Let's make history before they rewrite it. | I've survived worse odds than this. | The real trick is knowing when to run. | Death or Glory, there's no middle ground. | I'm far more dangerous than I appear. | The night is my kingdom. |
+| 2 | I always find what I'm looking for. | Breaking the law is just following my own rules. | Some things are worth the risk. | I'm genetically incapable of playing it safe. | I don't believe in limits. | The greatest treasures require the greatest risks. |
+| 3 | I've been called a lot of things. Most are true. | The more daring the victory, the sweeter it tastes. | Punch first, quip second. | I can smell a trap and profit from it. | Adventure's knocking and I'm already out the window. | I brought charm, luck, and a spare magazine. |
+| 4 | If it's impossible, put me on the guest list. | Trouble follows me because it has taste. | I don't chase headlines, I make them. | The map ends where my story starts. | One clean getaway beats a perfect plan. | I came for clues and stayed for chaos. |
+| 5 | The villain monologues, I improvise. | I travel light: grit, wit, and bad ideas. | A locked vault is just an invitation. | Heroes are just survivors with better timing. | If the door is locked, the window has a story. | Luck likes a good entrance. |
+| 6 | The best clue is the one nobody noticed. | I don't need permission to be legendary. | Adventure charges interest, so spend boldly. | When the plan collapses, make it look stylish. | A fast smile hides a faster draw. | Every disaster deserves a signature exit. |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Actions speak louder than words. | Never give up. | Trust no one. | Trust your instincts. | Hope for the best, prepare for the worst. | Fortune favors the bold. |
+| 2 | Better safe than sorry. | Live and let live. | An eye for an eye. | Do unto others. | Every person for themselves. | We're in this together. |
+| 3 | Know when to hold 'em, know when to fold 'em. | Strike first, ask questions later. | Nothing ventured, nothing gained. | The ends justify the means. | The road to hell is paved with good intentions. | What doesn't kill you makes you stronger. |
+| 4 | Knowledge is power. | Might makes right. | There's no honor among thieves. | A promise is a promise. | Seize the day. | Patience is a virtue. |
+| 5 | If you want something done right, do it yourself. | United we stand, divided we fall. | Keep your friends close and your enemies closer. | Revenge is a dish best served cold. | Never forgive, never forget. | Blood is thicker than water. |
+| 6 | Family first. | The truth will set you free. | Honesty is the best policy. | All's fair in love and war. | Pride goes before a fall. | Never show weakness. |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Stand your ground. | Discretion is the better part of valor. | No sacrifice, no victory. | The needs of the many outweigh the needs of the few. | Look out for number one. | Do no harm. |
+| 2 | Survival of the fittest. | Adapt or die. | Change is the only constant. | This too shall pass. | What goes around comes around. | You reap what you sow. |
+| 3 | Make your own luck. | Everything happens for a reason. | Expect the unexpected. | Stay alert, stay alive. | Never let them see you sweat. | Keep calm and carry on. |
+| 4 | Live to fight another day. | Death before dishonor. | Whatever it takes. | By any means necessary. | The mission comes first. | No one gets left behind. |
+| 5 | I work alone. | If it ain't broke, don't fix it. | Measure twice, cut once. | Question everything. | Follow orders. | Rules are made to be broken. |
+| 6 | Honor above all. | Survival above all. | Never tell me the odds. | Embrace the chaos. | Never surrender. | Know when to quit. |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | The best defense is a good offense. | Strike while the iron is hot. | The bigger they are, the harder they fall. | Speak softly and carry a big stick. | Actions have consequences. | No regrets. |
+| 2 | Learn from your mistakes. | Once bitten, twice shy. | Fool me once, shame on you. Fool me twice, shame on me. | Lead by example. | Be useful. | Finish what you start. |
+| 3 | Grace under pressure. | Stay teachable. | No panic, just priorities. | Truth over comfort. | Aim true. | Own the outcome. |
+| 4 | Respond, don't react. | Prepared is powerful. | Keep your edge. | Discipline buys freedom. | Raise your standards quietly. | Protect the vulnerable. |
+| 5 | Simple is strong. | Own your mistakes quickly. | Steady wins storms. | Leave it better. | Do the hard right thing. | Stay kind, stay dangerous. |
+| 6 | Make yourself useful before you make yourself known. | Nothing improves by avoiding it. | If you can help, help. | Earn trust in small moments. | A steady hand changes outcomes. | Courage is a habit. |
 
 ### Secrets
 
 Roll or choose a Secret: something your character hides from the world. A source of vulnerability, guilt, or dangerous knowledge.
 
-**Table 1 of 3**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Result |
-|------|--------|
-| 1 | Affair With a Married Noble |
-| 2 | Blasphemous Beliefs |
-| 3 | Black Market Dealings |
-| 4 | Cursed Treasure Hunter |
-| 5 | Cheated Death Once |
-| 6 | Cult Member |
-| 7 | Dabbled in Dark Magic |
-| 8 | Defected From Organization |
-| 9 | Exploited the Poor |
-| 10 | Faked Own Death |
-| 11 | Ghosts From the Past |
-| 12 | Hunted by Secret Society |
-| 13 | Involved in a Conspiracy |
-| 14 | Looted Sacred Site |
-| 15 | Reckless Past Led to Tragedy |
-| 16 | Distrustful of Authority |
-| 17 | Overconfident and Hiding Failures |
-| 18 | Judgmental to Mask Guilt |
-| 19 | Rulebound Hypocrite |
-| 20 | Clings to a Lost Cause |
-| 21 | Kleptomaniac with Hidden Cache |
-| 22 | Addict Hiding a Vice |
-| 23 | Naive About Dangerous Truth |
-| 24 | Cut Corners Under Pressure |
-| 25 | Obsessed with Mysterious Artifact |
-| 26 | Cynical After Personal Loss |
-| 27 | Secretly Loves a Rival |
-| 28 | Illicit Pact with a Shadow Patron |
-| 29 | Haunted by Past Mistake |
-| 30 | Carries a Cursed Relic |
-| 31 | Betrayed a Friend |
-| 32 | Cult Defector |
-| 33 | Underground Network Contact |
-| 34 | Spy for Hire |
-| 35 | Secretly a Seer |
-| 36 | Sleeps with a Revolver Under the Pillow |
-| 37 | Debts to a Crime Syndicate |
-| 38 | Forbidden Researcher |
-| 39 | Ex-Relic Thief |
-| 40 | Refuses to use firearms |
-| 41 | Pacifist with a violent past |
-| 42 | Initiated into a Forbidden Lodge |
-| 43 | Sacrificed a Partner to Escape |
-| 44 | Sold an Intelligence Dossier to the Enemy |
-| 45 | Marked by a Mad Scientist’s Experiment |
-| 46 | Phobia of High Altitudes |
-| 47 | Took a Vow of Silence Regarding the 'Project |
-| 48 | Stole Prototype Blueprints |
-| 49 | Caught with Counterfeit War Bonds |
-| 50 | Carries a Rumor of a New Plague |
-| 51 | Assisted a Defector across the Border |
-| 52 | Old Wound Won't Heal |
-| 53 | Walked the Forbidden Temple Path |
-| 54 | Took Payment to Lose a Prizefight |
-| 55 | Burned Negatives from a Crime Scene |
-| 56 | Knows Which Senator Funds the Cult |
-| 57 | Smuggled Idols Through Customs as Film Props |
-| 58 | Signed a Confession Under Someone Else's Name |
-| 59 | Stole a Zeppelin Manifest |
-| 60 | Left a Partner Handcuffed During a Raid |
-| 61 | Carries a Key to a Locked Embassy Vault |
-| 62 | Framed a Dockworker for Espionage |
-| 63 | Owes Gambling Debt to a Syndicate Mystic |
-| 64 | Witnessed a Ritual Beneath City Hall |
-| 65 | Swapped a Real Artifact for a Museum Fake |
-| 66 | Hides a Revolver Used in a Political Hit |
-| 67 | Bribed a Coroner to Alter Cause of Death |
-| 68 | Ran Guns Under a Charity Banner |
-| 69 | Sheltered a Fugitive Mystic in a Newsroom |
-| 70 | Blackmailed a Bishop Over Coded Letters |
-| 71 | Knows the Tunnel Map Under the Old Quarter |
-| 72 | Took Blood Money from an Industrial Magnate |
-| 73 | Planted Evidence in an Anarchist Safehouse |
-| 74 | Secretly Ghostwrites a Crusading Columnist |
-| 75 | Lied About Who Survived the Airship Crash |
-| 76 | Buried Payroll After Mutiny on a Riverboat |
-| 77 | Sold a Speaking Engagement to a Rival Starlet |
-| 78 | Hides a Passport Stamped by Enemy Intelligence |
-| 79 | Destroyed a Ledger Tying Police to Smugglers |
-| 80 | Ran Opium for a Patriotic Society |
-| 81 | Keeps a Telegram Proving Election Theft |
-| 82 | Posed as Nobility to Enter a Royal Auction |
-| 83 | Lost a Relic in a Rigged Card Game |
-| 84 | Fed Expedition Routes to Jungle Bandits |
-| 85 | Took Credit for a Rival's Rescue |
-| 86 | Secretly Bankrolls a Vigilante Mask |
-| 87 | Knows Where the Missing Heiress Is Hiding |
-| 88 | Forged Permits for Forbidden Digs |
-| 89 | Covered Up an Assassin's Escape at the Opera |
-| 90 | Sold Headlines to Influence a Trial |
-| 91 | Buried a Stolen Film Reel Under a Boxing Gym |
-| 92 | Took Church Gold to Finance a Manhunt |
-| 93 | Hid a Wireless Set in a Mausoleum |
-| 94 | Helped Stage a Haunting for Real-Estate Fraud |
-| 95 | Holds the Only Photo of a Senator's Speakeasy Serenade |
-| 96 | Lied to Protect a Bootlegger Cousin |
-| 97 | Swore Silence to a Queen in Exile |
-| 98 | Knows the Passphrase to a Hidden Cellar Club |
-| 99 | Keeps Proof the Hero of the War Was a Deserter |
-| 100 | Secretly Ghostwrites a Famous Advice Column |
+#### Table 1
 
-**Table 2 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Affair With a Married Noble | Blasphemous Beliefs | Black Market Dealings | Cursed Treasure Hunter | Cheated Death Once | Cult Member |
+| 2 | Dabbled in Dark Magic | Defected From Organization | Exploited the Poor | Faked Own Death | Ghosts From the Past | Hunted by Secret Society |
+| 3 | Involved in a Conspiracy | Looted Sacred Site | Reckless Past Led to Tragedy | Distrustful of Authority | Overconfident and Hiding Failures | Judgmental to Mask Guilt |
+| 4 | Rulebound Hypocrite | Clings to a Lost Cause | Kleptomaniac with Hidden Cache | Addict Hiding a Vice | Naive About Dangerous Truth | Cut Corners Under Pressure |
+| 5 | Obsessed with Mysterious Artifact | Cynical After Personal Loss | Secretly Loves a Rival | Illicit Pact with a Shadow Patron | Haunted by Past Mistake | Carries a Cursed Relic |
+| 6 | Betrayed a Friend | Cult Defector | Underground Network Contact | Spy for Hire | Secretly a Seer | Sleeps with a Revolver Under the Pillow |
 
-| d100 | Result |
-|------|--------|
-| 1 | Terrible Secret |
-| 2 | Dark Past |
-| 3 | Hidden Identity |
-| 4 | False Identity |
-| 5 | Assumed Name |
-| 6 | Wanted Criminal |
-| 7 | Former Slave |
-| 8 | Escaped Prisoner |
-| 9 | Deserter |
-| 10 | Traitor |
-| 11 | Turncoat |
-| 12 | Double Agent |
-| 13 | Deep Cover |
-| 14 | Witness to Atrocity |
-| 15 | Survivor's Guilt |
-| 16 | Blood Debt |
-| 17 | Unpaid Debt |
-| 18 | Sworn Oath |
-| 19 | Broken Vow |
-| 20 | Betrayed Trust |
-| 21 | Betrayed Ally |
-| 22 | Abandoned Comrade |
-| 23 | Left for Dead |
-| 24 | Sole Survivor |
-| 25 | Last of Their Kind |
-| 26 | Cursed Bloodline |
-| 27 | Marked for Death |
-| 28 | Hunted |
-| 29 | Price on Head |
-| 30 | Vendetta |
-| 31 | Secret Grudge |
-| 32 | Hidden Agenda |
-| 33 | Secret Mission |
-| 34 | Undercover |
-| 35 | Sleeper Agent |
-| 36 | Forbidden Knowledge |
-| 37 | Dangerous Discovery |
-| 38 | Witnessed Conspiracy |
-| 39 | Knows Too Much |
-| 40 | Blackmailed |
-| 41 | Compromised |
-| 42 | Secret Weakness |
-| 43 | Hidden Disability |
-| 44 | Concealed Illness |
-| 45 | Terminal Condition |
-| 46 | Addiction |
-| 47 | Dependency |
-| 48 | Secret Love |
-| 49 | Forbidden Romance |
-| 50 | Star-Crossed Lover |
-| 51 | Secret Child |
-| 52 | Hidden Family |
-| 53 | Disowned |
-| 54 | Illegitimate Heir |
-| 55 | Secret Royalty |
-| 56 | Hidden Noble |
-| 57 | False Commoner |
-| 58 | Imposter |
-| 59 | Fraud |
-| 60 | Charlatan |
-| 61 | Fake Credentials |
-| 62 | Stolen Identity |
-| 63 | Body Double |
-| 64 | Doppelganger |
-| 65 | Secret Twin |
-| 66 | Split Personality |
-| 67 | Possessed |
-| 68 | Haunted |
-| 69 | Cursed |
-| 70 | Damned |
-| 71 | Soul Bargain |
-| 72 | Devil's Deal |
-| 73 | Blood Pact |
-| 74 | Dark Covenant |
-| 75 | Secret Society Member |
-| 76 | Cult Initiate |
-| 77 | Heretic |
-| 78 | Apostate |
-| 79 | Lost Faith |
-| 80 | Secret Believer |
-| 81 | Closet Fanatic |
-| 82 | Zealot in Hiding |
-| 83 | Reformed Criminal |
-| 84 | Former Assassin |
-| 85 | Ex-Torturer |
-| 86 | War Criminal |
-| 87 | Mass Murderer |
-| 88 | Secret Prankster |
-| 89 | Staged a Dramatic Duel |
-| 90 | Ruined a Family Feast on Purpose |
-| 91 | Impersonated Royalty for a Night |
-| 92 | Sold a Family Heirloom in Secret |
-| 93 | Accidental Killer |
-| 94 | Mercy Killer |
-| 95 | Self-Defense Killer |
-| 96 | Never Killed |
-| 97 | Secret Pacifist |
-| 98 | Hidden Coward |
-| 99 | False Hero |
-| 100 | Unearned Glory |
+#### Table 2
 
-**Table 3 of 3**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Debts to a Crime Syndicate | Forbidden Researcher | Ex-Relic Thief | Refuses to use firearms | Pacifist with a violent past | Initiated into a Forbidden Lodge |
+| 2 | Sacrificed a Partner to Escape | Sold an Intelligence Dossier to the Enemy | Marked by a Mad Scientist’s Experiment | Phobia of High Altitudes | Took a Vow of Silence Regarding the 'Project | Stole Prototype Blueprints |
+| 3 | Caught with Counterfeit War Bonds | Carries a Rumor of a New Plague | Assisted a Defector across the Border | Old Wound Won't Heal | Walked the Forbidden Temple Path | Took Payment to Lose a Prizefight |
+| 4 | Burned Negatives from a Crime Scene | Knows Which Senator Funds the Cult | Smuggled Idols Through Customs as Film Props | Signed a Confession Under Someone Else's Name | Stole a Zeppelin Manifest | Left a Partner Handcuffed During a Raid |
+| 5 | Carries a Key to a Locked Embassy Vault | Framed a Dockworker for Espionage | Owes Gambling Debt to a Syndicate Mystic | Witnessed a Ritual Beneath City Hall | Swapped a Real Artifact for a Museum Fake | Hides a Revolver Used in a Political Hit |
+| 6 | Bribed a Coroner to Alter Cause of Death | Ran Guns Under a Charity Banner | Sheltered a Fugitive Mystic in a Newsroom | Blackmailed a Bishop Over Coded Letters | Knows the Tunnel Map Under the Old Quarter | Took Blood Money from an Industrial Magnate |
 
-| d100 | Result |
-|------|--------|
-| 1 | Stolen Valor |
-| 2 | Credit Thief |
-| 3 | Plagiarist |
-| 4 | Art Forger |
-| 5 | Document Faker |
-| 6 | Identity Thief |
-| 7 | Embezzler |
-| 8 | Thief |
-| 9 | Smuggler |
-| 10 | Black Marketeer |
-| 11 | Fence |
-| 12 | Receiver of Stolen Goods |
-| 13 | Grave Robber |
-| 14 | Relic Thief |
-| 15 | Artifact Smuggler |
-| 16 | Secret Hoarder |
-| 17 | Hidden Wealth |
-| 18 | Treasure Map Keeper |
-| 19 | Location of Riches Known |
-| 20 | Guardian of Secret |
-| 21 | Keeper of Knowledge |
-| 22 | Sole Witness |
-| 23 | Only Survivor Who Knows |
-| 24 | Confessed to the Wrong Crime |
-| 25 | Owes a Favor to a Blackmailer |
-| 26 | Hid a Body No One Found |
-| 27 | Let an Innocent Take the Fall |
-| 28 | Knows Where the Missing Witness Is |
-| 29 | Signed a False Statement |
-| 30 | Carries Evidence They Never Turned In |
-| 31 | Burned the Only Copy |
-| 32 | Secretly Related to the Antagonist |
-| 33 | Keeps a Forbidden Correspondence |
-| 34 | Broke Quarantine and Lied About It |
-| 35 | Took Bribe Money and Buried It |
-| 36 | Planted the Weapon |
-| 37 | Altered the Official Timeline |
-| 38 | Destroyed Incriminating Evidence |
-| 39 | Lied to a Dying Person |
-| 40 | Promised Protection and Failed |
-| 41 | Faked an Alibi for Family |
-| 42 | Opened the Door to the Killer |
-| 43 | Left Before the Explosion |
-| 44 | Knows the Safe Combination |
-| 45 | Hides a Second Identity Document |
-| 46 | Smuggled Someone Across the Border |
-| 47 | Secretly Married an Enemy |
-| 48 | Owes Debt to a Loan Shark |
-| 49 | Keeps Two Sets of Books |
-| 50 | Embezzled Relief Funds |
-| 51 | Collected Blood Money |
-| 52 | Took a Ring from the Dead |
-| 53 | Sold Names to Hunters |
-| 54 | Gave False Testimony |
-| 55 | Broke a Ceasefire First |
-| 56 | Started a Rumor That Got Someone Killed |
-| 57 | Hid the Antidote |
-| 58 | Stole a Cure Shipment |
-| 59 | Chose Who Got the Last Seat |
-| 60 | Sabotaged a Vital Mechanism |
-| 61 | Sabotaged Emergency Systems |
-| 62 | Framed a Rival with Forged Letters |
-| 63 | Knows the Escape Route |
-| 64 | Opened a Sealed Archive |
-| 65 | Defied Evacuation Orders |
-| 66 | Left a Child Behind |
-| 67 | Secretly Supports Both Sides |
-| 68 | Hid a Lover in Enemy Territory |
-| 69 | Leaked a Battle Plan |
-| 70 | Took an Oath Under Duress |
-| 71 | Has a Child with a Disgraced Leader |
-| 72 | Helped a Fugitive Change Identity |
-| 73 | Turned Off the Alarm |
-| 74 | Took Payment to Stay Silent |
-| 75 | Stashed Contraband in a Shrine |
-| 76 | Covered a Friend's Fatal Mistake |
-| 77 | Lied About Being There |
-| 78 | Accepted a Medal They Didn't Earn |
-| 79 | Kept a Map from the Team |
-| 80 | Falsified Medical Records |
-| 81 | Gave the Wrong Coordinates on Purpose |
-| 82 | Destroyed a Family Will |
-| 83 | Withheld a Critical Warning |
-| 84 | Knows the Key Passphrase |
-| 85 | Hides a Poison Recipe |
-| 86 | Secretly Cannot Read Official Script |
-| 87 | Forged a Signature That Changed History |
-| 88 | Keeps the Last Key |
-| 89 | Was the Anonymous Informant |
-| 90 | Knows Who Started the Fire |
-| 91 | Hid in Safety While Others Fought |
-| 92 | Broke Into a Vault for Love Letters |
-| 93 | Smuggled Messages in Sacred Texts |
-| 94 | Manipulated a Final Tally |
-| 95 | Made a Promise to the Villain |
-| 96 | Saw the Truth and Stayed Quiet |
-| 97 | Invented a Heroic Story That Stuck |
-| 98 | Keeps a Confession Letter Unsent |
-| 99 | Secretly Owns the Deed |
-| 100 | Chose the Spotlight Over Duty |
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Planted Evidence in an Anarchist Safehouse | Secretly Ghostwrites a Crusading Columnist | Lied About Who Survived the Airship Crash | Buried Payroll After Mutiny on a Riverboat | Sold a Speaking Engagement to a Rival Starlet | Hides a Passport Stamped by Enemy Intelligence |
+| 2 | Destroyed a Ledger Tying Police to Smugglers | Ran Opium for a Patriotic Society | Keeps a Telegram Proving Election Theft | Posed as Nobility to Enter a Royal Auction | Lost a Relic in a Rigged Card Game | Fed Expedition Routes to Jungle Bandits |
+| 3 | Took Credit for a Rival's Rescue | Secretly Bankrolls a Vigilante Mask | Knows Where the Missing Heiress Is Hiding | Forged Permits for Forbidden Digs | Covered Up an Assassin's Escape at the Opera | Sold Headlines to Influence a Trial |
+| 4 | Buried a Stolen Film Reel Under a Boxing Gym | Took Church Gold to Finance a Manhunt | Hid a Wireless Set in a Mausoleum | Helped Stage a Haunting for Real-Estate Fraud | Holds the Only Photo of a Senator's Speakeasy Serenade | Lied to Protect a Bootlegger Cousin |
+| 5 | Swore Silence to a Queen in Exile | Knows the Passphrase to a Hidden Cellar Club | Keeps Proof the Hero of the War Was a Deserter | Secretly Ghostwrites a Famous Advice Column | Hid a Defector in a Traveling Circus | Knows Which Studio Head Paid the Arsonists |
+| 6 | Swapped Passport Photos for a Diplomat | Lifted a Jewel During a Charity Gala | Buried a Tommy Gun in a Church Garden | Faked an Expedition Permit for the Mob | Keeps a Duchess's Blackmail Ledger | Saw Who Really Shot the Prizefighter |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Terrible Secret | Dark Past | Hidden Identity | False Identity | Assumed Name | Wanted Criminal |
+| 2 | Former Slave | Escaped Prisoner | Deserter | Traitor | Turncoat | Witness to Atrocity |
+| 3 | Survivor's Guilt | Blood Debt | Unpaid Debt | Sworn Oath | Broken Vow | Betrayed Trust |
+| 4 | Betrayed Ally | Abandoned Comrade | Left for Dead | Sole Survivor | Last of Their Kind | Cursed Bloodline |
+| 5 | Marked for Death | Hunted | Price on Head | Vendetta | Secret Grudge | Hidden Agenda |
+| 6 | Secret Mission | Forbidden Knowledge | Dangerous Discovery | Witnessed Conspiracy | Knows Too Much | Blackmailed |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Compromised | Secret Weakness | Hidden Disability | Concealed Illness | Terminal Condition | Addiction |
+| 2 | Dependency | Secret Love | Forbidden Romance | Star-Crossed Lover | Secret Child | Hidden Family |
+| 3 | Disowned | Illegitimate Heir | Secret Royalty | Hidden Noble | False Commoner | Imposter |
+| 4 | Fraud | Charlatan | Fake Credentials | Stolen Identity | Body Double | Secret Twin |
+| 5 | Split Personality | Haunted | Cursed | Damned | Blood Pact | Secret Society Member |
+| 6 | Cult Initiate | Heretic | Apostate | Lost Faith | Secret Believer | Closet Fanatic |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Zealot in Hiding | Reformed Criminal | Former Assassin | Ex-Torturer | War Criminal | Mass Murderer |
+| 2 | Accidental Killer | Mercy Killer | Self-Defense Killer | Never Killed | Secret Pacifist | Hidden Coward |
+| 3 | False Hero | Unearned Glory | Stolen Valor | Credit Thief | Plagiarist | Art Forger |
+| 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
+| 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
+| 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Pulp Names
+### Pulp Names Forenames / Given Names
 
-**Table 1 of 2**
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 1 | Abraham | Adani |
-| 2 | Ace | Ahmed |
-| 3 | Ada | Aldridge |
-| 4 | Adeyemi | Ali |
-| 5 | Adrian | Arden |
-| 6 | Ahmed | Ashcroft |
-| 7 | Aisha | Ashford |
-| 8 | Akiko | Ashton |
-| 9 | Akira | Barrett |
-| 10 | Alden | Baskerville |
-| 11 | Alejandro | Bay |
-| 12 | Alexander | Benedikt |
-| 13 | Alice | Bergman |
-| 14 | Allan | Blackburn |
-| 15 | Amara | Blackwell |
-| 16 | Amelia | Blackwood |
-| 17 | Amir | Brennan |
-| 18 | Andrea | Bruce |
-| 19 | Anjali | Caldwell |
-| 20 | Annie | Carnahan |
-| 21 | Ardeth | Carson |
-| 22 | Arizona | Carter |
-| 23 | Arjun | Castillo |
-| 24 | Arnold | Chadwick |
-| 25 | Austin | Chambers |
-| 26 | Azila | Charles |
-| 27 | Barnaby | Chase |
-| 28 | Baron | Chen |
-| 29 | Bartholomew | Covington |
-| 30 | Basil | Crane |
-| 31 | Beatrice | Cross |
-| 32 | Bernard | Dalton |
-| 33 | Bogart | Danger |
-| 34 | Brendan | Davenport |
-| 35 | Brick | de la Vega |
-| 36 | Brother | Deering |
-| 37 | Buck | Desai |
-| 38 | Cameron | Desmond |
-| 39 | Captain | Diallo |
-| 40 | Cassian | Dixon |
-| 41 | Catherine | Donovan |
-| 42 | Charlotte | Drake |
-| 43 | Chester | Drummond |
-| 44 | Claude | Dryden |
-| 45 | Clayton | Dugan |
-| 46 | Cole | Erskine |
-| 47 | Constance | Esmond |
-| 48 | Cornelius | Everington |
-| 49 | Crash | Everton |
-| 50 | Cyril | Fairchild |
-| 51 | Dale | Fitzpatrick |
-| 52 | Darius | Flannery |
-| 53 | Dash | Flint |
-| 54 | Declan | Fogg |
-| 55 | Diana | Fordham |
-| 56 | Dirk | Forrester |
-| 57 | Doc | Fortune |
-| 58 | Douglas | Fox |
-| 59 | Duke | Franklin |
-| 60 | Dum Dum | Frost |
-| 61 | Dusty | Galloway |
-| 62 | Edie | Goodwin |
-| 63 | Edmund | Gordon |
-| 64 | Eleanor | Grantham |
-| 65 | Elena | Grayson |
-| 66 | Emerson | Greenstreet |
-| 67 | Ernest | Greystoke |
-| 68 | Eva | Gupta |
-| 69 | Evelyn | Hardcastle |
-| 70 | Everett | Harington |
-| 71 | Eze | Harker |
-| 72 | Fabian | Harper |
-| 73 | Father | Harrington |
-| 74 | Fatima | Hart |
-| 75 | Felix | Hartley |
-| 76 | Fitzgerald | Hassan |
-| 77 | Flash | Hawke |
-| 78 | Flint | Hawthorne |
-| 79 | Forrest | Hickman |
-| 80 | Franklin | Hunt |
-| 81 | Gabriel | Ibrahim |
-| 82 | Garrett | Ingram |
-| 83 | Geoffrey | Inverness |
-| 84 | Grace | Iverson |
-| 85 | Gregory | Iyer |
-| 86 | Hank | Jackson |
-| 87 | Hardwick | Jameson |
-| 88 | Harrison | Jamison |
-| 89 | Hector | Jefferson |
-| 90 | Helena | Jenkins |
-| 91 | Henry | Jericho |
-| 92 | Hercule | Johnson |
-| 93 | Hiroshi | Jones |
-| 94 | Hollis | Kane |
-| 95 | Howard | Kapoor |
-| 96 | Hugo | Kellerman |
-| 97 | Indiana | Kensington |
-| 98 | Ingrid | Khan |
-| 99 | Irwin | Kimura |
-| 100 | Isaac | Kingsley |
+#### Table 1
 
-**Table 2 of 2**
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abraham | Ace | Ada | Adeyemi | Adrian | Ahmed |
+| 2 | Aisha | Akiko | Akira | Alden | Alejandro | Alexander |
+| 3 | Alice | Allan | Amara | Amelia | Amir | Andrea |
+| 4 | Anjali | Annie | Ardeth | Arizona | Arjun | Arnold |
+| 5 | Austin | Azila | Barnaby | Baron | Bartholomew | Basil |
+| 6 | Beatrice | Bernard | Bogart | Brendan | Brick | Brother |
 
-| d100 | Forename | Surname |
-|------|----------|---------|
-| 101 | Isabella | Kissinger |
-| 102 | Isabelle | Knight |
-| 103 | Ivan | Kobayashi |
-| 104 | Jabari | LaBelle |
-| 105 | Jack | Lancaster |
-| 106 | Jake | Langley |
-| 107 | Jane | Lawson |
-| 108 | Jasper | Lexington |
-| 109 | Jerome | Llewelyn |
-| 110 | Jet | Lorre |
-| 111 | Jonathan | Malhotra |
-| 112 | Josephine | Mallory |
-| 113 | Julian | Malone |
-| 114 | Julius | Mansfield |
-| 115 | Karim | Marlowe |
-| 116 | Kendall | Marple |
-| 117 | Kenji | Mattheson |
-| 118 | Kenneth | Mbatha |
-| 119 | Kingsley | Mensah |
-| 120 | Kit | Mercer |
-| 121 | Kofi | Middleton |
-| 122 | Kwame | Miller |
-| 123 | Landis | Mohammed |
-| 124 | Lawrence | Montero |
-| 125 | Layla | Montgomery |
-| 126 | Leopold | Morgan |
-| 127 | Lillian | Murrieta |
-| 128 | Logan | Mwangi |
-| 129 | Lord | Nakamura |
-| 130 | Madeline | Neville |
-| 131 | Malcolm | Newberry |
-| 132 | Mallory | Njoku |
-| 133 | Margaret | Nkosi |
-| 134 | Marion | Normandy |
-| 135 | Martin | Northcote |
-| 136 | Matthew | O'Connor |
-| 137 | Max | Oakley |
-| 138 | Miller | Obi |
-| 139 | Mina | Okonkwo |
-| 140 | Miss | Okoro |
-| 141 | Mister | Orrington |
-| 142 | Morton | Osborne |
-| 143 | Nala | Osmunde |
-| 144 | Nash | Patel |
-| 145 | Nathaniel | Pemberton |
-| 146 | Neville | Pennington |
-| 147 | Nicholas | Phillips |
-| 148 | Nick | Pickering |
-| 149 | Nigel | Pierce |
-| 150 | Nora | Poirot |
-| 151 | Norman | Porter |
-| 152 | Okafor | Prentiss |
-| 153 | Oliver | Quatermain |
-| 154 | Orson | Questrom |
-| 155 | Oscar | Quincy |
-| 156 | Oswald | Quinn |
-| 157 | Patrick | Quinton |
-| 158 | Peggy | Radcliffe |
-| 159 | Penelope | Raines |
-| 160 | Percival | Ramsey |
-| 161 | Peter | Rathbone |
-| 162 | Phileas | Ravenwood |
-| 163 | Philip | Remington |
-| 164 | Phineas | Rhodes |
-| 165 | Priya | Rivers |
-| 166 | Professor | Rochester |
-| 167 | Quentin | Rogers |
-| 168 | Quincy | Sanderson |
-| 169 | Rafe | Sato |
-| 170 | Rafi | Savage |
-| 171 | Rajesh | Scott |
-| 172 | Reverend | Shadow |
-| 173 | Rex | Sharma |
-| 174 | Rick | Sharp |
-| 175 | Ridge | Shelby |
-| 176 | Rose | Shelton |
-| 177 | Ruby | Sinclair |
-| 178 | Sakura | Smith |
-| 179 | Sam | Spade |
-| 180 | Scarlett | Stark |
-| 181 | Sister | Stavros |
-| 182 | Slate | Steele |
-| 183 | Smiles | Sterling |
-| 184 | Sophia | Stone |
-| 185 | Steve | Storm |
-| 186 | Stone | Suzuki |
-| 187 | Sydney | Tanaka |
-| 188 | Takeshi | Thorne |
-| 189 | Tyrell | Turner |
-| 190 | Veronica | Vale |
-| 191 | Victoria | Van Buren |
-| 192 | Vikram | Vance |
-| 193 | Vivian | Vasquez |
-| 194 | Willie | Verma |
-| 195 | Wilma | Walker |
-| 196 | Wyatt | Watanabe |
-| 197 | Yasmin | Wilde |
-| 198 | Yuki | Yamamoto |
-| 199 | Zane | Zhe |
-| 200 | Zuri | - |
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Buck | Cameron | Captain | Cassian | Cassidy | Catherine |
+| 2 | Charlotte | Chester | Claude | Clayton | Cole | Constance |
+| 3 | Cornelius | Crash | Cyril | Dale | Darius | Dash |
+| 4 | Declan | Dex | Diana | Dirk | Doc | Douglas |
+| 5 | Duke | Dum Dum | Dusty | Edie | Edmund | Eleanor |
+| 6 | Elena | Emerson | Ernest | Esme | Eva | Evelyn |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Everett | Eze | Fabian | Father | Fatima | Felix |
+| 2 | Fitzgerald | Flash | Flint | Forrest | Franklin | Gabriel |
+| 3 | Garrett | Geoffrey | Grace | Gregory | Greta | Hank |
+| 4 | Hardwick | Harlan | Harrison | Hector | Helena | Henry |
+| 5 | Hercule | Hiroshi | Hollis | Howard | Hugo | Indiana |
+| 6 | Inez | Ingrid | Irwin | Isaac | Isabella | Isabelle |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ivan | Jabari | Jack | Jake | Jane | Jasper |
+| 2 | Jerome | Jet | Jonathan | Josephine | Julian | Julius |
+| 3 | Juno | Karim | Kendall | Kenji | Kenneth | Khalid |
+| 4 | Kingsley | Kit | Kofi | Kwame | Landis | Lawrence |
+| 5 | Layla | Leopold | Lillian | Logan | Lord | Lucian |
+| 6 | Madeline | Malcolm | Mallory | Margaret | Margo | Marion |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Martin | Matthew | Max | Miller | Mina | Miss |
+| 2 | Mister | Morton | Nala | Nash | Nathaniel | Neville |
+| 3 | Nicholas | Nick | Nico | Nigel | Nora | Norman |
+| 4 | Okafor | Oliver | Ophelia | Orson | Oscar | Oswald |
+| 5 | Patrick | Peggy | Penelope | Percival | Peter | Phileas |
+| 6 | Philip | Phineas | Priya | Professor | Quentin | Quincy |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rafael | Rafe | Rafi | Rajesh | Reverend | Rex |
+| 2 | Rick | Ridge | Roland | Rose | Ruby | Sakura |
+| 3 | Sam | Scarlett | Sister | Slate | Smiles | Sophia |
+| 4 | Steve | Stone | Sydney | Sylvia | Takeshi | Theo |
+| 5 | Tyrell | Veronica | Victoria | Vikram | Vivian | Willie |
+| 6 | Wilma | Wyatt | Yasmin | Yuki | Zane | Zuri |
+
+### Pulp Names Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adani | Ahmed | Aldridge | Ali | Arden | Ashcroft |
+| 2 | Ashford | Ashton | Barrett | Baskerville | Bay | Benedikt |
+| 3 | Bergman | Blackburn | Blackwell | Blackwood | Blaine | Brennan |
+| 4 | Bruce | Caldwell | Carnahan | Carson | Carter | Castillo |
+| 5 | Chadwick | Chambers | Charles | Chase | Chen | Covington |
+| 6 | Crane | Cross | Crowley | Dalton | Danger | Davenport |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | de la Vega | Deering | Desai | Desmond | Devereaux | Diallo |
+| 2 | Dixon | Donovan | Drake | Drummond | Dryden | Dugan |
+| 3 | Erskine | Esmond | Everington | Everton | Fairchild | Falcone |
+| 4 | Fitzpatrick | Flannery | Flint | Fogg | Fordham | Forrester |
+| 5 | Fortune | Fox | Franklin | Frost | Galloway | Goodwin |
+| 6 | Gordon | Grantham | Grayson | Greenstreet | Greystoke | Gupta |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hardcastle | Harington | Harker | Harper | Harrington | Hart |
+| 2 | Hartley | Hassan | Hawke | Hawthorne | Hickman | Hunt |
+| 3 | Ibrahim | Ingram | Inverness | Iverson | Iyer | Jackson |
+| 4 | Jameson | Jamison | Jefferson | Jenkins | Jericho | Johnson |
+| 5 | Jones | Kane | Kapoor | Kellerman | Kensington | Khan |
+| 6 | Kimura | Kingsley | Kissinger | Knight | Kobayashi | LaBelle |
+
+#### Table 4
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lancaster | Langley | Lawson | Lexington | Llewelyn | Locke |
+| 2 | Lorre | Malhotra | Mallory | Malone | Mansfield | Marlowe |
+| 3 | Marple | Marquette | Mattheson | Mbatha | Mensah | Mercer |
+| 4 | Middleton | Miller | Mohammed | Montero | Montgomery | Morgan |
+| 5 | Mori | Murrieta | Mwangi | Nakamura | Navarro | Neville |
+| 6 | Newberry | Njoku | Nkosi | Normandy | Northcote | O'Connor |
+
+#### Table 5
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Oakley | Obi | Okonkwo | Okoro | Orlov | Orrington |
+| 2 | Osborne | Osmunde | Patel | Pemberton | Pennington | Peregrine |
+| 3 | Phillips | Pickering | Pierce | Poirot | Porter | Prentiss |
+| 4 | Quade | Quatermain | Questrom | Quincy | Quinn | Quinton |
+| 5 | Radcliffe | Raines | Ramsey | Rathbone | Ravenwood | Remington |
+| 6 | Rhodes | Rivers | Rochester | Rogers | Rourke | Sanderson |
+
+#### Table 6
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Sato | Savage | Scott | Shadow | Sharma | Sharp |
+| 2 | Shelby | Shelton | Sinclair | Smith | Spade | Stanton |
+| 3 | Stark | Stavros | Steele | Sterling | Stone | Storm |
+| 4 | Suzuki | Tanaka | Thorne | Turner | Vale | Van Buren |
+| 5 | Vance | Vasquez | Verma | Villar | Walker | Watanabe |
+| 6 | Wexler | Wilde | Yamamoto | Zhe | Zorin | - |
 
