@@ -1480,642 +1480,215 @@ Roll or choose a Secret: something your character hides from the world. A source
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Forenames / Given Names
+### Pulp Names
 
-**Table 1 of 4**
+**Table 1 of 2**
 
-| d100 | Result |
-|------|--------|
-| 1 | Jack |
-| 2 | Diana |
-| 3 | Rex |
-| 4 | Evelyn |
-| 5 | Eva |
-| 6 | Max |
-| 7 | Scarlett |
-| 8 | Duke |
-| 9 | Victoria |
-| 10 | Jake |
-| 11 | Lillian |
-| 12 | Rick |
-| 13 | Amelia |
-| 14 | Dash |
-| 15 | Catherine |
-| 16 | Hector |
-| 17 | Ace |
-| 18 | Helena |
-| 19 | Buck |
-| 20 | Rose |
-| 21 | Dirk |
-| 22 | Veronica |
-| 23 | Slate |
-| 24 | Isabella |
-| 25 | Penelope |
-| 26 | Hank |
-| 27 | Sophia |
-| 28 | Cole |
-| 29 | Eleanor |
-| 30 | Wyatt |
-| 31 | Charlotte |
-| 32 | Dusty |
-| 33 | Vivian |
-| 34 | Flint |
-| 35 | Margaret |
-| 36 | Rafe |
-| 37 | Alice |
-| 38 | Logan |
-| 39 | Grace |
-| 40 | Zane |
-| 41 | Ruby |
-| 42 | Brick |
-| 43 | Isabelle |
-| 44 | Nash |
-| 45 | Beatrice |
-| 46 | Jet |
-| 47 | Constance |
-| 48 | Ridge |
-| 49 | Madeline |
-| 50 | Stone |
-| 51 | Josephine |
-| 52 | Indiana |
-| 53 | Marion |
-| 54 | Willie |
-| 55 | Henry |
-| 56 | Jonathan |
-| 57 | Ardeth |
-| 58 | Don Diego |
-| 59 | Elena |
-| 60 | Alejandro |
-| 61 | Jane |
-| 62 | Clayton |
-| 63 | Mallory |
-| 64 | Andrea |
-| 65 | Miller |
-| 66 | Franklin |
-| 67 | Doc |
-| 68 | Allan |
-| 69 | Mina |
-| 70 | Phileas |
-| 71 | Hercule |
-| 72 | Miss |
-| 73 | Sam |
-| 74 | Philip |
-| 75 | Nick |
-| 76 | Nora |
-| 77 | Flash |
-| 78 | Dale |
-| 79 | Wilma |
-| 80 | Kit |
-| 81 | Steve |
-| 82 | Peggy |
-| 83 | Howard |
-| 84 | Dum Dum |
-| 85 | Chester |
-| 86 | Abraham |
-| 87 | Basil |
-| 88 | Nigel |
-| 89 | Sydney |
-| 90 | Peter |
-| 91 | Bogart |
-| 92 | Ingrid |
-| 93 | Claude |
-| 94 | Annie |
-| 95 | Arizona |
-| 96 | Cornelius |
-| 97 | Azila |
-| 98 | Crash |
-| 99 | Rafi |
-| 100 | Smiles |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Abraham | Adani |
+| 2 | Ace | Ahmed |
+| 3 | Ada | Aldridge |
+| 4 | Adeyemi | Ali |
+| 5 | Adrian | Arden |
+| 6 | Ahmed | Ashcroft |
+| 7 | Aisha | Ashford |
+| 8 | Akiko | Ashton |
+| 9 | Akira | Barrett |
+| 10 | Alden | Baskerville |
+| 11 | Alejandro | Bay |
+| 12 | Alexander | Benedikt |
+| 13 | Alice | Bergman |
+| 14 | Allan | Blackburn |
+| 15 | Amara | Blackwell |
+| 16 | Amelia | Blackwood |
+| 17 | Amir | Brennan |
+| 18 | Andrea | Bruce |
+| 19 | Anjali | Caldwell |
+| 20 | Annie | Carnahan |
+| 21 | Ardeth | Carson |
+| 22 | Arizona | Carter |
+| 23 | Arjun | Castillo |
+| 24 | Arnold | Chadwick |
+| 25 | Austin | Chambers |
+| 26 | Azila | Charles |
+| 27 | Barnaby | Chase |
+| 28 | Baron | Chen |
+| 29 | Bartholomew | Covington |
+| 30 | Basil | Crane |
+| 31 | Beatrice | Cross |
+| 32 | Bernard | Dalton |
+| 33 | Bogart | Danger |
+| 34 | Brendan | Davenport |
+| 35 | Brick | de la Vega |
+| 36 | Brother | Deering |
+| 37 | Buck | Desai |
+| 38 | Cameron | Desmond |
+| 39 | Captain | Diallo |
+| 40 | Cassian | Dixon |
+| 41 | Catherine | Donovan |
+| 42 | Charlotte | Drake |
+| 43 | Chester | Drummond |
+| 44 | Claude | Dryden |
+| 45 | Clayton | Dugan |
+| 46 | Cole | Erskine |
+| 47 | Constance | Esmond |
+| 48 | Cornelius | Everington |
+| 49 | Crash | Everton |
+| 50 | Cyril | Fairchild |
+| 51 | Dale | Fitzpatrick |
+| 52 | Darius | Flannery |
+| 53 | Dash | Flint |
+| 54 | Declan | Fogg |
+| 55 | Diana | Fordham |
+| 56 | Dirk | Forrester |
+| 57 | Doc | Fortune |
+| 58 | Douglas | Fox |
+| 59 | Duke | Franklin |
+| 60 | Dum Dum | Frost |
+| 61 | Dusty | Galloway |
+| 62 | Edie | Goodwin |
+| 63 | Edmund | Gordon |
+| 64 | Eleanor | Grantham |
+| 65 | Elena | Grayson |
+| 66 | Emerson | Greenstreet |
+| 67 | Ernest | Greystoke |
+| 68 | Eva | Gupta |
+| 69 | Evelyn | Hardcastle |
+| 70 | Everett | Harington |
+| 71 | Eze | Harker |
+| 72 | Fabian | Harper |
+| 73 | Father | Harrington |
+| 74 | Fatima | Hart |
+| 75 | Felix | Hartley |
+| 76 | Fitzgerald | Hassan |
+| 77 | Flash | Hawke |
+| 78 | Flint | Hawthorne |
+| 79 | Forrest | Hickman |
+| 80 | Franklin | Hunt |
+| 81 | Gabriel | Ibrahim |
+| 82 | Garrett | Ingram |
+| 83 | Geoffrey | Inverness |
+| 84 | Grace | Iverson |
+| 85 | Gregory | Iyer |
+| 86 | Hank | Jackson |
+| 87 | Hardwick | Jameson |
+| 88 | Harrison | Jamison |
+| 89 | Hector | Jefferson |
+| 90 | Helena | Jenkins |
+| 91 | Henry | Jericho |
+| 92 | Hercule | Johnson |
+| 93 | Hiroshi | Jones |
+| 94 | Hollis | Kane |
+| 95 | Howard | Kapoor |
+| 96 | Hugo | Kellerman |
+| 97 | Indiana | Kensington |
+| 98 | Ingrid | Khan |
+| 99 | Irwin | Kimura |
+| 100 | Isaac | Kingsley |
 
-**Table 2 of 4**
+**Table 2 of 2**
 
-| d100 | Result |
-|------|--------|
-| 1 | Professor |
-| 2 | Arjun |
-| 3 | Akira |
-| 4 | Kenji |
-| 5 | Yuki |
-| 6 | Takeshi |
-| 7 | Sakura |
-| 8 | Hiroshi |
-| 9 | Akiko |
-| 10 | Rajesh |
-| 11 | Priya |
-| 12 | Vikram |
-| 13 | Anjali |
-| 14 | Amir |
-| 15 | Karim |
-| 16 | Fatima |
-| 17 | Yasmin |
-| 18 | Kwame |
-| 19 | Amara |
-| 20 | Kofi |
-| 21 | Zuri |
-| 22 | Ahmed |
-| 23 | Layla |
-| 24 | Jabari |
-| 25 | Nala |
-| 26 | Adeyemi |
-| 27 | Eze |
-| 28 | Okafor |
-| 29 | Liam |
-| 30 | Aisha |
-| 31 | Tyrell |
-| 32 | Edie |
-| 33 | Ada |
-| 34 | Alden |
-| 35 | Arnold |
-| 36 | Austin |
-| 37 | Adrian |
-| 38 | Alexander |
-| 39 | Barnaby |
-| 40 | Bartholomew |
-| 41 | Brendan |
-| 42 | Bernard |
-| 43 | Cameron |
-| 44 | Cassian |
-| 45 | Cyril |
-| 46 | Darius |
-| 47 | Douglas |
-| 48 | Declan |
-| 49 | Edmund |
-| 50 | Emerson |
-| 51 | Ernest |
-| 52 | Everett |
-| 53 | Felix |
-| 54 | Fabian |
-| 55 | Fitzgerald |
-| 56 | Forrest |
-| 57 | Gabriel |
-| 58 | Garrett |
-| 59 | Geoffrey |
-| 60 | Gregory |
-| 61 | Hollis |
-| 62 | Harrison |
-| 63 | Hardwick |
-| 64 | Hugo |
-| 65 | Irwin |
-| 66 | Ivan |
-| 67 | Isaac |
-| 68 | Jerome |
-| 69 | Jasper |
-| 70 | Julius |
-| 71 | Julian |
-| 72 | Kenneth |
-| 73 | Kingsley |
-| 74 | Kendall |
-| 75 | Landis |
-| 76 | Lawrence |
-| 77 | Leopold |
-| 78 | Malcolm |
-| 79 | Matthew |
-| 80 | Morton |
-| 81 | Martin |
-| 82 | Norman |
-| 83 | Nathaniel |
-| 84 | Nicholas |
-| 85 | Neville |
-| 86 | Oliver |
-| 87 | Orson |
-| 88 | Oswald |
-| 89 | Oscar |
-| 90 | Percival |
-| 91 | Patrick |
-| 92 | Phineas |
-| 93 | Quincy |
-| 94 | Quentin |
-| 95 | Quade |
-| 96 | Randolph |
-| 97 | Roland |
-| 98 | Roderick |
-| 99 | Raymond |
-| 100 | Sebastian |
-
-**Table 3 of 4**
-
-| d100 | Result |
-|------|--------|
-| 1 | Silas |
-| 2 | Spencer |
-| 3 | Sylvester |
-| 4 | Thaddeus |
-| 5 | Theron |
-| 6 | Theodore |
-| 7 | Tobias |
-| 8 | Ulysses |
-| 9 | Upton |
-| 10 | Urban |
-| 11 | Victor |
-| 12 | Vernon |
-| 13 | Virgil |
-| 14 | Vincent |
-| 15 | Walter |
-| 16 | Wendell |
-| 17 | Wesley |
-| 18 | Xavier |
-| 19 | Xander |
-| 20 | Yates |
-| 21 | Zebedee |
-| 22 | Zeke |
-| 23 | Aurora |
-| 24 | Adelaide |
-| 25 | Arabella |
-| 26 | Bianca |
-| 27 | Bridget |
-| 28 | Baroness |
-| 29 | Cassandra |
-| 30 | Clementine |
-| 31 | Calista |
-| 32 | Cordelia |
-| 33 | Daisy |
-| 34 | Delilah |
-| 35 | Deirdre |
-| 36 | Daphne |
-| 37 | Esther |
-| 38 | Edna |
-| 39 | Ethel |
-| 40 | Evanna |
-| 41 | Faye |
-| 42 | Fiona |
-| 43 | Florence |
-| 44 | Freya |
-| 45 | Gwendolyn |
-| 46 | Giselle |
-| 47 | Gloria |
-| 48 | Genevieve |
-| 49 | Harriet |
-| 50 | Hazel |
-| 51 | Hilda |
-| 52 | Iris |
-| 53 | Ivy |
-| 54 | Imogen |
-| 55 | Jessica |
-| 56 | Jolene |
-| 57 | Judith |
-| 58 | Katharine |
-| 59 | Katrina |
-| 60 | Krista |
-| 61 | Kendra |
-| 62 | Lavinia |
-| 63 | Lucia |
-| 64 | Lucinda |
-| 65 | Louise |
-| 66 | Magdalene |
-| 67 | Matilda |
-| 68 | Marjorie |
-| 69 | Margot |
-| 70 | Natalie |
-| 71 | Nadine |
-| 72 | Nadia |
-| 73 | Octavia |
-| 74 | Ophelia |
-| 75 | Odette |
-| 76 | Opal |
-| 77 | Patricia |
-| 78 | Priscilla |
-| 79 | Pauline |
-| 80 | Roxanne |
-| 81 | Rosalind |
-| 82 | Roberta |
-| 83 | Rosalyn |
-| 84 | Sylvia |
-| 85 | Susanna |
-| 86 | Serena |
-| 87 | Stella |
-| 88 | Theresa |
-| 89 | Thomasina |
-| 90 | Trudy |
-| 91 | Tabitha |
-| 92 | Ursula |
-| 93 | Ulyssa |
-| 94 | Valerie |
-| 95 | Vanessa |
-| 96 | Violet |
-| 97 | Winona |
-| 98 | Willa |
-| 99 | Winifred |
-| 100 | Whitney |
-
-**Table 4 of 4**
-
-| d100 | Result |
-|------|--------|
-| 1 | Yolanda |
-| 2 | Yasmine |
-| 3 | Yara |
-| 4 | Zelda |
-| 5 | Zoe |
-| 6 | Zola |
-| 7 | Zinnia |
-| 8 | Alistair |
-| 9 | Crispin |
-| 10 | Dorian |
-| 11 | Lana |
-| 12 | Vera |
-| 13 | Johnny |
-| 14 | Rita |
-| 15 | Emmett |
-| 16 | Dixie |
-| 17 | Cliff |
-| 18 | Margo |
-| 19 | Graham |
-| 20 | Betty |
-| 21 | Ivor |
-| 22 | Pearl |
-| 23 | Frankie |
-| 24 | Roscoe |
-| 25 | Sadie |
-| 26 | Vinnie |
-| 27 | Gilda |
-| 28 | Archie |
-| 29 | Dolly |
-| 30 | Eddie |
-| 31 | Kitty |
-| 32 | Lenny |
-| 33 | Maisie |
-| 34 | Nicky |
-| 35 | Jericho |
-| 36 | Percy |
-| 37 | Queenie |
-| 38 | Reggie |
-| 39 | Trixie |
-| 40 | Sonny |
-| 41 | Wanda |
-| 42 | Tommy |
-| 43 | Yvonne |
-| 44 | Alton |
-| 45 | Blanche |
-| 46 | Keaton |
-| 47 | Delia |
-| 48 | Elwood |
-| 49 | Lucian |
-| 50 | Grover |
-| 51 | Hattie |
-| 52 | Irving |
-| 53 | Montgomery |
-| 54 | Kirby |
-| 55 | Loretta |
-| 56 | Milton |
-| 57 | Oswin |
-| 58 | Orville |
-| 59 | Patsy |
-| 60 | Preston |
-| 61 | Roxie |
-| 62 | Stanley |
-| 63 | Thelma |
-| 64 | Rafferty |
-| 65 | Velma |
-| 66 | Wallace |
-| 67 | Ambrose |
-| 68 | Bruno |
-| 69 | Cora |
-| 70 | Dashiell |
-| 71 | Estelle |
-| 72 | Gordon |
-| 73 | Benedict |
-| 74 | Inez |
-| 75 | Cassidy |
-| 76 | Lila |
-| 77 | Murray |
-| 78 | Delmont |
-| 79 | Otis |
-| 80 | Phyllis |
-| 81 | Eustace |
-
-### Surnames / Family Names
-
-**Table 1 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Steele |
-| 2 | Vance |
-| 3 | Hawthorne |
-| 4 | Sterling |
-| 5 | Danger |
-| 6 | Cross |
-| 7 | Ramsey |
-| 8 | Chase |
-| 9 | Mercer |
-| 10 | Storm |
-| 11 | Savage |
-| 12 | Drake |
-| 13 | Malone |
-| 14 | Knight |
-| 15 | Barrett |
-| 16 | Frost |
-| 17 | Chambers |
-| 18 | Blackwood |
-| 19 | Flint |
-| 20 | Kane |
-| 21 | Morgan |
-| 22 | Fortune |
-| 23 | Sharp |
-| 24 | Carson |
-| 25 | Wilde |
-| 26 | Brennan |
-| 27 | Ashford |
-| 28 | Stone |
-| 29 | Pierce |
-| 30 | Rhodes |
-| 31 | Hardcastle |
-| 32 | Hunt |
-| 33 | Donovan |
-| 34 | Dalton |
-| 35 | Harper |
-| 36 | Sinclair |
-| 37 | Lawson |
-| 38 | Crane |
-| 39 | Quinn |
-| 40 | Thorne |
-| 41 | Turner |
-| 42 | Vale |
-| 43 | Forrester |
-| 44 | Hawke |
-| 45 | Rivers |
-| 46 | Fox |
-| 47 | Smith |
-| 48 | Ravenwood |
-| 49 | Chen |
-| 50 | Scott |
-| 51 | Jones |
-| 52 | Carnahan |
-| 53 | Bay |
-| 54 | de la Vega |
-| 55 | Montero |
-| 56 | Murrieta |
-| 57 | Porter |
-| 58 | Greystoke |
-| 59 | Mallory |
-| 60 | Stavros |
-| 61 | Miller |
-| 62 | Franklin |
-| 63 | Shadow |
-| 64 | Quatermain |
-| 65 | Harker |
-| 66 | Fogg |
-| 67 | Poirot |
-| 68 | Marple |
-| 69 | Spade |
-| 70 | Marlowe |
-| 71 | Charles |
-| 72 | Gordon |
-| 73 | Arden |
-| 74 | Rogers |
-| 75 | Deering |
-| 76 | Walker |
-| 77 | Carter |
-| 78 | Stark |
-| 79 | Dugan |
-| 80 | Phillips |
-| 81 | Erskine |
-| 82 | Rathbone |
-| 83 | Bruce |
-| 84 | Greenstreet |
-| 85 | Lorre |
-| 86 | Bergman |
-| 87 | Raines |
-| 88 | Dixon |
-| 89 | Hart |
-| 90 | Jackson |
-| 91 | Van Buren |
-| 92 | Johnson |
-| 93 | O'Connor |
-| 94 | Vasquez |
-| 95 | LaBelie |
-| 96 | Jenkins |
-| 97 | Zhe |
-| 98 | Verma |
-| 99 | Blackwell |
-| 100 | Tanaka |
-
-**Table 2 of 3**
-
-| d100 | Result |
-|------|--------|
-| 1 | Yamamoto |
-| 2 | Nakamura |
-| 3 | Suzuki |
-| 4 | Kobayashi |
-| 5 | Watanabe |
-| 6 | Kimura |
-| 7 | Sato |
-| 8 | Gupta |
-| 9 | Sharma |
-| 10 | Patel |
-| 11 | Desai |
-| 12 | Iyer |
-| 13 | Kapoor |
-| 14 | Malhotra |
-| 15 | Hassan |
-| 16 | Khan |
-| 17 | Ibrahim |
-| 18 | Ahmed |
-| 19 | Ali |
-| 20 | Mohammed |
-| 21 | Okonkwo |
-| 22 | Mensah |
-| 23 | Diallo |
-| 24 | Nkosi |
-| 25 | Mwangi |
-| 26 | Obi |
-| 27 | Adani |
-| 28 | Okoro |
-| 29 | Mbatha |
-| 30 | Njoku |
-| 31 | Ashcroft |
-| 32 | Aldridge |
-| 33 | Ashton |
-| 34 | Blackburn |
-| 35 | Baskerville |
-| 36 | Benedikt |
-| 37 | Covington |
-| 38 | Chadwick |
-| 39 | Caldwell |
-| 40 | Castillo |
-| 41 | Dryden |
-| 42 | Davenport |
-| 43 | Desmond |
-| 44 | Drummond |
-| 45 | Everington |
-| 46 | Everton |
-| 47 | Esmond |
-| 48 | Fairchild |
-| 49 | Fitzpatrick |
-| 50 | Flannery |
-| 51 | Fordham |
-| 52 | Grayson |
-| 53 | Galloway |
-| 54 | Goodwin |
-| 55 | Grantham |
-| 56 | Hartley |
-| 57 | Harington |
-| 58 | Harrington |
-| 59 | Hickman |
-| 60 | Iverson |
-| 61 | Ingram |
-| 62 | Inverness |
-| 63 | Jameson |
-| 64 | Jericho |
-| 65 | Jamison |
-| 66 | Jefferson |
-| 67 | Kingsley |
-| 68 | Kensington |
-| 69 | Kellerman |
-| 70 | Kissinger |
-| 71 | Langley |
-| 72 | Llewelyn |
-| 73 | Lancaster |
-| 74 | Lexington |
-| 75 | Mansfield |
-| 76 | Montgomery |
-| 77 | Middleton |
-| 78 | Mattheson |
-| 79 | Neville |
-| 80 | Normandy |
-| 81 | Northcote |
-| 82 | Newberry |
-| 83 | Osborne |
-| 84 | Oakley |
-| 85 | Orrington |
-| 86 | Osmunde |
-| 87 | Pemberton |
-| 88 | Pickering |
-| 89 | Prentiss |
-| 90 | Pennington |
-| 91 | Quinton |
-| 92 | Questrom |
-| 93 | Quincy |
-| 94 | Remington |
-| 95 | Rochester |
-| 96 | Radcliffe |
-| 97 | Sanderson |
-| 98 | Shelton |
-| 99 | Shelby |
-| 100 | Silverman |
-
-**Table 3 of 3**
-
-| d20 | Result |
-|------|--------|
-| 1 | Thornton |
-| 2 | Treadway |
-| 3 | Templeton |
-| 4 | Thackery |
-| 5 | Underwood |
-| 6 | Unsworth |
-| 7 | Underhill |
-| 8 | Vanderbilt |
-| 9 | Vickery |
-| 10 | Vinson |
-| 11 | Vaughn |
-| 12 | Whitmore |
-| 13 | Weatherby |
-| 14 | Westcott |
-| 15 | Whitfield |
-| 16 | Xavier |
-| 17 | Yardley |
-| 18 | Yarborough |
-| 19 | Zachary |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 101 | Isabella | Kissinger |
+| 102 | Isabelle | Knight |
+| 103 | Ivan | Kobayashi |
+| 104 | Jabari | LaBelle |
+| 105 | Jack | Lancaster |
+| 106 | Jake | Langley |
+| 107 | Jane | Lawson |
+| 108 | Jasper | Lexington |
+| 109 | Jerome | Llewelyn |
+| 110 | Jet | Lorre |
+| 111 | Jonathan | Malhotra |
+| 112 | Josephine | Mallory |
+| 113 | Julian | Malone |
+| 114 | Julius | Mansfield |
+| 115 | Karim | Marlowe |
+| 116 | Kendall | Marple |
+| 117 | Kenji | Mattheson |
+| 118 | Kenneth | Mbatha |
+| 119 | Kingsley | Mensah |
+| 120 | Kit | Mercer |
+| 121 | Kofi | Middleton |
+| 122 | Kwame | Miller |
+| 123 | Landis | Mohammed |
+| 124 | Lawrence | Montero |
+| 125 | Layla | Montgomery |
+| 126 | Leopold | Morgan |
+| 127 | Lillian | Murrieta |
+| 128 | Logan | Mwangi |
+| 129 | Lord | Nakamura |
+| 130 | Madeline | Neville |
+| 131 | Malcolm | Newberry |
+| 132 | Mallory | Njoku |
+| 133 | Margaret | Nkosi |
+| 134 | Marion | Normandy |
+| 135 | Martin | Northcote |
+| 136 | Matthew | O'Connor |
+| 137 | Max | Oakley |
+| 138 | Miller | Obi |
+| 139 | Mina | Okonkwo |
+| 140 | Miss | Okoro |
+| 141 | Mister | Orrington |
+| 142 | Morton | Osborne |
+| 143 | Nala | Osmunde |
+| 144 | Nash | Patel |
+| 145 | Nathaniel | Pemberton |
+| 146 | Neville | Pennington |
+| 147 | Nicholas | Phillips |
+| 148 | Nick | Pickering |
+| 149 | Nigel | Pierce |
+| 150 | Nora | Poirot |
+| 151 | Norman | Porter |
+| 152 | Okafor | Prentiss |
+| 153 | Oliver | Quatermain |
+| 154 | Orson | Questrom |
+| 155 | Oscar | Quincy |
+| 156 | Oswald | Quinn |
+| 157 | Patrick | Quinton |
+| 158 | Peggy | Radcliffe |
+| 159 | Penelope | Raines |
+| 160 | Percival | Ramsey |
+| 161 | Peter | Rathbone |
+| 162 | Phileas | Ravenwood |
+| 163 | Philip | Remington |
+| 164 | Phineas | Rhodes |
+| 165 | Priya | Rivers |
+| 166 | Professor | Rochester |
+| 167 | Quentin | Rogers |
+| 168 | Quincy | Sanderson |
+| 169 | Rafe | Sato |
+| 170 | Rafi | Savage |
+| 171 | Rajesh | Scott |
+| 172 | Reverend | Shadow |
+| 173 | Rex | Sharma |
+| 174 | Rick | Sharp |
+| 175 | Ridge | Shelby |
+| 176 | Rose | Shelton |
+| 177 | Ruby | Sinclair |
+| 178 | Sakura | Smith |
+| 179 | Sam | Spade |
+| 180 | Scarlett | Stark |
+| 181 | Sister | Stavros |
+| 182 | Slate | Steele |
+| 183 | Smiles | Sterling |
+| 184 | Sophia | Stone |
+| 185 | Steve | Storm |
+| 186 | Stone | Suzuki |
+| 187 | Sydney | Tanaka |
+| 188 | Takeshi | Thorne |
+| 189 | Tyrell | Turner |
+| 190 | Veronica | Vale |
+| 191 | Victoria | Van Buren |
+| 192 | Vikram | Vance |
+| 193 | Vivian | Vasquez |
+| 194 | Willie | Verma |
+| 195 | Wilma | Walker |
+| 196 | Wyatt | Watanabe |
+| 197 | Yasmin | Wilde |
+| 198 | Yuki | Yamamoto |
+| 199 | Zane | Zhe |
+| 200 | Zuri | - |
 

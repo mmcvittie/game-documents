@@ -942,327 +942,184 @@ Roll or choose a Secret: something your character hides from the world. A source
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Forenames / Given Names
+### Primal Names
 
 **Table 1 of 2**
 
-| d100 | Result |
-|------|--------|
-| 1 | Ash |
-| 2 | Birch |
-| 3 | Blaze |
-| 4 | Bone |
-| 5 | Boulder |
-| 6 | Bracken |
-| 7 | Branch |
-| 8 | Briar |
-| 9 | Brook |
-| 10 | Cedar |
-| 11 | Claw |
-| 12 | Clay |
-| 13 | Cloud |
-| 14 | Coal |
-| 15 | Copper |
-| 16 | Creek |
-| 17 | Crow |
-| 18 | Dawn |
-| 19 | Dune |
-| 20 | Eagle |
-| 21 | Earth |
-| 22 | Ember |
-| 23 | Fang |
-| 24 | Fern |
-| 25 | Flame |
-| 26 | Flint |
-| 27 | Fog |
-| 28 | Forest |
-| 29 | Fox |
-| 30 | Frost |
-| 31 | Gale |
-| 32 | Granite |
-| 33 | Grass |
-| 34 | Gravel |
-| 35 | Grit |
-| 36 | Grove |
-| 37 | Hail |
-| 38 | Hazel |
-| 39 | Heather |
-| 40 | Hill |
-| 41 | Horn |
-| 42 | Hunter |
-| 43 | Ice |
-| 44 | Iron |
-| 45 | Ivy |
-| 46 | Jade |
-| 47 | Leaf |
-| 48 | Maple |
-| 49 | Marsh |
-| 50 | Mist |
-| 51 | Moon |
-| 52 | Moss |
-| 53 | Mountain |
-| 54 | Oak |
-| 55 | Obsidian |
-| 56 | Pebble |
-| 57 | Pine |
-| 58 | Reed |
-| 59 | Ridge |
-| 60 | River |
-| 61 | Rock |
-| 62 | Root |
-| 63 | Sage |
-| 64 | Sand |
-| 65 | Scar |
-| 66 | Shadow |
-| 67 | Shale |
-| 68 | Sky |
-| 69 | Slash |
-| 70 | Slate |
-| 71 | Smoke |
-| 72 | Snow |
-| 73 | Spear |
-| 74 | Spider |
-| 75 | Spirit |
-| 76 | Spruce |
-| 77 | Star |
-| 78 | Stone |
-| 79 | Storm |
-| 80 | Stream |
-| 81 | Sun |
-| 82 | Swift |
-| 83 | Talon |
-| 84 | Thorn |
-| 85 | Thunder |
-| 86 | Timber |
-| 87 | Torrent |
-| 88 | Track |
-| 89 | Trail |
-| 90 | Tusk |
-| 91 | Valley |
-| 92 | Vine |
-| 93 | Warden |
-| 94 | Whisper |
-| 95 | Willow |
-| 96 | Wind |
-| 97 | Zephyr |
-| 98 | Axe |
-| 99 | Blade |
-| 100 | Breeze |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Ash | Amber-Eye |
+| 2 | Axe | Ash-Ember |
+| 3 | Birch | Ash-Walker |
+| 4 | Blade | Ashmane |
+| 5 | Blaze | Bearclaw |
+| 6 | Bone | Beast-Slayer |
+| 7 | Boulder | Blacktalon |
+| 8 | Bracken | Blood-Bone |
+| 9 | Branch | Blood-Born |
+| 10 | Breeze | Blood-Moon |
+| 11 | Briar | Bone-Carver |
+| 12 | Brook | Bonebreaker |
+| 13 | Canyon | Boulderkin |
+| 14 | Cascade | Branch-Breaker |
+| 15 | Cedar | Bristleback |
+| 16 | Chasm | Caveborn |
+| 17 | Cinder | Cinder-Swift |
+| 18 | Claw | Cliff-Dancer |
+| 19 | Clay | Cliffborn |
+| 20 | Cliff | Cloud-Seeker |
+| 21 | Cloud | Dawn-Bringer |
+| 22 | Coal | Dawn-Dusk |
+| 23 | Copper | Deepfur |
+| 24 | Crater | Dream-Walker |
+| 25 | Creek | Dust-Runner |
+| 26 | Crow | Earth-Shaper |
+| 27 | Crystal | Earth-Sky |
+| 28 | Current | Emberhide |
+| 29 | Dagger | Far-Seer |
+| 30 | Dawn | Fire-Heart |
+| 31 | Deep | Fire-Ice |
+| 32 | Delta | Firemane |
+| 33 | Drift | Flame-Keeper |
+| 34 | Drum | Flesh-Stone |
+| 35 | Dune | Flint-Striker |
+| 36 | Eagle | Flintheart |
+| 37 | Earth | Frost-Born |
+| 38 | East | Frosthide |
+| 39 | Echo | Fury-Born |
+| 40 | Ember | Ghost-Step |
+| 41 | Falls | Grass-Whisperer |
+| 42 | Fang | Greyclaw |
+| 43 | Fern | Hill-Watcher |
+| 44 | Flame | Horn-Bearer |
+| 45 | Flint | Hornbreaker |
+| 46 | Fog | Howling-Pride |
+| 47 | Forest | Ice-Breaker |
+| 48 | Forge | Icefang |
+| 49 | Fox | Iron-Will |
+| 50 | Frost | Irontooth |
+| 51 | Gale | Keen-Sight |
+| 52 | Glade | Leaf-Branch |
+| 53 | Gorge | Leaf-Dancer |
+| 54 | Granite | Light-Foot |
+| 55 | Grass | Lightning-Strikes |
+| 56 | Gravel | Longfang |
+| 57 | Grind | Many-Arrows |
+| 58 | Grit | Moon-Dancer |
+| 59 | Grove | Moon-Star |
+| 60 | Gust | Moon-Touched |
+| 61 | Hail | Moonhowl |
+| 62 | Hazel | Mossbeard |
+| 63 | Hearth | Mudrunner |
+| 64 | Heath | Night-Song |
+| 65 | Heather | Night-Walker |
+| 66 | Hill | Nightclaw |
+| 67 | Horizon | Oak-Heart |
+| 68 | Horn | Oakblood |
+| 69 | Hunter | Path-Finder |
+| 70 | Ice | Pure-Force |
+| 71 | Iron | Quick-Strike |
+| 72 | Ivy | Raging-Storm |
+| 73 | Jade | Rain-Dancer |
+| 74 | Lake | Rain-Thunder |
+| 75 | Leaf | Ravenmark |
+| 76 | Lightning | Red-Feather |
+| 77 | Loom | Redtusk |
+| 78 | Maple | Ridge-Runner |
+| 79 | Marsh | Ridgewalker |
+| 80 | Mesa | River-Crossed |
+| 81 | Midnight | Riverstone |
+| 82 | Mist | Rock-Splitter |
+| 83 | Moon | Root-Digger |
+| 84 | Moss | Rootstrider |
+| 85 | Mountain | Scar-Face |
+| 86 | Needle | Shadow-Born |
+| 87 | North | Shadow-Light |
+| 88 | Oak | Shadowpaw |
+| 89 | Obsidian | Skullcrusher |
+| 90 | Ochre | Sky-Gazer |
+| 91 | Peak | Smoke-Ash |
+| 92 | Pebble | Smoke-Singer |
+| 93 | Pine | Snow-Strider |
+| 94 | Pitch | Spear-Thrower |
+| 95 | Quarry | Spearbone |
+| 96 | Quartz | Spirit-Flesh |
+| 97 | Rain | Spirit-Talker |
+| 98 | Reed | Star-Reader |
+| 99 | Ridge | Stone-Fist |
+| 100 | Rift | Stone-Steel |
 
 **Table 2 of 2**
 
-| d100 | Result |
-|------|--------|
-| 1 | Canyon |
-| 2 | Cascade |
-| 3 | Chasm |
-| 4 | Cinder |
-| 5 | Cliff |
-| 6 | Crater |
-| 7 | Crystal |
-| 8 | Current |
-| 9 | Dagger |
-| 10 | Deep |
-| 11 | Delta |
-| 12 | Drift |
-| 13 | Drum |
-| 14 | Echo |
-| 15 | Falls |
-| 16 | Forge |
-| 17 | Glade |
-| 18 | Gorge |
-| 19 | Grind |
-| 20 | Gust |
-| 21 | Hearth |
-| 22 | Heath |
-| 23 | Horizon |
-| 24 | Lake |
-| 25 | Lightning |
-| 26 | Loom |
-| 27 | Mesa |
-| 28 | Midnight |
-| 29 | Needle |
-| 30 | North |
-| 31 | Ochre |
-| 32 | Peak |
-| 33 | Pitch |
-| 34 | Quarry |
-| 35 | Quartz |
-| 36 | Rain |
-| 37 | Rift |
-| 38 | Rust |
-| 39 | Salt |
-| 40 | Scorch |
-| 41 | Shaft |
-| 42 | Shard |
-| 43 | Shell |
-| 44 | Shimmer |
-| 45 | Shore |
-| 46 | Shroud |
-| 47 | Silence |
-| 48 | Silt |
-| 49 | Singe |
-| 50 | Smolder |
-| 51 | Spark |
-| 52 | Split |
-| 53 | Steel |
-| 54 | Summit |
-| 55 | Surge |
-| 56 | Thaw |
-| 57 | Tide |
-| 58 | Torch |
-| 59 | Veil |
-| 60 | Void |
-| 61 | Wanderer |
-| 62 | Wave |
-| 63 | Wedge |
-| 64 | West |
-| 65 | Wild |
-| 66 | South |
-| 67 | East |
-| 68 | Wisp |
-| 69 | Trunk |
-
-### Surnames / Family Names
-
-**Table 1 of 2**
-
-| d100 | Result |
-|------|--------|
-| 1 | Amber-Eye |
-| 2 | Ash-Walker |
-| 3 | Blood-Born |
-| 4 | Blood-Moon |
-| 5 | Bone-Carver |
-| 6 | Branch-Breaker |
-| 7 | Cliff-Dancer |
-| 8 | Cloud-Seeker |
-| 9 | Dawn-Bringer |
-| 10 | Dream-Walker |
-| 11 | Dust-Runner |
-| 12 | Earth-Shaper |
-| 13 | Far-Seer |
-| 14 | Fire-Heart |
-| 15 | Flame-Keeper |
-| 16 | Flint-Striker |
-| 17 | Frost-Born |
-| 18 | Ghost-Step |
-| 19 | Grass-Whisperer |
-| 20 | Hill-Watcher |
-| 21 | Horn-Bearer |
-| 22 | Ice-Breaker |
-| 23 | Iron-Will |
-| 24 | Leaf-Dancer |
-| 25 | Light-Foot |
-| 26 | Moon-Touched |
-| 27 | Moon-Dancer |
-| 28 | Night-Walker |
-| 29 | Oak-Heart |
-| 30 | Path-Finder |
-| 31 | Rain-Dancer |
-| 32 | Red-Feather |
-| 33 | Ridge-Runner |
-| 34 | River-Crossed |
-| 35 | Rock-Splitter |
-| 36 | Root-Digger |
-| 37 | Scar-Face |
-| 38 | Shadow-Born |
-| 39 | Sky-Gazer |
-| 40 | Smoke-Singer |
-| 41 | Snow-Strider |
-| 42 | Spear-Thrower |
-| 43 | Spirit-Talker |
-| 44 | Star-Reader |
-| 45 | Stone-Fist |
-| 46 | Storm-Caller |
-| 47 | Sun-Blessed |
-| 48 | Swift-Arrow |
-| 49 | Thorn-Walker |
-| 50 | Thunder-Voice |
-| 51 | Track-Finder |
-| 52 | Tree-Climber |
-| 53 | Valley-Born |
-| 54 | War-Singer |
-| 55 | Wave-Rider |
-| 56 | Wild-Heart |
-| 57 | Wind-Runner |
-| 58 | Beast-Slayer |
-| 59 | Ash-Ember |
-| 60 | Blood-Bone |
-| 61 | Cinder-Swift |
-| 62 | Dawn-Dusk |
-| 63 | Earth-Sky |
-| 64 | Fire-Ice |
-| 65 | Flesh-Stone |
-| 66 | Leaf-Branch |
-| 67 | Moon-Star |
-| 68 | Rain-Thunder |
-| 69 | Shadow-Light |
-| 70 | Smoke-Ash |
-| 71 | Spirit-Flesh |
-| 72 | Stone-Steel |
-| 73 | Sun-Moon |
-| 74 | Thorn-Rose |
-| 75 | Wind-Wave |
-| 76 | Fury-Born |
-| 77 | Howling-Pride |
-| 78 | Keen-Sight |
-| 79 | Lightning-Strikes |
-| 80 | Many-Arrows |
-| 81 | Night-Song |
-| 82 | Pure-Force |
-| 83 | Quick-Strike |
-| 84 | Raging-Storm |
-| 85 | Truth-Seeker |
-| 86 | Thunder-Maker |
-| 87 | Untamed-Spirit |
-| 88 | Vengeful-Storm |
-| 89 | Wildfire-Heart |
-| 90 | Zealous-Hunt |
-| 91 | Stonefang |
-| 92 | Bearclaw |
-| 93 | Wolfhide |
-| 94 | Irontooth |
-| 95 | Thunderfoot |
-| 96 | Ashmane |
-| 97 | Redtusk |
-| 98 | Bonebreaker |
-| 99 | Flintheart |
-| 100 | Oakblood |
-
-**Table 2 of 2**
-
-| d100 | Result |
-|------|--------|
-| 1 | Ravenmark |
-| 2 | Stormpelt |
-| 3 | Icefang |
-| 4 | Mossbeard |
-| 5 | Wildroot |
-| 6 | Emberhide |
-| 7 | Skullcrusher |
-| 8 | Deepfur |
-| 9 | Longfang |
-| 10 | Bristleback |
-| 11 | Shadowpaw |
-| 12 | Ridgewalker |
-| 13 | Cliffborn |
-| 14 | Moonhowl |
-| 15 | Nightclaw |
-| 16 | Sunscar |
-| 17 | Frosthide |
-| 18 | Mudrunner |
-| 19 | Firemane |
-| 20 | Riverstone |
-| 21 | Thornhide |
-| 22 | Greyclaw |
-| 23 | Hornbreaker |
-| 24 | Boulderkin |
-| 25 | Swiftantler |
-| 26 | Rootstrider |
-| 27 | Blacktalon |
-| 28 | Windhunter |
-| 29 | Caveborn |
-| 30 | Spearbone |
-| 31 | Taloncrest |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 101 | River | Stonefang |
+| 102 | Rock | Storm-Caller |
+| 103 | Root | Stormpelt |
+| 104 | Rust | Sun-Blessed |
+| 105 | Sage | Sun-Moon |
+| 106 | Salt | Sunscar |
+| 107 | Sand | Swift-Arrow |
+| 108 | Scar | Swiftantler |
+| 109 | Scorch | Taloncrest |
+| 110 | Shadow | Thorn-Rose |
+| 111 | Shaft | Thorn-Walker |
+| 112 | Shale | Thornhide |
+| 113 | Shard | Thunder-Maker |
+| 114 | Shell | Thunder-Voice |
+| 115 | Shimmer | Thunderfoot |
+| 116 | Shore | Track-Finder |
+| 117 | Shroud | Tree-Climber |
+| 118 | Silence | Truth-Seeker |
+| 119 | Silt | Untamed-Spirit |
+| 120 | Singe | Valley-Born |
+| 121 | Sky | Vengeful-Storm |
+| 122 | Slash | War-Singer |
+| 123 | Slate | Wave-Rider |
+| 124 | Smoke | Wild-Heart |
+| 125 | Smolder | Wildfire-Heart |
+| 126 | Snow | Wildroot |
+| 127 | South | Wind-Runner |
+| 128 | Spark | Wind-Wave |
+| 129 | Spear | Windhunter |
+| 130 | Spider | Wolfhide |
+| 131 | Spirit | Zealous-Hunt |
+| 132 | Split | - |
+| 133 | Spruce | - |
+| 134 | Star | - |
+| 135 | Steel | - |
+| 136 | Stone | - |
+| 137 | Storm | - |
+| 138 | Stream | - |
+| 139 | Summit | - |
+| 140 | Sun | - |
+| 141 | Surge | - |
+| 142 | Swift | - |
+| 143 | Talon | - |
+| 144 | Thaw | - |
+| 145 | Thorn | - |
+| 146 | Thunder | - |
+| 147 | Tide | - |
+| 148 | Timber | - |
+| 149 | Torch | - |
+| 150 | Torrent | - |
+| 151 | Track | - |
+| 152 | Trail | - |
+| 153 | Trunk | - |
+| 154 | Tusk | - |
+| 155 | Valley | - |
+| 156 | Veil | - |
+| 157 | Vine | - |
+| 158 | Void | - |
+| 159 | Wanderer | - |
+| 160 | Warden | - |
+| 161 | Wave | - |
+| 162 | Wedge | - |
+| 163 | West | - |
+| 164 | Whisper | - |
+| 165 | Wild | - |
+| 166 | Willow | - |
+| 167 | Wind | - |
+| 168 | Wisp | - |
+| 169 | Zephyr | - |
 

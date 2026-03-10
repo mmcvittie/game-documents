@@ -1342,320 +1342,215 @@ Roll or choose a Secret: something your character hides from the world. A source
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Forenames / Given Names
-
-| d100 | Result |
-|------|--------|
-| 1 | Master |
-| 2 | Teacher |
-| 3 | Scholar |
-| 4 | Stormcaller |
-| 5 | Cloudwalker |
-| 6 | Windwhisperer |
-| 7 | Earthshaker |
-| 8 | Firekeeper |
-| 9 | Waterweaver |
-| 10 | Moonblade |
-| 11 | Sunstrike |
-| 12 | Stargazer |
-| 13 | Shadowdancer |
-| 14 | Lightbringer |
-| 15 | Darkbane |
-| 16 | Ironmonk |
-| 17 | Silkmaster |
-| 18 | Spiritwalker |
-| 19 | Ancestorspeaker |
-| 20 | Dreamweaver |
-| 21 | Fortuneteller |
-| 22 | Scrollkeeper |
-| 23 | Blademaster |
-| 24 | Dragonwhisper |
-| 25 | Phoenixsong |
-| 26 | Tigerstride |
-| 27 | Cranedance |
-| 28 | Swordmaster |
-| 29 | Spearbreaker |
-| 30 | Arrowsong |
-| 31 | Shieldbearer |
-| 32 | Axewielder |
-| 33 | Staffkeeper |
-| 34 | Dragonborn |
-| 35 | Phoenixheart |
-| 36 | Tigerclaw |
-| 37 | Cranefeather |
-| 38 | Serpentfang |
-| 39 | Monkeyfist |
-| 40 | Lotusbloom |
-| 41 | Jadeheart |
-| 42 | Silvermoon |
-| 43 | Goldensun |
-| 44 | Crimsondawn |
-| 45 | Azuresky |
-| 46 | Ivorycloud |
-| 47 | Onyxnight |
-| 48 | Thunderstep |
-| 49 | Raindancer |
-| 50 | Snowfall |
-| 51 | Mistborn |
-| 52 | Emberlight |
-| 53 | Frostwind |
-| 54 | Petalfall |
-| 55 | Dewdrop |
-| 56 | Mistwalker |
-| 57 | Scrollsage |
-| 58 | Teabrewer |
-| 59 | Ricefarmer |
-| 60 | Fisherman |
-| 61 | Woodcarver |
-| 62 | Akari |
-| 63 | Baojun |
-| 64 | Chiyome |
-| 65 | Daehyun |
-| 66 | Etsuko |
-| 67 | Fen |
-| 68 | Genji |
-| 69 | Haneul |
-| 70 | Isamu |
-| 71 | Jiahao |
-| 72 | Kaede |
-| 73 | Lian |
-| 74 | Minseo |
-| 75 | Nari |
-| 76 | Qianru |
-| 77 | Renshu |
-| 78 | Satoshi |
-| 79 | Tenzin |
-| 80 | Ume |
-| 81 | Vinh |
-| 82 | Wenli |
-| 83 | Xinyi |
-| 84 | Yori |
-| 85 | Zhen |
-| 86 | Airi |
-| 87 | Binh |
-| 88 | Chao |
-| 89 | Dongmei |
-| 90 | Haruka |
-| 91 | Jisoo |
-| 92 | Kiyoshi |
-| 93 | Meilin |
-| 94 | Ryota |
-| 95 | Shiori |
-| 96 | Lanternkeeper |
-| 97 | Riverwhisper |
-| 98 | Plumdawn |
-| 99 | Willowdream |
-| 100 | Jadeecho |
-
-### Surnames / Family Names
+### Eastern Fantasy Names
 
 **Table 1 of 2**
 
-| d100 | Result |
-|------|--------|
-| 1 | Moonflower |
-| 2 | Starwhisper |
-| 3 | Dawnbreaker |
-| 4 | Nightblossom |
-| 5 | Cloudpetal |
-| 6 | Windrose |
-| 7 | Stormheart |
-| 8 | Silentshadow |
-| 9 | Bao |
-| 10 | Chen |
-| 11 | Chun |
-| 12 | Fang |
-| 13 | Feng |
-| 14 | Hong |
-| 15 | Hua |
-| 16 | Jian |
-| 17 | Jun |
-| 18 | Lei |
-| 19 | Li |
-| 20 | Lian |
-| 21 | Ling |
-| 22 | Liu |
-| 23 | Ryujin |
-| 24 | Ming |
-| 25 | Ping |
-| 26 | Qiang |
-| 27 | Qing |
-| 28 | Rong |
-| 29 | Shan |
-| 30 | Shen |
-| 31 | Shi |
-| 32 | Tao |
-| 33 | Wei |
-| 34 | Wen |
-| 35 | Xia |
-| 36 | Xiu |
-| 37 | Yan |
-| 38 | Yi |
-| 39 | Ying |
-| 40 | Yu |
-| 41 | Yuan |
-| 42 | Yue |
-| 43 | Yun |
-| 44 | Zhen |
-| 45 | Zhi |
-| 46 | An |
-| 47 | Bo |
-| 48 | Chang |
-| 49 | Daiyu |
-| 50 | Gang |
-| 51 | Guang |
-| 52 | Hai |
-| 53 | Huan |
-| 54 | Jing |
-| 55 | Lan |
-| 56 | Long |
-| 57 | Mei-Ling |
-| 58 | Ning |
-| 59 | Peng |
-| 60 | Qi |
-| 61 | Ru |
-| 62 | Song |
-| 63 | Xin |
-| 64 | Yang |
-| 65 | Yin |
-| 66 | Zhang |
-| 67 | Zhao |
-| 68 | Zhou |
-| 69 | Bingwen |
-| 70 | Chaoxiang |
-| 71 | Delun |
-| 72 | Huizhong |
-| 73 | Junjie |
-| 74 | Lihua |
-| 75 | Mingzhu |
-| 76 | Qiuyue |
-| 77 | Ruolan |
-| 78 | Xiaoli |
-| 79 | Crimsonjade |
-| 80 | Goldenstream |
-| 81 | Jadewing |
-| 82 | Lotusrain |
-| 83 | Pearldew |
-| 84 | Riversong |
-| 85 | Silkwind |
-| 86 | Willowmist |
-| 87 | Lotus |
-| 88 | Jasmine |
-| 89 | Moonstone |
-| 90 | Starlight |
-| 91 | Sunfire |
-| 92 | Wintermoon |
-| 93 | Springrain |
-| 94 | Autumnleaf |
-| 95 | Bora |
-| 96 | Dae |
-| 97 | Haneul |
-| 98 | Joon |
-| 99 | Min |
-| 100 | Nari |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Airi | An |
+| 2 | Akari | Anh |
+| 3 | Ancestorspeaker | Apsara |
+| 4 | Arrowsong | Autumnleaf |
+| 5 | Axewielder | Bamboo |
+| 6 | Azuresky | Bamboochime |
+| 7 | Baojun | Bamboogrove |
+| 8 | Binh | Bao |
+| 9 | Blademaster | Bingwen |
+| 10 | Chao | Binh |
+| 11 | Chiyome | Bo |
+| 12 | Cloudwalker | Bora |
+| 13 | Cranedance | Chai |
+| 14 | Cranefeather | Chang |
+| 15 | Crimsondawn | Chaoxiang |
+| 16 | Daehyun | Chen |
+| 17 | Darkbane | Chun |
+| 18 | Dewdrop | Cloudlantern |
+| 19 | Dongmei | Cloudpetal |
+| 20 | Dragonborn | Cranemoon |
+| 21 | Dragonwhisper | Crimsonjade |
+| 22 | Dreamweaver | Dae |
+| 23 | Earthshaker | Daiyu |
+| 24 | Emberlight | Dawnbreaker |
+| 25 | Etsuko | Delun |
+| 26 | Fen | Dragonbloom |
+| 27 | Firekeeper | Duc |
+| 28 | Fisherman | Fang |
+| 29 | Fortuneteller | Feng |
+| 30 | Frostwind | Gang |
+| 31 | Genji | Goldenstream |
+| 32 | Goldensun | Guang |
+| 33 | Haneul | Hai |
+| 34 | Haruka | Haneul |
+| 35 | Ironmonk | Hoa |
+| 36 | Isamu | Hong |
+| 37 | Ivorycloud | Hua |
+| 38 | Jadeecho | Huan |
+| 39 | Jadeheart | Huizhong |
+| 40 | Jiahao | Inkbrush |
+| 41 | Jisoo | Jadebrook |
+| 42 | Kaede | Jadewing |
+| 43 | Kiyoshi | Jasmine |
+| 44 | Lanternkeeper | Jian |
+| 45 | Lian | Jing |
+| 46 | Lightbringer | Joon |
+| 47 | Lotusbloom | Jun |
+| 48 | Master | Junjie |
+| 49 | Meilin | Kulap |
+| 50 | Minseo | Lan |
+| 51 | Mistborn | Lanternmist |
+| 52 | Mistwalker | Lei |
+| 53 | Monkeyfist | Li |
+| 54 | Moonblade | Lian |
+| 55 | Nari | Lihua |
+| 56 | Onyxnight | Ling |
+| 57 | Petalfall | Liu |
+| 58 | Phoenixheart | Long |
+| 59 | Phoenixsong | Longwei |
+| 60 | Plumdawn | Lotus |
+| 61 | Qianru | Lotusrain |
+| 62 | Raindancer | Lotuswind |
+| 63 | Renshu | Mei-Ling |
+| 64 | Ricefarmer | Min |
+| 65 | Riverwhisper | Ming |
+| 66 | Ryota | Mingzhu |
+| 67 | Satoshi | Minh |
+| 68 | Scholar | Moonflower |
+| 69 | Scrollkeeper | Moonpetal |
+| 70 | Scrollsage | Moonstone |
+| 71 | Serpentfang | Nari |
+| 72 | Shadowdancer | Narong |
+| 73 | Shieldbearer | Nightblossom |
+| 74 | Shiori | Ning |
+| 75 | Silkmaster | Niran |
+| 76 | Silvermoon | of the Amber Lantern |
+| 77 | Snowfall | of the Ancient Temple |
+| 78 | Spearbreaker | of the Azure Dragon |
+| 79 | Spiritwalker | of the Black Tortoise |
+| 80 | Staffkeeper | of the Celestial Court |
+| 81 | Stargazer | of the Crimson Maple |
+| 82 | Stormcaller | of the Crimson Phoenix |
+| 83 | Sunstrike | of the Dawn Pavilion |
+| 84 | Swordmaster | of the Divine Palace |
+| 85 | Teabrewer | of the Eastern Peaks |
+| 86 | Teacher | of the Eternal Garden |
+| 87 | Tenzin | of the Falling Plum |
+| 88 | Thunderstep | of the Golden Lotus |
+| 89 | Tigerclaw | of the Golden Reed |
+| 90 | Tigerstride | of the Hidden Moon |
+| 91 | Ume | of the Hidden Valley |
+| 92 | Vinh | of the Jade Lantern |
+| 93 | Waterweaver | of the Jade Mountain |
+| 94 | Wenli | of the Misty Terrace |
+| 95 | Willowdream | of the Moonlit Lake |
+| 96 | Windwhisperer | of the Nine Petals |
+| 97 | Woodcarver | of the Northern Forests |
+| 98 | Xinyi | of the Painted Fan |
+| 99 | Yori | of the Pearl Current |
+| 100 | Zhen | of the Quiet River |
 
 **Table 2 of 2**
 
-| d100 | Result |
-|------|--------|
-| 1 | Seung |
-| 2 | Yeon |
-| 3 | Anh |
-| 4 | Binh |
-| 5 | Duc |
-| 6 | Hoa |
-| 7 | Longwei |
-| 8 | Minh |
-| 9 | Thanh |
-| 10 | Thuy |
-| 11 | Tuan |
-| 12 | Chai |
-| 13 | Kulap |
-| 14 | Narong |
-| 15 | Niran |
-| 16 | Somchai |
-| 17 | Suda |
-| 18 | Sunan |
-| 19 | Apsara |
-| 20 | of the Jade Mountain |
-| 21 | of the Golden Lotus |
-| 22 | of the Silver Moon |
-| 23 | of the Crimson Phoenix |
-| 24 | of the Azure Dragon |
-| 25 | of the White Tiger |
-| 26 | of the Black Tortoise |
-| 27 | of the Vermillion Bird |
-| 28 | of the Eastern Peaks |
-| 29 | of the Western Plains |
-| 30 | of the Northern Forests |
-| 31 | of the Southern Seas |
-| 32 | the Wise |
-| 33 | the Swift |
-| 34 | the Strong |
-| 35 | the Gentle |
-| 36 | the Fierce |
-| 37 | the Calm |
-| 38 | of the Thousand Steps |
-| 39 | of the Hidden Valley |
-| 40 | of the Sacred Grove |
-| 41 | of the Ancient Temple |
-| 42 | Bamboo |
-| 43 | Willowbend |
-| 44 | Plumblossom |
-| 45 | of the Celestial Court |
-| 46 | of the Divine Palace |
-| 47 | of the Eternal Garden |
-| 48 | of the Moonlit Lake |
-| 49 | the Enlightened |
-| 50 | the Peaceful |
-| 51 | the Honorable |
-| 52 | the Virtuous |
-| 53 | the Devoted |
-| 54 | the Serene |
-| 55 | Inkbrush |
-| 56 | Teacup |
-| 57 | Silkthread |
-| 58 | Ricepaddy |
-| 59 | Bamboogrove |
-| 60 | Jadebrook |
-| 61 | Lanternmist |
-| 62 | Plumrain |
-| 63 | Silverreed |
-| 64 | Lotuswind |
-| 65 | Saffrondawn |
-| 66 | Moonpetal |
-| 67 | Riverpearl |
-| 68 | Cloudlantern |
-| 69 | Willowrain |
-| 70 | Pinewhisper |
-| 71 | Bamboochime |
-| 72 | Cranemoon |
-| 73 | Phoenixmist |
-| 74 | Dragonbloom |
-| 75 | of the Quiet River |
-| 76 | of the Rain-Washed Shrine |
-| 77 | of the Amber Lantern |
-| 78 | of the Nine Petals |
-| 79 | of the Falling Plum |
-| 80 | of the Hidden Moon |
-| 81 | of the Whispering Pines |
-| 82 | of the Singing Reeds |
-| 83 | of the Dawn Pavilion |
-| 84 | of the Misty Terrace |
-| 85 | of the Sapphire Lake |
-| 86 | of the Golden Reed |
-| 87 | of the Jade Lantern |
-| 88 | of the Crimson Maple |
-| 89 | of the Silent Bell |
-| 90 | of the Painted Fan |
-| 91 | of the Pearl Current |
-| 92 | the Moon-Kissed |
-| 93 | the Dawn-Blessed |
-| 94 | the Willow-Hearted |
-| 95 | the Lotus-Crowned |
-| 96 | the Starlit |
-| 97 | the Rain-Gentle |
-| 98 | the River-Patient |
-| 99 | the Cloud-Minded |
-| 100 | the Lantern-Born |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 101 | - | of the Rain-Washed Shrine |
+| 102 | - | of the Sacred Grove |
+| 103 | - | of the Sapphire Lake |
+| 104 | - | of the Silent Bell |
+| 105 | - | of the Silver Moon |
+| 106 | - | of the Singing Reeds |
+| 107 | - | of the Southern Seas |
+| 108 | - | of the Thousand Steps |
+| 109 | - | of the Vermillion Bird |
+| 110 | - | of the Western Plains |
+| 111 | - | of the Whispering Pines |
+| 112 | - | of the White Tiger |
+| 113 | - | Pearldew |
+| 114 | - | Peng |
+| 115 | - | Phoenixmist |
+| 116 | - | Pinewhisper |
+| 117 | - | Ping |
+| 118 | - | Plumblossom |
+| 119 | - | Plumrain |
+| 120 | - | Qi |
+| 121 | - | Qiang |
+| 122 | - | Qing |
+| 123 | - | Qiuyue |
+| 124 | - | Ricepaddy |
+| 125 | - | Riverpearl |
+| 126 | - | Riversong |
+| 127 | - | Rong |
+| 128 | - | Ru |
+| 129 | - | Ruolan |
+| 130 | - | Ryujin |
+| 131 | - | Saffrondawn |
+| 132 | - | Seung |
+| 133 | - | Shan |
+| 134 | - | Shen |
+| 135 | - | Shi |
+| 136 | - | Silentshadow |
+| 137 | - | Silkthread |
+| 138 | - | Silkwind |
+| 139 | - | Silverreed |
+| 140 | - | Somchai |
+| 141 | - | Song |
+| 142 | - | Springrain |
+| 143 | - | Starlight |
+| 144 | - | Starwhisper |
+| 145 | - | Stormheart |
+| 146 | - | Suda |
+| 147 | - | Sunan |
+| 148 | - | Sunfire |
+| 149 | - | Tao |
+| 150 | - | Teacup |
+| 151 | - | Thanh |
+| 152 | - | the Calm |
+| 153 | - | the Cloud-Minded |
+| 154 | - | the Dawn-Blessed |
+| 155 | - | the Devoted |
+| 156 | - | the Enlightened |
+| 157 | - | the Fierce |
+| 158 | - | the Gentle |
+| 159 | - | the Honorable |
+| 160 | - | the Lantern-Born |
+| 161 | - | the Lotus-Crowned |
+| 162 | - | the Moon-Kissed |
+| 163 | - | the Peaceful |
+| 164 | - | the Rain-Gentle |
+| 165 | - | the River-Patient |
+| 166 | - | the Serene |
+| 167 | - | the Starlit |
+| 168 | - | the Strong |
+| 169 | - | the Swift |
+| 170 | - | the Virtuous |
+| 171 | - | the Willow-Hearted |
+| 172 | - | the Wise |
+| 173 | - | Thuy |
+| 174 | - | Tuan |
+| 175 | - | Wei |
+| 176 | - | Wen |
+| 177 | - | Willowbend |
+| 178 | - | Willowmist |
+| 179 | - | Willowrain |
+| 180 | - | Windrose |
+| 181 | - | Wintermoon |
+| 182 | - | Xia |
+| 183 | - | Xiaoli |
+| 184 | - | Xin |
+| 185 | - | Xiu |
+| 186 | - | Yan |
+| 187 | - | Yang |
+| 188 | - | Yeon |
+| 189 | - | Yi |
+| 190 | - | Yin |
+| 191 | - | Ying |
+| 192 | - | Yu |
+| 193 | - | Yuan |
+| 194 | - | Yue |
+| 195 | - | Yun |
+| 196 | - | Zhang |
+| 197 | - | Zhao |
+| 198 | - | Zhen |
+| 199 | - | Zhi |
+| 200 | - | Zhou |
 

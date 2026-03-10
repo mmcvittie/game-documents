@@ -1517,2175 +1517,1158 @@ Roll or choose a Secret: something your character hides from the world. A source
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Forenames / Given Names
+### Chinese
 
-**Table 1 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | An | An |
+| 2 | Anrui | Bai |
+| 3 | Biao | Bi |
+| 4 | Bin | Cai |
+| 5 | Binyue | Cao |
+| 6 | Bo | Chang |
+| 7 | Cai | Chen |
+| 8 | Chao | Cheng |
+| 9 | Chaoran | Cui |
+| 10 | Chun | Dai |
+| 11 | Dan | Deng |
+| 12 | De | Ding |
+| 13 | Dexin | Dong |
+| 14 | Fang | Du |
+| 15 | Fanglin | Duan |
+| 16 | Fei | Fan |
+| 17 | Feng | Fang |
+| 18 | Gang | Feng |
+| 19 | Guang | Fu |
+| 20 | Guangyi | Gao |
+| 21 | Guiying | Ge |
+| 22 | Guo | Gong |
+| 23 | Hailun | Gongsun |
+| 24 | Hao | Gu |
+| 25 | Haoran | Guo |
+| 26 | Haoyu | Han |
+| 27 | He | Hao |
+| 28 | Hong | He |
+| 29 | Hu | Helian |
+| 30 | Hua | Hou |
+| 31 | Hui | Hu |
+| 32 | Jian | Huang |
+| 33 | Jianhua | Huyan |
+| 34 | Jing | Ji |
+| 35 | Jingxiao | Jiang |
+| 36 | Ju | Jin |
+| 37 | Juan | Lei |
+| 38 | Jun | Li |
+| 39 | Kexin | Liang |
+| 40 | Lan | Liao |
+| 41 | Lei | Lin |
+| 42 | Li | Linghu |
+| 43 | Liang | Liu |
+| 44 | Lin | Long |
+| 45 | Ling | Lu |
+| 46 | Long | Luo |
+| 47 | Lu | Ma |
+| 48 | Man | Mao |
+| 49 | Mei | Meng |
+| 50 | Min | Murong |
+| 51 | Ming | Ouyang |
+| 52 | Muchen | Pan |
+| 53 | Nan | Peng |
+| 54 | Peng | Qian |
+| 55 | Ping | Qiu |
+| 56 | Qian | Ren |
+| 57 | Qiang | Sha |
+| 58 | Qiao | Shangguan |
+| 59 | Qing | Shao |
+| 60 | Ren | She |
+| 61 | Rong | Shen |
+| 62 | Shan | Shi |
+| 63 | Sheng | Sima |
+| 64 | Shuhan | Situ |
+| 65 | Song | Song |
+| 66 | Tao | Su |
+| 67 | Ting | Sun |
+| 68 | Wei | Tang |
+| 69 | Wen | Tian |
+| 70 | Xia | Wan |
+| 71 | Xiang | Wang |
+| 72 | Xiao | Wei |
+| 73 | Xinyi | Wu |
+| 74 | Xiuying | Xi |
+| 75 | Xuan | Xia |
+| 76 | Yan | Xiahou |
+| 77 | Yao | Xiang |
+| 78 | Yi | Xiao |
+| 79 | Yichen | Xie |
+| 80 | Ying | Xing |
+| 81 | Yinuo | Xiong |
+| 82 | Yiyan | Xu |
+| 83 | Yong | Xue |
+| 84 | Yu | Yan |
+| 85 | Yuan | Yang |
+| 86 | Yue | Yao |
+| 87 | Yulian | Ye |
+| 88 | Yun | Yi |
+| 89 | Yutong | Yin |
+| 90 | Yuxuan | Yu |
+| 91 | Zhen | Yuan |
+| 92 | Zhi | Yuchi |
+| 93 | Zhong | Zhang |
+| 94 | Zhu | Zhao |
+| 95 | Zi | Zheng |
+| 96 | Zihan | Zhong |
+| 97 | Zihao | Zhou |
+| 98 | Ziqi | Zhu |
+| 99 | Zirui | Zhuge |
+| 100 | Zixuan | Zou |
 
-| d100 | Result |
-|------|--------|
-| 1 | Wyatt |
-| 2 | Virgil |
-| 3 | Morgan |
-| 4 | James |
-| 5 | Doc |
-| 6 | Bat |
-| 7 | Wild |
-| 8 | Bill |
-| 9 | Jesse |
-| 10 | Frank |
-| 11 | Cole |
-| 12 | Bob |
-| 13 | Emmet |
-| 14 | Butch |
-| 15 | Harry |
-| 16 | Calamity |
-| 17 | Annie |
-| 18 | Belle |
-| 19 | Sam |
-| 20 | Johnny |
-| 21 | Ike |
-| 22 | Billy |
-| 23 | Pat |
-| 24 | Kit |
-| 25 | Jim |
-| 26 | Buffalo |
-| 27 | William |
-| 28 | Tom |
-| 29 | Seth |
-| 30 | Luke |
-| 31 | King |
-| 32 | Ben |
-| 33 | Black |
-| 34 | Harvey |
-| 35 | Elzy |
-| 36 | Lonnie |
-| 37 | Camilla |
-| 38 | News |
-| 39 | George |
-| 40 | Dan |
-| 41 | Charlie |
-| 42 | Josiah |
-| 43 | Nelson |
-| 44 | Silas |
-| 45 | Abner |
-| 46 | Thaddeus |
-| 47 | Zeb |
-| 48 | Jeb |
-| 49 | Clint |
-| 50 | Clay |
-| 51 | Tex |
-| 52 | Lefty |
-| 53 | Lucky |
-| 54 | Red |
-| 55 | Slim |
-| 56 | Shorty |
-| 57 | Buck |
-| 58 | Boone |
-| 59 | Caleb |
-| 60 | Gideon |
-| 61 | Hiram |
-| 62 | Ira |
-| 63 | Jasper |
-| 64 | Lafayette |
-| 65 | Milton |
-| 66 | Otis |
-| 67 | Rufus |
-| 68 | Sterling |
-| 69 | Vernon |
-| 70 | Zane |
-| 71 | Adelaide |
-| 72 | Clementine |
-| 73 | Delilah |
-| 74 | Enid |
-| 75 | Flora |
-| 76 | Gertrude |
-| 77 | Hattie |
-| 78 | Ida |
-| 79 | Josie |
-| 80 | Kitty |
-| 81 | Lulu |
-| 82 | Mabel |
-| 83 | Nellie |
-| 84 | Pearl |
-| 85 | Rose |
-| 86 | Sadie |
-| 87 | Tillie |
-| 88 | Vera |
-| 89 | Willa |
-| 90 | Zora |
-| 91 | Augustus |
-| 92 | Woodrow |
-| 93 | Call |
-| 94 | Gus |
-| 95 | Pea |
-| 96 | Blue |
-| 97 | Dish |
-| 98 | Newt |
-| 99 | Joshua |
-| 100 | Deets |
+### Colonial English
 
-**Table 2 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Aaron | Adams |
+| 2 | Abiah | Arnold |
+| 3 | Abigail | Bartlett |
+| 4 | Abner | Blair |
+| 5 | Abraham | Bradford |
+| 6 | Amos | Braxton |
+| 7 | Asa | Brown |
+| 8 | Bartholomew | Burr |
+| 9 | Bathsheba | Cadwalader |
+| 10 | Benjamin | Carroll |
+| 11 | Beulah | Chase |
+| 12 | Caleb | Clark |
+| 13 | Charity | Clinton |
+| 14 | Charles | Clymer |
+| 15 | Chloe | Dearborn |
+| 16 | Cotton | Dickinson |
+| 17 | Daniel | Featherstone |
+| 18 | David | Floyd |
+| 19 | Deborah | Franklin |
+| 20 | Deliverance | Frye |
+| 21 | Desire | Gates |
+| 22 | Dinah | Glover |
+| 23 | Dorcas | Greene |
+| 24 | Ebenezer | Gwinnett |
+| 25 | Edward | Hall |
+| 26 | Eli | Hamilton |
+| 27 | Elijah | Hancock |
+| 28 | Elisha | Hand |
+| 29 | Elizabeth | Harrison |
+| 30 | Enoch | Hart |
+| 31 | Enos | Haslet |
+| 32 | Esther | Heath |
+| 33 | Eunice | Henry |
+| 34 | Experience | Hopkins |
+| 35 | Ezra | Irvine |
+| 36 | Faith | Jay |
+| 37 | Francis | Jefferson |
+| 38 | George | Knox |
+| 39 | Gideon | Langdon |
+| 40 | Grace | Lee |
+| 41 | Hannah | Lewis |
+| 42 | Henry | Lincoln |
+| 43 | Hezekiah | Livingston |
+| 44 | Hope | Madison |
+| 45 | Huldah | Mason |
+| 46 | Increase | Mather |
+| 47 | Isaac | Maxwell |
+| 48 | Israel | McKean |
+| 49 | Jacob | Middleton |
+| 50 | James | Miller |
+| 51 | Jared | Monroe |
+| 52 | Jedidiah | Montgomery |
+| 53 | Jemima | Morris |
+| 54 | John | Morton |
+| 55 | Jonathan | Nelson |
+| 56 | Joseph | Nixon |
+| 57 | Joshua | Otis |
+| 58 | Josiah | Paca |
+| 59 | Judith | Parsons |
+| 60 | Keziah | Patterson |
+| 61 | Lemuel | Pendleton |
+| 62 | Levi | Penn |
+| 63 | Lois | Pickering |
+| 64 | Lydia | Putnam |
+| 65 | Malachi | Randolph |
+| 66 | Martha | Read |
+| 67 | Mary | Reed |
+| 68 | Mehitabel | revere |
+| 69 | Mercy | Ross |
+| 70 | Micah | Rush |
+| 71 | Miriam | Rutledge |
+| 72 | Moses | Schuyler |
+| 73 | Nathaniel | Sewall |
+| 74 | Noah | Sherman |
+| 75 | Obadiah | Smallwood |
+| 76 | Patience | Smith |
+| 77 | Phebe | Spencer |
+| 78 | Phineas | Stark |
+| 79 | Prudence | Stockton |
+| 80 | Rachel | Stone |
+| 81 | Rebecca | Sullivan |
+| 82 | Reuben | Taylor |
+| 83 | Richard | Thomas |
+| 84 | Robert | Thornton |
+| 85 | Ruth | Throckmorton |
+| 86 | Samuel | Walton |
+| 87 | Sarah | Ward |
+| 88 | Seth | Warren |
+| 89 | Silas | Washington |
+| 90 | Simeon | Wayne |
+| 91 | Solomon | Wheatley |
+| 92 | Susannah | Whipple |
+| 93 | Tabitha | Whitcomb |
+| 94 | Temperance | Whitlocke |
+| 95 | Thaddeus | Williams |
+| 96 | Thomas | Wilson |
+| 97 | Timothy | Winthrop |
+| 98 | William | Witherspoon |
+| 99 | Zebulon | Wooster |
+| 100 | Zilpah | Wythe |
 
-| d100 | Result |
-|------|--------|
-| 1 | Samuel |
-| 2 | John |
-| 3 | Thomas |
-| 4 | Nathaniel |
-| 5 | Benjamin |
-| 6 | Joseph |
-| 7 | Edward |
-| 8 | Robert |
-| 9 | Richard |
-| 10 | Charles |
-| 11 | Francis |
-| 12 | Henry |
-| 13 | Isaac |
-| 14 | Jacob |
-| 15 | Abraham |
-| 16 | Daniel |
-| 17 | Jonathan |
-| 18 | Ebenezer |
-| 19 | Jedidiah |
-| 20 | Cotton |
-| 21 | Increase |
-| 22 | Timothy |
-| 23 | Phineas |
-| 24 | Bartholomew |
-| 25 | Amos |
-| 26 | Ezra |
-| 27 | Enos |
-| 28 | Lemuel |
-| 29 | Malachi |
-| 30 | Zebulon |
-| 31 | Obadiah |
-| 32 | Israel |
-| 33 | Mary |
-| 34 | Elizabeth |
-| 35 | Sarah |
-| 36 | Hannah |
-| 37 | Abigail |
-| 38 | Martha |
-| 39 | Ruth |
-| 40 | Rebecca |
-| 41 | Dorcas |
-| 42 | Prudence |
-| 43 | Charity |
-| 44 | Mercy |
-| 45 | Patience |
-| 46 | Temperance |
-| 47 | Faith |
-| 48 | Hope |
-| 49 | Grace |
-| 50 | Experience |
-| 51 | Deliverance |
-| 52 | Desire |
-| 53 | Mehitabel |
-| 54 | Susannah |
-| 55 | Tabitha |
-| 56 | Lydia |
-| 57 | Esther |
-| 58 | Deborah |
-| 59 | Rachel |
-| 60 | Judith |
-| 61 | Miriam |
-| 62 | Keziah |
-| 63 | Jemima |
-| 64 | Dinah |
-| 65 | Chloe |
-| 66 | Phebe |
-| 67 | Lois |
-| 68 | Eunice |
-| 69 | Beulah |
-| 70 | Zilpah |
-| 71 | Huldah |
-| 72 | Bathsheba |
-| 73 | Noah |
-| 74 | Enoch |
-| 75 | Asa |
-| 76 | Eli |
-| 77 | Levi |
-| 78 | Reuben |
-| 79 | Simeon |
-| 80 | Jared |
-| 81 | Aaron |
-| 82 | Elijah |
-| 83 | Elisha |
-| 84 | Moses |
-| 85 | Solomon |
-| 86 | David |
-| 87 | Hezekiah |
-| 88 | Abiah |
-| 89 | Micah |
-| 90 | Francisco |
-| 91 | Antonio |
-| 92 | Jose |
-| 93 | Manuel |
-| 94 | Juan |
-| 95 | Luis |
-| 96 | Carlos |
-| 97 | Miguel |
-| 98 | Pedro |
-| 99 | Angel |
-| 100 | Diego |
+### French (18th Century to Modern)
 
-**Table 3 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Adelaide | Adam |
+| 2 | Adrien | Andre |
+| 3 | Agathe | Arnaud |
+| 4 | Alain | Aubert |
+| 5 | Alice | Barbier |
+| 6 | Andre | Benoit |
+| 7 | Anne | Bernard |
+| 8 | Antoine | Bertrand |
+| 9 | Benoit | Blanc |
+| 10 | Bernard | Blanchard |
+| 11 | Bertrand | Bonnet |
+| 12 | Brigitte | Bonneville |
+| 13 | Caroline | Boucher |
+| 14 | Catherine | Bourgeois |
+| 15 | Cecile | Boyer |
+| 16 | Chantal | Brun |
+| 17 | Charles | Brunet |
+| 18 | Charlotte | Charpentier |
+| 19 | Christian | Chevalier |
+| 20 | Christophe | Clement |
+| 21 | Claire | Colin |
+| 22 | Claude | David |
+| 23 | Clemence | Denis |
+| 24 | Colette | Dubois |
+| 25 | Danielle | Dumont |
+| 26 | Denis | Dupont |
+| 27 | Denise | Durand |
+| 28 | Elisabeth | Duval |
+| 29 | Emilie | Even |
+| 30 | Emmanuel | Faure |
+| 31 | Estelle | Fontaine |
+| 32 | Etienne | Fournier |
+| 33 | François | Francois |
+| 34 | Françoise | Gaillard |
+| 35 | Gabriel | Garcia |
+| 36 | Gabrielle | Garnier |
+| 37 | Genevieve | Gauthier |
+| 38 | Georges | Gautier |
+| 39 | Gerard | Girard |
+| 40 | Gilbert | Giraud |
+| 41 | Gilles | Guerin |
+| 42 | Guillaume | Guerrier |
+| 43 | Guy | Guillaume |
+| 44 | Helene | Henry |
+| 45 | Henri | Hubert |
+| 46 | Isabelle | Humbert |
+| 47 | Jacques | Jacquet |
+| 48 | Janine | Jean |
+| 49 | Jean | Joly |
+| 50 | Jeanne | Klein |
+| 51 | Jerome | Lambert |
+| 52 | Joseph | Laurent |
+| 53 | Josiane | Leclerc |
+| 54 | Julie | Lefebvre |
+| 55 | Julien | Lefevre |
+| 56 | Laurent | Legrand |
+| 57 | Louis | Lemoine |
+| 58 | Louise | Leroy |
+| 59 | Lucie | Lucas |
+| 60 | Lucien | Mallet |
+| 61 | Lydie | Marais |
+| 62 | Madeleine | Marchand |
+| 63 | Marc | Marechal |
+| 64 | Marguerite | Marie |
+| 65 | Marie | Martin |
+| 66 | Martine | Martinez |
+| 67 | Mathilde | Masson |
+| 68 | Maurice | Mathieu |
+| 69 | Michel | Mercier |
+| 70 | Monique | Meunier |
+| 71 | Nicolas | Meyer |
+| 72 | Nicole | Michel |
+| 73 | Noemie | Moreau |
+| 74 | Odette | Morel |
+| 75 | Olivier | Morin |
+| 76 | Pascal | Muller |
+| 77 | Patrick | Nicolas |
+| 78 | Paul | Noel |
+| 79 | Pauline | Ollivier |
+| 80 | Philippe | Paris |
+| 81 | Pierre | Perrin |
+| 82 | Raymond | Petit |
+| 83 | Renee | Philippe |
+| 84 | Robert | Picard |
+| 85 | Roger | Pierre |
+| 86 | Rose | Prevost |
+| 87 | Sebastien | Renard |
+| 88 | Serge | Richard |
+| 89 | Simon | Riviere |
+| 90 | Simone | Robert |
+| 91 | Solange | Robin |
+| 92 | Sophie | Roche |
+| 93 | Suzanne | Roussel |
+| 94 | Sylvie | Roux |
+| 95 | Therese | Roy |
+| 96 | Thomas | Royer |
+| 97 | Victorine | Simon |
+| 98 | Vincent | Thomas |
+| 99 | Xavier | Vallet |
+| 100 | Yves | Vasseur |
 
-| d100 | Result |
-|------|--------|
-| 1 | Fernando |
-| 2 | Ignacio |
-| 3 | Rafael |
-| 4 | Javier |
-| 5 | Alejandro |
-| 6 | Ricardo |
-| 7 | Gabriel |
-| 8 | Santiago |
-| 9 | Sebastian |
-| 10 | Maria |
-| 11 | Guadalupe |
-| 12 | Juana |
-| 13 | Margarita |
-| 14 | Francisca |
-| 15 | Isabel |
-| 16 | Antonia |
-| 17 | Lucia |
-| 18 | Beatriz |
-| 19 | Catalina |
-| 20 | Teresa |
-| 21 | Ana |
-| 22 | Elena |
-| 23 | Dolores |
-| 24 | Concepcion |
-| 25 | Mercedes |
-| 26 | Rosario |
-| 27 | Carmen |
-| 28 | Soledad |
-| 29 | Pilar |
-| 30 | Bernardo |
-| 31 | Domingo |
-| 32 | Esteban |
-| 33 | Felipe |
-| 34 | Gregorio |
-| 35 | Hernando |
-| 36 | Joaquin |
-| 37 | Lorenzo |
-| 38 | Mateo |
-| 39 | Nicolas |
-| 40 | Agustin |
-| 41 | Bartolome |
-| 42 | Cristobal |
-| 43 | Gaspar |
-| 44 | Lope |
-| 45 | Melchor |
-| 46 | Pasqual |
-| 47 | Roque |
-| 48 | Salvador |
-| 49 | Tomas |
-| 50 | Ursula |
-| 51 | Veronica |
-| 52 | Ximena |
-| 53 | Yolanda |
-| 54 | Zoraida |
-| 55 | Adelaida |
-| 56 | Barbara |
-| 57 | Clara |
-| 58 | Daniela |
-| 59 | Esperanza |
-| 60 | Feliciana |
-| 61 | Gertrudis |
-| 62 | Ines |
-| 63 | Jacinta |
-| 64 | Leonor |
-| 65 | Magdalena |
-| 66 | Natalia |
-| 67 | Olga |
-| 68 | Petrona |
-| 69 | Ramona |
-| 70 | Alonso |
-| 71 | Baltasar |
-| 72 | Clemente |
-| 73 | Dionisio |
-| 74 | Eugenio |
-| 75 | Faustino |
-| 76 | Gilberto |
-| 77 | Hilario |
-| 78 | Isidro |
-| 79 | Julian |
-| 80 | Leandro |
-| 81 | Marcos |
-| 82 | Narciso |
-| 83 | Onofre |
-| 84 | Placido |
-| 85 | Quintin |
-| 86 | Ramon |
-| 87 | Silvestre |
-| 88 | Tristan |
-| 89 | Vicente |
-| 90 | Winona |
-| 91 | Chenoa |
-| 92 | Tallulah |
-| 93 | Nita |
-| 94 | Mansi |
-| 95 | Doli |
-| 96 | Kaya |
-| 97 | Alowan |
-| 98 | Chimalis |
-| 99 | Elu |
-| 100 | Hiawatha |
+### German
 
-**Table 4 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Adelheid | Albrecht |
+| 2 | Adolf | Arnold |
+| 3 | Agnes | Bauer |
+| 4 | Alois | Baumann |
+| 5 | Amalie | Beck |
+| 6 | Andreas | Becker |
+| 7 | Angelika | Berger |
+| 8 | Anna | Bergmann |
+| 9 | Anton | Böhm |
+| 10 | August | Brandt |
+| 11 | Balthasar | Braun |
+| 12 | Barbara | Busch |
+| 13 | Beate | Drechsler |
+| 14 | Bernhard | Eberhardt |
+| 15 | Brigitte | Engel |
+| 16 | Bruno | Fischer |
+| 17 | Cäcilie | Frank |
+| 18 | Caspar | Friedrich |
+| 19 | Charlotte | Fuchs |
+| 20 | Christian | Gerhard |
+| 21 | Christina | Graf |
+| 22 | Clara | Gross |
+| 23 | Dietrich | Günther |
+| 24 | Dorothea | Haas |
+| 25 | Eberhard | Hahn |
+| 26 | Eleonore | Hartmann |
+| 27 | Elisabeth | Heller |
+| 28 | Emanuel | Herrmann |
+| 29 | Emma | Hoffmann |
+| 30 | Erich | Hofmann |
+| 31 | Eva | Horn |
+| 32 | Franz | Huber |
+| 33 | Friederike | Jäger |
+| 34 | Friedrich | Jung |
+| 35 | Georg | Kaiser |
+| 36 | Gerhard | Kaufmann |
+| 37 | Gertrud | Klein |
+| 38 | Gottfried | Koch |
+| 39 | Gotthold | Köhler |
+| 40 | Gottlieb | König |
+| 41 | Gregor | Kramer |
+| 42 | Guenther | Kraus |
+| 43 | Hans | Krause |
+| 44 | Hartmut | Krüger |
+| 45 | Heinrich | Kuhn |
+| 46 | Helene | Lang |
+| 47 | Hermann | Lange |
+| 48 | Hieronymus | Lehmann |
+| 49 | Hildegard | Lenz |
+| 50 | Hubert | Lorenz |
+| 51 | Ignaz | Ludwig |
+| 52 | Jakob | Maier |
+| 53 | Joachim | Mayer |
+| 54 | Johann | Meier |
+| 55 | Johanna | Meyer |
+| 56 | Joseph | Möller |
+| 57 | Juliana | Müller |
+| 58 | Karl | Neumann |
+| 59 | Katharina | Otto |
+| 60 | Klaus | Peters |
+| 61 | Konrad | Pfeiffer |
+| 62 | Kurt | Pohl |
+| 63 | Lorenz | Reiter |
+| 64 | Lucas | Richter |
+| 65 | Ludwig | Roth |
+| 66 | Luise | Sauer |
+| 67 | Magdalena | Schäfer |
+| 68 | Manfred | Schmid |
+| 69 | Marcus | Schmidt |
+| 70 | Margaretha | Schmitt |
+| 71 | Maria | Schmitz |
+| 72 | Martha | Schneider |
+| 73 | Matthias | Scholz |
+| 74 | Melchior | Schreiber |
+| 75 | Michael | Schröder |
+| 76 | Monika | Schubert |
+| 77 | Nikolaus | Schulz |
+| 78 | Oskar | Schulze |
+| 79 | Ottilie | Schuster |
+| 80 | Peter | Schwarz |
+| 81 | Philipp | Seidel |
+| 82 | Reinhold | Smidt |
+| 83 | Renate | Sommer |
+| 84 | Rosina | Thomas |
+| 85 | Rudolf | Ullrich |
+| 86 | Sabina | Vogel |
+| 87 | Sebastian | Vogt |
+| 88 | Sibylla | Voigt |
+| 89 | Siegfried | Wagner |
+| 90 | Sophie | Walter |
+| 91 | Stefan | Weber |
+| 92 | Susanna | Weiss |
+| 93 | Therese | Werner |
+| 94 | Ulrich | Winkler |
+| 95 | Ursula | Wolf |
+| 96 | Valentin | Wolff |
+| 97 | Veronika | Woll |
+| 98 | Wilhelm | Ziegler |
+| 99 | Wolfgang | Zimmer |
+| 100 | Xaver | Zimmermann |
 
-| d100 | Result |
-|------|--------|
-| 1 | Sequoyah |
-| 2 | Tecumseh |
-| 3 | Enola |
-| 4 | Koko |
-| 5 | Mina |
-| 6 | Nokomis |
-| 7 | Onatah |
-| 8 | Pati |
-| 9 | Tala |
-| 10 | Wyanet |
-| 11 | Zaltana |
-| 12 | Sahale |
-| 13 | Takoda |
-| 14 | Wapi |
-| 15 | Viho |
-| 16 | Otaktay |
-| 17 | Paytah |
-| 18 | Misu |
-| 19 | Hototo |
-| 20 | Awan |
-| 21 | Kele |
-| 22 | Lallo |
-| 23 | Makya |
-| 24 | Nayati |
-| 25 | Ohanzee |
-| 26 | Sani |
-| 27 | Tohon |
-| 28 | Waban |
-| 29 | Yuma |
-| 30 | Adahy |
-| 31 | Ahanu |
-| 32 | Cochise |
-| 33 | Geronimo |
-| 34 | Knoton |
-| 35 | Liwanu |
-| 36 | Mahkah |
-| 37 | Nakos |
-| 38 | Olathe |
-| 39 | Paco |
-| 40 | Siwili |
-| 41 | Tyee |
-| 42 | Wahkan |
-| 43 | Zihna |
-| 44 | Ayita |
-| 45 | Bly |
-| 46 | Dyani |
-| 47 | Halona |
-| 48 | Istas |
-| 49 | Kai |
-| 50 | Migina |
-| 51 | Nuna |
-| 52 | Odina |
-| 53 | Pola |
-| 54 | Sora |
-| 55 | Taini |
-| 56 | Una |
-| 57 | Wachiwi |
-| 58 | Yamka |
-| 59 | Aiyana |
-| 60 | Chu'mana |
-| 61 | Etenia |
-| 62 | Gaho |
-| 63 | Imala |
-| 64 | Jaci |
-| 65 | Kineks |
-| 66 | Lomasi |
-| 67 | Muna |
-| 68 | Nahvee |
-| 69 | Opa |
-| 70 | Pavati |
-| 71 | Quahneah |
-| 72 | Rayen |
-| 73 | Sihu |
-| 74 | Tiva |
-| 75 | Utina |
-| 76 | Wunzh |
-| 77 | Yepa |
-| 78 | Zusa |
-| 79 | Aka |
-| 80 | Chavatangakwunua |
-| 81 | Honovi |
-| 82 | Kangee |
-| 83 | Maska |
-| 84 | Nova |
-| 85 | Oshkosh |
-| 86 | Pitalesharo |
-| 87 | Tashunke |
-| 88 | Wematin |
-| 89 | Patrick |
-| 90 | Liam |
-| 91 | Sean |
-| 92 | Connor |
-| 93 | Brendan |
-| 94 | Cormac |
-| 95 | Kieran |
-| 96 | Diarmuid |
-| 97 | Tadhg |
-| 98 | Niall |
-| 99 | Siobhan |
-| 100 | Sinead |
+### Irish (18th Century to Modern)
 
-**Table 5 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Aidan | Barrett |
+| 2 | Aine | Boylan |
+| 3 | Aisling | Boyle |
+| 4 | Aoife | Brady |
+| 5 | Barry | Brennan |
+| 6 | Bernadette | Brown |
+| 7 | Brendan | Buckley |
+| 8 | Brian | Burke |
+| 9 | Bridget | Byrne |
+| 10 | Bridie | Caffrey |
+| 11 | Bronagh | Campbell |
+| 12 | Caoimhe | Cassidy |
+| 13 | Carmel | Clarke |
+| 14 | Cathal | Collins |
+| 15 | Ciara | Connolly |
+| 16 | Cillian | Coughlan |
+| 17 | Clodagh | Cronin |
+| 18 | Colette | Cullen |
+| 19 | Colm | Curran |
+| 20 | Connor | Daly |
+| 21 | Conor | Devine |
+| 22 | Cormac | Dolan |
+| 23 | Daniel | Donegan |
+| 24 | Darragh | Donnelly |
+| 25 | Declan | Doran |
+| 26 | Deirdre | Doyle |
+| 27 | Dermot | Duffy |
+| 28 | Dervla | Duggan |
+| 29 | Desmond | Dunne |
+| 30 | Diarmuid | Dwyer |
+| 31 | Dolores | Farrell |
+| 32 | Donal | Fitzgerald |
+| 33 | Eamon | Fitzpatrick |
+| 34 | Eileen | Flanagan |
+| 35 | Emer | Flynn |
+| 36 | Enda | Foley |
+| 37 | Eoghan | Gallagher |
+| 38 | Eoin | Gormley |
+| 39 | Etain | Healy |
+| 40 | Fergus | Higgins |
+| 41 | Fidelma | Hogan |
+| 42 | Finbar | Hughes |
+| 43 | Fionn | Johnston |
+| 44 | Gemma | Joyce |
+| 45 | Gerard | Kane |
+| 46 | Grainne | Kavanagh |
+| 47 | Imelda | Kelly |
+| 48 | James | Kennedy |
+| 49 | John | Keogh |
+| 50 | Joseph | Kiernan |
+| 51 | Kathleen | Larkin |
+| 52 | Keira | Lynch |
+| 53 | Kevin | Maguire |
+| 54 | Kieran | Maher |
+| 55 | Killian | Mahony |
+| 56 | Liam | McArdle |
+| 57 | Luke | McCarthy |
+| 58 | Maeve | McGovern |
+| 59 | Mairead | McGrath |
+| 60 | Malachy | McHugh |
+| 61 | Mary | McKenna |
+| 62 | Maureen | McLaughlin |
+| 63 | Michael | McMahon |
+| 64 | Monica | Moore |
+| 65 | Muireann | Moran |
+| 66 | Niall | Muldoon |
+| 67 | Niamh | Mullan |
+| 68 | Nora | Mullins |
+| 69 | Oisin | Murphy |
+| 70 | Oonagh | Murray |
+| 71 | Orla | Nolan |
+| 72 | Padraig | O'Brien |
+| 73 | Patricia | O'Callaghan |
+| 74 | Patrick | O'Carroll |
+| 75 | Paul | O'Connell |
+| 76 | Peter | O'Connor |
+| 77 | Philomena | O'Doherty |
+| 78 | Rita | O'Donnell |
+| 79 | Roisin | O'Donovan |
+| 80 | Ronan | O'Gorman |
+| 81 | Rory | O'Hara |
+| 82 | Sadhbh | O'Leary |
+| 83 | Saoirse | O'Neill |
+| 84 | Seamus | O'Reilly |
+| 85 | Sean | O'Rourke |
+| 86 | Senan | O'Shea |
+| 87 | Shane | O'Sullivan |
+| 88 | Sheila | Power |
+| 89 | Sinead | Quinn |
+| 90 | Siobhan | Roche |
+| 91 | Sorcha | Ryan |
+| 92 | Stephen | Sheridan |
+| 93 | Tadhg | Smith |
+| 94 | Tallulah | Sweeney |
+| 95 | Tara | Thompson |
+| 96 | Therese | Tierney |
+| 97 | Thomas | Walsh |
+| 98 | Una | Whelan |
+| 99 | Ursula | White |
+| 100 | Veronica | Wilson |
 
-| d100 | Result |
-|------|--------|
-| 1 | Saoirse |
-| 2 | Aoife |
-| 3 | Ciara |
-| 4 | Niamh |
-| 5 | Roisin |
-| 6 | Aine |
-| 7 | Orla |
-| 8 | Deirdre |
-| 9 | Michael |
-| 10 | Peter |
-| 11 | Paul |
-| 12 | Stephen |
-| 13 | Bridie |
-| 14 | Kathleen |
-| 15 | Maureen |
-| 16 | Eileen |
-| 17 | Patricia |
-| 18 | Bernadette |
-| 19 | Therese |
-| 20 | Nora |
-| 21 | Sheila |
-| 22 | Finbar |
-| 23 | Eamon |
-| 24 | Donal |
-| 25 | Fergus |
-| 26 | Malachy |
-| 27 | Padraig |
-| 28 | Cathal |
-| 29 | Colm |
-| 30 | Seamus |
-| 31 | Dermot |
-| 32 | Clodagh |
-| 33 | Emer |
-| 34 | Grainne |
-| 35 | Maeve |
-| 36 | Bronagh |
-| 37 | Dervla |
-| 38 | Fidelma |
-| 39 | Mairead |
-| 40 | Oonagh |
-| 41 | Rory |
-| 42 | Cillian |
-| 43 | Eoghan |
-| 44 | Fionn |
-| 45 | Oisin |
-| 46 | Ronan |
-| 47 | Senan |
-| 48 | Darragh |
-| 49 | Killian |
-| 50 | Enda |
-| 51 | Tara |
-| 52 | Aisling |
-| 53 | Caoimhe |
-| 54 | Etain |
-| 55 | Imelda |
-| 56 | Keira |
-| 57 | Muireann |
-| 58 | Sadhbh |
-| 59 | Sorcha |
-| 60 | Brian |
-| 61 | Desmond |
-| 62 | Kevin |
-| 63 | Barry |
-| 64 | Declan |
-| 65 | Shane |
-| 66 | Gerard |
-| 67 | Conor |
-| 68 | Aidan |
-| 69 | Eoin |
-| 70 | Bridget |
-| 71 | Philomena |
-| 72 | Monica |
-| 73 | Rita |
-| 74 | Carmel |
-| 75 | Gemma |
-| 76 | Colette |
-| 77 | Johann |
-| 78 | Friedrich |
-| 79 | Wilhelm |
-| 80 | Karl |
-| 81 | Hans |
-| 82 | Heinrich |
-| 83 | Ludwig |
-| 84 | Jakob |
-| 85 | Georg |
-| 86 | Andreas |
-| 87 | Christian |
-| 88 | Stefan |
-| 89 | Anton |
-| 90 | Franz |
-| 91 | Matthias |
-| 92 | Gottfried |
-| 93 | Emanuel |
-| 94 | Anna |
-| 95 | Elisabeth |
-| 96 | Margaretha |
-| 97 | Katharina |
-| 98 | Dorothea |
-| 99 | Christina |
-| 100 | Sophie |
+### Italian (18th Century to Modern)
 
-**Table 6 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Adele | Amato |
+| 2 | Alberto | Barbieri |
+| 3 | Aldo | Basile |
+| 4 | Alessandra | Basso |
+| 5 | Alessandro | Bellandi |
+| 6 | Andrea | Bellini |
+| 7 | Angela | Benedetti |
+| 8 | Anna | Bernardi |
+| 9 | Antonietta | Bianchi |
+| 10 | Antonio | Bruno |
+| 11 | Beatrice | Caputo |
+| 12 | Bianca | Caruso |
+| 13 | Bruno | Casadei |
+| 14 | Carlo | Castelli |
+| 15 | Carmela | Cattaneo |
+| 16 | Caterina | Colombo |
+| 17 | Claudia | Conti |
+| 18 | Claudio | Coppola |
+| 19 | Concetta | Costa |
+| 20 | Daniela | D'Amico |
+| 21 | Dario | D'Angelo |
+| 22 | Domenico | Danesi |
+| 23 | Elena | De Angelis |
+| 24 | Enrico | De Felice |
+| 25 | Erminia | De Luca |
+| 26 | Ettore | De Rosa |
+| 27 | Fabio | De Santis |
+| 28 | Federica | Della Valle |
+| 29 | Felice | Donati |
+| 30 | Filippo | Esposito |
+| 31 | Flora | Fabbri |
+| 32 | Francesca | Farina |
+| 33 | Francesco | Ferrara |
+| 34 | Franco | Ferrari |
+| 35 | Gaetano | Ferraro |
+| 36 | Gaspare | Ferretti |
+| 37 | Gemma | Fontana |
+| 38 | Giacomo | Galli |
+| 39 | Gianni | Gallo |
+| 40 | Gilda | Gatti |
+| 41 | Giorgio | Gentili |
+| 42 | Giovanna | Giordano |
+| 43 | Giovanni | Giuliani |
+| 44 | Giuseppe | Grassi |
+| 45 | Giuseppina | Greco |
+| 46 | Grazia | Grossi |
+| 47 | Guido | Guerra |
+| 48 | Ida | Guerrieri |
+| 49 | Ines | Lazzari |
+| 50 | Isabella | Leone |
+| 51 | Laura | Lombardi |
+| 52 | Leonardo | Longhi |
+| 53 | Letizia | Longo |
+| 54 | Lorenzo | Mancini |
+| 55 | Lucia | Marchetti |
+| 56 | Luciano | Mariani |
+| 57 | Luigi | Marini |
+| 58 | Marcello | Marino |
+| 59 | Marco | Martinelli |
+| 60 | Margherita | Martini |
+| 61 | Maria | Mazza |
+| 62 | Mario | Messina |
+| 63 | Massimo | Molinari |
+| 64 | Matilde | Monti |
+| 65 | Maurizio | Morelli |
+| 66 | Michele | Moretti |
+| 67 | Monica | Negri |
+| 68 | Nicola | Neri |
+| 69 | Nunzia | Orlando |
+| 70 | Oreste | Pagano |
+| 71 | Orlando | Palumbo |
+| 72 | Ornella | Parisi |
+| 73 | Paola | Pasquali |
+| 74 | Paolo | Pavan |
+| 75 | Pasquale | Pellegrini |
+| 76 | Patrizia | Pellegrino |
+| 77 | Pietro | Piras |
+| 78 | Placido | Poli |
+| 79 | Quintino | Ricci |
+| 80 | Raffaele | Rinaldi |
+| 81 | Renzo | Riva |
+| 82 | Rita | Rizzo |
+| 83 | Roberta | Romano |
+| 84 | Roberto | Romeo |
+| 85 | Rosa | Rossi |
+| 86 | Rosaria | Ruggiero |
+| 87 | Ruggero | Russo |
+| 88 | Salvatore | Sanna |
+| 89 | Sebastiano | Santoro |
+| 90 | Sergio | Sartori |
+| 91 | Silvia | Serra |
+| 92 | Simona | Silvestri |
+| 93 | Speranza | Sorrentino |
+| 94 | Stefano | Testa |
+| 95 | Teodora | Valenti |
+| 96 | Teresa | Valentini |
+| 97 | Valentina | Valli |
+| 98 | Vincenzo | Villa |
+| 99 | Virginia | Vitale |
+| 100 | Vittoria | Vitali |
 
-| d100 | Result |
-|------|--------|
-| 1 | Charlotte |
-| 2 | Helene |
-| 3 | Gertrud |
-| 4 | Johanna |
-| 5 | Agnes |
-| 6 | Eva |
-| 7 | Gottlieb |
-| 8 | Gotthold |
-| 9 | Bernhard |
-| 10 | August |
-| 11 | Konrad |
-| 12 | Lorenz |
-| 13 | Valentin |
-| 14 | Caspar |
-| 15 | Melchior |
-| 16 | Balthasar |
-| 17 | Hieronymus |
-| 18 | Ignaz |
-| 19 | Xaver |
-| 20 | Alois |
-| 21 | Gregor |
-| 22 | Nikolaus |
-| 23 | Philipp |
-| 24 | Lucas |
-| 25 | Marcus |
-| 26 | Susanna |
-| 27 | Sibylla |
-| 28 | Veronika |
-| 29 | Beate |
-| 30 | Renate |
-| 31 | Brigitte |
-| 32 | Hildegard |
-| 33 | Adelheid |
-| 34 | Emma |
-| 35 | Luise |
-| 36 | Friederike |
-| 37 | Amalie |
-| 38 | Ottilie |
-| 39 | Rosina |
-| 40 | Sabina |
-| 41 | Juliana |
-| 42 | Eleonore |
-| 43 | Angelika |
-| 44 | Cäcilie |
-| 45 | Monika |
-| 46 | Dietrich |
-| 47 | Eberhard |
-| 48 | Guenther |
-| 49 | Hartmut |
-| 50 | Hermann |
-| 51 | Joachim |
-| 52 | Klaus |
-| 53 | Manfred |
-| 54 | Reinhold |
-| 55 | Siegfried |
-| 56 | Ulrich |
-| 57 | Wolfgang |
-| 58 | Adolf |
-| 59 | Bruno |
-| 60 | Erich |
-| 61 | Gerhard |
-| 62 | Hubert |
-| 63 | Kurt |
-| 64 | Oskar |
-| 65 | Rudolf |
-| 66 | Jean |
-| 67 | Pierre |
-| 68 | Marie |
-| 69 | Anne |
-| 70 | Louis |
-| 71 | Philippe |
-| 72 | Catherine |
-| 73 | Françoise |
-| 74 | Jacques |
-| 75 | Antoine |
-| 76 | Marguerite |
-| 77 | Claire |
-| 78 | Isabelle |
-| 79 | Guillaume |
-| 80 | Julie |
-| 81 | Etienne |
-| 82 | Louise |
-| 83 | Simon |
-| 84 | Madeleine |
-| 85 | Marc |
-| 86 | Henri |
-| 87 | Genevieve |
-| 88 | François |
-| 89 | Suzanne |
-| 90 | Bernard |
-| 91 | Pauline |
-| 92 | Vincent |
-| 93 | Lucie |
-| 94 | Andre |
-| 95 | Renee |
-| 96 | Michel |
-| 97 | Cecile |
-| 98 | Georges |
-| 99 | Gabrielle |
-| 100 | Christophe |
+### Native North American (Authentic)
 
-**Table 7 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Adahy | Adair |
+| 2 | Ahanu | Afraid of Bear |
+| 3 | Aiyana | American Horse |
+| 4 | Aka | Anquoe |
+| 5 | Alowan | Atcitty |
+| 6 | Awan | Bad Wound |
+| 7 | Ayita | Begay |
+| 8 | Bly | Benally |
+| 9 | Chavatangakwunua | Bighorse |
+| 10 | Chenoa | Birdchopper |
+| 11 | Chimalis | Bitsui |
+| 12 | Chu'mana | Blackbear |
+| 13 | Cochise | Bluebird |
+| 14 | Doli | Boudinot |
+| 15 | Dyani | Broken Leg |
+| 16 | Elu | Bushyhead |
+| 17 | Enola | Chee |
+| 18 | Etenia | Chiquito |
+| 19 | Gaho | Christie |
+| 20 | Geronimo | Claw |
+| 21 | Halona | Cloud Shield |
+| 22 | Hiawatha | Colbert |
+| 23 | Honovi | Deer-in-Water |
+| 24 | Hototo | Denetclaw |
+| 25 | Imala | Deschene |
+| 26 | Istas | Downing |
+| 27 | Jaci | Durant |
+| 28 | Kai | Eagle Speaker |
+| 29 | Kangee | Etsitty |
+| 30 | Kaya | Fast Horse |
+| 31 | Kele | Folsom |
+| 32 | Kineks | Gall |
+| 33 | Knoton | Ghost Bear |
+| 34 | Koko | Girty |
+| 35 | Lallo | Gishie |
+| 36 | Liwanu | Going-Snake |
+| 37 | Lomasi | Good Strike |
+| 38 | Lulu | Haswood |
+| 39 | Mahkah | Hicks |
+| 40 | Makya | High Elk |
+| 41 | Mansi | Horse |
+| 42 | Maska | Hosteen |
+| 43 | Migina | Iron Cloud |
+| 44 | Mina | Iron Shell |
+| 45 | Misu | Kady |
+| 46 | Muna | Kills Night |
+| 47 | Nahvee | Lame Deer |
+| 48 | Nakos | Largo |
+| 49 | Nayati | LeFlore |
+| 50 | Nita | Left Hand |
+| 51 | Nokomis | Little Bear |
+| 52 | Nova | Little Sky |
+| 53 | Nuna | Little Wound |
+| 54 | Odina | Lone Wolf |
+| 55 | Ohanzee | Looking Horse |
+| 56 | Olathe | Lowery |
+| 57 | Onatah | Mankiller |
+| 58 | Opa | Manualito |
+| 59 | Oshkosh | Manygoats |
+| 60 | Otaktay | McCurtain |
+| 61 | Paco | Means |
+| 62 | Pati | Medicine Crow |
+| 63 | Pavati | Nez |
+| 64 | Paytah | Peshlakai |
+| 65 | Pitalesharo | Picketpin |
+| 66 | Pola | Pitchlynn |
+| 67 | Quahneah | Plenty Hoops |
+| 68 | Rayen | Red Elk |
+| 69 | Sahale | Red Horn |
+| 70 | Sani | Ridge |
+| 71 | Sequoyah | Roanhorse |
+| 72 | Sihu | Ross |
+| 73 | Siwili | Running Wolf |
+| 74 | Sora | Short Bull |
+| 75 | Taini | Sixkiller |
+| 76 | Takoda | Spotted Tail |
+| 77 | Tala | Standing Bear |
+| 78 | Tallulah | Starr |
+| 79 | Tashunke | Tailfeathers |
+| 80 | Tecumseh | Tapahe |
+| 81 | Tiva | Thunder Hawk |
+| 82 | Tohon | Todacheene |
+| 83 | Tyee | Tsinigine |
+| 84 | Una | Tso |
+| 85 | Utina | Tsosie |
+| 86 | Viho | Two Bulls |
+| 87 | Waban | Vann |
+| 88 | Wachiwi | Waite |
+| 89 | Wahkan | Walkingstick |
+| 90 | Wapi | Watie |
+| 91 | Wematin | White Bull |
+| 92 | Winona | White Plume |
+| 93 | Wunzh | Whitehorse |
+| 94 | Wyanet | Whiteman |
+| 95 | Yamka | Whitethorne |
+| 96 | Yepa | Yazzie |
+| 97 | Yuma | Yellow Bird |
+| 98 | Zaltana | Yellow Boy |
+| 99 | Zihna | Yellowhair |
+| 100 | Zusa | Zah |
 
-| d100 | Result |
-|------|--------|
-| 1 | Estelle |
-| 2 | Sebastien |
-| 3 | Emmanuel |
-| 4 | Clemence |
-| 5 | Julien |
-| 6 | Mathilde |
-| 7 | Laurent |
-| 8 | Jeanne |
-| 9 | Olivier |
-| 10 | Alice |
-| 11 | Benoit |
-| 12 | Caroline |
-| 13 | Agathe |
-| 14 | Claude |
-| 15 | Emilie |
-| 16 | Denis |
-| 17 | Danielle |
-| 18 | Adrien |
-| 19 | Bertrand |
-| 20 | Denise |
-| 21 | Jerome |
-| 22 | Noemie |
-| 23 | Alain |
-| 24 | Serge |
-| 25 | Victorine |
-| 26 | Xavier |
-| 27 | Odette |
-| 28 | Simone |
-| 29 | Pascal |
-| 30 | Monique |
-| 31 | Guy |
-| 32 | Janine |
-| 33 | Maurice |
-| 34 | Nicole |
-| 35 | Roger |
-| 36 | Martine |
-| 37 | Yves |
-| 38 | Sylvie |
-| 39 | Chantal |
-| 40 | Gilbert |
-| 41 | Josiane |
-| 42 | Raymond |
-| 43 | Gilles |
-| 44 | Lydie |
-| 45 | Lucien |
-| 46 | Solange |
-| 47 | Alistair |
-| 48 | Hamish |
-| 49 | Angus |
-| 50 | Duncan |
-| 51 | Malcolm |
-| 52 | Lachlan |
-| 53 | Ewan |
-| 54 | Iain |
-| 55 | Douglas |
-| 56 | Donald |
-| 57 | Kenneth |
-| 58 | Roderick |
-| 59 | Finlay |
-| 60 | Callum |
-| 61 | Stuart |
-| 62 | Gordon |
-| 63 | Bruce |
-| 64 | Ross |
-| 65 | Grant |
-| 66 | Fiona |
-| 67 | Isobel |
-| 68 | Eilidh |
-| 69 | Catriona |
-| 70 | Mhairi |
-| 71 | Morag |
-| 72 | Elspeth |
-| 73 | Maisie |
-| 74 | Kirsty |
-| 75 | Andrew |
-| 76 | Alexander |
-| 77 | Janet |
-| 78 | Margaret |
-| 79 | Helen |
-| 80 | Marion |
-| 81 | Lewis |
-| 82 | Fraser |
-| 83 | Murdo |
-| 84 | Innes |
-| 85 | Blair |
-| 86 | Cammy |
-| 87 | Ruaridh |
-| 88 | Alasdair |
-| 89 | Calum |
-| 90 | Iona |
-| 91 | Rhona |
-| 92 | Senga |
-| 93 | Sheena |
-| 94 | Shona |
-| 95 | Ailsa |
-| 96 | Fenella |
-| 97 | Grisel |
-| 98 | Ishbel |
-| 99 | Rowena |
-| 100 | Colin |
+### Scottish (18th Century to Modern)
 
-**Table 8 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Agnes | Allan |
+| 2 | Ailsa | Anderson |
+| 3 | Alan | Bain |
+| 4 | Alasdair | Balfour |
+| 5 | Alexander | Barr |
+| 6 | Alistair | Bell |
+| 7 | Andrew | Black |
+| 8 | Angus | Blair |
+| 9 | Anne | Boyd |
+| 10 | Bethia | Brown |
+| 11 | Blair | Buchanan |
+| 12 | Brian | Burnett |
+| 13 | Bruce | Cameron |
+| 14 | Callum | Campbell |
+| 15 | Calum | Clark |
+| 16 | Cammy | Cowie |
+| 17 | Catherine | Crawford |
+| 18 | Catriona | Cunningham |
+| 19 | Charles | Davidson |
+| 20 | Christian | Douglas |
+| 21 | Colin | Drummond |
+| 22 | Craig | Duncan |
+| 23 | David | Elliot |
+| 24 | Davina | Erskine |
+| 25 | Derek | Farquharson |
+| 26 | Donald | Ferguson |
+| 27 | Douglas | Findlay |
+| 28 | Duncan | Fleming |
+| 29 | Eilidh | Forbes |
+| 30 | Elizabeth | Fraser |
+| 31 | Elspeth | Gordon |
+| 32 | Euan | Gow |
+| 33 | Euphemia | Graham |
+| 34 | Ewan | Grant |
+| 35 | Fenella | Grieve |
+| 36 | Fergus | Gunn |
+| 37 | Finlay | Guthrie |
+| 38 | Fiona | Hamilton |
+| 39 | Flora | Hardie |
+| 40 | Fraser | Hay |
+| 41 | Gary | Henderson |
+| 42 | Gavin | Hunter |
+| 43 | George | Hutchison |
+| 44 | Gordon | Irvine |
+| 45 | Graham | Johnston |
+| 46 | Grant | Kennedy |
+| 47 | Gregor | Kerr |
+| 48 | Grisel | Lamont |
+| 49 | Grizel | Lawson |
+| 50 | Hamish | Leask |
+| 51 | Helen | Leslie |
+| 52 | Iain | Lindsay |
+| 53 | Ian | Livingstone |
+| 54 | Innes | Low |
+| 55 | Iona | Lumsden |
+| 56 | Ishbel | MacAlpin |
+| 57 | Isobel | MacDonald |
+| 58 | James | MacFarlane |
+| 59 | Janet | MacGregor |
+| 60 | Jean | MacInnes |
+| 61 | John | Mackay |
+| 62 | Keir | MacKinnon |
+| 63 | Keith | MacLeod |
+| 64 | Kenneth | MacNeil |
+| 65 | Kevin | MacPherson |
+| 66 | Kirsty | Mathieson |
+| 67 | Lachlan | Maxwell |
+| 68 | Lewis | McIntosh |
+| 69 | Logan | McKenzie |
+| 70 | Maisie | McLean |
+| 71 | Malcolm | McNee |
+| 72 | Margaret | McQueen |
+| 73 | Marion | McTaggart |
+| 74 | Marjory | Menzies |
+| 75 | Marsaili | Millar |
+| 76 | Mary | Milne |
+| 77 | Mhairi | Mitchell |
+| 78 | Morag | Morrison |
+| 79 | Murdo | Munro |
+| 80 | Murray | Murray |
+| 81 | Neil | Nicol |
+| 82 | Nellis | Paton |
+| 83 | Niall | Reid |
+| 84 | Rhona | Ritchie |
+| 85 | Robert | Robertson |
+| 86 | Robina | Ross |
+| 87 | Roderick | Scott |
+| 88 | Rory | Simpson |
+| 89 | Ross | Sinclair |
+| 90 | Rowena | Smith |
+| 91 | Ruaridh | Steel |
+| 92 | Scott | Stewart |
+| 93 | Senga | Strachan |
+| 94 | Sheena | Tait |
+| 95 | Shona | Taylor |
+| 96 | Sibilla | Thomson |
+| 97 | Stuart | Urquhart |
+| 98 | Thomas | Walker |
+| 99 | William | Wallace |
+| 100 | Wilma | Wilson |
 
-| d100 | Result |
-|------|--------|
-| 1 | Graham |
-| 2 | Neil |
-| 3 | Ian |
-| 4 | Keir |
-| 5 | Murray |
-| 6 | Logan |
-| 7 | Euan |
-| 8 | Bethia |
-| 9 | Euphemia |
-| 10 | Grizel |
-| 11 | Marjory |
-| 12 | Nellis |
-| 13 | Sibilla |
-| 14 | Davina |
-| 15 | Robina |
-| 16 | Wilma |
-| 17 | Craig |
-| 18 | Scott |
-| 19 | Gavin |
-| 20 | Derek |
-| 21 | Alan |
-| 22 | Keith |
-| 23 | Marsaili |
-| 24 | Gary |
-| 25 | Gareth |
-| 26 | Dafydd |
-| 27 | Rhys |
-| 28 | Ieuan |
-| 29 | Owain |
-| 30 | Llywelyn |
-| 31 | Sion |
-| 32 | Gwilym |
-| 33 | Bleddyn |
-| 34 | Geraint |
-| 35 | Sian |
-| 36 | Bethan |
-| 37 | Eleri |
-| 38 | Catrin |
-| 39 | Ffion |
-| 40 | Angharad |
-| 41 | Carys |
-| 42 | Lowri |
-| 43 | Heledd |
-| 44 | Rhiannon |
-| 45 | Dylan |
-| 46 | Evan |
-| 47 | Owen |
-| 48 | Arthur |
-| 49 | Griffith |
-| 50 | Hywel |
-| 51 | Rhodri |
-| 52 | Steffan |
-| 53 | Osian |
-| 54 | Olwen |
-| 55 | Gwen |
-| 56 | Bronwen |
-| 57 | Dilys |
-| 58 | Myfanwy |
-| 59 | Nia |
-| 60 | Mair |
-| 61 | Anwen |
-| 62 | Eira |
-| 63 | Bryn |
-| 64 | Cai |
-| 65 | Dewi |
-| 66 | Emrys |
-| 67 | Gethin |
-| 68 | Iwan |
-| 69 | Meurig |
-| 70 | Taliesin |
-| 71 | Tomos |
-| 72 | Wyn |
-| 73 | Alys |
-| 74 | Delyth |
-| 75 | Aeron |
-| 76 | Glenda |
-| 77 | Iola |
-| 78 | Llinos |
-| 79 | Mari |
-| 80 | Nella |
-| 81 | Prys |
-| 82 | Seren |
-| 83 | Alwyn |
-| 84 | Berwyn |
-| 85 | Cadfan |
-| 86 | Derwyn |
-| 87 | Elwyn |
-| 88 | Gwynfor |
-| 89 | Idris |
-| 90 | Jevan |
-| 91 | Kyffin |
-| 92 | Lewys |
-| 93 | Gwydion |
-| 94 | Ffraid |
-| 95 | Gwenllian |
-| 96 | Haf |
-| 97 | Indeg |
-| 98 | Lona |
-| 99 | Mali |
-| 100 | Non |
+### Spanish
 
-**Table 9 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Adelaida | Acosta |
+| 2 | Agustin | Aguilar |
+| 3 | Alejandro | Alvarez |
+| 4 | Alonso | Aragon |
+| 5 | Ana | Becerra |
+| 6 | Angel | Benitez |
+| 7 | Antonia | Bravo |
+| 8 | Antonio | Cabrera |
+| 9 | Baltasar | Calderon |
+| 10 | Barbara | Cano |
+| 11 | Bartolome | Castillo |
+| 12 | Beatriz | Castro |
+| 13 | Bernardo | Cervantes |
+| 14 | Carlos | Cordova |
+| 15 | Carmen | De la Cruz |
+| 16 | Catalina | De la Rosa |
+| 17 | Clara | De la Torre |
+| 18 | Clemente | Delgado |
+| 19 | Concepcion | Diaz |
+| 20 | Cristobal | Dominguez |
+| 21 | Daniela | Duarte |
+| 22 | Diego | Duron |
+| 23 | Dionisio | Escobar |
+| 24 | Dolores | Espinosa |
+| 25 | Domingo | Estrada |
+| 26 | Elena | Fernandez |
+| 27 | Esperanza | Figueroa |
+| 28 | Esteban | Flores |
+| 29 | Eugenio | Fuentes |
+| 30 | Faustino | Gallegos |
+| 31 | Feliciana | Galvan |
+| 32 | Felipe | Garcia |
+| 33 | Fernando | Gomez |
+| 34 | Francisca | Gonzalez |
+| 35 | Francisco | Guerra |
+| 36 | Gabriel | Gutierrez |
+| 37 | Gaspar | Guzman |
+| 38 | Gertrudis | Heredia |
+| 39 | Gilberto | Hernandez |
+| 40 | Gregorio | Herrera |
+| 41 | Guadalupe | Hidalgo |
+| 42 | Hernando | Ibanez |
+| 43 | Hilario | Ibarra |
+| 44 | Ignacio | Islas |
+| 45 | Ines | Jaimes |
+| 46 | Isabel | Jara |
+| 47 | Isidro | Jimenez |
+| 48 | Jacinta | Juarez |
+| 49 | Javier | Lara |
+| 50 | Joaquin | Leon |
+| 51 | Jose | Lopez |
+| 52 | Juan | Lozano |
+| 53 | Juana | Machado |
+| 54 | Julian | Martinez |
+| 55 | Leandro | Mendez |
+| 56 | Leonor | Mendoza |
+| 57 | Lope | Meza |
+| 58 | Lorenzo | Miranda |
+| 59 | Lucia | Montoya |
+| 60 | Luis | Morales |
+| 61 | Magdalena | Navarro |
+| 62 | Manuel | Negrete |
+| 63 | Marcos | Nieto |
+| 64 | Margarita | Nuñez |
+| 65 | Maria | Olivares |
+| 66 | Mateo | Orozco |
+| 67 | Melchor | Ortiz |
+| 68 | Mercedes | Pacheco |
+| 69 | Miguel | Padilla |
+| 70 | Narciso | Palacios |
+| 71 | Natalia | Perez |
+| 72 | Nicolas | Quintana |
+| 73 | Olga | Quintero |
+| 74 | Onofre | Ramirez |
+| 75 | Pasqual | Ramos |
+| 76 | Pedro | Reyes |
+| 77 | Petrona | Rivera |
+| 78 | Pilar | Robledo |
+| 79 | Placido | Rodriguez |
+| 80 | Quintin | Rojas |
+| 81 | Rafael | Ruiz |
+| 82 | Ramon | Salas |
+| 83 | Ramona | Salazar |
+| 84 | Ricardo | Sanchez |
+| 85 | Roque | Serrano |
+| 86 | Rosario | Sosa |
+| 87 | Salvador | Tapia |
+| 88 | Santiago | Tellez |
+| 89 | Sebastian | Torres |
+| 90 | Silvestre | Urbina |
+| 91 | Soledad | Uribe |
+| 92 | Teresa | Valdez |
+| 93 | Tomas | Valenzuela |
+| 94 | Tristan | Vargas |
+| 95 | Ursula | Vasquez |
+| 96 | Veronica | Vela |
+| 97 | Vicente | Villalobos |
+| 98 | Ximena | Zamora |
+| 99 | Yolanda | Zavala |
+| 100 | Zoraida | Zuniga |
 
-| d100 | Result |
-|------|--------|
-| 1 | Rhun |
-| 2 | Rhiain |
-| 3 | Aeddan |
-| 4 | Bedwyr |
-| 5 | Caradog |
-| 6 | Euros |
-| 7 | Gwalchmai |
-| 8 | Iolo |
-| 9 | Macsen |
-| 10 | Peredur |
-| 11 | Sulien |
-| 12 | Aerona |
-| 13 | Buddug |
-| 14 | Dwynwen |
-| 15 | Eirlys |
-| 16 | Gwawr |
-| 17 | Luned |
-| 18 | Morwenna |
-| 19 | Rhian |
-| 20 | Tesni |
-| 21 | Giuseppe |
-| 22 | Giovanni |
-| 23 | Francesco |
-| 24 | Luigi |
-| 25 | Angela |
-| 26 | Pietro |
-| 27 | Rosa |
-| 28 | Paolo |
-| 29 | Vincenzo |
-| 30 | Salvatore |
-| 31 | Domenico |
-| 32 | Francesca |
-| 33 | Carlo |
-| 34 | Caterina |
-| 35 | Filippo |
-| 36 | Alessandro |
-| 37 | Margherita |
-| 38 | Giorgio |
-| 39 | Roberto |
-| 40 | Giuseppina |
-| 41 | Mario |
-| 42 | Laura |
-| 43 | Enrico |
-| 44 | Giovanna |
-| 45 | Stefano |
-| 46 | Beatrice |
-| 47 | Claudio |
-| 48 | Carmela |
-| 49 | Massimo |
-| 50 | Paola |
-| 51 | Raffaele |
-| 52 | Antonietta |
-| 53 | Gaetano |
-| 54 | Bianca |
-| 55 | Michele |
-| 56 | Silvia |
-| 57 | Vittoria |
-| 58 | Nicola |
-| 59 | Claudia |
-| 60 | Marco |
-| 61 | Isabella |
-| 62 | Leonardo |
-| 63 | Alessandra |
-| 64 | Franco |
-| 65 | Valentina |
-| 66 | Alberto |
-| 67 | Concetta |
-| 68 | Pasquale |
-| 69 | Andrea |
-| 70 | Federica |
-| 71 | Maurizio |
-| 72 | Sergio |
-| 73 | Simona |
-| 74 | Fabio |
-| 75 | Roberta |
-| 76 | Gianni |
-| 77 | Patrizia |
-| 78 | Dario |
-| 79 | Ornella |
-| 80 | Guido |
-| 81 | Rosaria |
-| 82 | Sebastiano |
-| 83 | Grazia |
-| 84 | Luciano |
-| 85 | Renzo |
-| 86 | Aldo |
-| 87 | Adele |
-| 88 | Erminia |
-| 89 | Ettore |
-| 90 | Felice |
-| 91 | Gilda |
-| 92 | Gaspare |
-| 93 | Giacomo |
-| 94 | Letizia |
-| 95 | Marcello |
-| 96 | Matilde |
-| 97 | Oreste |
-| 98 | Nunzia |
-| 99 | Orlando |
-| 100 | Speranza |
+### Welsh
 
-**Table 10 of 11**
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Aeddan | Anwyl |
+| 2 | Aeron | Aubrey |
+| 3 | Aerona | Bebb |
+| 4 | Alwyn | Bevan |
+| 5 | Alys | Beynon |
+| 6 | Angharad | Bonsall |
+| 7 | Anwen | Bowen |
+| 8 | Arthur | Cadogan |
+| 9 | Bedwyr | Clement |
+| 10 | Berwyn | Collins |
+| 11 | Bethan | Corbet |
+| 12 | Bleddyn | Cunnick |
+| 13 | Bronwen | Davies |
+| 14 | Bryn | Dillwyn |
+| 15 | Buddug | Done |
+| 16 | Cadfan | Duggan |
+| 17 | Cai | Dykins |
+| 18 | Caradog | Edwards |
+| 19 | Carys | Ellis |
+| 20 | Catrin | Esau |
+| 21 | Dafydd | Evans |
+| 22 | Delyth | Eynon |
+| 23 | Derwyn | Fido |
+| 24 | Dewi | Foulkes |
+| 25 | Dilys | Francis |
+| 26 | Dwynwen | Gee |
+| 27 | Dylan | Gethin |
+| 28 | Eira | Gittins |
+| 29 | Eirlys | Gough |
+| 30 | Eleri | Griffiths |
+| 31 | Elwyn | Gwyn |
+| 32 | Emrys | Hamer |
+| 33 | Enid | Havard |
+| 34 | Euros | Hezekiah |
+| 35 | Evan | Hopkins |
+| 36 | Ffion | Howell |
+| 37 | Ffraid | Hughes |
+| 38 | Gareth | Humphreys |
+| 39 | Geraint | Iles |
+| 40 | Gethin | Ithell |
+| 41 | Glenda | James |
+| 42 | Griffith | Jarman |
+| 43 | Gwalchmai | Jenkins |
+| 44 | Gwawr | Jeremiah |
+| 45 | Gwen | Jones |
+| 46 | Gwenllian | Kinsey |
+| 47 | Gwilym | Kneath |
+| 48 | Gwydion | Kyffin |
+| 49 | Gwynfor | Lewis |
+| 50 | Haf | Llewellyn |
+| 51 | Heledd | Lloyd |
+| 52 | Hywel | Lougher |
+| 53 | Idris | Mabe |
+| 54 | Ieuan | Maddox |
+| 55 | Indeg | Matthews |
+| 56 | Iola | Meredith |
+| 57 | Iolo | Morgan |
+| 58 | Iona | Morris |
+| 59 | Iwan | Moss |
+| 60 | Jevan | Mostyn |
+| 61 | Kyffin | Nener |
+| 62 | Lewys | Oatley |
+| 63 | Llinos | Owen |
+| 64 | Llywelyn | Parry |
+| 65 | Lona | Pask |
+| 66 | Lowri | Pennant |
+| 67 | Luned | Phillips |
+| 68 | Macsen | Powell |
+| 69 | Mair | Price |
+| 70 | Mali | Pritchard |
+| 71 | Mari | Prosser |
+| 72 | Meurig | Pugh |
+| 73 | Morgan | Quance |
+| 74 | Morwenna | Rees |
+| 75 | Myfanwy | Richards |
+| 76 | Nella | Roberts |
+| 77 | Nia | Roderick |
+| 78 | Non | Rosser |
+| 79 | Olwen | Rowlands |
+| 80 | Osian | Russell |
+| 81 | Owain | Sayce |
+| 82 | Owen | Scurlock |
+| 83 | Peredur | Smith |
+| 84 | Prys | Stephens |
+| 85 | Rhiain | Tew |
+| 86 | Rhian | Thomas |
+| 87 | Rhiannon | Trevor |
+| 88 | Rhodri | Tudor |
+| 89 | Rhun | Uphill |
+| 90 | Rhys | Vane |
+| 91 | Seren | Vaughan |
+| 92 | Sian | Walters |
+| 93 | Sion | Warlow |
+| 94 | Steffan | Watkins |
+| 95 | Sulien | Williams |
+| 96 | Taliesin | Woosnam |
+| 97 | Tesni | Wynn |
+| 98 | Tomos | Yerbury |
+| 99 | Tristan | Yorath |
+| 100 | Wyn | Zerk |
 
-| d100 | Result |
-|------|--------|
-| 1 | Quintino |
-| 2 | Teodora |
-| 3 | Ruggero |
-| 4 | Virginia |
-| 5 | Wei |
-| 6 | Qiang |
-| 7 | Lei |
-| 8 | Jun |
-| 9 | Yong |
-| 10 | Gang |
-| 11 | Anrui |
-| 12 | Jian |
-| 13 | Ping |
-| 14 | Hui |
-| 15 | Fang |
-| 16 | Xiuying |
-| 17 | Guiying |
-| 18 | Yulian |
-| 19 | Jianhua |
-| 20 | Yan |
-| 21 | Li |
-| 22 | Hong |
-| 23 | Min |
-| 24 | Zihao |
-| 25 | Haoyu |
-| 26 | Yichen |
-| 27 | Haoran |
-| 28 | Zi |
-| 29 | Zixuan |
-| 30 | Zirui |
-| 31 | Muchen |
-| 32 | Yuxuan |
-| 33 | Zihan |
-| 34 | Ziqi |
-| 35 | Binyue |
-| 36 | Yinuo |
-| 37 | Chaoran |
-| 38 | Xinyi |
-| 39 | Yiyan |
-| 40 | Shuhan |
-| 41 | Kexin |
-| 42 | Yutong |
-| 43 | Dexin |
-| 44 | Zhong |
-| 45 | Yi |
-| 46 | Ren |
-| 47 | Xiao |
-| 48 | Chun |
-| 49 | De |
-| 50 | An |
-| 51 | He |
-| 52 | Ming |
-| 53 | Bo |
-| 54 | Hua |
-| 55 | Mei |
-| 56 | Lan |
-| 57 | Ju |
-| 58 | Zhu |
-| 59 | Feng |
-| 60 | Yun |
-| 61 | Xia |
-| 62 | Qing |
-| 63 | Rong |
-| 64 | Guo |
-| 65 | Fanglin |
-| 66 | Song |
-| 67 | Tao |
-| 68 | Bin |
-| 69 | Peng |
-| 70 | Fei |
-| 71 | Chao |
-| 72 | Hao |
-| 73 | Yu |
-| 74 | Lin |
-| 75 | Jing |
-| 76 | Ting |
-| 77 | Wen |
-| 78 | Qian |
-| 79 | Ying |
-| 80 | Nan |
-| 81 | Lu |
-| 82 | Yue |
-| 83 | Zhen |
-| 84 | Biao |
-| 85 | Long |
-| 86 | Hu |
-| 87 | Guangyi |
-| 88 | Xiang |
-| 89 | Sheng |
-| 90 | Guang |
-| 91 | Yao |
-| 92 | Liang |
-| 93 | Hailun |
-| 94 | Ling |
-| 95 | Jingxiao |
-| 96 | Xuan |
-| 97 | Man |
-| 98 | Yuan |
-| 99 | Shan |
-| 100 | Qiao |
+### Wild West
 
-**Table 11 of 11**
-
-| d10 | Result |
-|------|--------|
-| 1 | Zhi |
-| 2 | - |
-| 3 | - |
-| 4 | - |
-| 5 | - |
-| 6 | - |
-| 7 | - |
-| 8 | - |
-| 9 | - |
-| 10 | - |
-
-### Surnames / Family Names
-
-**Table 1 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Earp |
-| 2 | Holliday |
-| 3 | Masterson |
-| 4 | Hickok |
-| 5 | Hardin |
-| 6 | James |
-| 7 | Younger |
-| 8 | Dalton |
-| 9 | Cassidy |
-| 10 | Parker |
-| 11 | Sundance |
-| 12 | Calamity |
-| 13 | Oakley |
-| 14 | Starr |
-| 15 | Bass |
-| 16 | Ringo |
-| 17 | Claiborne |
-| 18 | McLaury |
-| 19 | Clanton |
-| 20 | Behan |
-| 21 | Garrett |
-| 22 | Billy |
-| 23 | Bonney |
-| 24 | Carson |
-| 25 | Bridger |
-| 26 | Cody |
-| 27 | Butler |
-| 28 | Tilghman |
-| 29 | Madsen |
-| 30 | Nixon |
-| 31 | Short |
-| 32 | Fisher |
-| 33 | Thompson |
-| 34 | Ketchum |
-| 35 | Logan |
-| 36 | Lay |
-| 37 | Meeks |
-| 38 | Carver |
-| 39 | Kilpatrick |
-| 40 | Hanks |
-| 41 | Bullion |
-| 42 | O'Folliard |
-| 43 | Bowdre |
-| 44 | Rudabaugh |
-| 45 | Wilson |
-| 46 | Chisum |
-| 47 | Goodnight |
-| 48 | Loving |
-| 49 | McCandless |
-| 50 | McSween |
-| 51 | Murphy |
-| 52 | Dolan |
-| 53 | Brady |
-| 54 | Hindman |
-| 55 | Wallace |
-| 56 | Leopold |
-| 57 | Jennings |
-| 58 | Doolin |
-| 59 | Newcomb |
-| 60 | Pierce |
-| 61 | Raidler |
-| 62 | Knight |
-| 63 | Waite |
-| 64 | French |
-| 65 | Blackjack |
-| 66 | Dunn |
-| 67 | Speer |
-| 68 | Mather |
-| 69 | Panton |
-| 70 | Hornsby |
-| 71 | Canton |
-| 72 | Horn |
-| 73 | Sieber |
-| 74 | Gatewood |
-| 75 | Lawton |
-| 76 | Crook |
-| 77 | Miles |
-| 78 | Terry |
-| 79 | Gibbon |
-| 80 | Custer |
-| 81 | Reno |
-| 82 | Benteen |
-| 83 | Fetterman |
-| 84 | Carrington |
-| 85 | Grattan |
-| 86 | Kearny |
-| 87 | Doniphan |
-| 88 | Price |
-| 89 | Lyon |
-| 90 | Canby |
-| 91 | Sibley |
-| 92 | Chivington |
-| 93 | Connor |
-| 94 | Sulley |
-| 95 | Sturgis |
-| 96 | Mackenzie |
-| 97 | Grierson |
-| 98 | Hatch |
-| 99 | Forsyth |
-| 100 | Carr |
-
-**Table 2 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Smith |
-| 2 | Miller |
-| 3 | Taylor |
-| 4 | Brown |
-| 5 | Williams |
-| 6 | Penn |
-| 7 | Franklin |
-| 8 | Adams |
-| 9 | Hancock |
-| 10 | Winthrop |
-| 11 | Bradford |
-| 12 | Sewall |
-| 13 | Wheatley |
-| 14 | revere |
-| 15 | Otis |
-| 16 | Warren |
-| 17 | Putnam |
-| 18 | Gates |
-| 19 | Greene |
-| 20 | Knox |
-| 21 | Schuyler |
-| 22 | Livingston |
-| 23 | Morris |
-| 24 | Sherman |
-| 25 | Hopkins |
-| 26 | Rutledge |
-| 27 | Middleton |
-| 28 | Carroll |
-| 29 | Chase |
-| 30 | Paca |
-| 31 | Stone |
-| 32 | Walton |
-| 33 | Gwinnett |
-| 34 | Hall |
-| 35 | Wythe |
-| 36 | Braxton |
-| 37 | Harrison |
-| 38 | Nelson |
-| 39 | Lee |
-| 40 | Jefferson |
-| 41 | Madison |
-| 42 | Monroe |
-| 43 | Washington |
-| 44 | Hamilton |
-| 45 | Jay |
-| 46 | Clinton |
-| 47 | Burr |
-| 48 | Randolph |
-| 49 | Mason |
-| 50 | Henry |
-| 51 | Pendleton |
-| 52 | Throckmorton |
-| 53 | Blair |
-| 54 | Dickinson |
-| 55 | Read |
-| 56 | McKean |
-| 57 | Clymer |
-| 58 | Ross |
-| 59 | Rush |
-| 60 | Morton |
-| 61 | Hart |
-| 62 | Clark |
-| 63 | Stockton |
-| 64 | Witherspoon |
-| 65 | Floyd |
-| 66 | Lewis |
-| 67 | Whipple |
-| 68 | Thornton |
-| 69 | Bartlett |
-| 70 | Langdon |
-| 71 | Sullivan |
-| 72 | Stark |
-| 73 | Pickering |
-| 74 | Dearborn |
-| 75 | Lincoln |
-| 76 | Ward |
-| 77 | Heath |
-| 78 | Thomas |
-| 79 | Spencer |
-| 80 | Featherstone |
-| 81 | Montgomery |
-| 82 | Arnold |
-| 83 | Wooster |
-| 84 | Whitlocke |
-| 85 | Parsons |
-| 86 | Frye |
-| 87 | Whitcomb |
-| 88 | Patterson |
-| 89 | Glover |
-| 90 | Reed |
-| 91 | Smallwood |
-| 92 | Haslet |
-| 93 | Hand |
-| 94 | Cadwalader |
-| 95 | Irvine |
-| 96 | Wayne |
-| 97 | Maxwell |
-| 98 | Garcia |
-| 99 | Martinez |
-| 100 | Rodriguez |
-
-**Table 3 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Lopez |
-| 2 | Hernandez |
-| 3 | Gonzalez |
-| 4 | Perez |
-| 5 | Sanchez |
-| 6 | Ramirez |
-| 7 | Torres |
-| 8 | Flores |
-| 9 | Rivera |
-| 10 | Gomez |
-| 11 | Diaz |
-| 12 | Reyes |
-| 13 | Morales |
-| 14 | Gutierrez |
-| 15 | Ortiz |
-| 16 | Castillo |
-| 17 | Jimenez |
-| 18 | Alvarez |
-| 19 | Ruiz |
-| 20 | Vasquez |
-| 21 | Castro |
-| 22 | Vargas |
-| 23 | Fernandez |
-| 24 | Guzman |
-| 25 | Salazar |
-| 26 | Mendez |
-| 27 | Villalobos |
-| 28 | De la Cruz |
-| 29 | De la Rosa |
-| 30 | De la Torre |
-| 31 | Delgado |
-| 32 | Cabrera |
-| 33 | Ibarra |
-| 34 | Cordova |
-| 35 | Mendoza |
-| 36 | Miranda |
-| 37 | Navarro |
-| 38 | Pacheco |
-| 39 | Robledo |
-| 40 | Sosa |
-| 41 | Valdez |
-| 42 | Zavala |
-| 43 | Aguilar |
-| 44 | Bravo |
-| 45 | Cano |
-| 46 | Duarte |
-| 47 | Escobar |
-| 48 | Fuentes |
-| 49 | Guerra |
-| 50 | Heredia |
-| 51 | Ibanez |
-| 52 | Jara |
-| 53 | Lara |
-| 54 | Meza |
-| 55 | Nieto |
-| 56 | Olivares |
-| 57 | Padilla |
-| 58 | Quintero |
-| 59 | Ramos |
-| 60 | Serrano |
-| 61 | Tellez |
-| 62 | Uribe |
-| 63 | Valenzuela |
-| 64 | Zamora |
-| 65 | Acosta |
-| 66 | Becerra |
-| 67 | Calderon |
-| 68 | Dominguez |
-| 69 | Espinosa |
-| 70 | Figueroa |
-| 71 | Gallegos |
-| 72 | Herrera |
-| 73 | Islas |
-| 74 | Juarez |
-| 75 | Leon |
-| 76 | Montoya |
-| 77 | Nuñez |
-| 78 | Orozco |
-| 79 | Palacios |
-| 80 | Quintana |
-| 81 | Rojas |
-| 82 | Salas |
-| 83 | Tapia |
-| 84 | Urbina |
-| 85 | Vela |
-| 86 | Zuniga |
-| 87 | Aragon |
-| 88 | Benitez |
-| 89 | Cervantes |
-| 90 | Duron |
-| 91 | Estrada |
-| 92 | Galvan |
-| 93 | Hidalgo |
-| 94 | Jaimes |
-| 95 | Lozano |
-| 96 | Machado |
-| 97 | Negrete |
-| 98 | Begay |
-| 99 | Yazzie |
-| 100 | Nez |
-
-**Table 4 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Tsosie |
-| 2 | Benally |
-| 3 | Adair |
-| 4 | Vann |
-| 5 | Pitchlynn |
-| 6 | Colbert |
-| 7 | Manygoats |
-| 8 | Etsitty |
-| 9 | Denetclaw |
-| 10 | Yellowhair |
-| 11 | Todacheene |
-| 12 | Hicks |
-| 13 | Lowery |
-| 14 | Bushyhead |
-| 15 | Christie |
-| 16 | Downing |
-| 17 | Iron Cloud |
-| 18 | Ghost Bear |
-| 19 | Red Elk |
-| 20 | Two Bulls |
-| 21 | Afraid of Bear |
-| 22 | Means |
-| 23 | Thunder Hawk |
-| 24 | Yellow Boy |
-| 25 | Kills Night |
-| 26 | Little Sky |
-| 27 | Folsom |
-| 28 | LeFlore |
-| 29 | McCurtain |
-| 30 | Durant |
-| 31 | Boudinot |
-| 32 | Ridge |
-| 33 | Girty |
-| 34 | Watie |
-| 35 | Atcitty |
-| 36 | Bitsui |
-| 37 | Chee |
-| 38 | Chiquito |
-| 39 | Claw |
-| 40 | Deschene |
-| 41 | Gishie |
-| 42 | Haswood |
-| 43 | Hosteen |
-| 44 | Kady |
-| 45 | Largo |
-| 46 | Manualito |
-| 47 | Peshlakai |
-| 48 | Roanhorse |
-| 49 | Tapahe |
-| 50 | Tsinigine |
-| 51 | Tso |
-| 52 | Whitethorne |
-| 53 | Zah |
-| 54 | Anquoe |
-| 55 | Bighorse |
-| 56 | Horse |
-| 57 | Blackbear |
-| 58 | Lone Wolf |
-| 59 | Whitehorse |
-| 60 | Walkingstick |
-| 61 | Deer-in-Water |
-| 62 | Sixkiller |
-| 63 | Going-Snake |
-| 64 | Mankiller |
-| 65 | Birdchopper |
-| 66 | Tailfeathers |
-| 67 | Running Wolf |
-| 68 | High Elk |
-| 69 | Little Bear |
-| 70 | Eagle Speaker |
-| 71 | Plenty Hoops |
-| 72 | Medicine Crow |
-| 73 | Good Strike |
-| 74 | Red Horn |
-| 75 | Bluebird |
-| 76 | Whiteman |
-| 77 | Looking Horse |
-| 78 | Bad Wound |
-| 79 | Standing Bear |
-| 80 | American Horse |
-| 81 | Spotted Tail |
-| 82 | Gall |
-| 83 | Picketpin |
-| 84 | Fast Horse |
-| 85 | Broken Leg |
-| 86 | Short Bull |
-| 87 | Iron Shell |
-| 88 | White Plume |
-| 89 | Yellow Bird |
-| 90 | Cloud Shield |
-| 91 | Lame Deer |
-| 92 | Left Hand |
-| 93 | Little Wound |
-| 94 | White Bull |
-| 95 | Kelly |
-| 96 | O'Sullivan |
-| 97 | Walsh |
-| 98 | O'Brien |
-| 99 | Byrne |
-| 100 | Ryan |
-
-**Table 5 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | O'Connor |
-| 2 | O'Neill |
-| 3 | O'Reilly |
-| 4 | Doyle |
-| 5 | McCarthy |
-| 6 | Gallagher |
-| 7 | O'Doherty |
-| 8 | Kennedy |
-| 9 | Lynch |
-| 10 | Murray |
-| 11 | Quinn |
-| 12 | Moore |
-| 13 | McLaughlin |
-| 14 | O'Carroll |
-| 15 | Connolly |
-| 16 | Daly |
-| 17 | O'Connell |
-| 18 | Dunne |
-| 19 | Brennan |
-| 20 | Burke |
-| 21 | Collins |
-| 22 | Campbell |
-| 23 | Clarke |
-| 24 | Johnston |
-| 25 | Hughes |
-| 26 | Farrell |
-| 27 | Fitzgerald |
-| 28 | Maguire |
-| 29 | Nolan |
-| 30 | Flynn |
-| 31 | O'Callaghan |
-| 32 | O'Donnell |
-| 33 | Duffy |
-| 34 | Mahony |
-| 35 | Boyle |
-| 36 | Healy |
-| 37 | O'Shea |
-| 38 | White |
-| 39 | Sweeney |
-| 40 | Roche |
-| 41 | Kiernan |
-| 42 | Fitzpatrick |
-| 43 | O'Leary |
-| 44 | McGrath |
-| 45 | Moran |
-| 46 | Flanagan |
-| 47 | Cullen |
-| 48 | Maher |
-| 49 | O'Rourke |
-| 50 | Buckley |
-| 51 | Dwyer |
-| 52 | Cronin |
-| 53 | O'Donovan |
-| 54 | Joyce |
-| 55 | Duggan |
-| 56 | Higgins |
-| 57 | O'Gorman |
-| 58 | Coughlan |
-| 59 | Mullins |
-| 60 | McKenna |
-| 61 | Kane |
-| 62 | Whelan |
-| 63 | Power |
-| 64 | Barrett |
-| 65 | Foley |
-| 66 | Muldoon |
-| 67 | Hogan |
-| 68 | Donegan |
-| 69 | Sheridan |
-| 70 | Mullan |
-| 71 | McMahon |
-| 72 | Donnelly |
-| 73 | Gormley |
-| 74 | Boylan |
-| 75 | McArdle |
-| 76 | Doran |
-| 77 | McGovern |
-| 78 | Kavanagh |
-| 79 | Keogh |
-| 80 | Tierney |
-| 81 | Devine |
-| 82 | O'Hara |
-| 83 | McHugh |
-| 84 | Caffrey |
-| 85 | Larkin |
-| 86 | Curran |
-| 87 | Müller |
-| 88 | Schmidt |
-| 89 | Schneider |
-| 90 | Fischer |
-| 91 | Weber |
-| 92 | Meyer |
-| 93 | Wagner |
-| 94 | Becker |
-| 95 | Schulz |
-| 96 | Hoffmann |
-| 97 | Schäfer |
-| 98 | Koch |
-| 99 | Bauer |
-| 100 | Richter |
-
-**Table 6 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Klein |
-| 2 | Wolf |
-| 3 | Schröder |
-| 4 | Neumann |
-| 5 | Schwarz |
-| 6 | Zimmermann |
-| 7 | Braun |
-| 8 | Krüger |
-| 9 | Hofmann |
-| 10 | Hartmann |
-| 11 | Lange |
-| 12 | Schmitt |
-| 13 | Werner |
-| 14 | Schmitz |
-| 15 | Krause |
-| 16 | Meier |
-| 17 | Lehmann |
-| 18 | Schmid |
-| 19 | Schulze |
-| 20 | Maier |
-| 21 | Köhler |
-| 22 | Herrmann |
-| 23 | König |
-| 24 | Walter |
-| 25 | Mayer |
-| 26 | Huber |
-| 27 | Kaiser |
-| 28 | Fuchs |
-| 29 | Peters |
-| 30 | Lang |
-| 31 | Scholz |
-| 32 | Möller |
-| 33 | Weiss |
-| 34 | Jung |
-| 35 | Hahn |
-| 36 | Schubert |
-| 37 | Vogel |
-| 38 | Friedrich |
-| 39 | Günther |
-| 40 | Eberhardt |
-| 41 | Berger |
-| 42 | Winkler |
-| 43 | Roth |
-| 44 | Beck |
-| 45 | Lorenz |
-| 46 | Baumann |
-| 47 | Frank |
-| 48 | Albrecht |
-| 49 | Schuster |
-| 50 | Kraus |
-| 51 | Ludwig |
-| 52 | Böhm |
-| 53 | Jäger |
-| 54 | Otto |
-| 55 | Sommer |
-| 56 | Gross |
-| 57 | Seidel |
-| 58 | Vogt |
-| 59 | Haas |
-| 60 | Schreiber |
-| 61 | Graf |
-| 62 | Ziegler |
-| 63 | Kuhn |
-| 64 | Pohl |
-| 65 | Engel |
-| 66 | Busch |
-| 67 | Bergmann |
-| 68 | Voigt |
-| 69 | Sauer |
-| 70 | Wolff |
-| 71 | Pfeiffer |
-| 72 | Woll |
-| 73 | Kramer |
-| 74 | Lenz |
-| 75 | Ullrich |
-| 76 | Reiter |
-| 77 | Heller |
-| 78 | Kaufmann |
-| 79 | Smidt |
-| 80 | Gerhard |
-| 81 | Zimmer |
-| 82 | Drechsler |
-| 83 | Brandt |
-| 84 | Martin |
-| 85 | Bernard |
-| 86 | Petit |
-| 87 | Robert |
-| 88 | Richard |
-| 89 | Durand |
-| 90 | Dubois |
-| 91 | Moreau |
-| 92 | Laurent |
-| 93 | Simon |
-| 94 | Michel |
-| 95 | Lefebvre |
-| 96 | Leroy |
-| 97 | Roux |
-| 98 | David |
-| 99 | Bertrand |
-| 100 | Morel |
-
-**Table 7 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Fournier |
-| 2 | Girard |
-| 3 | Bonneville |
-| 4 | Muller |
-| 5 | Lambert |
-| 6 | Faure |
-| 7 | Andre |
-| 8 | Mercier |
-| 9 | Blanc |
-| 10 | Guerin |
-| 11 | Boyer |
-| 12 | Garnier |
-| 13 | Chevalier |
-| 14 | Francois |
-| 15 | Legrand |
-| 16 | Gauthier |
-| 17 | Perrin |
-| 18 | Robin |
-| 19 | Clement |
-| 20 | Morin |
-| 21 | Nicolas |
-| 22 | Roussel |
-| 23 | Mathieu |
-| 24 | Gautier |
-| 25 | Masson |
-| 26 | Marchand |
-| 27 | Duval |
-| 28 | Denis |
-| 29 | Dumont |
-| 30 | Marie |
-| 31 | Noel |
-| 32 | Blanchard |
-| 33 | Giraud |
-| 34 | Joly |
-| 35 | Riviere |
-| 36 | Lucas |
-| 37 | Brun |
-| 38 | Gaillard |
-| 39 | Barbier |
-| 40 | Arnaud |
-| 41 | Hubert |
-| 42 | Guerrier |
-| 43 | Brunet |
-| 44 | Marais |
-| 45 | Lefevre |
-| 46 | Colin |
-| 47 | Bourgeois |
-| 48 | Adam |
-| 49 | Renard |
-| 50 | Benoit |
-| 51 | Paris |
-| 52 | Prevost |
-| 53 | Pierre |
-| 54 | Philippe |
-| 55 | Guillaume |
-| 56 | Boucher |
-| 57 | Royer |
-| 58 | Jacquet |
-| 59 | Mallet |
-| 60 | Aubert |
-| 61 | Roy |
-| 62 | Jean |
-| 63 | Even |
-| 64 | Bonnet |
-| 65 | Humbert |
-| 66 | Marechal |
-| 67 | Ollivier |
-| 68 | Meunier |
-| 69 | Vallet |
-| 70 | Charpentier |
-| 71 | Fontaine |
-| 72 | Dupont |
-| 73 | Vasseur |
-| 74 | Leclerc |
-| 75 | Picard |
-| 76 | Lemoine |
-| 77 | Stewart |
-| 78 | Thomson |
-| 79 | Robertson |
-| 80 | Anderson |
-| 81 | MacDonald |
-| 82 | Scott |
-| 83 | Reid |
-| 84 | Mitchell |
-| 85 | Walker |
-| 86 | Paton |
-| 87 | Morrison |
-| 88 | McLean |
-| 89 | Graham |
-| 90 | Fraser |
-| 91 | Kerr |
-| 92 | Henderson |
-| 93 | Hunter |
-| 94 | Cameron |
-| 95 | MacLeod |
-| 96 | Ferguson |
-| 97 | Davidson |
-| 98 | Grant |
-| 99 | Gordon |
-| 100 | Munro |
-
-**Table 8 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Bell |
-| 2 | Simpson |
-| 3 | Mackay |
-| 4 | Millar |
-| 5 | Douglas |
-| 6 | McIntosh |
-| 7 | Milne |
-| 8 | McKenzie |
-| 9 | Ritchie |
-| 10 | Bain |
-| 11 | Findlay |
-| 12 | Cunningham |
-| 13 | Black |
-| 14 | Allan |
-| 15 | Forbes |
-| 16 | Urquhart |
-| 17 | Lindsay |
-| 18 | Hay |
-| 19 | Elliot |
-| 20 | Farquharson |
-| 21 | Gunn |
-| 22 | MacFarlane |
-| 23 | MacGregor |
-| 24 | Sinclair |
-| 25 | Buchanan |
-| 26 | MacPherson |
-| 27 | Lamont |
-| 28 | Menzies |
-| 29 | Drummond |
-| 30 | Boyd |
-| 31 | Crawford |
-| 32 | Leslie |
-| 33 | MacAlpin |
-| 34 | Duncan |
-| 35 | Livingstone |
-| 36 | Erskine |
-| 37 | Balfour |
-| 38 | MacInnes |
-| 39 | MacNeil |
-| 40 | Grieve |
-| 41 | Fleming |
-| 42 | Lawson |
-| 43 | Cowie |
-| 44 | Leask |
-| 45 | Nicol |
-| 46 | Tait |
-| 47 | Low |
-| 48 | McNee |
-| 49 | McTaggart |
-| 50 | Gow |
-| 51 | Steel |
-| 52 | McQueen |
-| 53 | Mathieson |
-| 54 | Hutchison |
-| 55 | Guthrie |
-| 56 | MacKinnon |
-| 57 | Hardie |
-| 58 | Lumsden |
-| 59 | Strachan |
-| 60 | Barr |
-| 61 | Burnett |
-| 62 | Jones |
-| 63 | Davies |
-| 64 | Evans |
-| 65 | Roberts |
-| 66 | Morgan |
-| 67 | Griffiths |
-| 68 | Edwards |
-| 69 | Rees |
-| 70 | Jenkins |
-| 71 | Owen |
-| 72 | Phillips |
-| 73 | Moss |
-| 74 | Lloyd |
-| 75 | Ellis |
-| 76 | Richards |
-| 77 | Russell |
-| 78 | Powell |
-| 79 | Bowen |
-| 80 | Watkins |
-| 81 | Pritchard |
-| 82 | Pugh |
-| 83 | Howell |
-| 84 | Bevan |
-| 85 | Humphreys |
-| 86 | Parry |
-| 87 | Llewellyn |
-| 88 | Vaughan |
-| 89 | Gough |
-| 90 | Meredith |
-| 91 | Francis |
-| 92 | Gwyn |
-| 93 | Prosser |
-| 94 | Wynn |
-| 95 | Stephens |
-| 96 | Rowlands |
-| 97 | Tudor |
-| 98 | Walters |
-| 99 | Matthews |
-| 100 | Beynon |
-
-**Table 9 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Anwyl |
-| 2 | Cadogan |
-| 3 | Dillwyn |
-| 4 | Eynon |
-| 5 | Gethin |
-| 6 | Havard |
-| 7 | Kyffin |
-| 8 | Maddox |
-| 9 | Mostyn |
-| 10 | Pennant |
-| 11 | Rosser |
-| 12 | Sayce |
-| 13 | Trevor |
-| 14 | Warlow |
-| 15 | Yorath |
-| 16 | Bebb |
-| 17 | Cunnick |
-| 18 | Dykins |
-| 19 | Foulkes |
-| 20 | Gittins |
-| 21 | Hezekiah |
-| 22 | Ithell |
-| 23 | Jarman |
-| 24 | Kneath |
-| 25 | Lougher |
-| 26 | Mabe |
-| 27 | Nener |
-| 28 | Oatley |
-| 29 | Pask |
-| 30 | Quance |
-| 31 | Roderick |
-| 32 | Scurlock |
-| 33 | Tew |
-| 34 | Uphill |
-| 35 | Vane |
-| 36 | Woosnam |
-| 37 | Yerbury |
-| 38 | Zerk |
-| 39 | Aubrey |
-| 40 | Bonsall |
-| 41 | Corbet |
-| 42 | Done |
-| 43 | Esau |
-| 44 | Fido |
-| 45 | Gee |
-| 46 | Hamer |
-| 47 | Iles |
-| 48 | Jeremiah |
-| 49 | Kinsey |
-| 50 | Rossi |
-| 51 | Russo |
-| 52 | Ferrari |
-| 53 | Esposito |
-| 54 | Bianchi |
-| 55 | Romano |
-| 56 | Colombo |
-| 57 | Ricci |
-| 58 | Marino |
-| 59 | Greco |
-| 60 | Bruno |
-| 61 | Gallo |
-| 62 | Conti |
-| 63 | De Luca |
-| 64 | Mancini |
-| 65 | Costa |
-| 66 | Giordano |
-| 67 | Rizzo |
-| 68 | Lombardi |
-| 69 | Moretti |
-| 70 | Barbieri |
-| 71 | Fontana |
-| 72 | Santoro |
-| 73 | Mariani |
-| 74 | Rinaldi |
-| 75 | Ferrara |
-| 76 | Galli |
-| 77 | Martini |
-| 78 | Leone |
-| 79 | Longo |
-| 80 | Gentili |
-| 81 | Martinelli |
-| 82 | Vitale |
-| 83 | Marchetti |
-| 84 | Messina |
-| 85 | Villa |
-| 86 | Serra |
-| 87 | Farina |
-| 88 | Benedetti |
-| 89 | Grassi |
-| 90 | Valentini |
-| 91 | De Santis |
-| 92 | De Angelis |
-| 93 | Pasquali |
-| 94 | Amato |
-| 95 | Bellini |
-| 96 | Bernardi |
-| 97 | Silvestri |
-| 98 | Pellegrini |
-| 99 | Palumbo |
-| 100 | Testa |
-
-**Table 10 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Coppola |
-| 2 | Ferraro |
-| 3 | Parisi |
-| 4 | Riva |
-| 5 | D'Angelo |
-| 6 | Donati |
-| 7 | Marini |
-| 8 | De Rosa |
-| 9 | Sanna |
-| 10 | Orlando |
-| 11 | Ferretti |
-| 12 | Pagano |
-| 13 | Caputo |
-| 14 | Morelli |
-| 15 | Giuliani |
-| 16 | De Felice |
-| 17 | Cattaneo |
-| 18 | Romeo |
-| 19 | Monti |
-| 20 | Ruggiero |
-| 21 | Sorrentino |
-| 22 | Pellegrino |
-| 23 | Basile |
-| 24 | Caruso |
-| 25 | Vitali |
-| 26 | Molinari |
-| 27 | Valenti |
-| 28 | Piras |
-| 29 | Mazza |
-| 30 | D'Amico |
-| 31 | Sartori |
-| 32 | Casadei |
-| 33 | Neri |
-| 34 | Guerrieri |
-| 35 | Basso |
-| 36 | Castelli |
-| 37 | Poli |
-| 38 | Gatti |
-| 39 | Fabbri |
-| 40 | Longhi |
-| 41 | Danesi |
-| 42 | Grossi |
-| 43 | Lazzari |
-| 44 | Della Valle |
-| 45 | Negri |
-| 46 | Bellandi |
-| 47 | Pavan |
-| 48 | Valli |
-| 49 | Wang |
-| 50 | Li |
-| 51 | Zhang |
-| 52 | Liu |
-| 53 | Chen |
-| 54 | Yang |
-| 55 | Huang |
-| 56 | Zhao |
-| 57 | Wu |
-| 58 | Zhou |
-| 59 | Xu |
-| 60 | Sun |
-| 61 | Ma |
-| 62 | Zhu |
-| 63 | Hu |
-| 64 | Guo |
-| 65 | He |
-| 66 | Lin |
-| 67 | Gao |
-| 68 | Luo |
-| 69 | Zheng |
-| 70 | Liang |
-| 71 | Xie |
-| 72 | Song |
-| 73 | Tang |
-| 74 | Ouyang |
-| 75 | Han |
-| 76 | Cao |
-| 77 | Feng |
-| 78 | Deng |
-| 79 | Xiao |
-| 80 | Ye |
-| 81 | Yan |
-| 82 | Cheng |
-| 83 | Pan |
-| 84 | Tian |
-| 85 | Dong |
-| 86 | Yuan |
-| 87 | Yu |
-| 88 | Sima |
-| 89 | Du |
-| 90 | Peng |
-| 91 | Jiang |
-| 92 | Cai |
-| 93 | Wei |
-| 94 | Su |
-| 95 | Shangguan |
-| 96 | Xue |
-| 97 | Ding |
-| 98 | Ji |
-| 99 | Shen |
-| 100 | Lu |
-
-**Table 11 of 11**
-
-| d100 | Result |
-|------|--------|
-| 1 | Situ |
-| 2 | Xiahou |
-| 3 | Fan |
-| 4 | Dai |
-| 5 | Fu |
-| 6 | Zhong |
-| 7 | Linghu |
-| 8 | Jin |
-| 9 | Fang |
-| 10 | Shao |
-| 11 | Cui |
-| 12 | Ren |
-| 13 | Qiu |
-| 14 | Shi |
-| 15 | Yao |
-| 16 | Liao |
-| 17 | Xiong |
-| 18 | Hao |
-| 19 | Xia |
-| 20 | Zhuge |
-| 21 | Huyan |
-| 22 | Bai |
-| 23 | Mao |
-| 24 | Chang |
-| 25 | Wan |
-| 26 | Gu |
-| 27 | Gongsun |
-| 28 | Hou |
-| 29 | Helian |
-| 30 | Meng |
-| 31 | Long |
-| 32 | Duan |
-| 33 | Lei |
-| 34 | Qian |
-| 35 | Yuchi |
-| 36 | Yin |
-| 37 | Sha |
-| 38 | Bi |
-| 39 | Gong |
-| 40 | She |
-| 41 | Xing |
-| 42 | An |
-| 43 | Murong |
-| 44 | Yi |
-| 45 | Zou |
-| 46 | Xi |
-| 47 | Xiang |
-| 48 | Ge |
+| d100 | Forename | Surname |
+|------|----------|---------|
+| 1 | Abner | Bass |
+| 2 | Adelaide | Behan |
+| 3 | Annie | Benteen |
+| 4 | Augustus | Billy |
+| 5 | Bat | Blackjack |
+| 6 | Belle | Bonney |
+| 7 | Ben | Bowdre |
+| 8 | Bill | Brady |
+| 9 | Billy | Bridger |
+| 10 | Black | Bullion |
+| 11 | Blue | Butler |
+| 12 | Bob | Calamity |
+| 13 | Boone | Canby |
+| 14 | Buck | Canton |
+| 15 | Buffalo | Carr |
+| 16 | Butch | Carrington |
+| 17 | Calamity | Carson |
+| 18 | Caleb | Carver |
+| 19 | Call | Cassidy |
+| 20 | Camilla | Chisum |
+| 21 | Charlie | Chivington |
+| 22 | Clay | Claiborne |
+| 23 | Clementine | Clanton |
+| 24 | Clint | Cody |
+| 25 | Cole | Connor |
+| 26 | Dan | Crook |
+| 27 | Deets | Custer |
+| 28 | Delilah | Dalton |
+| 29 | Dish | Dolan |
+| 30 | Doc | Doniphan |
+| 31 | Elzy | Doolin |
+| 32 | Emmet | Dunn |
+| 33 | Enid | Earp |
+| 34 | Flora | Fetterman |
+| 35 | Frank | Fisher |
+| 36 | George | Forsyth |
+| 37 | Gertrude | French |
+| 38 | Gideon | Garrett |
+| 39 | Gus | Gatewood |
+| 40 | Harry | Gibbon |
+| 41 | Harvey | Goodnight |
+| 42 | Hattie | Grattan |
+| 43 | Hiram | Grierson |
+| 44 | Ida | Hanks |
+| 45 | Ike | Hardin |
+| 46 | Ira | Hatch |
+| 47 | James | Hickok |
+| 48 | Jasper | Hindman |
+| 49 | Jeb | Holliday |
+| 50 | Jesse | Horn |
+| 51 | Jim | Hornsby |
+| 52 | Johnny | James |
+| 53 | Joshua | Jennings |
+| 54 | Josiah | Kearny |
+| 55 | Josie | Ketchum |
+| 56 | King | Kilpatrick |
+| 57 | Kit | Knight |
+| 58 | Kitty | Lawton |
+| 59 | Lafayette | Lay |
+| 60 | Lefty | Leopold |
+| 61 | Lonnie | Logan |
+| 62 | Lucky | Loving |
+| 63 | Luke | Lyon |
+| 64 | Lulu | Mackenzie |
+| 65 | Mabel | Madsen |
+| 66 | Milton | Masterson |
+| 67 | Morgan | Mather |
+| 68 | Nellie | McCandless |
+| 69 | Nelson | McLaury |
+| 70 | News | McSween |
+| 71 | Newt | Meeks |
+| 72 | Otis | Miles |
+| 73 | Pat | Murphy |
+| 74 | Pea | Newcomb |
+| 75 | Pearl | Nixon |
+| 76 | Red | O'Folliard |
+| 77 | Rose | Oakley |
+| 78 | Rufus | Panton |
+| 79 | Sadie | Parker |
+| 80 | Sam | Pierce |
+| 81 | Seth | Price |
+| 82 | Shorty | Raidler |
+| 83 | Silas | Reno |
+| 84 | Slim | Ringo |
+| 85 | Sterling | Rudabaugh |
+| 86 | Tex | Short |
+| 87 | Thaddeus | Sibley |
+| 88 | Tillie | Sieber |
+| 89 | Tom | Speer |
+| 90 | Vera | Starr |
+| 91 | Vernon | Sturgis |
+| 92 | Virgil | Sulley |
+| 93 | Wild | Sundance |
+| 94 | Willa | Terry |
+| 95 | William | Thompson |
+| 96 | Woodrow | Tilghman |
+| 97 | Wyatt | Waite |
+| 98 | Zane | Wallace |
+| 99 | Zeb | Wilson |
+| 100 | Zora | Younger |
 
