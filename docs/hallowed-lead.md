@@ -190,7 +190,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Stress & Fate
-You start with no *Stress* and a *Fate* per session. You can *take Stress* to add 1 per Stress taken to any roll *except a 1*. Taking *3 Stress* inflicts a *Strike* and clears all your *Stress*. *Stress* can be removed by items, relaxation, downtime, or a good night's sleep. A *Fate* is a coin flip to determine critical success or critical failure on *ANY* failed roll, *including 1s*.
+  You start with no *Stress* and a *Fate* per session. You can *take Stress* to add 1 per Stress taken to any roll *except a 1*. Taking *3 Stress* inflicts a *Strike* and clears all your *Stress*. *Stress* can be removed by items, relaxation, downtime, or a good night's sleep. A *Fate* is a coin flip to determine critical success or critical failure on *ANY* failed roll, *including 1s*.
 
 ### Doom
   *Doom* rolls happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Doom*. At *3 Doom*, your Doom manifests in a way related to the last *Doom* inflicted, typically resulting in your end. Reduce *Doom* by gaining *Dark Essence*.

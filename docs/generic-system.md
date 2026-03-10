@@ -95,7 +95,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Karma & Hero Dice
-You start with *3 Karma and 1 Hero Dice* per session. You can add *Karma* to any roll result *except a 1* to *increase the result* by 1 per *Karma* spent. You gain 1 *Karma* on *ANY failed roll* (once per turn) or when the GM awards it. A *Hero Dice* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Karma* to buy back.
+  You start with *3 Karma and 1 Hero Dice* per session. You can add *Karma* to any roll result *except a 1* to *increase the result* by 1 per *Karma* spent. You gain 1 *Karma* on *ANY failed roll* (once per turn) or when the GM awards it. A *Hero Dice* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Karma* to buy back.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.

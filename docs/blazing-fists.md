@@ -10,7 +10,7 @@ In a realm of floating peaks and ancient blood-feuds, the path to enlightenment 
 
 - [Core Rules](#core-rules)
   - [Core Mechanics](#core-mechanics)
-    - [Qi & Harmony](#qi-harmony)
+    - [Qi](#qi)
     - [Corruption](#corruption)
     - [Cultivation](#cultivation)
   - [Movement & Cover](#movement-cover)
@@ -24,7 +24,7 @@ In a realm of floating peaks and ancient blood-feuds, the path to enlightenment 
 - [Abilities](#abilities)
   - [Standard Abilities](#standard-abilities)
     - [Combat Inclinations](#combat-inclinations)
-    - [Qi Inclinations](#qi-inclinations)
+    - [{{power}} Inclinations](#power-inclinations)
     - [Mental Inclinations](#mental-inclinations)
     - [Physical Inclinations](#physical-inclinations)
     - [Social Inclinations](#social-inclinations)
@@ -89,8 +89,8 @@ In a realm of floating peaks and ancient blood-feuds, the path to enlightenment 
 When attempting something risky, roll a *d6 to meet or beat a Target Number* set by the GM to succeed. If the check involves a contest with another, both roll for the outcome against the other. A draw results in a status quo or mixed success, as appropriate.
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
-### Qi & Harmony
-You start with *3 Qi and 1 Harmony* per session. You can add *Qi* to any roll result *except a 1* to *increase the result* by 1 per *Qi* spent. You gain 1 *Qi* on *ANY failed roll* (once per turn) or when the GM awards it. A *Harmony* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Qi* to buy back.
+### Qi
+  You start with *5 Qi* per session. Spend *Qi* to add an additional Boon to any roll, even after you've rolled it. You gain 1 *Qi* on *ANY failed roll* (once per turn) or when the GM awards it.
 
 ### Corruption
   *Corruption* rolls happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Corruption*. At *3 Corruption*, your Corruption manifests in a way related to the last *Corruption* inflicted, typically resulting in your end. Reduce *Corruption* by gaining *Cultivation*.
@@ -160,8 +160,8 @@ Follow these steps to create your character:
 
 6. **Starting Resources:** note your starting values:
    - **Health:** 3
-   - **Qi:** 3
-   - **Harmony:** 1
+   - **Qi:** 5
+   - **Harmony:** 0
    - **Doom:** 0 / 3
    - **Cultivation:** 0 / 3
 
@@ -201,15 +201,13 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Defender** | Once per turn, as a Reaction, take an attack intended for a Close Range teammate. You can still roll the Save on it. |  |
 | **Unstoppable** | When you inflict a Strike, you can sacrifice a Strike yourself to automatically inflict another Strike that counts as a 6 to hit. |  |
 
-#### Qi Inclinations
+#### {{power}} Inclinations
 
 | Ability | Description | Boons |
 |---------|-------------|-------|
-| **Lucky** | Start each session with +3 Qi. |  |
-| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +2 Qi. |  |
-| **Leadership** | Share your Qi with another teammate in sight. |  |
-| **Unbroken Spirit** | Gain an additional +1 Qi for each failed roll. |  |
-| **Kill Count** | Gain +1 Qi per round if you slay an enemy that round. This does not count against your failure Qi for the round. |  |
+| **Powerful** | Start each session with +2 {{power}}. |  |
+| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +2 {{power}}. |  |
+| **Leadership** | Share your {{power}} with another teammate in sight. |  |
 
 #### Mental Inclinations
 
@@ -426,7 +424,7 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 | **Lockpicks** | Professional lock picking tools. Requires skill to use effectively, otherwise requires a 6. On a 1, the pick breaks. | 3 | Uncommon |
 | **Mirror** | Signal device and useful for looking around corners. | 1 | Common |
 | **Rope** | 15m/50ft of strong rope. Essential for climbing, binding, and improvisation. | 1 | Common |
-| **Sentimental Memento** | Once per adventure, gain 1 Qi for recounting a new memory related to it. 2 Qi if it connects to the current situation. | 1 | Common |
+| **Sentimental Memento** | Once per adventure, gain 1 Qi for recounting a new memory related to it. Gain 2 Qi if it connects to the current situation. | 1 | Common |
 | **Tent** | Portable shelter. Protects from weather. | 1 | Common |
 | **Tool Kit** | Allows you to perform basic repair work if you have the skills. | 1 | Common |
 

@@ -86,7 +86,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Spirit & Talisman
-You start with *3 Spirit and 1 Talisman* per session. You can add *Spirit* to any roll result *except a 1* to *increase the result* by 1 per *Spirit* spent. You gain 1 *Spirit* on *ANY failed roll* (once per turn) or when the GM awards it. A *Talisman* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Spirit* to buy back.
+  You start with *3 Spirit and 1 Talisman* per session. You can add *Spirit* to any roll result *except a 1* to *increase the result* by 1 per *Spirit* spent. You gain 1 *Spirit* on *ANY failed roll* (once per turn) or when the GM awards it. A *Talisman* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Spirit* to buy back.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
