@@ -10,7 +10,7 @@ At the dawn of an age of bone and blood, forge your legend in a primordial land 
 
 - [Core Rules](#core-rules)
   - [Core Mechanics](#core-mechanics)
-    - [Spirit & Talisman](#spirit-talisman)
+    - [Spirit](#spirit)
   - [Movement & Cover](#movement-cover)
   - [Saves](#saves)
   - [Conflict Scenes](#conflict-scenes)
@@ -22,7 +22,7 @@ At the dawn of an age of bone and blood, forge your legend in a primordial land 
 - [Abilities](#abilities)
   - [Standard Abilities](#standard-abilities)
     - [Combat Inclinations](#combat-inclinations)
-    - [Spirit Inclinations](#spirit-inclinations)
+    - [{{power}} Inclinations](#power-inclinations)
     - [Mental Inclinations](#mental-inclinations)
     - [Physical Inclinations](#physical-inclinations)
     - [Social Inclinations](#social-inclinations)
@@ -85,8 +85,8 @@ At the dawn of an age of bone and blood, forge your legend in a primordial land 
 When attempting something risky, roll a *d6 to meet or beat a Target Number* set by the GM to succeed. If the check involves a contest with another, both roll for the outcome against the other. A draw results in a status quo or mixed success, as appropriate.
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
-### Spirit & Talisman
-  You start with *3 Spirit and 1 Talisman* per session. You can add *Spirit* to any roll result *except a 1* to *increase the result* by 1 per *Spirit* spent. You gain 1 *Spirit* on *ANY failed roll* (once per turn) or when the GM awards it. A *Talisman* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Spirit* to buy back.
+### Spirit
+  You start with *3 Spirit* per session. Spend *Spirit* to reroll any failed roll. You gain 1 *Spirit* on *ANY failed roll* or when the GM awards it, but can only have a total of 6 at any time.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
@@ -143,13 +143,13 @@ Follow these steps to create your character:
 
 3. **Choose 6 Abilities:** pick from the ability tables below. These represent your skills, training, and special gifts.
 
-4. **Starting Equipment:** select **8 items** from the gear tables below. Your starting outfit determines your armour saves.
-   This starting loadout allows up to **6 Common**, **2 Uncommon**, and **0 Rare** items.
+4. **Starting Equipment:** select **6 items** from the gear tables below. Your starting outfit determines your armour saves.
+   This starting loadout allows up to **4 Common**, **2 Uncommon**, and **0 Rare** items.
 
 5. **Starting Resources:** note your starting values:
-   - **Health:** 3
+   - **Health:** 4
    - **Spirit:** 3
-   - **Talisman:** 1
+   - **Talisman:** 0
 
 ## Abilities
 
@@ -187,15 +187,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Protection** | Once per turn, as a Reaction, take an attack intended for a Close Range teammate. You can still roll the Save on it. |  |
 | **Unstoppable** | When you inflict a Strike, you can sacrifice a Strike yourself to automatically inflict another Strike that counts as a 6 to hit. |  |
 
-#### Spirit Inclinations
+#### {{power}} Inclinations
 
 | Ability | Description | Boons |
 |---------|-------------|-------|
-| **Lucky** | Start each session with +3 Spirit. |  |
-| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +2 Spirit. |  |
-| **Leadership** | Share your Spirit with another teammate in sight. |  |
-| **Unbroken Spirit** | Gain an additional +1 Spirit for each failed roll. |  |
-| **Kill Count** | Gain +1 Spirit per round if you slay an enemy that round. This does not count against your failure Spirit for the round. |  |
+| **Powerful** | Start each session with +1 {{power}}. |  |
+| **Still Waters** | Still waters run deep. You have increadible reserves of potential {{power}}. You can hold up to 8 {{power}} rather than the normal 6. |  |
+| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +1 {{power}}. |  |
+| **Leadership** | Share your {{power}} with another teammate in sight. |  |
 
 #### Mental Inclinations
 
@@ -307,14 +306,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 
 | Ability | Description | Boons |
 |---------|-------------|-------|
-| **Freeform Supernatural Powers** | You can wield Supernatural powers through rituals and incantations, spiritual or mental focus. Choose the nature of your powers. You may cast/use them on up to 6 targets who must make a Resistance Save or be affected by your chosen effect on anything but a 1. If any of them succeed, none of them suffer the effect. If all succeed, you suffer a Strike from the backlash. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. On a 1, the GM can decide how the power goes wrong. You cannot use your Spirit to fuel these powers, but you can use your Talisman to reroll. Ongoing effects may be ended early by performing another Supernatural Action or taking a Strike, but not by performing a non-Supernatural Action. |  |
+| **Supernatural Powers** | You can wield Supernatural powers through rituals and incantations, spiritual power, or mental focus. Choose the nature of your powers. When you cast them, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use them against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of them succeed, none of them suffer the effect. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Supernatural Action or taking a Strike will end any ongoing effects. |  |
 
 #### Nature Powers
 
 | Ability | Description | Boons |
 |---------|-------------|-------|
 | **Speak with Animals** | You can communicate with animals and understand their replies on anything but a 1. They are not compelled to help but may provide information or assistance if treated well. Once per session, you can see through an animal's eyes for the duration of a scene. |  |
-| **Shapeshifter** | Choose a Small or Medium creature that you are familiar with. As an Action, you can transform into this creature on anything but a 1. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strike taken transfer to your original form. |  |
+| **Changeling** | Choose a Small or Medium creature that you are familiar with. As an Action, you can transform into this creature on anything but a 1. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strikes taken transfer to your original form. |  |
 | **Summon Swarm** | As an Action, summon a swarm of tiny Supernatural creatures. They can strip flesh from bone and consume any organic obstacles for the duration of a scene on anything but a 1. Anyone in the swarm must make an Avoidance Save or become Afflicted (Supernatural). On a 1, the swarm is summoned onto you. |  |
 | **Weather Control** | Once per session, as an Action, alter local weather conditions. Can summon rain, fog, wind, or clear skies within the immediate area on anything but a 1. Effect lasts for the scene. Rain can extinguish fires, fog provides concealment, wind can knock flying creatures down, clear skies can reveal hidden enemies. You can't cause extreme weather or direct it precisely though. |  |
 | **Entangling Vines** | As an Action, cause thorned vines to erupt in a Close radius at a target zone within Near Range on anything but a 1. Targets must make an Avoidance Save or be Incapacitated. On a 1, the vines lash out at you and you are Incapacitated. |  |
@@ -343,7 +342,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 
 ## Gear & Equipment
 
-Choose **8 items** during character creation. Outfits double as armour and provide your character's save values.
+Choose **6 items** during character creation. Outfits double as armour and provide your character's save values.
 
 ### Outfits
 
