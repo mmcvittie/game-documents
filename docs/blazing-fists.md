@@ -2,7 +2,7 @@
 
 *Martial arts legends in a world of soaring steel and insidious sorcery.*
 
-In a realm of floating peaks and ancient blood-feuds, the path to enlightenment is paved with iron and intent. Master the forbidden arts of the soul to battle corrupt warlords and mythical terrors in a Wuxia fantasy epic where your hands are the ultimate weapon. Temper your spirit, sharpen your strike, and let your legend take flight.
+In a realm of floating peaks and ancient blood-feuds, the path to enlightenment is paved with iron and intent. Master the forbidden arts of the soul to battle corrupt warlords and mythical terrors in an Eastern fantasy epic where your hands are the ultimate weapon. Enflame your spirit, sharpen your strikes, and let your legend take flight.
 
 ---
 
@@ -72,14 +72,14 @@ In a realm of floating peaks and ancient blood-feuds, the path to enlightenment 
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Eastern Fantasy Names Forenames / Given Names](#eastern-fantasy-names-forenames-given-names)
+    - [Eastern Fantasy Names Given Names](#eastern-fantasy-names-given-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
       - [Table 4](#table-4-4)
       - [Table 5](#table-5-4)
       - [Table 6](#table-6-4)
-    - [Eastern Fantasy Names Surnames / Family Names](#eastern-fantasy-names-surnames-family-names)
+    - [Eastern Fantasy Names Family Names](#eastern-fantasy-names-family-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
@@ -757,7 +757,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Eastern Fantasy Names Forenames / Given Names
+### Eastern Fantasy Names Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -827,7 +827,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Windpetal | Windwhisperer | Woodcarver | Xiaoran | Xinyi | Xuefei |
 | 6 | Yejin | Yori | Yuna | Zhen | Zhenya | Zixuan |
 
-### Eastern Fantasy Names Surnames / Family Names
+### Eastern Fantasy Names Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 

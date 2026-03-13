@@ -64,14 +64,14 @@ At the dawn of an age of bone and blood, forge your legend in a primordial land 
       - [Table 2](#table-2-3)
       - [Table 3](#table-3-3)
   - [Names](#names)
-    - [Primal Names Forenames / Given Names](#primal-names-forenames-given-names)
+    - [Primal Names Given Names](#primal-names-given-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
       - [Table 4](#table-4-1)
       - [Table 5](#table-5-1)
       - [Table 6](#table-6-1)
-    - [Primal Names Surnames / Family Names](#primal-names-surnames-family-names)
+    - [Primal Names Family Names](#primal-names-family-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
@@ -657,7 +657,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Primal Names Forenames / Given Names
+### Primal Names Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -727,7 +727,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Wave | Wedge | West | Whisper | Wild | Willow |
 | 6 | Wind | Wisp | Wolf | Wren | Yarrow | Zephyr |
 
-### Primal Names Surnames / Family Names
+### Primal Names Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 

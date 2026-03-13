@@ -78,14 +78,14 @@ From neon-lit alleys to crumbling jungle temples, step into a race against time 
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Pulp Names Forenames / Given Names](#pulp-names-forenames-given-names)
+    - [Pulp Names Given Names](#pulp-names-given-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
       - [Table 4](#table-4-4)
       - [Table 5](#table-5-4)
       - [Table 6](#table-6-4)
-    - [Pulp Names Surnames / Family Names](#pulp-names-surnames-family-names)
+    - [Pulp Names Family Names](#pulp-names-family-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
@@ -882,7 +882,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Pulp Names Forenames / Given Names
+### Pulp Names Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -952,7 +952,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Tyrell | Veronica | Victoria | Vikram | Vivian | Willie |
 | 6 | Wilma | Wyatt | Yasmin | Yuki | Zane | Zuri |
 
-### Pulp Names Surnames / Family Names
+### Pulp Names Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 

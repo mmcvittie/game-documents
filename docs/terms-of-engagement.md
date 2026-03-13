@@ -78,11 +78,11 @@ Clad in the galaxy’s most devastating tactical rigs, your elite squad deploys 
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Military Callsigns Names](#military-callsigns-names)
+    - [Military Callsigns](#military-callsigns)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
-    - [Technie Handles Names](#technie-handles-names)
+    - [Technie Handles](#technie-handles)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
@@ -901,7 +901,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Military Callsigns Names
+### Military Callsigns
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -938,7 +938,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Signal | Snipes | Specter | Spike | Stalker | Striker |
 | 6 | Tango | Thunder | Trigger | Trooper | Valkyrie | Vanguard |
 
-### Technie Handles Names
+### Technie Handles
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 

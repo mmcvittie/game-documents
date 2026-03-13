@@ -78,25 +78,29 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Native American (Plains, Southwest, and Southeastern Regions) Forenames / Given Names](#native-american-plains-southwest-and-southeastern-regions-forenames-given-names)
+    - [Native American (Plains, Southwest, and Southeastern Regions)](#native-american-plains-southwest-and-southeastern-regions)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
-    - [Native American (Plains, Southwest, and Southeastern Regions) Surnames / Family Names](#native-american-plains-southwest-and-southeastern-regions-surnames-family-names)
+    - [Spanish Given Names](#spanish-given-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
-    - [Wild West Forenames / Given Names](#wild-west-forenames-given-names)
+    - [Spanish Family Names](#spanish-family-names)
       - [Table 1](#table-1-6)
       - [Table 2](#table-2-6)
       - [Table 3](#table-3-6)
-      - [Table 4](#table-4-4)
-      - [Table 5](#table-5-4)
-      - [Table 6](#table-6-4)
-    - [Wild West Surnames / Family Names](#wild-west-surnames-family-names)
+    - [Wild West Given Names](#wild-west-given-names)
       - [Table 1](#table-1-7)
       - [Table 2](#table-2-7)
       - [Table 3](#table-3-7)
+      - [Table 4](#table-4-4)
+      - [Table 5](#table-5-4)
+      - [Table 6](#table-6-4)
+    - [Wild West Family Names](#wild-west-family-names)
+      - [Table 1](#table-1-8)
+      - [Table 2](#table-2-8)
+      - [Table 3](#table-3-8)
       - [Table 4](#table-4-5)
       - [Table 5](#table-5-5)
       - [Table 6](#table-6-5)
@@ -821,7 +825,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Native American (Plains, Southwest, and Southeastern Regions) Forenames / Given Names
+### Native American (Plains, Southwest, and Southeastern Regions)
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -829,36 +833,36 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Adahy | Adsila | Ahanu | Aiyana | Aka | Atohi |
-| 2 | Ayita | Bidziil | Bly | Chenoa | Chimalis | Chu'mana |
-| 3 | Cochise | Deganawida | Doli | Dyani | Elisi | Elu |
-| 4 | Enoli | Etenia | Gaho | Galilahi | Geronimo | Halona |
-| 5 | Honovi | Hototo | Imala | Inola | Istas | Jaci |
-| 6 | Kai | Kangee | Kaya | Kineks | Knoton | Koko |
+| 1 | Adsila Blossom | Ahiga He Fights | Ahyoka Happiness | Aiyana Eternal Blossom | Anpetu Day | Aponi Butterfly |
+| 2 | Atohi Woods | Atsa Eagle | Attakullakulla Little Carpenter | Awi Deer | Awinita Fawn | Ayita First Dancer |
+| 3 | Biduya Victorious | Bidziil Strong | Cetan Hawk | Chaska Firstborn Son | Chayton Falcon | Chimalis Bluebird |
+| 4 | Chula Fox | Cikala Little | Cochise Oak | Dahteste Woman Warrior | Dakota Ally | Dasodahae Red Sleeves |
+| 5 | Delgadito Slender One | Elu Graceful | Eskiminzin Iron Shirt | Fala Crow | Galagina Buck | Galilahi Attractive |
+| 6 | Gola Winter | Goyaahe One Who Yawns | Goyathlay One Who Yawns | Halona Fortunate | Hanhe Night | Hanska Tall |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Lallo | Liwanu | Lomasi | Lozen | Lulu | Mahkah |
-| 2 | Makya | Mansi | Maska | Massasoit | Matoaka | Metacomet |
-| 3 | Migina | Misu | Muna | Nahvee | Nakos | Nanyehi |
-| 4 | Nayati | Nita | Nova | Nuna | Odina | Ohanzee |
-| 5 | Olathe | Opa | Otaktay | Paco | Pati | Pavati |
-| 6 | Paytah | Pitalesharo | Pocahontas | Pola | Powhatan | Quahneah |
+| 1 | Hehakasapa Black Elk | Helushka Warrior | Honovi Strong Deer | Inola Black Fox | Issi Deer | Juh Warrior |
+| 2 | Kanati Lucky Hunter | Kangee Raven | Kanta Heart | Kaya Elder Sister | Kele Sparrow | Kiona Brown Hills |
+| 3 | Koda Friend | Lomah Beautiful | Lomasi Beautiful Flower | Lozen Skilled Rider | Luta Red | Mahpiya Cloud |
+| 4 | Makhpiyaluta Red Cloud | Mato Bear | Maza Iron | Naiche Mischief Maker | Nakos Wise | Nana Stubborn One |
+| 5 | Nantanlupan Gray Wolf | Nanyehi Beloved Woman | Nashoba Wolf | Nataani Speaker | Nizhoni Beautiful | Oconostota Groundhog |
+| 6 | Ogleluta Red Shirt | Pavati Clear Water | Pitalesharo Man Chief | Pizi Gall | Salali Squirrel | Sapa Black |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Quanah | Rayen | Sacagawea | Salali | Samoset | Sani |
-| 2 | Sequoyah | Sihu | Siwili | Sora | Taini | Takhi |
-| 3 | Takoda | Tala | Tallulah | Tashunke | Tecumseh | Tiva |
-| 4 | Tohon | Tyee | Una | Uncas | Utina | Viho |
-| 5 | Wachiwi | Wahkan | Weetamoo | Winona | Wunzh | Wyanet |
-| 6 | Yamka | Yansa | Yepa | Yuma | Zihna | Zusa |
+| 1 | Selu Corn | Sequoyah Sparrow | Shash Bear | Sintegleska Spotted Tail | Siwili Tail Feather | Takoda Universal Friend |
+| 2 | Tasunka Horse | Tasunkawitko Crazy Horse | Tatanka Buffalo | Tatankaiyotake Sitting Bull | Tayanita Young Beaver | Taza Sharp |
+| 3 | Tehan Young | Tiva Dance | Tobi Bean | Toka Firstborn | Tokala Fox | Tsiyugansini Dragging Canoe |
+| 4 | Tsula Fox | Unci Grandmother | Unega White | Usdi Little One | Victorio Iron Will | Wakinyan Thunder |
+| 5 | Walela Hummingbird | Wapi Good | Wasechuntashunka American Horse | Waya Wolf | Winona Firstborn Daughter | Woheli Eagle |
+| 6 | Wyanet Beautiful | Yazhi Young One | Yoki Rain | Yona Bear | Yonaguska Drowning Bear | Zitkala Bird |
 
-### Native American (Plains, Southwest, and Southeastern Regions) Surnames / Family Names
+### Spanish Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -866,36 +870,73 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Adair | Afraid of Bear | American Horse | Anquoe | Atcitty | Bad Wound |
-| 2 | Begay | Benally | Bighorse | Birdchopper | Bitsui | Black Kettle |
-| 3 | Blackbear | Bluebird | Boudinot | Broken Leg | Bushyhead | Chee |
-| 4 | Chiquito | Christie | Claw | Cloud Shield | Colbert | Crazy Horse |
-| 5 | Deer-in-Water | Denetclaw | Deschene | Downing | Durant | Eagle Speaker |
-| 6 | Etsitty | Fast Horse | Folsom | Gall | Ghost Bear | Girty |
+| 1 | Adelaida | Adrian | Agustin | Alejandro | Alonso | Ana |
+| 2 | Andres | Angel | Antonia | Antonio | Baltasar | Barbara |
+| 3 | Bartolome | Beatriz | Bernardo | Carlos | Carmen | Catalina |
+| 4 | Clara | Clemente | Concepcion | Cristobal | Daniela | Diego |
+| 5 | Dionisio | Dolores | Domingo | Elena | Elvira | Emilio |
+| 6 | Esperanza | Esteban | Eugenio | Faustino | Feliciana | Felipe |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Gishie | Going-Snake | Good Strike | Haswood | Hicks | High Elk |
-| 2 | Horse | Hosteen | Iron Cloud | Iron Shell | Kady | Kills Night |
-| 3 | Lame Deer | Largo | LeFlore | Left Hand | Little Bear | Little Crow |
-| 4 | Little Sky | Little Wound | Lone Wolf | Looking Horse | Lowery | Mankiller |
-| 5 | Manualito | Manygoats | McCurtain | Means | Medicine Crow | Nez |
-| 6 | Peshlakai | Picketpin | Pitchlynn | Plenty Hoops | Rain in the Face | Red Cloud |
+| 1 | Fernando | Francisca | Francisco | Gabriel | Gaspar | Gertrudis |
+| 2 | Gilberto | Gregorio | Guadalupe | Hernando | Hilario | Ignacio |
+| 3 | Ines | Isabel | Isidro | Jacinta | Javier | Joaquin |
+| 4 | Jose | Juan | Juana | Julian | Leandro | Leonor |
+| 5 | Lope | Lorenzo | Lucia | Luciano | Luis | Magdalena |
+| 6 | Manuel | Marcos | Margarita | Maria | Marina | Mateo |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Red Elk | Red Horn | Ridge | Roanhorse | Roman Nose | Ross |
-| 2 | Running Wolf | Short Bull | Sixkiller | Spotted Tail | Standing Bear | Starr |
-| 3 | Tailfeathers | Tapahe | Thunder Hawk | Todacheene | Touch the Clouds | Tsinigine |
-| 4 | Tso | Tsosie | Two Bulls | Vann | Waite | Walkingstick |
-| 5 | Watie | White Bull | White Calf | White Plume | Whitehorse | Whiteman |
-| 6 | Whitethorne | Yazzie | Yellow Bird | Yellow Boy | Yellowhair | Zah |
+| 1 | Melchor | Mercedes | Miguel | Narciso | Natalia | Nicolas |
+| 2 | Olga | Onofre | Paloma | Pasqual | Pedro | Petrona |
+| 3 | Pilar | Placido | Quintin | Rafael | Ramon | Ramona |
+| 4 | Ricardo | Roque | Rosario | Salvador | Santiago | Sebastian |
+| 5 | Silvestre | Silvia | Soledad | Teresa | Tomas | Tristan |
+| 6 | Ursula | Veronica | Vicente | Ximena | Yolanda | Zoraida |
 
-### Wild West Forenames / Given Names
+### Spanish Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Acosta | Aguilar | Alvarez | Aragon | Becerra | Beltran |
+| 2 | Benitez | Bravo | Cabrera | Calderon | Campos | Cano |
+| 3 | Carmona | Carrillo | Castillo | Castro | Cervantes | Cordova |
+| 4 | De la Cruz | De la Rosa | De la Torre | Delgado | Diaz | Dominguez |
+| 5 | Duarte | Duron | Escobar | Espinosa | Estrada | Fernandez |
+| 6 | Figueroa | Flores | Fuentes | Gallegos | Galvan | Garcia |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gomez | Gonzalez | Guerra | Gutierrez | Guzman | Heredia |
+| 2 | Hernandez | Herrera | Hidalgo | Ibanez | Ibarra | Islas |
+| 3 | Jaimes | Jara | Jimenez | Juarez | Lara | Leon |
+| 4 | Lopez | Lozano | Machado | Martinez | Mendez | Mendoza |
+| 5 | Meza | Miranda | Molina | Montoya | Morales | Navarro |
+| 6 | Negrete | Nieto | Nuñez | Olivares | Orozco | Ortiz |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Pacheco | Padilla | Palacios | Pastor | Perez | Quintana |
+| 2 | Quintero | Ramirez | Ramos | Reyes | Rivera | Robledo |
+| 3 | Rodriguez | Rojas | Roman | Ruiz | Salas | Salazar |
+| 4 | Sanchez | Segura | Serrano | Sosa | Tapia | Tellez |
+| 5 | Torres | Urbina | Uribe | Valdez | Valenzuela | Vargas |
+| 6 | Vasquez | Vela | Villalobos | Zamora | Zavala | Zuniga |
+
+### Wild West Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -905,10 +946,10 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 |-----------|---|---|---|---|---|---|
 | 1 | Abner | Adelaide | Adoniram | Alma | Alonzo | Alphonso |
 | 2 | Ambrose | Amos | Annie | Arch | Arthur | Augustus |
-| 3 | Balthazar | Barton | Bat | Beauregard | Belle | Ben |
+| 3 | Balthazar | Barrett | Barton | Beauregard | Belle | Ben |
 | 4 | Benedict | Beulah | Bill | Billy | Birdie | Black |
-| 5 | Blue | Bob | Boone | Buck | Buffalo | Burl |
-| 6 | Butch | Calamity | Caleb | Call | Calvin | Camilla |
+| 5 | Blue | Bob | Boone | Buck | Burl | Burton |
+| 6 | Byron | Caleb | Call | Callie | Calvin | Camilla |
 
 #### Table 2
 
@@ -938,7 +979,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 |-----------|---|---|---|---|---|---|
 | 1 | Jasper | Jeb | Jedediah | Jeremiah | Jesse | Jim |
 | 2 | Joel | Johnny | Jonah | Joshua | Josiah | Josie |
-| 3 | Judd | Judson | Kincaid | King | Kit | Kitty |
+| 3 | Judd | Judson | Kincaid | King | Kirk | Kitty |
 | 4 | Lafayette | Lafe | Lazarus | Lem | Levi | Lewis |
 | 5 | Lonnie | Louella | Luke | Lulu | Lyle | Mabel |
 | 6 | Mae | Marion | Marshal | Martin | Mason | Milton |
@@ -962,10 +1003,10 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 2 | Sterling | Stokes | Sylvanus | Thaddeus | Tillie | Tobias |
 | 3 | Tolliver | Tom | Truman | Ulysses | Uriah | Valentine |
 | 4 | Vera | Vernon | Virena | Virgil | Wade | Wallace |
-| 5 | Wesley | Wild | Willa | William | Willis | Woodrow |
+| 5 | Walter | Wesley | Willa | William | Willis | Woodrow |
 | 6 | Wyatt | Zane | Zeb | Zebulon | Zilpha | Zora |
 
-### Wild West Surnames / Family Names
+### Wild West Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -975,10 +1016,10 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 |-----------|---|---|---|---|---|---|
 | 1 | Abbott | Archer | Ashby | Bailey | Baker | Baptiste |
 | 2 | Barrett | Barstow | Bass | Beaumont | Behan | Benteen |
-| 3 | Billy | Blackjack | Blackwood | Bonney | Bowdre | Boyd |
+| 3 | Bishop | Blackwell | Blackwood | Bonner | Bowdre | Boyd |
 | 4 | Brady | Brennan | Bridger | Buckner | Bullion | Burke |
-| 5 | Butler | Byrd | Calamity | Callahan | Calloway | Canby |
-| 6 | Canton | Carr | Carrington | Carson | Carver | Cassidy |
+| 5 | Butler | Byrd | Callahan | Callister | Callow | Calloway |
+| 6 | Canby | Canton | Carr | Carrington | Carson | Carver |
 
 #### Table 2
 
@@ -986,9 +1027,9 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 |-----------|---|---|---|---|---|---|
 | 1 | Chambers | Chisum | Chivington | Claiborne | Clanton | Cody |
 | 2 | Colter | Connor | Cooper | Corbett | Crawford | Creed |
-| 3 | Crook | Crowley | Custer | Dalton | Daugherty | Deadwood |
+| 3 | Crook | Crowley | Custer | Daugherty | Dawson | Deadwood |
 | 4 | Dempsey | Dolan | Doniphan | Doolin | Doyle | Drummond |
-| 5 | Duggan | Dunn | Dustfall | Earp | Fetterman | Fisher |
+| 5 | Duggan | Dunn | Dustfall | Ellison | Fetterman | Fisher |
 | 6 | Flintlock | Flynn | Foley | Forsyth | French | Gallagher |
 
 #### Table 3
@@ -996,10 +1037,10 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
 | 1 | Gannon | Garrett | Gatewood | Gibbon | Goodnight | Grady |
-| 2 | Grattan | Grayson | Grierson | Grimes | Hanks | Hardin |
-| 3 | Harlan | Harper | Harrow | Hatch | Henderson | Hensley |
-| 4 | Hester | Hickok | Highpocket | Hightower | Hindman | Holliday |
-| 5 | Holloway | Horn | Hornsby | Houghton | Ironspur | James |
+| 2 | Grattan | Grayson | Grierson | Grimes | Hanks | Hardesty |
+| 3 | Harlan | Harper | Harrow | Hatch | Hatcher | Henderson |
+| 4 | Hensley | Hester | Highpocket | Hightower | Hindman | Hollis |
+| 5 | Holloway | Horn | Hornsby | Houghton | Ironspur | Jamison |
 | 6 | Jennings | Keane | Kearny | Ketchum | Kilpatrick | Kincaid |
 
 #### Table 4
@@ -1021,17 +1062,17 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 2 | O'Rourke | O'Shea | Oakley | Panton | Parker | Pendleton |
 | 3 | Phelan | Pierce | Pinkerton | Price | Pritchard | Pruitt |
 | 4 | Rafferty | Raidler | Rawhide | Rawlins | Reardon | Reno |
-| 5 | Ringo | Rooke | Rourke | Rudabaugh | Ryan | Sawyer |
-| 6 | Scanlon | Shelby | Sheridan | Short | Sibley | Sieber |
+| 5 | Riggs | Rooke | Rourke | Rudabaugh | Ryan | Sanders |
+| 6 | Sawyer | Scanlon | Shelby | Sheridan | Short | Sibley |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Sixgun | Slade | Sloane | Speer | Stanton | Starr |
-| 2 | Sturgis | Sulley | Sundance | Sutton | Talbot | Tatum |
+| 1 | Sieber | Sixgun | Slade | Sloane | Speer | Stanton |
+| 2 | Starr | Sturgis | Sulley | Sutton | Talbot | Tatum |
 | 3 | Terry | Thatcher | Thompson | Thornton | Tilghman | Treadwell |
 | 4 | Tully | Tumbleweed | Vance | Waite | Wallace | Walsh |
 | 5 | Ward | Weatherby | Webb | Wellington | Wheeler | Whitaker |
-| 6 | Whitfield | Whitmore | Wilson | Wolfe | Yates | Younger |
+| 6 | Whitfield | Whitmore | Wilson | Wolfe | Yarbrough | Yates |
 

@@ -68,7 +68,7 @@ A streamlined, classless hack of EZD6
       - [Table 2](#table-2-3)
       - [Table 3](#table-3-3)
   - [Names](#names)
-    - [Nicknames Names](#nicknames-names)
+    - [Nicknames](#nicknames)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
@@ -655,7 +655,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Nicknames Names
+### Nicknames
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
