@@ -127,20 +127,14 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 1](#table-1-15)
       - [Table 2](#table-2-15)
       - [Table 3](#table-3-15)
-    - [Native North American (Authentic) Forenames / Given Names](#native-north-american-authentic-forenames-given-names)
+    - [Native North American (Southern) Forenames / Given Names](#native-north-american-southern-forenames-given-names)
       - [Table 1](#table-1-16)
       - [Table 2](#table-2-16)
       - [Table 3](#table-3-16)
-      - [Table 4](#table-4-4)
-      - [Table 5](#table-5-4)
-      - [Table 6](#table-6-4)
-    - [Native North American (Authentic) Surnames / Family Names](#native-north-american-authentic-surnames-family-names)
+    - [Native North American (Southern) Surnames / Family Names](#native-north-american-southern-surnames-family-names)
       - [Table 1](#table-1-17)
       - [Table 2](#table-2-17)
       - [Table 3](#table-3-17)
-      - [Table 4](#table-4-5)
-      - [Table 5](#table-5-5)
-      - [Table 6](#table-6-5)
     - [Scottish Forenames / Given Names](#scottish-forenames-given-names)
       - [Table 1](#table-1-18)
       - [Table 2](#table-2-18)
@@ -169,16 +163,16 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 1](#table-1-24)
       - [Table 2](#table-2-24)
       - [Table 3](#table-3-24)
-      - [Table 4](#table-4-6)
-      - [Table 5](#table-5-6)
-      - [Table 6](#table-6-6)
+      - [Table 4](#table-4-4)
+      - [Table 5](#table-5-4)
+      - [Table 6](#table-6-4)
     - [Wild West Surnames / Family Names](#wild-west-surnames-family-names)
       - [Table 1](#table-1-25)
       - [Table 2](#table-2-25)
       - [Table 3](#table-3-25)
-      - [Table 4](#table-4-7)
-      - [Table 5](#table-5-7)
-      - [Table 6](#table-6-7)
+      - [Table 4](#table-4-5)
+      - [Table 5](#table-5-5)
+      - [Table 6](#table-6-5)
 
 ## Core Rules
 
@@ -907,7 +901,7 @@ Roll **1d6** for row and **1d6** for column to select your name theme.
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
 | 1 | Chinese | Colonial English | French | German | Irish | Italian |
-| 2 | Native North American (Authentic) | Scottish | Spanish | Welsh | Wild West | - |
+| 2 | Native North American (Southern) | Scottish | Spanish | Welsh | Wild West | - |
 | 3 | - | - | - | - | - | - |
 | 4 | - | - | - | - | - | - |
 | 5 | - | - | - | - | - | - |
@@ -1357,7 +1351,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Santoro | Sartori | Serra | Silvestri | Sorrentino | Testa |
 | 6 | Valenti | Valentini | Valli | Villa | Vitale | Vitali |
 
-### Native North American (Authentic) Forenames / Given Names
+### Native North American (Southern) Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1365,69 +1359,36 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Abiaka | Adahy | Ahanu | Aiyana | Aka | Akiatonharonkwen |
-| 2 | Alowan | Apukshunnubbee | Attakullakulla | Awan | Ayita | Barboncito |
-| 3 | Big Bear | Black Hawk | Black Hoof | Blackfish | Blue Jacket | Bly |
-| 4 | Buckongahelas | Cameahwait | Canassatego | Canonchet | Chato | Chavatangakwunua |
-| 5 | Chenoa | Chimalis | Chu'mana | Coacoochee | Cochise | Cornplanter |
-| 6 | Cornstalk | Crowfoot | Curley | Deganawida | Delgadito | Deserontyon |
+| 1 | Adahy | Ahanu | Aiyana | Aka | Ayita | Bly |
+| 2 | Chenoa | Chimalis | Chu'mana | Cochise | Deganawida | Doli |
+| 3 | Dyani | Elu | Etenia | Gaho | Geronimo | Halona |
+| 4 | Honovi | Hototo | Imala | Istas | Jaci | Kai |
+| 5 | Kangee | Kaya | Kineks | Knoton | Koko | Lallo |
+| 6 | Liwanu | Lomasi | Lozen | Lulu | Mahkah | Makya |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Diwali | Doli | Donehogawa | Dyani | Elu | Enola |
-| 2 | Eskiminzin | Etenia | Gaho | Ganioda'yo | Geronimo | Goyathlay |
-| 3 | Halona | Hiawatha | Hinmatowyalahtqit | Hobomok | Honovi | Hototo |
-| 4 | Imala | Inkpaduta | Iron Jacket | IsapoMuxika | Istas | Jaci |
-| 5 | Jigonhsasee | Junaluska | Kahkewistahaw | Kai | Kaintwakon | Kamiakin |
-| 6 | Kangee | Kateri | Kaya | Kele | Keokuk | Kicking Bird |
+| 1 | Mansi | Maska | Massasoit | Matoaka | Metacomet | Migina |
+| 2 | Misu | Muna | Nahvee | Nakos | Nanyehi | Nayati |
+| 3 | Nita | Nova | Nuna | Odina | Ohanzee | Olathe |
+| 4 | Opa | Otaktay | Paco | Pati | Pavati | Paytah |
+| 5 | Pitalesharo | Pocahontas | Pola | Powhatan | Quahneah | Quanah |
+| 6 | Rayen | Sacagawea | Samoset | Sani | Sequoyah | Sihu |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Kineks | Kintpuash | Knoton | Koko | Lallo | Little Turtle |
-| 2 | Liwanu | Lomasi | Looking Glass | Lozen | Lulu | Mahaska |
-| 3 | Mahkah | Makya | Mansi | Manuelito | Maska | Massasoit |
-| 4 | Matoaka | Metacomet | Micanopy | Migina | Mina | Mistahimaskwa |
-| 5 | Misu | Mosholatubbee | Muna | Nahnebahwequay | Nahvee | Naiche |
-| 6 | Nakos | Nana | Nanyehi | Narbona | Nayati | Neolin |
+| 1 | Siwili | Sora | Taini | Takoda | Tala | Tallulah |
+| 2 | Tashunke | Tecumseh | Tiva | Tohon | Tyee | Una |
+| 3 | Uncas | Utina | Viho | Wachiwi | Wahkan | Weetamoo |
+| 4 | Winona | Wunzh | Wyanet | Yamka | Yepa | Yuma |
+| 5 | Zihna | Zusa | - | - | - | - |
+| 6 | - | - | - | - | - | - |
 
-#### Table 4
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Ninigret | Nita | Nokomis | Nova | Numaga | Nuna |
-| 2 | Oconostota | Odina | Ohanzee | Olathe | Ollokot | Onangwatgo |
-| 3 | Onatah | Opa | Opchanacanough | Oronhyatekha | Oshkosh | Ostenaco |
-| 4 | Otaktay | Ousamequin | Paco | Pati | Pavati | Paytah |
-| 5 | Peta Nocona | Piapot | Pitalesharo | Pitikwahanapiwiyin | Plenty Coups | Pocahontas |
-| 6 | Pocatello | Pola | Pontiac | Poundmaker | Powhatan | Pushmataha |
-
-#### Table 5
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Quahneah | Qualchan | Quanah | Rayen | Sacagawea | Sahale |
-| 2 | Samoset | Sani | Satank | Satanta | Sayenqueraghta | Sequoyah |
-| 3 | Shingas | Sihu | Siwili | Skenandoa | Sora | Tahchee |
-| 4 | Taiaiake | Taini | Takoda | Tala | Tallulah | Tamanend |
-| 5 | Taoyateduta | Tarhe | Tashunke | Taza | Tecumapese | Tecumseh |
-| 6 | Tekahionwake | Tenskwatawa | Thanadelthur | Thayendanegea | Tishomingo | Tisquantum |
-
-#### Table 6
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Tiva | Tohon | Toohoolhoolzote | Truckee | Tsali | Tyee |
-| 2 | Una | Uncas | Utina | Victorio | Viho | Wab |
-| 3 | Waban | Wachiwi | Wahkan | Wapello | Wapi | Washakie |
-| 4 | Waubgeshig | We'wha | Weetamoo | Wematin | Winnemucca | Winona |
-| 5 | Wovoka | Wunzh | Wyanet | Yamka | Yellow Wolf | Yepa |
-| 6 | Yonaguska | Yuma | Zaltana | Zihna | Zitkala | Zusa |
-
-### Native North American (Authentic) Surnames / Family Names
+### Native North American (Southern) Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1435,67 +1396,34 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Adair | Afraid of Bear | Ahasteen | Ahenakew | Akiwenzie | Alexie |
-| 2 | American Horse | Anquoe | Archambault | Atcitty | Bad Wound | Becenti |
-| 3 | Begay | Begaye | Bellegarde | Benally | Benge | Big Eagle |
-| 4 | Bighorse | Birdchopper | Bitsui | Black Kettle | Black Moon | Black Owl |
-| 5 | Blackbear | Blackgoat | Bluebird | Bluehouse | Bonnin | Boudinot |
-| 6 | Brant | Brave Bear | Brave Bull | Broken Leg | Bushyhead | Cardinal |
+| 1 | Adair | Afraid of Bear | American Horse | Anquoe | Atcitty | Bad Wound |
+| 2 | Begay | Benally | Bighorse | Birdchopper | Bitsui | Black Kettle |
+| 3 | Blackbear | Bluebird | Boudinot | Broken Leg | Bushyhead | Chee |
+| 4 | Chiquito | Christie | Claw | Cloud Shield | Colbert | Crazy Horse |
+| 5 | Deer-in-Water | Denetclaw | Deschene | Downing | Durant | Eagle Speaker |
+| 6 | Etsitty | Fast Horse | Folsom | Gall | Ghost Bear | Girty |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Charging Crow | Chee | Chiquito | Christie | Clah | Claw |
-| 2 | Cloud Shield | Colbert | Conley | Cook | Crazy Horse | Cusick |
-| 3 | Deer | Deer-in-Water | Deloria | Denetclaw | Deschene | Dodge |
-| 4 | Doublehead | Downing | Dumont | Durant | Eagle Feather | Eagle Speaker |
-| 5 | Eastman | Elk Head | Erdrich | Etsitty | Farmer | Fast Horse |
-| 6 | Fire Thunder | Fixico | Folsom | Fool Bull | Fools Crow | Gall |
+| 1 | Gishie | Going-Snake | Good Strike | Haswood | Hicks | High Elk |
+| 2 | Horse | Hosteen | Iron Cloud | Iron Shell | Kady | Kills Night |
+| 3 | Lame Deer | Largo | LeFlore | Left Hand | Little Bear | Little Crow |
+| 4 | Little Sky | Little Wound | Lone Wolf | Looking Horse | Lowery | Mankiller |
+| 5 | Manualito | Manygoats | McCurtain | Means | Medicine Crow | Nez |
+| 6 | Peshlakai | Picketpin | Pitchlynn | Plenty Hoops | Rain in the Face | Red Cloud |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Garry | Ghost Bear | Girty | Gishie | Going-Snake | Good Strike |
-| 2 | Goodbird | Goodluck | Harjo | Harp | Haswood | Hawpetoss |
-| 3 | Hicks | High Elk | High Pipe | Holiday | Horse | Hosteen |
-| 4 | Iron Cloud | Iron Eyes | Iron Shell | Jacobs | Jumper | Kady |
-| 5 | Kakegamic | Kee | Kills Night | Kimmerer | LaFlesche | Lame Deer |
-| 6 | Largo | LeFlore | Left Hand | Little Bear | Little Crow | Little Sky |
-
-#### Table 4
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Little Wound | Littlechild | Littlelight | Locklear | Lomayaktewa | Lone Elk |
-| 2 | Lone Hill | Lone Wolf | Longboat | Looking Horse | Lowery | Lyons |
-| 3 | Madplume | Mankiller | Manualito | Manygoats | McCurtain | McIntosh |
-| 4 | Means | Medicine Crow | Merasty | Micco | Momaday | Monague |
-| 5 | Monongye | Nampeyo | Nequatewa | Nez | Nezbah | No Heart |
-| 6 | Norquay | Old Person | Peltier | Peshlakai | Picketpin | Pitchlynn |
-
-#### Table 5
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Plenty Hoops | Polacca | Pretty On Top | Rain in the Face | Red Cloud | Red Dog |
-| 2 | Red Elk | Red Horn | Red Star | Redhouse | Ridge | Roanhorse |
-| 3 | Roman Nose | Ross | Running Wolf | Secody | Shelly | Shenandoah |
-| 4 | Shirley | Short Bull | Sixkiller | Skenandore | Smoke | Spotted Tail |
-| 5 | Standing Bear | Standing Buffalo | Starr | Swift Bird | Tailfeathers | TallBear |
-| 6 | Tallchief | Tapahe | Thunder Hawk | Tiger | Todacheene | Touch the Clouds |
-
-#### Table 6
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Treuer | Tsethlikai | Tsinigine | Tsinnijinnie | Tso | Tsosie |
-| 2 | Two Bears | Two Bulls | Two Strike | Vann | Waite | Walkingstick |
-| 3 | War Jack | Watie | Wauneka | White Bull | White Calf | White Eyes |
-| 4 | White Hat | White Knife | White Lance | White Plume | White Swan | Whitehorse |
-| 5 | Whitekiller | Whiteman | Whitethorne | Wolfe | Yahola | Yazzie |
-| 6 | Yellow Bird | Yellow Boy | Yellow Robe | Yellowhair | Yellowman | Zah |
+| 1 | Red Elk | Red Horn | Ridge | Roanhorse | Roman Nose | Ross |
+| 2 | Running Wolf | Short Bull | Sixkiller | Spotted Tail | Standing Bear | Starr |
+| 3 | Tailfeathers | Tapahe | Thunder Hawk | Todacheene | Touch the Clouds | Tsinigine |
+| 4 | Tso | Tsosie | Two Bulls | Vann | Waite | Walkingstick |
+| 5 | Watie | White Bull | White Calf | White Plume | Whitehorse | Whiteman |
+| 6 | Whitethorne | Yazzie | Yellow Bird | Yellow Boy | Yellowhair | Zah |
 
 ### Scottish Forenames / Given Names
 
