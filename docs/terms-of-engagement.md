@@ -56,9 +56,6 @@ Clad in the galaxy’s most devastating tactical rigs, your elite squad deploys 
       - [Table 4](#table-4)
       - [Table 5](#table-5)
       - [Table 6](#table-6)
-      - [Table 7](#table-7)
-      - [Table 8](#table-8)
-      - [Table 9](#table-9)
     - [Personality Traits](#personality-traits)
       - [Table 1](#table-1-1)
       - [Table 2](#table-2-1)
@@ -81,25 +78,14 @@ Clad in the galaxy’s most devastating tactical rigs, your elite squad deploys 
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Nicknames Names](#nicknames-names)
+    - [Military Callsigns Names](#military-callsigns-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
-      - [Table 4](#table-4-4)
-      - [Table 5](#table-5-4)
-      - [Table 6](#table-6-4)
-      - [Table 7](#table-7-1)
-      - [Table 8](#table-8-1)
-      - [Table 9](#table-9-1)
-      - [Table 10](#table-10)
-      - [Table 11](#table-11)
-      - [Table 12](#table-12)
-      - [Table 13](#table-13)
-      - [Table 14](#table-14)
-      - [Table 15](#table-15)
-      - [Table 16](#table-16)
-      - [Table 17](#table-17)
-      - [Table 18](#table-18)
+    - [Technie Handles Names](#technie-handles-names)
+      - [Table 1](#table-1-5)
+      - [Table 2](#table-2-5)
+      - [Table 3](#table-3-5)
 
 ## Core Rules
 
@@ -627,7 +613,7 @@ Aspects define who your character is beyond raw stats. Choose one from each cate
 
 Roll or choose a Background to establish your character's history, origin, and the formative experiences that shaped them.
 
-Roll **1d9** for table, **1d6** for row, and **1d6** for column.
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 #### Table 1
 
@@ -694,39 +680,6 @@ Roll **1d9** for table, **1d6** for row, and **1d6** for column.
 | 4 | Gravity Well Architect | Solar Flare Forecaster | Astrogation Tutor | Atmospheric Shield Diver | Docking Clamp Inspector | Emergency Clone Liaison |
 | 5 | Hull Breach First Responder | Ion Trail Analyst | Jump Gate Salvager | Microgravity Fire Marshal | Orbital Debris Sweeper | Planetary Customs Screener |
 | 6 | Quantum Relay Maintainer | Rescue Pod Recovery Specialist | Ring Habitat Gardener | Starship Insurance Adjuster | Thermal Veil Installer | Vacuum Rescue Swimmer |
-
-#### Table 7
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Wanderer | Outcast | Survivor | Merchant | Trader | Artisan |
-| 2 | Craftsperson | Healer | Scout | Guide | Hunter | Tracker |
-| 3 | Scavenger | Laborer | Apprentice | Teacher | Student | Storyteller |
-| 4 | Entertainer | Cook | Innkeeper | Bodyguard | Mercenary | Soldier |
-| 5 | Veteran | Spy | Courier | Messenger | Diplomat | Negotiator |
-| 6 | Scholar | Archivist | Librarian | Historian | Inventor | Engineer |
-
-#### Table 8
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Tinkerer | Gambler | Smuggler | Thief | Con Artist | Fence |
-| 2 | Bounty Hunter | Explorer | Cartographer | Navigator | Sailor | Fisher |
-| 3 | Farmer | Rancher | Herder | Beast Handler | Animal Trainer | Hermit |
-| 4 | Exile | Refugee | Orphan | Street Urchin | Nobility | Fallen Noble |
-| 5 | Servant | Worker | Foreman | Guard | Sentry | Protector |
-| 6 | Caretaker | Medic | Poisoner | Assassin | Infiltrator | Saboteur |
-
-#### Table 9
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Revolutionary | Rebel | Loyalist | Patriot | Deserter | Turncoat |
-| 2 | Fugitive | Prisoner | Escapee | Vagabond | Drifter | Nomad |
-| 3 | Pilgrim | Seeker | Mystic | Visionary | Prophet | Cultist |
-| 4 | Believer | Skeptic | Philosopher | Poet | Artist | Musician |
-| 5 | Dancer | Mediator | Researcher | Specialist | Builder | Curator |
-| 6 | Fixer | Observer | Planner | Porter | Quartermaster | Responder |
 
 ### Personality Traits
 
@@ -948,205 +901,77 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Nicknames Names
+### Military Callsigns Names
 
-Roll **1d18** for table, **1d6** for row, and **1d6** for column.
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 #### Table 1
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Ace | Actual | Aegis | Alpha | Amber | Amethyst |
-| 2 | Anchor | Anvil | Apex | Arc | Artifact | Ash |
-| 3 | Astray | Avalanche | Avenger | Axle | Ballistic | BamBam |
-| 4 | Bandit | Banshee | Baron | Barrel | Basecamp | Bash |
-| 5 | Basin | Bastion | Beam | Beatdown | Bedrock | Biggs |
-| 6 | Binary | Bingo | Biscuit | Bit | Black | Blade |
+| 1 | Actual | Aegis | Alpha | Anchor | Anvil | Apex |
+| 2 | Avenger | Ballistic | Bandit | Banshee | Baron | Basecamp |
+| 3 | Bastion | Blitz | Bravo | Breach | Breaker | Bulwark |
+| 4 | Bunker | Captain | Centurion | Challenger | Champion | Charger |
+| 5 | Checkmate | Commander | Contact | Corsair | Dagger | Danger |
+| 6 | Deadeye | Deadlock | Deathblow | Delta | Dispatch | Echo |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Blank | Blaze | Blip | Blitz | Block | Bloodshot |
-| 2 | Bloom | Blue | Blunt | Bolt | Bonehead | Bones |
-| 3 | Bonfire | Book | Boomer | Boomstick | Bore | Bound |
-| 4 | Brass | Bravo | Breach | Breaker | Breeze | Brick |
-| 5 | Bridge | Brink | Brisk | Bronze | Brute | Bubbles |
-| 6 | Buckle | Buckshot | Buddy | Buffer | Bullet | Bullseye |
+| 1 | Enforcer | Failsafe | Fire | Flare | Flash | Foxtrot |
+| 2 | Gale | Gate | Ghost | Gunfire | Hammer | Havoc |
+| 3 | Hazard | Heavy | Hunter | Ironclad | Ironside | Jager |
+| 4 | Kilo | Knight | Knockout | Lancer | Leadfoot | Lima |
+| 5 | Longshot | Marauder | Maverick | Niner | Nomad | Operator |
+| 6 | Outlaw | Outpost | Paladin | Paratrooper | Pathfinder | Patrol |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Bulwark | Bumper | Bunker | Burnout | Burst | Buzz |
-| 2 | Caboose | Cairn | Cakewalk | Candystick | Cannonball | Captain |
-| 3 | Carmine | Cartridge | Cascade | Case | Cashew | Castle |
-| 4 | Catalyst | Catcher | Caustic | Caveman | Cell | Center |
-| 5 | Centurion | Chain | Chalk | Challenger | Champion | Channel |
-| 6 | Chaos | Charger | Charm | Check | Checkmate | Cheerio |
+| 1 | Payback | Peacemaker | Phantom | Phoenix | Point | Pulse |
+| 2 | Quickdraw | Radar | Rampart | Reaper | Rebel | Ricochet |
+| 3 | Rogue | Ronin | Rook | Rookie | Sable | Sabotage |
+| 4 | Samurai | Scout | Sentinel | Shadow | Shield | Sigma |
+| 5 | Signal | Snipes | Specter | Spike | Stalker | Striker |
+| 6 | Tango | Thunder | Trigger | Trooper | Valkyrie | Vanguard |
 
-#### Table 4
+### Technie Handles Names
 
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Chip | Chisel | Chops | Chowder | Chrome | Chuckles |
-| 2 | Chunk | Cinder | Cipher | Circuit | Clamp | Clank |
-| 3 | Clasp | Clear | Cleft | Cleric | Clever | Click |
-| 4 | Clicker | Cliff | Climax | Climber | Clincher | Cloak |
-| 5 | Clock | Clone | Close | Cloud | Clutch | Cobalt |
-| 6 | Cocktail | Cocky | Code | Codger | Coercer | Coffin |
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
-#### Table 5
+#### Table 1
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Cog | Cogent | Coil | Coin | Coke | Cold |
-| 2 | Coldsnap | Combat | Combover | Comeback | Comedian | Comet |
-| 3 | Comfort | Comic | Commander | Compass | Compete | Competent |
-| 4 | Competitor | Complain | Complete | Complex | Composer | Composite |
-| 5 | Comrade | Conduit | Contact | Coral | Core | Corsair |
-| 6 | Count | Cove | Crack | Crag | Crank | Crash |
+| 1 | Algorithm | Analog | Array | Atlas | Axis | Backup |
+| 2 | Batch | Binary | Buffer | Cache | Carbon | Cipher |
+| 3 | Circuit | Core | Data | Debug | Device | Domain |
+| 4 | Driver | Element | Engine | Entry | Ether | Export |
+| 5 | Factor | Filter | Flash | Flux | Gamma | Gateway |
+| 6 | Giga | Grid | Handle | Hash | Helix | Host |
 
-#### Table 6
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Creed | Crest | Cross | Crown | Crunch | Crusher |
-| 2 | Crust | Crypt | Crystal | Cube | Curb | Current |
-| 3 | Cutter | Cutthroat | Cycle | Dagger | Damper | Dancer |
-| 4 | Danger | Dart | Dash | Data | Deadeye | Deadlock |
-| 5 | Dealbreaker | Deathblow | Deathwish | Decay | Deck | Decree |
-| 6 | Deejay | Deep | Default | Defect | Degree | Delay |
-
-#### Table 7
+#### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Delete | Delta | Demise | Demon | Dense | Depth |
-| 2 | Detail | Deuce | Devastate | Devastation | Device | Devil |
-| 3 | Devious | Devour | Dexter | Diablo | Dial | Diamond |
-| 4 | Diehard | Diesel | Digger | Digit | Dim | Dinker |
-| 5 | Diplomat | Dipstick | Direct | Dirge | Dirk | Dirt |
-| 6 | Dirtbag | Dirtnap | Disc | Discord | Dish | Disk |
+| 1 | Icon | Index | Input | Ion | Jitter | Joint |
+| 2 | Joule | Jump | Kernel | Key | Keyboard | Kinetic |
+| 3 | Laser | Layer | Link | Logic | Macro | Mask |
+| 4 | Matrix | Mesh | Module | Nano | Network | Node |
+| 5 | Null | Object | Offset | Optic | Output | Packet |
+| 6 | Patch | Phase | Pixel | Quant | Quartz | Query |
 
-#### Table 8
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Dispatch | Disrupt | Dissolve | Distance | Ditch | Dive |
-| 2 | Divide | Doc | Domain | Dome | Dose | Double |
-| 3 | Down | Draft | Drag | Drain | Draw | Dream |
-| 4 | Drift | Drill | Drink | Drip | Drive | Drop |
-| 5 | Drum | Dry | Dual | Duct | Duke | Dull |
-| 6 | Dummy | Dump | Dune | Dust | Duty | Dynamo |
-
-#### Table 9
+#### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Earl | Echo | Edge | Ember | Emerald | Enforcer |
-| 2 | Engine | Enigma | Failsafe | Farseer | Fast | Fidget |
-| 3 | Fire | Firestarter | Five | Fixer | Flare | Flash |
-| 4 | Flatline | Flicker | Flint | Flood | Flow | Flux |
-| 5 | Forge | Foxtrot | Frequency | Fridge | Frost | Fumbles |
-| 6 | Furnace | Fuse | Gadget | Gale | Garnet | Gate |
-
-#### Table 10
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Gear | Gem | Ghost | Giggles | Gizmo | Glare |
-| 2 | Glass | Glint | Gloss | Glow | Gold | Goober |
-| 3 | Grit | Grudge | Gunfire | Gust | Gutshot | Hail |
-| 4 | Hammer | Harbor | Hard | Harrow | Havoc | Hazard |
-| 5 | Haze | Heatwave | Heavy | Hellion | Hex | Highroller |
-| 6 | Hopper | Hotshot | Hunter | Hush | Husk | Ice |
-
-#### Table 11
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Impulse | Inferno | Ion | Iron | Ironclad | Ironman |
-| 2 | Ironside | Jackpot | Jade | Jager | Jammer | Jasper |
-| 3 | Jester | Jetstream | Jewel | Jinx | Jockey | Joker |
-| 4 | Jostle | Judge | Jugular | Kaiser | Key | Kiln |
-| 5 | Kilo | King | Knight | Knockout | Knucklehead | Knuckles |
-| 6 | Lancer | Laser | Launchpad | Lead | Leadfoot | Ledger |
-
-#### Table 12
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Lefty | Lever | Light | Lima | Lineman | Link |
-| 2 | Livewire | Lock | Longshot | Lord | Lucky | Lunchmeat |
-| 3 | Luster | Madman | Mainframe | Makeover | Mantle | Marauder |
-| 4 | Matte | Maverick | Meatball | Meathead | Mercury | Midnight |
-| 5 | Mimic | Minefield | Mischief | Mist | Mojo | Monarch |
-| 6 | Monsoon | Moonlight | Mortar | Moss | Mothball | Motor |
-
-#### Table 13
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Mudslinger | Mumbles | Nadir | Nails | Narrator | Nemesis |
-| 2 | Nickel | Niner | Nitro | Nobody | Nomad | Noodle |
-| 3 | Nosedive | Nova | Nugget | Null | Numbskull | Nut |
-| 4 | Obsidian | Ogre | Omega | Omen | One | Onyx |
-| 5 | Opal | Operator | Opportunist | Oracle | Orbit | Oriel |
-| 6 | Orion | Orphan | Outlaw | Outpost | Outsider | Overload |
-
-#### Table 14
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Overtime | Packrat | Paladin | Paperboy | Paratrooper | Patches |
-| 2 | Patchwork | Pathfinder | Patriarch | Patrol | Pattern | Payback |
-| 3 | Peacemaker | Peak | Pearl | Pebbles | Peephole | Peewee |
-| 4 | Penthouse | Pepper | Periscope | Perp | Phantom | Phoenix |
-| 5 | Pin | Piper | Piston | Point | Potato | Prime |
-| 6 | Prince | Prof | Prophet | Pulse | Pyro | Quake |
-
-#### Table 15
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Quartz | Quickdraw | Quill | Radar | Rampart | Rascal |
-| 2 | Ray | Razor | Reaper | Rebel | Red | Reef |
-| 3 | Resonance | Rex | Ricochet | Ridge | Rift | Rime |
-| 4 | Ripple | Rivet | Rogue | Ronin | Rook | Rookie |
-| 5 | Rough | Rover | Royal | Ruby | Runner | Rust |
-| 6 | Sable | Sabotage | Samurai | Sapphire | Saw | Scorch |
-
-#### Table 16
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Scout | Screwball | Screwup | Sentinel | Seven | Shadow |
-| 2 | Shard | Sharp | Shell | Shield | Shiv | Shorty |
-| 3 | Shutdown | Sigma | Signal | Silver | Singe | Six |
-| 4 | Skipper | Skippy | Slack | Slash | Slate | Sleet |
-| 5 | Slick | Slope | Smiley | Smooth | Sneezy | Snipes |
-| 6 | Sovereign | Spark | Specter | Spike | Splinter | Squall |
-
-#### Table 17
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Stalker | Stark | Static | Steel | Stinger | Storm |
-| 2 | Straggler | Striker | Stumpy | Summit | Surge | Swell |
-| 3 | Swindle | Tango | Tank | Tempest | Thorn | Three |
-| 4 | Thunder | Tide | Tinker | Tiny | Titan | Topaz |
-| 5 | Torch | Torque | Torrent | Touchdown | Trigger | Trooper |
-| 6 | Twitch | Two | Tycoon | Umber | Umbra | Vagabond |
-
-#### Table 18
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Valkyrie | Valve | Vanguard | Vapor | Vector | Vertigo |
-| 2 | Victor | Vigil | Void | Volt | Vortex | Vulcan |
-| 3 | Waddles | Wall | Warden | Warlock | Warlord | Watchdog |
-| 4 | Wave | Wayfinder | Weld | Whiskey | Whisper | Whiz |
-| 5 | Wildcard | Wingnut | Wobbles | Wraith | Wrench | Wrongway |
-| 6 | Xylo | Zenith | Zephyr | Zero | Zodiac | Zulu |
+| 1 | Queue | Radio | Raster | Relay | Root | Scan |
+| 2 | Script | Sector | Socket | Stack | Syntax | System |
+| 3 | Target | Terminal | Thread | Trace | Trigger | Ultra |
+| 4 | Unit | Unix | Uplink | Valve | Vector | Vertex |
+| 5 | Virtual | Wafer | Warp | Wave | Wire | Xray |
+| 6 | XXXX | Yard | Yield | Z-Node | Zone | Zoom |
 

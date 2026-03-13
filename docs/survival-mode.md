@@ -78,247 +78,290 @@ When the lights go out and the dread creeps in, you are forced to weigh the cost
       - [Table 6](#table-6-3)
   - [Names](#names)
     - [Name Theme Chooser](#name-theme-chooser)
-    - [Brazilian Forenames / Given Names](#brazilian-forenames-given-names)
+    - [Arabic Forenames / Given Names](#arabic-forenames-given-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
-    - [Brazilian Surnames / Family Names](#brazilian-surnames-family-names)
+    - [Arabic Surnames / Family Names](#arabic-surnames-family-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
-    - [Central Asian Forenames / Given Names](#central-asian-forenames-given-names)
+    - [Balkan Forenames / Given Names](#balkan-forenames-given-names)
       - [Table 1](#table-1-6)
       - [Table 2](#table-2-6)
       - [Table 3](#table-3-6)
-    - [Central Asian Surnames / Family Names](#central-asian-surnames-family-names)
+    - [Balkan Surnames / Family Names](#balkan-surnames-family-names)
       - [Table 1](#table-1-7)
       - [Table 2](#table-2-7)
       - [Table 3](#table-3-7)
-    - [Chinese Forenames / Given Names](#chinese-forenames-given-names)
+    - [Brazilian Forenames / Given Names](#brazilian-forenames-given-names)
       - [Table 1](#table-1-8)
       - [Table 2](#table-2-8)
       - [Table 3](#table-3-8)
-    - [Chinese Surnames / Family Names](#chinese-surnames-family-names)
+    - [Brazilian Surnames / Family Names](#brazilian-surnames-family-names)
       - [Table 1](#table-1-9)
       - [Table 2](#table-2-9)
       - [Table 3](#table-3-9)
-    - [Dutch Forenames / Given Names](#dutch-forenames-given-names)
+    - [Central Asian Forenames / Given Names](#central-asian-forenames-given-names)
       - [Table 1](#table-1-10)
       - [Table 2](#table-2-10)
       - [Table 3](#table-3-10)
-    - [Dutch Surnames / Family Names](#dutch-surnames-family-names)
+    - [Central Asian Surnames / Family Names](#central-asian-surnames-family-names)
       - [Table 1](#table-1-11)
       - [Table 2](#table-2-11)
       - [Table 3](#table-3-11)
-    - [East African Forenames / Given Names](#east-african-forenames-given-names)
+    - [Chinese Forenames / Given Names](#chinese-forenames-given-names)
       - [Table 1](#table-1-12)
       - [Table 2](#table-2-12)
       - [Table 3](#table-3-12)
-    - [East African Surnames / Family Names](#east-african-surnames-family-names)
+    - [Chinese Surnames / Family Names](#chinese-surnames-family-names)
       - [Table 1](#table-1-13)
       - [Table 2](#table-2-13)
       - [Table 3](#table-3-13)
-    - [English Forenames / Given Names](#english-forenames-given-names)
+    - [Contemporary North American Forenames / Given Names](#contemporary-north-american-forenames-given-names)
       - [Table 1](#table-1-14)
       - [Table 2](#table-2-14)
       - [Table 3](#table-3-14)
-    - [English Surnames / Family Names](#english-surnames-family-names)
+    - [Contemporary North American Surnames / Family Names](#contemporary-north-american-surnames-family-names)
       - [Table 1](#table-1-15)
       - [Table 2](#table-2-15)
       - [Table 3](#table-3-15)
-    - [French Forenames / Given Names](#french-forenames-given-names)
+    - [Dutch Forenames / Given Names](#dutch-forenames-given-names)
       - [Table 1](#table-1-16)
       - [Table 2](#table-2-16)
       - [Table 3](#table-3-16)
-    - [French Surnames / Family Names](#french-surnames-family-names)
+    - [Dutch Surnames / Family Names](#dutch-surnames-family-names)
       - [Table 1](#table-1-17)
       - [Table 2](#table-2-17)
       - [Table 3](#table-3-17)
-    - [German Forenames / Given Names](#german-forenames-given-names)
+    - [East African Forenames / Given Names](#east-african-forenames-given-names)
       - [Table 1](#table-1-18)
       - [Table 2](#table-2-18)
       - [Table 3](#table-3-18)
-    - [German Surnames / Family Names](#german-surnames-family-names)
+    - [East African Surnames / Family Names](#east-african-surnames-family-names)
       - [Table 1](#table-1-19)
       - [Table 2](#table-2-19)
       - [Table 3](#table-3-19)
-    - [Indian Forenames / Given Names](#indian-forenames-given-names)
+    - [English Forenames / Given Names](#english-forenames-given-names)
       - [Table 1](#table-1-20)
       - [Table 2](#table-2-20)
       - [Table 3](#table-3-20)
-    - [Indian Surnames / Family Names](#indian-surnames-family-names)
+    - [English Surnames / Family Names](#english-surnames-family-names)
       - [Table 1](#table-1-21)
       - [Table 2](#table-2-21)
       - [Table 3](#table-3-21)
-    - [Irish Forenames / Given Names](#irish-forenames-given-names)
+    - [French Forenames / Given Names](#french-forenames-given-names)
       - [Table 1](#table-1-22)
       - [Table 2](#table-2-22)
       - [Table 3](#table-3-22)
-    - [Irish Surnames / Family Names](#irish-surnames-family-names)
+    - [French Surnames / Family Names](#french-surnames-family-names)
       - [Table 1](#table-1-23)
       - [Table 2](#table-2-23)
       - [Table 3](#table-3-23)
-    - [Italian Forenames / Given Names](#italian-forenames-given-names)
+    - [German Forenames / Given Names](#german-forenames-given-names)
       - [Table 1](#table-1-24)
       - [Table 2](#table-2-24)
       - [Table 3](#table-3-24)
-    - [Italian Surnames / Family Names](#italian-surnames-family-names)
+    - [German Surnames / Family Names](#german-surnames-family-names)
       - [Table 1](#table-1-25)
       - [Table 2](#table-2-25)
       - [Table 3](#table-3-25)
-    - [Japanese Forenames / Given Names](#japanese-forenames-given-names)
+    - [Greek Forenames / Given Names](#greek-forenames-given-names)
       - [Table 1](#table-1-26)
       - [Table 2](#table-2-26)
       - [Table 3](#table-3-26)
-    - [Japanese Surnames / Family Names](#japanese-surnames-family-names)
+    - [Greek Surnames / Family Names](#greek-surnames-family-names)
       - [Table 1](#table-1-27)
       - [Table 2](#table-2-27)
       - [Table 3](#table-3-27)
-    - [Korean Forenames / Given Names](#korean-forenames-given-names)
+    - [Indian Forenames / Given Names](#indian-forenames-given-names)
       - [Table 1](#table-1-28)
       - [Table 2](#table-2-28)
       - [Table 3](#table-3-28)
-    - [Korean Surnames / Family Names](#korean-surnames-family-names)
+    - [Indian Surnames / Family Names](#indian-surnames-family-names)
       - [Table 1](#table-1-29)
       - [Table 2](#table-2-29)
       - [Table 3](#table-3-29)
-    - [Middle Eastern Forenames / Given Names](#middle-eastern-forenames-given-names)
+    - [Irish Forenames / Given Names](#irish-forenames-given-names)
       - [Table 1](#table-1-30)
       - [Table 2](#table-2-30)
       - [Table 3](#table-3-30)
-    - [Middle Eastern Surnames / Family Names](#middle-eastern-surnames-family-names)
+    - [Irish Surnames / Family Names](#irish-surnames-family-names)
       - [Table 1](#table-1-31)
       - [Table 2](#table-2-31)
       - [Table 3](#table-3-31)
-    - [Nicknames Names](#nicknames-names)
+    - [Italian Forenames / Given Names](#italian-forenames-given-names)
       - [Table 1](#table-1-32)
       - [Table 2](#table-2-32)
       - [Table 3](#table-3-32)
-      - [Table 4](#table-4-4)
-      - [Table 5](#table-5-4)
-      - [Table 6](#table-6-4)
-      - [Table 7](#table-7)
-      - [Table 8](#table-8)
-      - [Table 9](#table-9)
-      - [Table 10](#table-10)
-      - [Table 11](#table-11)
-      - [Table 12](#table-12)
-      - [Table 13](#table-13)
-      - [Table 14](#table-14)
-      - [Table 15](#table-15)
-      - [Table 16](#table-16)
-      - [Table 17](#table-17)
-      - [Table 18](#table-18)
-    - [North African Forenames / Given Names](#north-african-forenames-given-names)
+    - [Italian Surnames / Family Names](#italian-surnames-family-names)
       - [Table 1](#table-1-33)
       - [Table 2](#table-2-33)
       - [Table 3](#table-3-33)
-    - [North African Surnames / Family Names](#north-african-surnames-family-names)
+    - [Japanese Forenames / Given Names](#japanese-forenames-given-names)
       - [Table 1](#table-1-34)
       - [Table 2](#table-2-34)
       - [Table 3](#table-3-34)
-    - [North American (Modern) Forenames / Given Names](#north-american-modern-forenames-given-names)
+    - [Japanese Surnames / Family Names](#japanese-surnames-family-names)
       - [Table 1](#table-1-35)
       - [Table 2](#table-2-35)
       - [Table 3](#table-3-35)
-    - [North American (Modern) Surnames / Family Names](#north-american-modern-surnames-family-names)
+    - [Jewish Forenames / Given Names](#jewish-forenames-given-names)
       - [Table 1](#table-1-36)
       - [Table 2](#table-2-36)
       - [Table 3](#table-3-36)
-    - [Oceania (Polynesian, Melanesian, & Micronesian) Forenames / Given Names](#oceania-polynesian-melanesian-micronesian-forenames-given-names)
+    - [Jewish Surnames / Family Names](#jewish-surnames-family-names)
       - [Table 1](#table-1-37)
       - [Table 2](#table-2-37)
       - [Table 3](#table-3-37)
-    - [Oceania (Polynesian, Melanesian, & Micronesian) Surnames / Family Names](#oceania-polynesian-melanesian-micronesian-surnames-family-names)
+    - [Korean Forenames / Given Names](#korean-forenames-given-names)
       - [Table 1](#table-1-38)
       - [Table 2](#table-2-38)
       - [Table 3](#table-3-38)
-    - [Polish Forenames / Given Names](#polish-forenames-given-names)
+    - [Korean Surnames / Family Names](#korean-surnames-family-names)
       - [Table 1](#table-1-39)
       - [Table 2](#table-2-39)
       - [Table 3](#table-3-39)
-    - [Polish Surnames / Family Names](#polish-surnames-family-names)
+    - [Latin American Forenames / Given Names](#latin-american-forenames-given-names)
       - [Table 1](#table-1-40)
       - [Table 2](#table-2-40)
       - [Table 3](#table-3-40)
-    - [Pulp Names Forenames / Given Names](#pulp-names-forenames-given-names)
+    - [Latin American Surnames / Family Names](#latin-american-surnames-family-names)
       - [Table 1](#table-1-41)
       - [Table 2](#table-2-41)
       - [Table 3](#table-3-41)
-      - [Table 4](#table-4-5)
-      - [Table 5](#table-5-5)
-      - [Table 6](#table-6-5)
-    - [Pulp Names Surnames / Family Names](#pulp-names-surnames-family-names)
+    - [Native American (Arctic, Subarctic, and Woodland Regions) Forenames / Given Names](#native-american-arctic-subarctic-and-woodland-regions-forenames-given-names)
       - [Table 1](#table-1-42)
       - [Table 2](#table-2-42)
       - [Table 3](#table-3-42)
-      - [Table 4](#table-4-6)
-      - [Table 5](#table-5-6)
-      - [Table 6](#table-6-6)
-    - [Russian Forenames / Given Names](#russian-forenames-given-names)
+    - [Native American (Arctic, Subarctic, and Woodland Regions) Surnames / Family Names](#native-american-arctic-subarctic-and-woodland-regions-surnames-family-names)
       - [Table 1](#table-1-43)
       - [Table 2](#table-2-43)
       - [Table 3](#table-3-43)
-    - [Russian Surnames / Family Names](#russian-surnames-family-names)
+    - [Native American (Plains, Southwest, and Southeastern Regions) Forenames / Given Names](#native-american-plains-southwest-and-southeastern-regions-forenames-given-names)
       - [Table 1](#table-1-44)
       - [Table 2](#table-2-44)
       - [Table 3](#table-3-44)
-    - [Scandinavian Forenames / Given Names](#scandinavian-forenames-given-names)
+    - [Native American (Plains, Southwest, and Southeastern Regions) Surnames / Family Names](#native-american-plains-southwest-and-southeastern-regions-surnames-family-names)
       - [Table 1](#table-1-45)
       - [Table 2](#table-2-45)
       - [Table 3](#table-3-45)
-    - [Scandinavian Surnames / Family Names](#scandinavian-surnames-family-names)
+    - [Nicknames Names](#nicknames-names)
       - [Table 1](#table-1-46)
       - [Table 2](#table-2-46)
       - [Table 3](#table-3-46)
-    - [Scottish Forenames / Given Names](#scottish-forenames-given-names)
+    - [North African Forenames / Given Names](#north-african-forenames-given-names)
       - [Table 1](#table-1-47)
       - [Table 2](#table-2-47)
       - [Table 3](#table-3-47)
-    - [Scottish Surnames / Family Names](#scottish-surnames-family-names)
+    - [North African Surnames / Family Names](#north-african-surnames-family-names)
       - [Table 1](#table-1-48)
       - [Table 2](#table-2-48)
       - [Table 3](#table-3-48)
-    - [South African Forenames / Given Names](#south-african-forenames-given-names)
+    - [Oceanian Forenames / Given Names](#oceanian-forenames-given-names)
       - [Table 1](#table-1-49)
       - [Table 2](#table-2-49)
       - [Table 3](#table-3-49)
-    - [South African Surnames / Family Names](#south-african-surnames-family-names)
+    - [Oceanian Surnames / Family Names](#oceanian-surnames-family-names)
       - [Table 1](#table-1-50)
       - [Table 2](#table-2-50)
       - [Table 3](#table-3-50)
-    - [South East Asian Forenames / Given Names](#south-east-asian-forenames-given-names)
+    - [Persian Forenames / Given Names](#persian-forenames-given-names)
       - [Table 1](#table-1-51)
       - [Table 2](#table-2-51)
       - [Table 3](#table-3-51)
-    - [South East Asian Surnames / Family Names](#south-east-asian-surnames-family-names)
+    - [Persian Surnames / Family Names](#persian-surnames-family-names)
       - [Table 1](#table-1-52)
       - [Table 2](#table-2-52)
       - [Table 3](#table-3-52)
-    - [Spanish Forenames / Given Names](#spanish-forenames-given-names)
+    - [Polish Forenames / Given Names](#polish-forenames-given-names)
       - [Table 1](#table-1-53)
       - [Table 2](#table-2-53)
       - [Table 3](#table-3-53)
-    - [Spanish Surnames / Family Names](#spanish-surnames-family-names)
+    - [Polish Surnames / Family Names](#polish-surnames-family-names)
       - [Table 1](#table-1-54)
       - [Table 2](#table-2-54)
       - [Table 3](#table-3-54)
-    - [Welsh Forenames / Given Names](#welsh-forenames-given-names)
+    - [Russian Forenames / Given Names](#russian-forenames-given-names)
       - [Table 1](#table-1-55)
       - [Table 2](#table-2-55)
       - [Table 3](#table-3-55)
-    - [Welsh Surnames / Family Names](#welsh-surnames-family-names)
+    - [Russian Surnames / Family Names](#russian-surnames-family-names)
       - [Table 1](#table-1-56)
       - [Table 2](#table-2-56)
       - [Table 3](#table-3-56)
-    - [West African Forenames / Given Names](#west-african-forenames-given-names)
+    - [Scandinavian Forenames / Given Names](#scandinavian-forenames-given-names)
       - [Table 1](#table-1-57)
       - [Table 2](#table-2-57)
       - [Table 3](#table-3-57)
-    - [West African Surnames / Family Names](#west-african-surnames-family-names)
+    - [Scandinavian Surnames / Family Names](#scandinavian-surnames-family-names)
       - [Table 1](#table-1-58)
       - [Table 2](#table-2-58)
       - [Table 3](#table-3-58)
+    - [Scottish Forenames / Given Names](#scottish-forenames-given-names)
+      - [Table 1](#table-1-59)
+      - [Table 2](#table-2-59)
+      - [Table 3](#table-3-59)
+    - [Scottish Surnames / Family Names](#scottish-surnames-family-names)
+      - [Table 1](#table-1-60)
+      - [Table 2](#table-2-60)
+      - [Table 3](#table-3-60)
+    - [South African Forenames / Given Names](#south-african-forenames-given-names)
+      - [Table 1](#table-1-61)
+      - [Table 2](#table-2-61)
+      - [Table 3](#table-3-61)
+    - [South African Surnames / Family Names](#south-african-surnames-family-names)
+      - [Table 1](#table-1-62)
+      - [Table 2](#table-2-62)
+      - [Table 3](#table-3-62)
+    - [South Asian Forenames / Given Names](#south-asian-forenames-given-names)
+      - [Table 1](#table-1-63)
+      - [Table 2](#table-2-63)
+      - [Table 3](#table-3-63)
+    - [South Asian Surnames / Family Names](#south-asian-surnames-family-names)
+      - [Table 1](#table-1-64)
+      - [Table 2](#table-2-64)
+      - [Table 3](#table-3-64)
+    - [South East Asian Forenames / Given Names](#south-east-asian-forenames-given-names)
+      - [Table 1](#table-1-65)
+      - [Table 2](#table-2-65)
+      - [Table 3](#table-3-65)
+    - [South East Asian Surnames / Family Names](#south-east-asian-surnames-family-names)
+      - [Table 1](#table-1-66)
+      - [Table 2](#table-2-66)
+      - [Table 3](#table-3-66)
+    - [Spanish Forenames / Given Names](#spanish-forenames-given-names)
+      - [Table 1](#table-1-67)
+      - [Table 2](#table-2-67)
+      - [Table 3](#table-3-67)
+    - [Spanish Surnames / Family Names](#spanish-surnames-family-names)
+      - [Table 1](#table-1-68)
+      - [Table 2](#table-2-68)
+      - [Table 3](#table-3-68)
+    - [Turkish Forenames / Given Names](#turkish-forenames-given-names)
+      - [Table 1](#table-1-69)
+      - [Table 2](#table-2-69)
+      - [Table 3](#table-3-69)
+    - [Turkish Surnames / Family Names](#turkish-surnames-family-names)
+      - [Table 1](#table-1-70)
+      - [Table 2](#table-2-70)
+      - [Table 3](#table-3-70)
+    - [Welsh Forenames / Given Names](#welsh-forenames-given-names)
+      - [Table 1](#table-1-71)
+      - [Table 2](#table-2-71)
+      - [Table 3](#table-3-71)
+    - [Welsh Surnames / Family Names](#welsh-surnames-family-names)
+      - [Table 1](#table-1-72)
+      - [Table 2](#table-2-72)
+      - [Table 3](#table-3-72)
+    - [West African Forenames / Given Names](#west-african-forenames-given-names)
+      - [Table 1](#table-1-73)
+      - [Table 2](#table-2-73)
+      - [Table 3](#table-3-73)
+    - [West African Surnames / Family Names](#west-african-surnames-family-names)
+      - [Table 1](#table-1-74)
+      - [Table 2](#table-2-74)
+      - [Table 3](#table-3-74)
 
 ## Core Rules
 
@@ -1082,12 +1125,160 @@ Roll **1d6** for row and **1d6** for column to select your name theme.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Brazilian | Central Asian | Chinese | Dutch | East African | English |
-| 2 | French | German | Indian | Irish | Italian | Japanese |
-| 3 | Korean | Middle Eastern | Nicknames | North African | North American (Modern) | Oceania (Polynesian, Melanesian, & Micronesian) |
-| 4 | Polish | Pulp Names | Russian | Scandinavian | Scottish | South African |
-| 5 | South East Asian | Spanish | Welsh | West African | - | - |
-| 6 | - | - | - | - | - | - |
+| 1 | Arabic | Balkan | Brazilian | Central Asian | Chinese | Contemporary North American |
+| 2 | Dutch | East African | English | French | German | Greek |
+| 3 | Indian | Irish | Italian | Japanese | Jewish | Korean |
+| 4 | Latin American | Native American (Arctic, Subarctic, and Woodland Regions) | Native American (Plains, Southwest, and Southeastern Regions) | Nicknames | North African | Oceanian |
+| 5 | Persian | Polish | Russian | Scandinavian | Scottish | South African |
+| 6 | South Asian | South East Asian | Spanish | Turkish | Welsh | West African |
+
+### Arabic Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ahmed | Aisha | Ali | Amal | Amir | Amira |
+| 2 | Anisa | Asma | Aya | Aziza | Bassem | Bilal |
+| 3 | Dalal | Dina | Eman | Fadi | Faisal | Farah |
+| 4 | Farid | Fatima | Habib | Habiba | Hadi | Hala |
+| 5 | Hamza | Hanadi | Hanan | Hassan | Haya | Hind |
+| 6 | Hisham | Hoda | Hussein | Ibrahim | Idris | Imad |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Iman | Inas | Ismail | Jaafar | Jala | Jalal |
+| 2 | Jamal | Jamila | Jana | Jawad | Kamal | Karim |
+| 3 | Khadija | Khaled | Laila | Lamia | Lina | Maha |
+| 4 | Mahdi | Mahmoud | Mais | Majid | Malak | Malek |
+| 5 | Mansour | Mariam | Marwan | Mazen | Mohammed | Mona |
+| 6 | Mounir | Moussa | Mustafa | Nabil | Nader | Nadia |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Nadira | Naji | Najwa | Naseem | Nasser | Nizar |
+| 2 | Noura | Omar | Osama | Qasim | Raed | Rafik |
+| 3 | Rami | Ramzi | Rana | Rania | Rashid | Reem |
+| 4 | Riad | Saad | Saeed | Salah | Salim | Salma |
+| 5 | Sami | Samir | Samira | Sara | Tarek | Walid |
+| 6 | Yara | Yasin | Youssef | Zaid | Zainab | Ziad |
+
+### Arabic Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abadi | Abbas | Abdallah | Abid | Adnan | Afifi |
+| 2 | Ahmad | Al-Amin | Al-Fayed | Al-Ghazali | Al-Hakim | Al-Khatib |
+| 3 | Al-Masri | Al-Rashid | Al-Saud | Al-Zahrani | Amari | Amin |
+| 4 | Asaf | Atiyeh | Ayyad | Azar | Aziz | Badawi |
+| 5 | Bakir | Barakat | Basha | Baz | Bazzi | Bishara |
+| 6 | Daher | Darwish | Doud | Eid | Fadel | Fahmi |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Faisal | Farah | Faraj | Faris | Farroukh | Fawzi |
+| 2 | Gaber | Gaddafi | Galal | Ganim | Habibi | Haddad |
+| 3 | Hadi | Hafeez | Hajjar | Hakim | Hamad | Hamdan |
+| 4 | Hamidi | Hammoud | Hanania | Hariri | Hashemi | Hassan |
+| 5 | Hatem | Hijazi | Hussein | Idris | Ismail | Jaber |
+| 6 | Jalil | Jamal | Jammal | Jarrah | Kaba | Kader |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kadir | Kanaan | Karam | Kaseem | Kassab | Kattan |
+| 2 | Khalaf | Khalid | Khalifa | Khalil | Khouri | Khoury |
+| 3 | Laban | Madi | Mahfouz | Mahmoud | Majid | Malik |
+| 4 | Mansour | Mroue | Musa | Mustafa | Nader | Nagi |
+| 5 | Nahas | Najjar | Nasr | Nassar | Nasser | Qasim |
+| 6 | Sabbagh | Sader | Said | Saleh | Salem | Saliba |
+
+### Balkan Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Agapi | Aleksandar | Alin | Anastasios | Andrei | Basileios |
+| 2 | Biserka | Bogdan | Borislav | Boyan | Branislav | Cezar |
+| 3 | Christos | Constantin | Cosmin | Cvijeta | Dalibor | Danica |
+| 4 | Dejan | Desislava | Dimitrios | Dinu | Dionysios | Doina |
+| 5 | Dragan | Dusan | Elena | Emilian | Evangelos | Florin |
+| 6 | Fotios | Frosina | Gabriel | Georgios | Gheorghe | Goran |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gordana | Grigorios | Haris | Horatiu | Hristina | Hristo |
+| 2 | Ilias | Ioannis | Iskra | Iulian | Jelena | Kalina |
+| 3 | Katarina | Kyriakos | Leonidas | Lidija | Ljudmila | Lucian |
+| 4 | Luminita | Lyubomir | Marius | Mihai | Milan | Milica |
+| 5 | Milos | Miltiadis | Nadezhda | Nektarios | Nenad | Nevena |
+| 6 | Nikola | Nikolaos | Odysseas | Olgica | Ovidiu | Panagiotis |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Petra | Petre | Predrag | Rada | Radmila | Radovan |
+| 2 | Radu | Raluca | Sergiu | Slobodan | Snezana | Sorin |
+| 3 | Sorina | Spyridon | Stefan | Svetoslav | Teodor | Theodoros |
+| 4 | Tijana | Tomislav | Traian | Uros | Valeriu | Vasileios |
+| 5 | Vesna | Violeta | Viorel | Vladan | Vladimir | Xenophon |
+| 6 | Yorgos | Zeljko | Zeno | Zlatina | Zoran | Zorka |
+
+### Balkan Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Andrei | Angelov | Antic | Arsic | Atanasov | Babic |
+| 2 | Barbu | Bozhilov | Bozic | Brankovic | Cojocaru | Constantin |
+| 3 | Cosic | Cvetkovic | Dakic | Diaconu | Dimitriu | Dimitrov |
+| 4 | Dincic | Djordjevic | Dobre | Dragic | Dumitru | Economou |
+| 5 | Enache | Ergic | Filipovic | Florea | Gajic | Galanis |
+| 6 | Georgiev | Gheorghe | Gligoric | Grbic | Hadzi | Hristov |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ilic | Iliev | Ionescu | Ivanov | Ivic | Janic |
+| 2 | Jovanovic | Jovic | Karalis | Katic | Knezevic | Kolev |
+| 3 | Kostic | Krtic | Lazarevic | Lekkas | Lukic | Lupu |
+| 4 | Makris | Maris | Markovic | Matei | Micic | Mihalcea |
+| 5 | Milic | Mladenov | Munteanu | Nenadic | Nesic | Nikolov |
+| 6 | Nistor | Obradovic | Oric | Ostojic | Panagos | Pantic |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Papadopoulos | Pappas | Pavlovic | Penev | Peric | Petrov |
+| 2 | Popa | Popovic | Radu | Rallis | Ristic | Saric |
+| 3 | Sarris | Savic | Savu | Simic | Stan | Stanev |
+| 4 | Stoian | Stoica | Stoyanov | Tasic | Terzic | Todic |
+| 5 | Toma | Tomov | Tsakas | Urosevic | Vasic | Vasilev |
+| 6 | Vesic | Vlahos | Vukovic | Yanev | Zervas | Zivkovic |
 
 ### Brazilian Forenames / Given Names
 
@@ -1310,6 +1501,80 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 4 | Yan | Yang | Yao | Ye | Yi | Yin |
 | 5 | Yu | Yuan | Yuchi | Zeng | Zhang | Zhao |
 | 6 | Zheng | Zhong | Zhou | Zhu | Zhuge | Zou |
+
+### Contemporary North American Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aaron | Abigail | Adrian | Aiden | Alice | Amelia |
+| 2 | Anthony | Aria | Asher | Aurora | Ava | Avery |
+| 3 | Bella | Benjamin | Brooks | Caleb | Camila | Charles |
+| 4 | Charlotte | Chloe | Christian | Christopher | Cooper | Delilah |
+| 5 | Dylan | Eleanor | Elena | Elias | Elijah | Elizabeth |
+| 6 | Ellie | Emilia | Emily | Emma | Ethan | Evelyn |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Everly | Ezra | Gabriel | Genesis | Gianna | Grayson |
+| 2 | Hannah | Harper | Hazel | Henry | Hudson | Hunter |
+| 3 | Isaac | Isabella | Isaiah | Ivy | Jack | Jackson |
+| 4 | James | John | Josiah | Julian | Juliette | Kennedy |
+| 5 | Layla | Leilani | Leo | Levi | Liam | Lily |
+| 6 | Lincoln | Logan | Luca | Lucas | Luke | Luna |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Madison | Mason | Mateo | Maverick | Maya | Mia |
+| 2 | Micah | Mila | Miles | Naomi | Nathan | Noah |
+| 3 | Nora | Nova | Oliver | Olivia | Owen | Paisley |
+| 4 | Penelope | Quinn | Riley | Samuel | Scarlett | Sebastian |
+| 5 | Serenity | Skylar | Sofia | Sophia | Stella | Theodore |
+| 6 | Thomas | Violet | William | Willow | Wyatt | Zoe |
+
+### Contemporary North American Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adams | Allen | Alvarez | Anderson | Bailey | Baker |
+| 2 | Barnes | Bennett | Brooks | Brown | Campbell | Carter |
+| 3 | Castillo | Chavez | Clark | Coleman | Collins | Cook |
+| 4 | Cooper | Cox | Cruz | Davis | Diaz | Edwards |
+| 5 | Evans | Flores | Foster | Garcia | Gomez | Gonzalez |
+| 6 | Gray | Green | Griffin | Gutierrez | Hall | Harris |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hernandez | Hill | Howard | Hughes | Jackson | James |
+| 2 | Jenkins | Jimenez | Johnson | Jones | Kelly | Kim |
+| 3 | King | Lee | Lewis | Long | Lopez | Martin |
+| 4 | Martinez | Mendoza | Miller | Mitchell | Moore | Morales |
+| 5 | Morgan | Morris | Murphy | Myers | Nelson | Nguyen |
+| 6 | Ortiz | Parker | Patel | Perez | Perry | Peterson |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Phillips | Powell | Price | Ramirez | Ramos | Reed |
+| 2 | Reyes | Richardson | Rivera | Roberts | Robinson | Rodriguez |
+| 3 | Rogers | Ross | Ruiz | Russell | Sanchez | Sanders |
+| 4 | Scott | Smith | Stewart | Sullivan | Taylor | Thomas |
+| 5 | Thompson | Torres | Turner | Walker | Ward | Watson |
+| 6 | White | Williams | Wilson | Wood | Wright | Young |
 
 ### Dutch Forenames / Given Names
 
@@ -1681,6 +1946,80 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Walter | Weber | Weiss | Werner | Winkler | Winter |
 | 6 | Wolf | Wolff | Woll | Ziegler | Zimmer | Zimmermann |
 
+### Greek Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Achilleas | Adonis | Agamemnon | Aikaterini | Alexandra | Alexandros |
+| 2 | Alkibiades | Anastasia | Andreas | Angeliki | Anna | Antigoni |
+| 3 | Antonios | Aris | Aristotelis | Artemis | Aspasia | Athanasios |
+| 4 | Athena | Calliope | Christos | Chrysanthi | Constantinos | Damian |
+| 5 | Demosthenes | Despina | Dimitra | Dimitrios | Diomedes | Dionysios |
+| 6 | Efrosini | Eleftheria | Eleftherios | Eleni | Elias | Elisavet |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Epameinondas | Euripides | Evangelos | Evanthia | Georgia | Georgios |
+| 2 | Gerasimos | Hector | Herakles | Hippokratis | Iason | Ikaros |
+| 3 | Ioannnis | Iphigeneia | Irini | Ismini | Kallirrhoe | Kassandra |
+| 4 | Katerina | Konstantinos | Kyriaki | Kyriakos | Lazaros | Leonidas |
+| 5 | Linus | Maria | Marina | Markos | Melpomeni | Michail |
+| 6 | Miltiadis | Nestor | Niki | Nikolaos | Odysseas | Orpheus |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ourania | Panagiota | Panagiotis | Paraskevi | Pavlos | Penelope |
+| 2 | Periklis | Petros | Philo | Platon | Polyxeni | Sokratis |
+| 3 | Sophia | Sophoklis | Spiros | Spyidoula | Spyridon | Stamatia |
+| 4 | Stavros | Stavroula | Stefanos | Thanos | Themistoklis | Theodora |
+| 5 | Theodoros | Thrasyvoulos | Timon | Titos | Vasiliki | Vasilios |
+| 6 | Viron | Xanthippi | Xenophon | Yianni | Zeno | Zoe |
+
+### Greek Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Alexopoulos | Andreadis | Angelicoussis | Angelopoulos | Antonopoulos | Athanasiou |
+| 2 | Bakoyannis | Cavafy | Christodoulou | Chytiris | Demetriou | Diamantidis |
+| 3 | Dimitriadis | Doxiadis | Dragoumis | Elytis | Evert | Fasianos |
+| 4 | Frangou | Galanis | Georgiou | Giannopoulos | Hadjidakis | Hadjiloukas |
+| 5 | Ioannidis | Kalas | Kalligas | Kalogeropoulos | Kapsis | Karagiannis |
+| 6 | Karamanlis | Katsaros | Kazantzakis | Kontogiannis | Koraes | Korais |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Koundouriotis | Kounellis | Kritikos | Kyriakidis | Lampakis | Lanthimos |
+| 2 | Laskaris | Latsis | Lazaridis | Livanos | Makris | Manolakis |
+| 3 | Manos | Markopoulos | Martinos | Mavromichalis | Mercouri | Metaxas |
+| 4 | Michailidis | Mitsotakis | Mylonas | Mytaras | Niarchos | Nikolaidis |
+| 5 | Oikonomou | Onassis | Panagiotopoulos | Papadopoulos | Papageorgiou | Papamichael |
+| 6 | Papandreou | Papantoniou | Papathanassiou | Pappas | Pavlopoulos | Paxinou |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Petridis | Pikionis | Politis | Prokopiou | Psycharis | Rallis |
+| 2 | Ritsos | Sakellaropoulou | Samaras | Sartzetakis | Sathas | Seferis |
+| 3 | Sidiropoulos | Simitis | Solomos | Sotiriou | Stavropoulos | Stefanidis |
+| 4 | Stephanopoulos | Theodorakis | Triantafyllidis | Trikoupis | Tsatsos | Tsipras |
+| 5 | Tsoclis | Vangelis | Vardinogiannis | Varotsos | Vasilakis | Venizelos |
+| 6 | Voulgaris | Xenakis | Yanni | Zaimis | Zervas | Zongolopoulos |
+
 ### Indian Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
@@ -1977,6 +2316,80 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Uchida | Ueda | Ueno | Wada | Watanabe | Yamada |
 | 6 | Yamaguchi | Yamamoto | Yamashita | Yamazaki | Yokoyama | Yoshida |
 
+### Jewish Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adina | Aharon | Amit | Ari | Aviad | Avital |
+| 2 | Avram | Baruch | Basya | Batya | Benny | Binyamin |
+| 3 | Boaz | Bracha | Chaim | Chana | Cobi | Dafna |
+| 4 | Dan | Devorah | Doron | Dov | Einat | Elazar |
+| 5 | Eliora | Ephraim | Erez | Esther | Faige | Felix |
+| 6 | Fishel | Gadi | Galit | Gedalia | Gershon | Golda |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Hadassah | Hanoch | Herschel | Hila | Idit | Inbar |
+| 2 | Isaac | Itai | Itamar | Jacob | Jaron | Judith |
+| 3 | Kalman | Keila | Keren | Koby | Lazer | Leah |
+| 4 | Liat | Lior | Malka | Matan | Maya | Meir |
+| 5 | Mendel | Miriam | Nachman | Naomi | Niv | Noam |
+| 6 | Noga | Omri | Orah | Orly | Ovadia | Pazit |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Peleg | Pinchas | Pnina | Rachamim | Ran | Reuven |
+| 2 | Rivka | Roni | Sagi | Sarah | Shira | Shmuel |
+| 3 | Shoshana | Tal | Talia | Tamar | Tova | Tuvia |
+| 4 | Tziporah | Uri | Uriel | Urit | Vadim | Velvel |
+| 5 | Vered | Yaara | Yael | Yaniv | Yehuda | Yisrael |
+| 6 | Yocheved | Yonatan | Zev | Zissel | Ziva | Zohar |
+
+### Jewish Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abramov | Adler | Altman | Amsel | Auerbach | Balsam |
+| 2 | Bar-Lev | Bayer | Ben-Zvi | Berkowitz | Bernstein | Blau |
+| 3 | Chait | Chazan | Chernoff | Cohen | Cohn | Danziger |
+| 4 | Dayan | Dorfman | Drimmer | Edelman | Ehrlich | Eisenberg |
+| 5 | Engel | Eshkol | Feinstein | Feldman | Fisch | Fishman |
+| 6 | Frankel | Friedman | Geller | Ginsberg | Glass | Goldstein |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gottlieb | Gur | Harel | Hecht | Heller | Hirsch |
+| 2 | Hoffman | Horowitz | Ilan | Isser | Itzkowitz | Jacobs |
+| 3 | Jaffe | Kadosh | Kaplan | Katz | Klein | Kramer |
+| 4 | Landau | Lavi | Lerner | Levin | Levy | Lieberman |
+| 5 | Maor | Marcus | Margolis | Mayer | Mendel | Mizrahi |
+| 6 | Nadel | Netanyahu | Neuman | Nussbaum | Oppenheim | Oren |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ostrow | Peled | Perlman | Pincus | Polak | Rabinowitz |
+| 2 | Ramon | Reiss | Rosenberg | Roth | Sadeh | Schwartz |
+| 3 | Seltzer | Shapiro | Steinberg | Stern | Tal | Tashman |
+| 4 | Teitelbaum | Tisch | Ullman | Ungar | Uzi | Vardi |
+| 5 | Victor | Vogel | Wallach | Weinberg | Weiss | Wolff |
+| 6 | Yadin | Zeigler | Zilberman | Ziskin | Ziv | Zuckerman |
+
 ### Korean Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
@@ -2051,7 +2464,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Wi | Won | Woo | Yang | Yeo | Yeom |
 | 6 | Yeon | Yim | Yoo | Yoon | Yu | Yuk |
 
-### Middle Eastern Forenames / Given Names
+### Latin American Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -2059,36 +2472,36 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Abdullah | Abeer | Adam | Adel | Ahmed | Ali |
-| 2 | Amir | Amira | Anas | Ayesha | Bashir | Basma |
-| 3 | Bassem | Bilal | Dina | Doaa | Ehab | Fadi |
-| 4 | Faisal | Farah | Faris | Fatima | Ghada | Ghassan |
-| 5 | Hadi | Hala | Hamza | Hassan | Hazem | Heidi |
-| 6 | Hoda | Hussein | Ibrahim | Iman | Inas | Issam |
+| 1 | Aitana | Alvaro | Ambar | Anibal | Bautista | Belén |
+| 2 | Bolivar | Braulio | Brenda | Camilo | Catalina | Cielo |
+| 3 | Claudio | Dalia | Dalila | Dante | Darío | Dora |
+| 4 | Efraín | Elisa | Emiliano | Esmeralda | Estefania | Fabricio |
+| 5 | Facundo | Fausto | Fiorella | Flavio | Frida | German |
+| 6 | Gilda | Gisela | Guadalupe | Guido | Helena | Hernán |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Jalal | Jinan | Jumana | Kamal | Karim | Kenza |
-| 2 | Khadija | Khaled | Laila | Lamia | Lana | Latif |
-| 3 | Latifa | Lubna | Magdy | Maha | Mahmoud | Malik |
-| 4 | Maram | Mariam | Marwa | Maya | Mona | Mounira |
-| 5 | Muhammad | Munir | Mustafa | Nabil | Nadia | Najwa |
-| 6 | Nasir | Nisreen | Noha | Noor | Noura | Ola |
+| 1 | Hortensia | Hugo | Iker | Inés | Iraida | Ismael |
+| 2 | Itzel | Ivonne | Jacqueline | Joaquin | Jovanny | Juana |
+| 3 | Julián | Karina | Katia | Keylor | Lautaro | Leonel |
+| 4 | Liliana | Lisandro | Lola | Luciana | Maite | Marisol |
+| 5 | Matías | Mauricio | Milagros | Nayeli | Néstor | Nicanor |
+| 6 | Noemi | Nuria | Ofelia | Olivia | Omar | Osvaldo |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Omar | Osama | Radwa | Rafik | Ramzi | Rania |
-| 2 | Rasha | Rawan | Rayan | Reem | Sabah | Saeed |
-| 3 | Sahar | Salma | Sami | Samir | Sara | Sherif |
-| 4 | Sherine | Tala | Tamer | Tariq | Thana | Wael |
-| 5 | Wafa | Walid | Yahya | Yara | Yasmin | Yehia |
-| 6 | Youssef | Zahra | Zaid | Zainab | Zeina | Ziad |
+| 1 | Paola | Pascual | Patricio | Quetzal | Quintín | Ramiro |
+| 2 | Rebeca | Renato | Rigoberto | Rocio | Rodolfo | Saul |
+| 3 | Silvio | Susana | Tadeo | Tatiana | Thalia | Thiago |
+| 4 | Ulises | Uriel | Valentin | Vicente | Viodelda | Walter |
+| 5 | Wanda | Wilmer | Xavier | Ximena | Xiomara | Yahir |
+| 6 | Yamileth | Yara | Yeray | Yolanda | Zacarías | Zulma |
 
-### Middle Eastern Surnames / Family Names
+### Latin American Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -2096,236 +2509,219 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Abbas | Abdullah | Ahmad | Al-Farsi | Al-Khalifa | Al-Nahyan |
-| 2 | Al-Sabah | Al-Saud | Al-Sayed | Al-Thani | Ali | Alwan |
-| 3 | Amin | Asfour | Atiyeh | Azar | Badawi | Bakir |
-| 4 | Barakat | Bishara | Dagher | Daher | Darwish | Ebeid |
-| 5 | Fadel | Fahmy | Farah | Faraj | Fawzi | Gaber |
-| 6 | Ghanem | Habib | Haddad | Hamad | Hamdan | Hammoud |
+| 1 | Aguerre | Altamirano | Alzaga | Anchorena | Angulo | Arboleda |
+| 2 | Arias | Arosemena | Barrientos | Belaunde | Bermudez | Betancourt |
+| 3 | Bidegain | Bunge | Bustamante | Caballero | Caicedo | Calle |
+| 4 | Castañeda | Chirinos | Choque | Cisneros | Condori | Denegri |
+| 5 | Duhau | Echeverry | Escalante | Estupiñan | Etcheverry | Fajardo |
+| 6 | Ferrero | Gamarra | Garzon | Guevara | Guzman | Hincapie |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Hanania | Harb | Hariri | Hashem | Hassan | Hijazi |
-| 2 | Hussein | Ibrahim | Idris | Issa | Jaber | Jalil |
-| 3 | Jamil | Karam | Kassis | Khalil | Khater | Khoury |
-| 4 | Lotfy | Maalouf | Madi | Mahmoud | Majid | Malki |
-| 5 | Mansour | Masri | Mubarak | Musa | Mustafa | Nader |
-| 6 | Najjar | Naser | Nassif | Qasim | Radi | Ragab |
+| 1 | Holguin | Huaman | Icaza | Iriarte | Laguardia | Landa |
+| 2 | Lanusse | Larreta | Lascano | Llosa | Londoño | Lozada |
+| 3 | Maldonado | Mamani | Mariategui | Miro | Mitre | Montenegro |
+| 4 | Montoya | Mora | Noriega | Novoa | Oquendo | Osorio |
+| 5 | Ospina | Otegui | Palacios | Pardo | Paredes | Peñaherrera |
+| 6 | Pezet | Pinto | Portillo | Prado | Pueyrredon | Quispe |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Rahman | Rashed | Saad | Saba | Sadek | Said |
-| 2 | Salam | Saleh | Salim | Salman | Samara | Sarkis |
-| 3 | Sayegh | Shaban | Shami | Sharif | Shihab | Sleiman |
-| 4 | Sultan | Tahan | Taleb | Tamimi | Touma | Uthman |
-| 5 | Waked | Yaghi | Yassin | Yazji | Younis | Zaid |
-| 6 | Zaki | Zarour | Zeid | Ziad | Zogby | Zuaiter |
+| 1 | Restrepo | Revilla | Ricaurte | Rivadeneira | Romaña | Rospigliosi |
+| 2 | Saguier | Saldaña | Saravia | Sarmiento | Teran | Tola |
+| 3 | Trujillo | Ugalde | Ugarteche | Ureta | Uriburu | Urrutia |
+| 4 | Valderrama | Valencia | Vallarino | Vallejo | Velasco | Villagra |
+| 5 | Villarreal | Viteri | Vizcarra | Yepes | Yupanqui | Zabala |
+| 6 | Zalles | Zambrano | Zarate | Zeledon | Zuberbuhler | Zuluaga |
+
+### Native American (Arctic, Subarctic, and Woodland Regions) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aki | Akiwenzii | Alowan | Anahareo | Animikii | Aput |
+| 2 | Atuat | Autumn | Awan | Billy-Ray | Bina | Buffy |
+| 3 | Carey | Cherie | Chi-Miigwetch | Dibaajimowin | Don | Drew |
+| 4 | Eden | Elijah | Enola | Eva | Ezhichigeyan | Floyd |
+| 5 | Giizis | Gord | Graham | Gregory | Hanna | Hiawatha |
+| 6 | Ian | Inini | Inuapik | Jiigbiig | Jocelyn | Jordan |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kallik | Kateri | Kele | Kent | Kinoomaage | Lee |
+| 2 | Libis | Lorne | Ma-Nee | Makwa | Mary | Migizi |
+| 3 | Miki | Mina | Mino-bimaadiziwin | Miskwaadesi | Nadine | Nanook |
+| 4 | Nellie | Nibi | Niigaan | Nivi | Nodinens | Nokomis |
+| 5 | Onatah | Orene | Oshki | Oshkosh | Ovide | Pamela |
+| 6 | Panik | Paul | Phil | Pimipahtaw | Pizhiw | Pukak |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Quaasag | Quinn | Richard | Roberta | Saba | Sahale |
+| 2 | Sheila | Sherman | Siku | Stan | Tanya | Tekahionwake |
+| 3 | Thayendanegea | Tigigig | Tina | Tomson | Tulok | Umiak |
+| 4 | Ursula | Vernon | Waaban | Waaseyaa | Wab | Waban |
+| 5 | Waubgeshig | Wawatay | Wematin | Wes | Winona | Wovoka |
+| 6 | Xavier | Yvonne | Zaltana | Zebedee | Zitkala | Zoe |
+
+### Native American (Arctic, Subarctic, and Woodland Regions) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adams | Ahenakew | Akiwenzie | Alexie | Alfred | Alook |
+| 2 | Anawak | Angalik | Atleo | Barsh | Bastien | Battiste |
+| 3 | Bear | Belcourt | Bellegarde | Bonnin | Borrows | Brant |
+| 4 | Calliou | Campbell | Cardinal | Chartier | Cook | Corbiere |
+| 5 | Coulthard | Cusick | Daniels | Deer | Dumont | Eastman |
+| 6 | Erasmus | Erdrich | Farmer | Fiddler | Fontaine | Garry |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Goodleaf | Gunn | Henderson | Hill | Horn | Houle |
+| 2 | Ittinuar | Jacobs | Jamieson | Kakegamic | Kermoal | Kimmerer |
+| 3 | King | Knight | Kuptana | LaFlesche | Laframboise | Legare |
+| 4 | Littlechild | Longboat | Lyons | Macdougall | Manuel | Maracle |
+| 5 | McIvor | Merasty | Monague | Monture | Morin | Napoleon |
+| 6 | Norquay | Norton | O'Bonsawin | Obomsawin | Okpik | Palmater |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Peltier | Picard | Poitras | Porter | Poudrier | Prefontaine |
+| 2 | Racette | Rice | Ross | Sayer | Scofield | Shenandoah |
+| 3 | Simpson | Sinclair | Sioui | Skenandore | Smoke | Stacey |
+| 4 | Starblanket | Tait | TallBear | Teillet | Tobias | Tootoosis |
+| 5 | Treuer | Turpel | Two-Axe | Vandal | Venne | Vowel |
+| 6 | Watt-Cloutier | Watts | Whitford | Williams | Young | Zoccole |
+
+### Native American (Plains, Southwest, and Southeastern Regions) Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adahy | Adsila | Ahanu | Aiyana | Aka | Atohi |
+| 2 | Ayita | Bidziil | Bly | Chenoa | Chimalis | Chu'mana |
+| 3 | Cochise | Deganawida | Doli | Dyani | Elisi | Elu |
+| 4 | Enoli | Etenia | Gaho | Galilahi | Geronimo | Halona |
+| 5 | Honovi | Hototo | Imala | Inola | Istas | Jaci |
+| 6 | Kai | Kangee | Kaya | Kineks | Knoton | Koko |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Lallo | Liwanu | Lomasi | Lozen | Lulu | Mahkah |
+| 2 | Makya | Mansi | Maska | Massasoit | Matoaka | Metacomet |
+| 3 | Migina | Misu | Muna | Nahvee | Nakos | Nanyehi |
+| 4 | Nayati | Nita | Nova | Nuna | Odina | Ohanzee |
+| 5 | Olathe | Opa | Otaktay | Paco | Pati | Pavati |
+| 6 | Paytah | Pitalesharo | Pocahontas | Pola | Powhatan | Quahneah |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Quanah | Rayen | Sacagawea | Salali | Samoset | Sani |
+| 2 | Sequoyah | Sihu | Siwili | Sora | Taini | Takhi |
+| 3 | Takoda | Tala | Tallulah | Tashunke | Tecumseh | Tiva |
+| 4 | Tohon | Tyee | Una | Uncas | Utina | Viho |
+| 5 | Wachiwi | Wahkan | Weetamoo | Winona | Wunzh | Wyanet |
+| 6 | Yamka | Yansa | Yepa | Yuma | Zihna | Zusa |
+
+### Native American (Plains, Southwest, and Southeastern Regions) Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Adair | Afraid of Bear | American Horse | Anquoe | Atcitty | Bad Wound |
+| 2 | Begay | Benally | Bighorse | Birdchopper | Bitsui | Black Kettle |
+| 3 | Blackbear | Bluebird | Boudinot | Broken Leg | Bushyhead | Chee |
+| 4 | Chiquito | Christie | Claw | Cloud Shield | Colbert | Crazy Horse |
+| 5 | Deer-in-Water | Denetclaw | Deschene | Downing | Durant | Eagle Speaker |
+| 6 | Etsitty | Fast Horse | Folsom | Gall | Ghost Bear | Girty |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gishie | Going-Snake | Good Strike | Haswood | Hicks | High Elk |
+| 2 | Horse | Hosteen | Iron Cloud | Iron Shell | Kady | Kills Night |
+| 3 | Lame Deer | Largo | LeFlore | Left Hand | Little Bear | Little Crow |
+| 4 | Little Sky | Little Wound | Lone Wolf | Looking Horse | Lowery | Mankiller |
+| 5 | Manualito | Manygoats | McCurtain | Means | Medicine Crow | Nez |
+| 6 | Peshlakai | Picketpin | Pitchlynn | Plenty Hoops | Rain in the Face | Red Cloud |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Red Elk | Red Horn | Ridge | Roanhorse | Roman Nose | Ross |
+| 2 | Running Wolf | Short Bull | Sixkiller | Spotted Tail | Standing Bear | Starr |
+| 3 | Tailfeathers | Tapahe | Thunder Hawk | Todacheene | Touch the Clouds | Tsinigine |
+| 4 | Tso | Tsosie | Two Bulls | Vann | Waite | Walkingstick |
+| 5 | Watie | White Bull | White Calf | White Plume | Whitehorse | Whiteman |
+| 6 | Whitethorne | Yazzie | Yellow Bird | Yellow Boy | Yellowhair | Zah |
 
 ### Nicknames Names
 
-Roll **1d18** for table, **1d6** for row, and **1d6** for column.
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 #### Table 1
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Ace | Actual | Aegis | Alpha | Amber | Amethyst |
-| 2 | Anchor | Anvil | Apex | Arc | Artifact | Ash |
-| 3 | Astray | Avalanche | Avenger | Axle | Ballistic | BamBam |
-| 4 | Bandit | Banshee | Baron | Barrel | Basecamp | Bash |
-| 5 | Basin | Bastion | Beam | Beatdown | Bedrock | Biggs |
-| 6 | Binary | Bingo | Biscuit | Bit | Black | Blade |
+| 1 | Ace | BamBam | Biggs | Bingo | Biscuit | Blip |
+| 2 | Bonehead | Bones | Bubbles | Bubs | Buddy | Bumper |
+| 3 | Caboose | Cakewalk | Cash | Cashew | Caveman | Cheerio |
+| 4 | Chops | Chowder | Chuckles | Chunk | Codger | Combover |
+| 5 | Comedian | Comic | Cook | Curly | Dancer | Deejay |
+| 6 | Deuce | Dinker | Dipstick | Dirtbag | Dirtnap | Doc |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Blank | Blaze | Blip | Blitz | Block | Bloodshot |
-| 2 | Bloom | Blue | Blunt | Bolt | Bonehead | Bones |
-| 3 | Bonfire | Book | Boomer | Boomstick | Bore | Bound |
-| 4 | Brass | Bravo | Breach | Breaker | Breeze | Brick |
-| 5 | Bridge | Brink | Brisk | Bronze | Brute | Bubbles |
-| 6 | Buckle | Buckshot | Buddy | Buffer | Bullet | Bullseye |
+| 1 | Dummy | Earl | Fidget | Fumbles | Gator | Giggles |
+| 2 | Goober | Hopper | Hoss | Jester | Jinx | Jockey |
+| 3 | Joker | Kid | Knucklehead | Knuckles | Lefty | Lucky |
+| 4 | Lunchmeat | Meatball | Meathead | Mischief | Moose | Mothball |
+| 5 | Mudslinger | Mumbles | Nobody | Noodle | Nugget | Numbskull |
+| 6 | Nut | Orphan | Packrat | Paperboy | Patch | Patches |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Bulwark | Bumper | Bunker | Burnout | Burst | Buzz |
-| 2 | Caboose | Cairn | Cakewalk | Candystick | Cannonball | Captain |
-| 3 | Carmine | Cartridge | Cascade | Case | Cashew | Castle |
-| 4 | Catalyst | Catcher | Caustic | Caveman | Cell | Center |
-| 5 | Centurion | Chain | Chalk | Challenger | Champion | Channel |
-| 6 | Chaos | Charger | Charm | Check | Checkmate | Cheerio |
-
-#### Table 4
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Chip | Chisel | Chops | Chowder | Chrome | Chuckles |
-| 2 | Chunk | Cinder | Cipher | Circuit | Clamp | Clank |
-| 3 | Clasp | Clear | Cleft | Cleric | Clever | Click |
-| 4 | Clicker | Cliff | Climax | Climber | Clincher | Cloak |
-| 5 | Clock | Clone | Close | Cloud | Clutch | Cobalt |
-| 6 | Cocktail | Cocky | Code | Codger | Coercer | Coffin |
-
-#### Table 5
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Cog | Cogent | Coil | Coin | Coke | Cold |
-| 2 | Coldsnap | Combat | Combover | Comeback | Comedian | Comet |
-| 3 | Comfort | Comic | Commander | Compass | Compete | Competent |
-| 4 | Competitor | Complain | Complete | Complex | Composer | Composite |
-| 5 | Comrade | Conduit | Contact | Coral | Core | Corsair |
-| 6 | Count | Cove | Crack | Crag | Crank | Crash |
-
-#### Table 6
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Creed | Crest | Cross | Crown | Crunch | Crusher |
-| 2 | Crust | Crypt | Crystal | Cube | Curb | Current |
-| 3 | Cutter | Cutthroat | Cycle | Dagger | Damper | Dancer |
-| 4 | Danger | Dart | Dash | Data | Deadeye | Deadlock |
-| 5 | Dealbreaker | Deathblow | Deathwish | Decay | Deck | Decree |
-| 6 | Deejay | Deep | Default | Defect | Degree | Delay |
-
-#### Table 7
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Delete | Delta | Demise | Demon | Dense | Depth |
-| 2 | Detail | Deuce | Devastate | Devastation | Device | Devil |
-| 3 | Devious | Devour | Dexter | Diablo | Dial | Diamond |
-| 4 | Diehard | Diesel | Digger | Digit | Dim | Dinker |
-| 5 | Diplomat | Dipstick | Direct | Dirge | Dirk | Dirt |
-| 6 | Dirtbag | Dirtnap | Disc | Discord | Dish | Disk |
-
-#### Table 8
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Dispatch | Disrupt | Dissolve | Distance | Ditch | Dive |
-| 2 | Divide | Doc | Domain | Dome | Dose | Double |
-| 3 | Down | Draft | Drag | Drain | Draw | Dream |
-| 4 | Drift | Drill | Drink | Drip | Drive | Drop |
-| 5 | Drum | Dry | Dual | Duct | Duke | Dull |
-| 6 | Dummy | Dump | Dune | Dust | Duty | Dynamo |
-
-#### Table 9
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Earl | Echo | Edge | Ember | Emerald | Enforcer |
-| 2 | Engine | Enigma | Failsafe | Farseer | Fast | Fidget |
-| 3 | Fire | Firestarter | Five | Fixer | Flare | Flash |
-| 4 | Flatline | Flicker | Flint | Flood | Flow | Flux |
-| 5 | Forge | Foxtrot | Frequency | Fridge | Frost | Fumbles |
-| 6 | Furnace | Fuse | Gadget | Gale | Garnet | Gate |
-
-#### Table 10
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Gear | Gem | Ghost | Giggles | Gizmo | Glare |
-| 2 | Glass | Glint | Gloss | Glow | Gold | Goober |
-| 3 | Grit | Grudge | Gunfire | Gust | Gutshot | Hail |
-| 4 | Hammer | Harbor | Hard | Harrow | Havoc | Hazard |
-| 5 | Haze | Heatwave | Heavy | Hellion | Hex | Highroller |
-| 6 | Hopper | Hotshot | Hunter | Hush | Husk | Ice |
-
-#### Table 11
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Impulse | Inferno | Ion | Iron | Ironclad | Ironman |
-| 2 | Ironside | Jackpot | Jade | Jager | Jammer | Jasper |
-| 3 | Jester | Jetstream | Jewel | Jinx | Jockey | Joker |
-| 4 | Jostle | Judge | Jugular | Kaiser | Key | Kiln |
-| 5 | Kilo | King | Knight | Knockout | Knucklehead | Knuckles |
-| 6 | Lancer | Laser | Launchpad | Lead | Leadfoot | Ledger |
-
-#### Table 12
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Lefty | Lever | Light | Lima | Lineman | Link |
-| 2 | Livewire | Lock | Longshot | Lord | Lucky | Lunchmeat |
-| 3 | Luster | Madman | Mainframe | Makeover | Mantle | Marauder |
-| 4 | Matte | Maverick | Meatball | Meathead | Mercury | Midnight |
-| 5 | Mimic | Minefield | Mischief | Mist | Mojo | Monarch |
-| 6 | Monsoon | Moonlight | Mortar | Moss | Mothball | Motor |
-
-#### Table 13
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Mudslinger | Mumbles | Nadir | Nails | Narrator | Nemesis |
-| 2 | Nickel | Niner | Nitro | Nobody | Nomad | Noodle |
-| 3 | Nosedive | Nova | Nugget | Null | Numbskull | Nut |
-| 4 | Obsidian | Ogre | Omega | Omen | One | Onyx |
-| 5 | Opal | Operator | Opportunist | Oracle | Orbit | Oriel |
-| 6 | Orion | Orphan | Outlaw | Outpost | Outsider | Overload |
-
-#### Table 14
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Overtime | Packrat | Paladin | Paperboy | Paratrooper | Patches |
-| 2 | Patchwork | Pathfinder | Patriarch | Patrol | Pattern | Payback |
-| 3 | Peacemaker | Peak | Pearl | Pebbles | Peephole | Peewee |
-| 4 | Penthouse | Pepper | Periscope | Perp | Phantom | Phoenix |
-| 5 | Pin | Piper | Piston | Point | Potato | Prime |
-| 6 | Prince | Prof | Prophet | Pulse | Pyro | Quake |
-
-#### Table 15
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Quartz | Quickdraw | Quill | Radar | Rampart | Rascal |
-| 2 | Ray | Razor | Reaper | Rebel | Red | Reef |
-| 3 | Resonance | Rex | Ricochet | Ridge | Rift | Rime |
-| 4 | Ripple | Rivet | Rogue | Ronin | Rook | Rookie |
-| 5 | Rough | Rover | Royal | Ruby | Runner | Rust |
-| 6 | Sable | Sabotage | Samurai | Sapphire | Saw | Scorch |
-
-#### Table 16
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Scout | Screwball | Screwup | Sentinel | Seven | Shadow |
-| 2 | Shard | Sharp | Shell | Shield | Shiv | Shorty |
-| 3 | Shutdown | Sigma | Signal | Silver | Singe | Six |
-| 4 | Skipper | Skippy | Slack | Slash | Slate | Sleet |
-| 5 | Slick | Slope | Smiley | Smooth | Sneezy | Snipes |
-| 6 | Sovereign | Spark | Specter | Spike | Splinter | Squall |
-
-#### Table 17
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Stalker | Stark | Static | Steel | Stinger | Storm |
-| 2 | Straggler | Striker | Stumpy | Summit | Surge | Swell |
-| 3 | Swindle | Tango | Tank | Tempest | Thorn | Three |
-| 4 | Thunder | Tide | Tinker | Tiny | Titan | Topaz |
-| 5 | Torch | Torque | Torrent | Touchdown | Trigger | Trooper |
-| 6 | Twitch | Two | Tycoon | Umber | Umbra | Vagabond |
-
-#### Table 18
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Valkyrie | Valve | Vanguard | Vapor | Vector | Vertigo |
-| 2 | Victor | Vigil | Void | Volt | Vortex | Vulcan |
-| 3 | Waddles | Wall | Warden | Warlock | Warlord | Watchdog |
-| 4 | Wave | Wayfinder | Weld | Whiskey | Whisper | Whiz |
-| 5 | Wildcard | Wingnut | Wobbles | Wraith | Wrench | Wrongway |
-| 6 | Xylo | Zenith | Zephyr | Zero | Zodiac | Zulu |
+| 1 | Patchwork | Pebbles | Peephole | Peewee | Porkchop | Potato |
+| 2 | Prof | Rascal | Red | Rico | Sarge | Scooter |
+| 3 | Scout | Screwball | Screwup | Shorty | Skipper | Skippy |
+| 4 | Slim | Smiley | Sneezy | Spud | Stumpy | Sunny |
+| 5 | T-Bone | Tank | Tex | Tiny | Trigger | Waddles |
+| 6 | Wheels | Whitey | Wingnut | Wobbles | Wrongway | Zippy |
 
 ### North African Forenames / Given Names
 
@@ -2401,81 +2797,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Wahabi | Wali | Xenon | Yacoubi | Yahia | Yassin |
 | 6 | Yousfi | Zaki | Zemmouri | Zeroual | Ziani | Zidi |
 
-### North American (Modern) Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Aaron | Abigail | Adrian | Aiden | Alice | Amelia |
-| 2 | Anthony | Aria | Asher | Aurora | Ava | Avery |
-| 3 | Bella | Benjamin | Brooks | Caleb | Camila | Charles |
-| 4 | Charlotte | Chloe | Christian | Christopher | Cooper | Delilah |
-| 5 | Dylan | Eleanor | Elena | Elias | Elijah | Elizabeth |
-| 6 | Ellie | Emilia | Emily | Emma | Ethan | Evelyn |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Everly | Ezra | Gabriel | Genesis | Gianna | Grayson |
-| 2 | Hannah | Harper | Hazel | Henry | Hudson | Hunter |
-| 3 | Isaac | Isabella | Isaiah | Ivy | Jack | Jackson |
-| 4 | James | John | Josiah | Julian | Juliette | Kennedy |
-| 5 | Layla | Leilani | Leo | Levi | Liam | Lily |
-| 6 | Lincoln | Logan | Luca | Lucas | Luke | Luna |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Madison | Mason | Mateo | Maverick | Maya | Mia |
-| 2 | Micah | Mila | Miles | Naomi | Nathan | Noah |
-| 3 | Nora | Nova | Oliver | Olivia | Owen | Paisley |
-| 4 | Penelope | Quinn | Riley | Samuel | Scarlett | Sebastian |
-| 5 | Serenity | Skylar | Sofia | Sophia | Stella | Theodore |
-| 6 | Thomas | Violet | William | Willow | Wyatt | Zoe |
-
-### North American (Modern) Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adams | Allen | Alvarez | Anderson | Bailey | Baker |
-| 2 | Barnes | Bennett | Brooks | Brown | Campbell | Carter |
-| 3 | Castillo | Chavez | Clark | Coleman | Collins | Cook |
-| 4 | Cooper | Cox | Cruz | Davis | Diaz | Edwards |
-| 5 | Evans | Flores | Foster | Garcia | Gomez | Gonzalez |
-| 6 | Gray | Green | Griffin | Gutierrez | Hall | Harris |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Hernandez | Hill | Howard | Hughes | Jackson | James |
-| 2 | Jenkins | Jimenez | Johnson | Jones | Kelly | Kim |
-| 3 | King | Lee | Lewis | Long | Lopez | Martin |
-| 4 | Martinez | Mendoza | Miller | Mitchell | Moore | Morales |
-| 5 | Morgan | Morris | Murphy | Myers | Nelson | Nguyen |
-| 6 | Ortiz | Parker | Patel | Perez | Perry | Peterson |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Phillips | Powell | Price | Ramirez | Ramos | Reed |
-| 2 | Reyes | Richardson | Rivera | Roberts | Robinson | Rodriguez |
-| 3 | Rogers | Ross | Ruiz | Russell | Sanchez | Sanders |
-| 4 | Scott | Smith | Stewart | Sullivan | Taylor | Thomas |
-| 5 | Thompson | Torres | Turner | Walker | Ward | Watson |
-| 6 | White | Williams | Wilson | Wood | Wright | Young |
-
-### Oceania (Polynesian, Melanesian, & Micronesian) Forenames / Given Names
+### Oceanian Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -2512,7 +2834,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Toke | Tui | Uili | Vaea | Vaihere | Vaimiti |
 | 6 | Vaitiare | Vasiti | Viliami | Waimarie | Wiki | Wiremu |
 
-### Oceania (Polynesian, Melanesian, & Micronesian) Surnames / Family Names
+### Oceanian Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -2548,6 +2870,80 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 4 | Teiwaki | Temetiu | Tito | Tong | Toribiong | Tuigamala |
 | 5 | Tuilaepa | Tuivasa | Tupou | Turepu | Uherbelau | Vea |
 | 6 | Waqa | Whipps | Whippy | Williams | Wingti | Zedkaia |
+
+### Persian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abbas | Afshin | Ahmad | Alborz | Ali | Anahita |
+| 2 | Arash | Ardeshir | Aref | Arezoo | Arezu | Arman |
+| 3 | Arvin | Ashkan | Azadeh | Azar | Babak | Bahar |
+| 4 | Bahman | Behnam | Behnaz | Behrouz | Bijan | Cyrus |
+| 5 | Dara | Dariush | Darya | Donya | Ebrahim | Ehsan |
+| 6 | Elham | Elnaz | Esmail | Faranak | Farhad | Fariba |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Farid | Farkhondeh | Farzad | Farzin | Fereshteh | Fereydoun |
+| 2 | Ghazal | Golnaz | Haleh | Hamed | Hamid | Hassan |
+| 3 | Hasti | Hesam | Hooman | Hosein | Iraj | Jafar |
+| 4 | Jalil | Jamshid | Javad | Kambiz | Kamran | Kaveh |
+| 5 | Keyvan | Khosrow | Kian | Kourosh | Ladan | Leila |
+| 6 | Mahdi | Mahmoud | Mahsa | Mahtab | Majid | Mani |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Mansour | Maryam | Masoud | Maziar | Mehran | Mehrdad |
+| 2 | Milad | Mohammad | Mohsen | Morteza | Nader | Naser |
+| 3 | Navid | Nima | Omid | Parviz | Payam | Pejman |
+| 4 | Peyman | Pouya | Ramin | Reza | Rostam | Saeed |
+| 5 | Saman | Sassan | Shahab | Shahin | Shahram | Shahrokh |
+| 6 | Siamak | Siavash | Sina | Soroush | Vahid | Yaser |
+
+### Persian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abadi | Afshar | Ahmadi | Akbari | Alizadeh | Amani |
+| 2 | Amiri | Ansari | Arani | Asgari | Azadi | Azimi |
+| 3 | Bagheri | Bahrami | Behnam | Darabi | Davani | Ebrahimi |
+| 4 | Esfahani | Farahani | Farrokhzad | Farsad | Ghasemi | Ghorbani |
+| 5 | Golshiri | Habibi | Hashemi | Hedayat | Hoseini | Jafari |
+| 6 | Jalili | Kamyabi | Karimi | Kashani | Kavoosi | Kazemi |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Khademi | Khalili | Khorasani | Khoshnevis | Khosravi | Kia |
+| 2 | Kian | Larijani | Madani | Mahdavi | Mahmoudi | Majidi |
+| 3 | Maleki | Mani | Mansouri | Maziar | Mirzaei | Moghadam |
+| 4 | Mohammadi | Mousavi | Nabavi | Naderi | Najafi | Nasiri |
+| 5 | Nazari | Nematollahi | Nikbin | Noori | Omidi | Pahlavi |
+| 6 | Panahi | Parvizi | Pashaei | Pirzadeh | Pourmand | Qasemi |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Rahimi | Rahmani | Rastegar | Razavi | Rezaei | Riahi |
+| 2 | Rostami | Saadat | Sadeghi | Safavi | Salehi | Salimi |
+| 3 | Samadi | Sattari | Sayyad | Sepahi | Shafiei | Shahidi |
+| 4 | Sharifi | Shirazi | Soleimani | Soltani | Soroush | Tabatabaei |
+| 5 | Taheri | Tavakoli | Tehrani | Teymouri | Vahidi | Yari |
+| 6 | Yazdani | Zamani | Zand | Zare | Zarrin | Zavareh |
 
 ### Polish Forenames / Given Names
 
@@ -2622,146 +3018,6 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 4 | Wieczorek | Wilk | Wiśniewski | Witkowski | Włodarczyk | Wojciechowski |
 | 5 | Wójcik | Wojtas | Woźniak | Wróbel | Wróblewski | Wrona |
 | 6 | Wysocki | Zając | Zakrzewski | Zalewski | Zawadzki | Zieliński |
-
-### Pulp Names Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Abraham | Ace | Ada | Adeyemi | Adrian | Ahmed |
-| 2 | Aisha | Akiko | Akira | Alden | Alejandro | Alexander |
-| 3 | Alice | Allan | Amara | Amelia | Amir | Andrea |
-| 4 | Anjali | Annie | Ardeth | Arizona | Arjun | Arnold |
-| 5 | Austin | Azila | Barnaby | Baron | Bartholomew | Basil |
-| 6 | Beatrice | Bernard | Bogart | Brendan | Brick | Brother |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Buck | Cameron | Captain | Cassian | Cassidy | Catherine |
-| 2 | Charlotte | Chester | Claude | Clayton | Cole | Constance |
-| 3 | Cornelius | Crash | Cyril | Dale | Darius | Dash |
-| 4 | Declan | Dex | Diana | Dirk | Doc | Douglas |
-| 5 | Duke | Dum Dum | Dusty | Edie | Edmund | Eleanor |
-| 6 | Elena | Emerson | Ernest | Esme | Eva | Evelyn |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Everett | Eze | Fabian | Father | Fatima | Felix |
-| 2 | Fitzgerald | Flash | Flint | Forrest | Franklin | Gabriel |
-| 3 | Garrett | Geoffrey | Grace | Gregory | Greta | Hank |
-| 4 | Hardwick | Harlan | Harrison | Hector | Helena | Henry |
-| 5 | Hercule | Hiroshi | Hollis | Howard | Hugo | Indiana |
-| 6 | Inez | Ingrid | Irwin | Isaac | Isabella | Isabelle |
-
-#### Table 4
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Ivan | Jabari | Jack | Jake | Jane | Jasper |
-| 2 | Jerome | Jet | Jonathan | Josephine | Julian | Julius |
-| 3 | Juno | Karim | Kendall | Kenji | Kenneth | Khalid |
-| 4 | Kingsley | Kit | Kofi | Kwame | Landis | Lawrence |
-| 5 | Layla | Leopold | Lillian | Logan | Lord | Lucian |
-| 6 | Madeline | Malcolm | Mallory | Margaret | Margo | Marion |
-
-#### Table 5
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Martin | Matthew | Max | Miller | Mina | Miss |
-| 2 | Mister | Morton | Nala | Nash | Nathaniel | Neville |
-| 3 | Nicholas | Nick | Nico | Nigel | Nora | Norman |
-| 4 | Okafor | Oliver | Ophelia | Orson | Oscar | Oswald |
-| 5 | Patrick | Peggy | Penelope | Percival | Peter | Phileas |
-| 6 | Philip | Phineas | Priya | Professor | Quentin | Quincy |
-
-#### Table 6
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Rafael | Rafe | Rafi | Rajesh | Reverend | Rex |
-| 2 | Rick | Ridge | Roland | Rose | Ruby | Sakura |
-| 3 | Sam | Scarlett | Sister | Slate | Smiles | Sophia |
-| 4 | Steve | Stone | Sydney | Sylvia | Takeshi | Theo |
-| 5 | Tyrell | Veronica | Victoria | Vikram | Vivian | Willie |
-| 6 | Wilma | Wyatt | Yasmin | Yuki | Zane | Zuri |
-
-### Pulp Names Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adani | Ahmed | Aldridge | Ali | Arden | Ashcroft |
-| 2 | Ashford | Ashton | Barrett | Baskerville | Bay | Benedikt |
-| 3 | Bergman | Blackburn | Blackwell | Blackwood | Blaine | Brennan |
-| 4 | Bruce | Caldwell | Carnahan | Carson | Carter | Castillo |
-| 5 | Chadwick | Chambers | Charles | Chase | Chen | Covington |
-| 6 | Crane | Cross | Crowley | Dalton | Danger | Davenport |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | de la Vega | Deering | Desai | Desmond | Devereaux | Diallo |
-| 2 | Dixon | Donovan | Drake | Drummond | Dryden | Dugan |
-| 3 | Erskine | Esmond | Everington | Everton | Fairchild | Falcone |
-| 4 | Fitzpatrick | Flannery | Flint | Fogg | Fordham | Forrester |
-| 5 | Fortune | Fox | Franklin | Frost | Galloway | Goodwin |
-| 6 | Gordon | Grantham | Grayson | Greenstreet | Greystoke | Gupta |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Hardcastle | Harington | Harker | Harper | Harrington | Hart |
-| 2 | Hartley | Hassan | Hawke | Hawthorne | Hickman | Hunt |
-| 3 | Ibrahim | Ingram | Inverness | Iverson | Iyer | Jackson |
-| 4 | Jameson | Jamison | Jefferson | Jenkins | Jericho | Johnson |
-| 5 | Jones | Kane | Kapoor | Kellerman | Kensington | Khan |
-| 6 | Kimura | Kingsley | Kissinger | Knight | Kobayashi | LaBelle |
-
-#### Table 4
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Lancaster | Langley | Lawson | Lexington | Llewelyn | Locke |
-| 2 | Lorre | Malhotra | Mallory | Malone | Mansfield | Marlowe |
-| 3 | Marple | Marquette | Mattheson | Mbatha | Mensah | Mercer |
-| 4 | Middleton | Miller | Mohammed | Montero | Montgomery | Morgan |
-| 5 | Mori | Murrieta | Mwangi | Nakamura | Navarro | Neville |
-| 6 | Newberry | Njoku | Nkosi | Normandy | Northcote | O'Connor |
-
-#### Table 5
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Oakley | Obi | Okonkwo | Okoro | Orlov | Orrington |
-| 2 | Osborne | Osmunde | Patel | Pemberton | Pennington | Peregrine |
-| 3 | Phillips | Pickering | Pierce | Poirot | Porter | Prentiss |
-| 4 | Quade | Quatermain | Questrom | Quincy | Quinn | Quinton |
-| 5 | Radcliffe | Raines | Ramsey | Rathbone | Ravenwood | Remington |
-| 6 | Rhodes | Rivers | Rochester | Rogers | Rourke | Sanderson |
-
-#### Table 6
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Sato | Savage | Scott | Shadow | Sharma | Sharp |
-| 2 | Shelby | Shelton | Sinclair | Smith | Spade | Stanton |
-| 3 | Stark | Stavros | Steele | Sterling | Stone | Storm |
-| 4 | Suzuki | Tanaka | Thorne | Turner | Vale | Van Buren |
-| 5 | Vance | Vasquez | Verma | Villar | Walker | Watanabe |
-| 6 | Wexler | Wilde | Yamamoto | Zhe | Zorin | - |
 
 ### Russian Forenames / Given Names
 
@@ -3059,6 +3315,80 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Tambo | Tlou | Tsotetsi | Tutu | Van Niekerk | Van Wyk |
 | 6 | Venter | Viljoen | Williams | Zondi | Zulu | Zuma |
 
+### South Asian Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Aanchal | Aarav | Aarti | Abhishek | Aditi | Aditya |
+| 2 | Aishwarya | Ajay | Akansha | Akash | Amit | Amrita |
+| 3 | Anand | Ananya | Anil | Aniruddh | Anjali | Ankit |
+| 4 | Anshika | Anushka | Archana | Arjun | Arpita | Arun |
+| 5 | Aryan | Ashok | Bharat | Bhavna | Deepak | Deepika |
+| 6 | Dev | Divya | Esha | Ganesh | Gaurav | Gauri |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Harish | Ishaan | Ishita | Jatin | Jaya | Jyoti |
+| 2 | Kajal | Karan | Kartik | Kavita | Kiran | Komal |
+| 3 | Kriti | Kunal | Laxmi | Madhu | Mahesh | Mamta |
+| 4 | Manish | Manisha | Manoj | Mayank | Megha | Mitali |
+| 5 | Monika | Muskan | Nandini | Neha | Nidhi | Nikhil |
+| 6 | Nisha | Nitin | Pankaj | Pooja | Pranav | Prateek |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Prerna | Priyanka | Radhika | Rahul | Rajesh | Rakesh |
+| 2 | Rani | Rashmi | Raveena | Rishi | Riya | Rohan |
+| 3 | Rohit | Sakshi | Sangeeta | Sanjay | Sapna | Saurabh |
+| 4 | Seema | Shikha | Shilpa | Shivam | Shruti | Siddharth |
+| 5 | Sneha | Sumit | Sunil | Suresh | Swati | Tanu |
+| 6 | Tarun | Uday | Varun | Vijay | Vikram | Vivek |
+
+### South Asian Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Abraham | Agarwal | Ahluwalia | Ahuja | Anand | Bakshi |
+| 2 | Bandara | Banerjee | Bansal | Bhasin | Bhattacharya | Chacko |
+| 3 | Chakraborty | Chatterjee | Chauhan | Chawla | Chopra | Choudhury |
+| 4 | Das | Dasgupta | Datta | De Silva | Dhillon | Dissanayake |
+| 5 | Dua | Dutta | Fernandes | Fernando | Gandhi | Ganguly |
+| 6 | Garg | Gill | Goel | Gomes | Grover | Gunawardena |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Gupta | Iyer | Jain | Jayawardena | Jha | Joshi |
+| 2 | Kapoor | Kaur | Khanna | Khurana | Kulkarni | Kumar |
+| 3 | Kurian | Lal | Mahajan | Malhotra | Malik | Mathew |
+| 4 | Mehra | Mehta | Menon | Mishra | Mittal | Mukherjee |
+| 5 | Nair | Nanda | Narayan | Nayar | Pandey | Parekh |
+| 6 | Patel | Patil | Perera | Pinto | Puri | Rai |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Raj | Ram | Rao | Rastogi | Ratnayake | Reddy |
+| 2 | Rodrigues | Saini | Sarin | Sarkar | Saxena | Sen |
+| 3 | Senanayake | Sethi | Shah | Sharma | Shastri | Shetty |
+| 4 | Shukla | Singh | Sinha | Soni | Srivastava | Subramanian |
+| 5 | Suri | Taneja | Thakur | Tiwari | Tyagi | Varghese |
+| 6 | Varma | Verma | Vora | Wadhwa | Wijesinghe | Yadav |
+
 ### South East Asian Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
@@ -3206,6 +3536,80 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 4 | Sanchez | Segura | Serrano | Sosa | Tapia | Tellez |
 | 5 | Torres | Urbina | Uribe | Valdez | Valenzuela | Vargas |
 | 6 | Vasquez | Vela | Villalobos | Zamora | Zavala | Zuniga |
+
+### Turkish Forenames / Given Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ahmet | Ali | Alp | Arda | Aslan | Aslı |
+| 2 | Ayhan | Aylin | Ayşe | Bahar | Barış | Batu |
+| 3 | Batuhan | Belen | Berk | Berna | Beste | Burak |
+| 4 | Burcu | Can | Canan | Cansu | Cem | Cemre |
+| 5 | Cihan | Damla | Defne | Demet | Deniz | Derya |
+| 6 | Dilara | Doğan | Doruk | Ece | Eda | Efe |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ege | Elif | Emel | Emir | Emre | Enes |
+| 2 | Engin | Ercan | Erdem | Eren | Erkan | Erol |
+| 3 | Esra | Eylül | Fatih | Funda | Furkan | Gamze |
+| 4 | Gaye | Gökçe | Gökhan | Görkem | Gözde | Gül |
+| 5 | Hakan | Halil | Hande | Hasan | Hüseyin | İbrahim |
+| 6 | İhsan | İlker | İrem | Irmak | İsmail | Kaan |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Kemal | Kerem | Koray | Lale | Levent | Meltem |
+| 2 | Mert | Merve | Mete | Metin | Murat | Mustafa |
+| 3 | Nihal | Nil | Ömer | Onur | Orhan | Osman |
+| 4 | Özge | Özgür | Selim | Serkan | Sinan | Tamer |
+| 5 | Taylan | Tolga | Tuna | Ufuk | Uğur | Umut |
+| 6 | Volkan | Yavuz | Yiğit | Yusuf | Zafer | Zeki |
+
+### Turkish Surnames / Family Names
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Acar | Akar | Akçay | Aker | Akın | Akkuş |
+| 2 | Aksoy | Aksu | Aktaş | Akyol | Akyüz | Arslan |
+| 3 | Aslan | Ateş | Avcı | Ay | Aydın | Barış |
+| 4 | Başar | Bayram | Bilgiç | Bilgin | Boran | Bozkurt |
+| 5 | Bulut | Çakır | Çalışkan | Can | Çelik | Çetin |
+| 6 | Çoban | Coşkun | Demir | Demircan | Deniz | Derya |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Doğan | Duman | Duru | Ercan | Erdem | Erdoğan |
+| 2 | Eren | Gencer | Gök | Gül | Güler | Gündüz |
+| 3 | Güneş | Gürbüz | Gürer | Ilgaz | Işık | Kandemir |
+| 4 | Kaplan | Kara | Karakaya | Kartal | Kaya | Keskin |
+| 5 | Kılıç | Kılıçarslan | Koç | Köksal | Korkmaz | Kurt |
+| 6 | Mercan | Oral | Özcan | Özdemir | Özen | Özer |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Özgür | Özkan | Öztürk | Pehlivan | Polat | Şahin |
+| 2 | Sancak | Sarı | Sayan | Şen | Sert | Sezer |
+| 3 | Şimşek | Sönmez | Sönmezoğlu | Sungur | Taş | Tekin |
+| 4 | Telli | Toprak | Tunca | Turan | Uğur | Umut |
+| 5 | Uysal | Varol | Yalçın | Yaman | Yarar | Yavuz |
+| 6 | Yıldırım | Yıldız | Yıldızhan | Yılmaz | Yücel | Zengin |
 
 ### Welsh Forenames / Given Names
 

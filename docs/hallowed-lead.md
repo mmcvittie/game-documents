@@ -78,98 +78,25 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Name Theme Chooser](#name-theme-chooser)
-    - [Chinese Forenames / Given Names](#chinese-forenames-given-names)
+    - [Native American (Plains, Southwest, and Southeastern Regions) Forenames / Given Names](#native-american-plains-southwest-and-southeastern-regions-forenames-given-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
-    - [Chinese Surnames / Family Names](#chinese-surnames-family-names)
+    - [Native American (Plains, Southwest, and Southeastern Regions) Surnames / Family Names](#native-american-plains-southwest-and-southeastern-regions-surnames-family-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
-    - [Colonial English Forenames / Given Names](#colonial-english-forenames-given-names)
+    - [Wild West Forenames / Given Names](#wild-west-forenames-given-names)
       - [Table 1](#table-1-6)
       - [Table 2](#table-2-6)
       - [Table 3](#table-3-6)
-    - [Colonial English Surnames / Family Names](#colonial-english-surnames-family-names)
-      - [Table 1](#table-1-7)
-      - [Table 2](#table-2-7)
-      - [Table 3](#table-3-7)
-    - [French Forenames / Given Names](#french-forenames-given-names)
-      - [Table 1](#table-1-8)
-      - [Table 2](#table-2-8)
-      - [Table 3](#table-3-8)
-    - [French Surnames / Family Names](#french-surnames-family-names)
-      - [Table 1](#table-1-9)
-      - [Table 2](#table-2-9)
-      - [Table 3](#table-3-9)
-    - [German Forenames / Given Names](#german-forenames-given-names)
-      - [Table 1](#table-1-10)
-      - [Table 2](#table-2-10)
-      - [Table 3](#table-3-10)
-    - [German Surnames / Family Names](#german-surnames-family-names)
-      - [Table 1](#table-1-11)
-      - [Table 2](#table-2-11)
-      - [Table 3](#table-3-11)
-    - [Irish Forenames / Given Names](#irish-forenames-given-names)
-      - [Table 1](#table-1-12)
-      - [Table 2](#table-2-12)
-      - [Table 3](#table-3-12)
-    - [Irish Surnames / Family Names](#irish-surnames-family-names)
-      - [Table 1](#table-1-13)
-      - [Table 2](#table-2-13)
-      - [Table 3](#table-3-13)
-    - [Italian Forenames / Given Names](#italian-forenames-given-names)
-      - [Table 1](#table-1-14)
-      - [Table 2](#table-2-14)
-      - [Table 3](#table-3-14)
-    - [Italian Surnames / Family Names](#italian-surnames-family-names)
-      - [Table 1](#table-1-15)
-      - [Table 2](#table-2-15)
-      - [Table 3](#table-3-15)
-    - [Native North American (Southern) Forenames / Given Names](#native-north-american-southern-forenames-given-names)
-      - [Table 1](#table-1-16)
-      - [Table 2](#table-2-16)
-      - [Table 3](#table-3-16)
-    - [Native North American (Southern) Surnames / Family Names](#native-north-american-southern-surnames-family-names)
-      - [Table 1](#table-1-17)
-      - [Table 2](#table-2-17)
-      - [Table 3](#table-3-17)
-    - [Scottish Forenames / Given Names](#scottish-forenames-given-names)
-      - [Table 1](#table-1-18)
-      - [Table 2](#table-2-18)
-      - [Table 3](#table-3-18)
-    - [Scottish Surnames / Family Names](#scottish-surnames-family-names)
-      - [Table 1](#table-1-19)
-      - [Table 2](#table-2-19)
-      - [Table 3](#table-3-19)
-    - [Spanish Forenames / Given Names](#spanish-forenames-given-names)
-      - [Table 1](#table-1-20)
-      - [Table 2](#table-2-20)
-      - [Table 3](#table-3-20)
-    - [Spanish Surnames / Family Names](#spanish-surnames-family-names)
-      - [Table 1](#table-1-21)
-      - [Table 2](#table-2-21)
-      - [Table 3](#table-3-21)
-    - [Welsh Forenames / Given Names](#welsh-forenames-given-names)
-      - [Table 1](#table-1-22)
-      - [Table 2](#table-2-22)
-      - [Table 3](#table-3-22)
-    - [Welsh Surnames / Family Names](#welsh-surnames-family-names)
-      - [Table 1](#table-1-23)
-      - [Table 2](#table-2-23)
-      - [Table 3](#table-3-23)
-    - [Wild West Forenames / Given Names](#wild-west-forenames-given-names)
-      - [Table 1](#table-1-24)
-      - [Table 2](#table-2-24)
-      - [Table 3](#table-3-24)
       - [Table 4](#table-4-4)
       - [Table 5](#table-5-4)
       - [Table 6](#table-6-4)
     - [Wild West Surnames / Family Names](#wild-west-surnames-family-names)
-      - [Table 1](#table-1-25)
-      - [Table 2](#table-2-25)
-      - [Table 3](#table-3-25)
+      - [Table 1](#table-1-7)
+      - [Table 2](#table-2-7)
+      - [Table 3](#table-3-7)
       - [Table 4](#table-4-5)
       - [Table 5](#table-5-5)
       - [Table 6](#table-6-5)
@@ -639,40 +566,40 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 3 | Land Survey Clerk | Court Reporter | Wanted Poster Artist | Saloon Pianist | Vaudeville Performer | Traveling Salesman |
 | 4 | Camp Preacher | Missionary Rider | Border Scout | Desert Guide | Mountain Trapper | Range Detective |
 | 5 | Pinkerton Operative | Territorial Ranger | Hangman | Clockmaker  | Cattle Buyer | Dusty Trail Courier |
-| 6 | Land Surveyor | Rail Switchman | Stage Line Agent | Water Rights Broker | Well Digger | Wanderer |
+| 6 | Land Surveyor | Rail Switchman | Saloon Guitarist | Stage Line Agent | Water Rights Broker | Well Digger |
 
 #### Table 4
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Outcast | Survivor | Merchant | Trader | Artisan | Craftsperson |
-| 2 | Healer | Scout | Guide | Hunter | Tracker | Scavenger |
-| 3 | Laborer | Apprentice | Teacher | Student | Storyteller | Entertainer |
-| 4 | Cook | Innkeeper | Bodyguard | Mercenary | Soldier | Veteran |
-| 5 | Spy | Courier | Messenger | Diplomat | Negotiator | Scholar |
-| 6 | Archivist | Librarian | Historian | Inventor | Engineer | Tinkerer |
+| 1 | Exorcist Acolyte | Lay Exorcist | Relic Warden | Reliquary Keeper | Sanctified Gunsmith | Graveyard Sexton |
+| 2 | Cemetery Warden | Bell Tower Ringer | Parish Beadle | Mission Chapel Caretaker | Shrine Custodian | Pilgrim Escort |
+| 3 | Witchfinder's Clerk | Inquisition Scribe | Canon Lawyer | Monastery Groundskeeper | Abbey Apothecary | Cloister Herbalist |
+| 4 | Order-Bound Novice | Penitent Flagellant | Confessional Recorder | Funeral Rites Assistant | Mortuary Embalmer | Ossuary Keeper |
+| 5 | Catacomb Guide | Tomb Seal Mason | Crypt Watchman | Burial Marshal | Plague Cart Driver | Quarantine Warden |
+| 6 | Pesthouse Nurse | Leper Colony Chaplain | Battlefield Chaplain | Frontier Missionary | Revival Tent Preacher | Circuit Exorcist |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Gambler | Smuggler | Thief | Con Artist | Fence | Bounty Hunter |
-| 2 | Explorer | Cartographer | Navigator | Sailor | Fisher | Farmer |
-| 3 | Rancher | Herder | Beast Handler | Animal Trainer | Hermit | Exile |
-| 4 | Refugee | Orphan | Street Urchin | Nobility | Fallen Noble | Servant |
-| 5 | Worker | Foreman | Guard | Sentry | Protector | Caretaker |
-| 6 | Medic | Poisoner | Assassin | Infiltrator | Saboteur | Revolutionary |
+| 1 | Holy Water Distiller | Salt Circle Engraver | Wardstone Carver | Sigil Tattooist | Icon Painter | Candleworks Chandler |
+| 2 | Votive Maker | Rosary Knotter | Bellfoundry Smith | Sanctum Architect | Chapel Builder | Monastery Stonemason |
+| 3 | Survivor of the Black Mass Siege | Survivor of the Fallen Abbey | Survivor of the Hellgate Breach | Survivor of the Possessed Homestead | Survivor of the Midnight Revival | Descendant of Exorcists |
+| 4 | Child of a Martyred Saint | Heir to a Cursed Parish | Last Scion of a Warding Line | Former Cult Prisoner | Former Hex Judge | Repentant Grave Robber |
+| 5 | Redeemed Heretic Hunter | Defrocked Deacon | Disgraced Inquisitor | Banished Prior | Oathbound Witch Hunter | Infernal Script Translator |
+| 6 | Forbidden Theology Scholar | Apocrypha Collector | Relic Recovery Scout | Sanctuary Quartermaster | Vigil Lantern Bearer | Night Watch Sacristan |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Rebel | Loyalist | Patriot | Deserter | Turncoat | Fugitive |
-| 2 | Prisoner | Escapee | Vagabond | Drifter | Nomad | Pilgrim |
-| 3 | Seeker | Mystic | Visionary | Prophet | Cultist | Believer |
-| 4 | Skeptic | Philosopher | Poet | Artist | Musician | Dancer |
-| 5 | Mediator | Researcher | Specialist | Builder | Curator | Fixer |
-| 6 | Observer | Planner | Porter | Quartermaster | Responder | - |
+| 1 | Consecrated Ground Surveyor | Crossroads Shrine Keeper | Frontier Abbey Scout | Marshland Relic Diver | Ruin Chapel Surveyor | Desecration Investigator |
+| 2 | Possession Ward Examiner | Blight Census Taker | Tithe Warden | Parish Debt Collector | Alms Courier | Reliquary Courier |
+| 3 | Monastic Brewer | Communion Wine Steward | Ash Wednesday Verger | Feast Day Marshal | Pilgrim Camp Cook | Refuge Chapel Hostler |
+| 4 | Sanctuary Stablemaster | Monastery Falconer | Bell Rope Rigger | Grave Bell Watcher | Gatehouse Porter of the Order | Cloister Porter |
+| 5 | Lantern Procession Marshal | Funeral Train Conductor | Relic Caravan Guard | Sanctuary Wall Sentinel | Chapel Crypt Locksmith | Catacomb Lantern Keeper |
+| 6 | Exorcist Order Recruiter | Border Exorcism Rider | Ordained Monster Hunter | Covenant Oath Witness | Penance House Warden | Demon War Orphan |
 
 ### Personality Traits
 
@@ -861,53 +788,40 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Terrible Secret | Dark Past | Hidden Identity | False Identity | Assumed Name | Wanted Criminal |
-| 2 | Former Slave | Escaped Prisoner | Deserter | Traitor | Turncoat | Witness to Atrocity |
-| 3 | Survivor's Guilt | Blood Debt | Unpaid Debt | Sworn Oath | Broken Vow | Betrayed Trust |
-| 4 | Betrayed Ally | Abandoned Comrade | Left for Dead | Sole Survivor | Last of Their Kind | Cursed Bloodline |
-| 5 | Marked for Death | Hunted | Price on Head | Vendetta | Secret Grudge | Hidden Agenda |
-| 6 | Secret Mission | Forbidden Knowledge | Dangerous Discovery | Witnessed Conspiracy | Knows Too Much | Blackmailed |
+| 1 | Burned a county deed book at midnight | Switched claim markers before the survey arrived | Took railroad scrip to betray a strike | Buried a marshal's warrant under a church floor | Faked a hanging and took hush money | Left a partner pinned in a mine collapse |
+| 2 | Sold homestead water rights twice | Forged cavalry discharge papers for a killer | Hid smallpox deaths to keep the train schedule | Stole dynamite crates from a rail camp | Signed land transfers with a dead judge's seal | Smuggled rifles inside flour barrels |
+| 3 | Lost a payroll wagon on purpose | Helped rustlers brand stolen stock | Poisoned a well to clear a canyon claim | Took witness pay to forget a lynching | Buried a baby with no name marker | Framed a drifter for a bank robbery |
+| 4 | Set fire to tax records before an audit | Carried coded messages for a range war boss | Testified under oath using an assumed name | Stole ballots from a territorial election | Hid a gold assay report from partners | Guided settlers onto disputed ground |
+| 5 | Sold out a safehouse to bounty hunters | Took church alms to fund a gambling debt | Forged treaty copies for a land syndicate | Covered up a stagecoach massacre | Shot a friend and claimed crossfire | Altered telegraph logs to start a feud |
+| 6 | Buried stolen silver in a family grave | Lied about who fired first at Red Gulch | Took a bribe to lose key evidence | Burned a freight manifest to hide contraband | Sold burial plots already occupied | Swore false alibis for train robbers |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Compromised | Secret Weakness | Hidden Disability | Concealed Illness | Terminal Condition | Addiction |
-| 2 | Dependency | Secret Love | Forbidden Romance | Star-Crossed Lover | Secret Child | Hidden Family |
-| 3 | Disowned | Illegitimate Heir | Secret Royalty | Hidden Noble | False Commoner | Imposter |
-| 4 | Fraud | Charlatan | Fake Credentials | Stolen Identity | Body Double | Secret Twin |
-| 5 | Split Personality | Haunted | Cursed | Damned | Blood Pact | Secret Society Member |
-| 6 | Cult Initiate | Heretic | Apostate | Lost Faith | Secret Believer | Closet Fanatic |
+| 1 | Hid a prison escape in exchange for cattle | Passed counterfeit coins at company stores | Changed trail signs to mislead a posse | Left plague quarantines unmarked on purpose | Forged a widow's signature for her acreage | Sold army rations on the black market |
+| 2 | Broke a jail lock for the wrong man | Disposed of bodies in a lime pit | Took blood money after a saloon killing | Lied about the source of river poison | Staged a robbery to erase a debt | Buried election boxes before dawn |
+| 3 | Helped a banker fake his own death | Hid evidence of child labor at a mill | Stole mail bags to find federal warrants | Carried opium tins for a syndicate doctor | Claimed a dead soldier's pension for years | Burned homestead filings to clear a route |
+| 4 | Sold out a strike committee to deputies | Laundered robbery gold through a livery | Switched an execution order before sunrise | Abandoned a wounded scout in canyon country | Faked survey stakes along a rail spur | Smuggled fugitives and sold their names |
+| 5 | Took railroad bonds for false testimony | Hid a gang ledger in a schoolhouse stove | Buried a shipment of stolen army boots | Forced signatures with a borrowed shotgun | Gave false water maps to migrant families | Stole a preacher's tithe chest at night |
+| 6 | Killed a horse to stop a witness | Sold fake mining shares to war widows | Let a fever camp go without medicine | Rewrote trial notes for a circuit judge | Kept back pay meant for reservation scouts | Traded pardons for names of deserters |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Zealot in Hiding | Reformed Criminal | Former Assassin | Ex-Torturer | War Criminal | Mass Murderer |
-| 2 | Accidental Killer | Mercy Killer | Self-Defense Killer | Never Killed | Secret Pacifist | Hidden Coward |
-| 3 | False Hero | Unearned Glory | Stolen Valor | Credit Thief | Plagiarist | Art Forger |
-| 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
-| 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
-| 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
+| 1 | Hid a counterfeit plate in a coffin | Wrecked a bridge inspection for insurance money | Took bounty on a man already dead | Framed a ranch hand for cattle poisoning | Smuggled whiskey through a mission pantry | Lied about a mine blast safety warning |
+| 2 | Kept silent after a chain-gang escape | Planted evidence in a rival foreman's bunk | Forged a marriage record to claim property | Buried a telegraph key tied to treason | Sold troop movements to stage robbers | Faked quarantine notices to block competitors |
+| 3 | Claimed orphan inheritance through forged kinship | Covered up a hanging called frontier justice | Hid a magistrate's confession in a hymnbook | Burned a school register to erase a child | Took payment to misroute relief wagons | Left a fever train unflagged at night |
+| 4 | Switched embalmed bodies before inquest | Stole patent papers for a water pump | Opened a dam gate to ruin downstream farms | Forged debt ledgers for a company store | Helped sink a ferryman's boat for profit | Sold sheriff schedules to an outlaw crew |
+| 5 | Tampered with scales at a grain depot | Hid a judge's mistress in witness quarters | Let vigilantes use names from court files | Staged a barn fire to hide embezzlement | Pocketed cemetery funds and blamed weather | Swapped mail-order rifles with defective stock |
+| 6 | Lied about cholera at the county line | Buried proof of a wrongful hanging | Collected protection money as a deputy | Rewrote a dead man's will by lamplight | Took immigrant fees for fake citizenship papers | Left a child witness at a rail siding |
 
 ## Names
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Name Theme Chooser
-
-Roll **1d6** for row and **1d6** for column to select your name theme.
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Chinese | Colonial English | French | German | Irish | Italian |
-| 2 | Native North American (Southern) | Scottish | Spanish | Welsh | Wild West | - |
-| 3 | - | - | - | - | - | - |
-| 4 | - | - | - | - | - | - |
-| 5 | - | - | - | - | - | - |
-| 6 | - | - | - | - | - | - |
-
-### Chinese Forenames / Given Names
+### Native American (Plains, Southwest, and Southeastern Regions) Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -915,480 +829,36 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | An | Anrui | Biao | Bin | Binyue | Bo |
-| 2 | Cai | Chao | Chaoran | Chenxi | Chun | Dan |
-| 3 | De | Dexin | Fang | Fanglin | Fei | Feng |
-| 4 | Gang | Guang | Guangyi | Guiying | Guo | Hailun |
-| 5 | Hao | Haoran | Haoyu | He | Hong | Hu |
-| 6 | Hua | Hui | Jiahui | Jian | Jianhua | Jing |
+| 1 | Adahy | Adsila | Ahanu | Aiyana | Aka | Atohi |
+| 2 | Ayita | Bidziil | Bly | Chenoa | Chimalis | Chu'mana |
+| 3 | Cochise | Deganawida | Doli | Dyani | Elisi | Elu |
+| 4 | Enoli | Etenia | Gaho | Galilahi | Geronimo | Halona |
+| 5 | Honovi | Hototo | Imala | Inola | Istas | Jaci |
+| 6 | Kai | Kangee | Kaya | Kineks | Knoton | Koko |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Jingxiao | Ju | Juan | Jun | Kexin | Lan |
-| 2 | Lei | Li | Liang | Lin | Ling | Long |
-| 3 | Lu | Man | Mei | Meiling | Min | Ming |
-| 4 | Muchen | Nan | Peng | Ping | Qian | Qiang |
-| 5 | Qiao | Qing | Ren | Rong | Ruoxi | Shan |
-| 6 | Sheng | Shuhan | Song | Tao | Tianyu | Ting |
+| 1 | Lallo | Liwanu | Lomasi | Lozen | Lulu | Mahkah |
+| 2 | Makya | Mansi | Maska | Massasoit | Matoaka | Metacomet |
+| 3 | Migina | Misu | Muna | Nahvee | Nakos | Nanyehi |
+| 4 | Nayati | Nita | Nova | Nuna | Odina | Ohanzee |
+| 5 | Olathe | Opa | Otaktay | Paco | Pati | Pavati |
+| 6 | Paytah | Pitalesharo | Pocahontas | Pola | Powhatan | Quahneah |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Wei | Wen | Wenzhi | Xia | Xiang | Xiao |
-| 2 | Xiaoyu | Xinyi | Xiuying | Xuan | Yan | Yao |
-| 3 | Yi | Yichen | Yifan | Ying | Yinuo | Yiyan |
-| 4 | Yong | Yu | Yuan | Yue | Yulian | Yun |
-| 5 | Yutong | Yuxuan | Zhen | Zhi | Zhong | Zhu |
-| 6 | Zi | Zihan | Zihao | Ziqi | Zirui | Zixuan |
-
-### Chinese Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | An | Bai | Bi | Cai | Cao | Chang |
-| 2 | Chen | Cheng | Cui | Dai | Deng | Ding |
-| 3 | Dong | Du | Duan | Fan | Fang | Feng |
-| 4 | Fu | Gao | Ge | Gong | Gongsun | Gu |
-| 5 | Guo | Han | Hao | He | Helian | Hou |
-| 6 | Hu | Huang | Huyan | Ji | Jiang | Jin |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Lan | Lei | Li | Liang | Liao | Lin |
-| 2 | Linghu | Liu | Long | Lu | Luo | Ma |
-| 3 | Mao | Meng | Mo | Murong | Nie | Ning |
-| 4 | Ouyang | Pan | Pei | Peng | Qian | Qiu |
-| 5 | Ren | Ruan | Sha | Shangguan | Shao | She |
-| 6 | Shen | Shi | Sima | Situ | Song | Su |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Sun | Tan | Tang | Tian | Wan | Wang |
-| 2 | Wei | Wu | Xi | Xia | Xiahou | Xiang |
-| 3 | Xiao | Xie | Xing | Xiong | Xu | Xue |
-| 4 | Yan | Yang | Yao | Ye | Yi | Yin |
-| 5 | Yu | Yuan | Yuchi | Zeng | Zhang | Zhao |
-| 6 | Zheng | Zhong | Zhou | Zhu | Zhuge | Zou |
-
-### Colonial English Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Aaron | Abiah | Abigail | Abner | Abraham | Amos |
-| 2 | Asa | Barnabas | Bartholomew | Bathsheba | Benjamin | Beulah |
-| 3 | Caleb | Charity | Charles | Chloe | Cotton | Daniel |
-| 4 | David | Deborah | Deliverance | Desire | Dinah | Dorcas |
-| 5 | Ebenezer | Edward | Eleazer | Eli | Elijah | Elisha |
-| 6 | Elizabeth | Enoch | Enos | Esther | Eunice | Experience |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Ezra | Faith | Francis | George | Gideon | Grace |
-| 2 | Hannah | Henry | Hephzibah | Hezekiah | Hope | Huldah |
-| 3 | Increase | Isaac | Israel | Jacob | James | Jared |
-| 4 | Jedidiah | Jemima | John | Jonathan | Joseph | Joshua |
-| 5 | Josiah | Josias | Judith | Keziah | Lemuel | Levi |
-| 6 | Lois | Lydia | Malachi | Martha | Mary | Mehitabel |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Mercy | Micah | Miriam | Moses | Nathan | Nathaniel |
-| 2 | Noah | Obadiah | Patience | Phebe | Phineas | Preserved |
-| 3 | Prudence | Rachel | Rebecca | Reuben | Richard | Robert |
-| 4 | Ruth | Samuel | Sarah | Seth | Silas | Simeon |
-| 5 | Solomon | Susannah | Tabitha | Temperance | Thaddeus | Thankful |
-| 6 | Thomas | Timothy | Waitstill | William | Zebulon | Zilpah |
-
-### Colonial English Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adams | Alden | Arnold | Bartlett | Blair | Bradford |
-| 2 | Braxton | Brewster | Brown | Burr | Cadwalader | Carroll |
-| 3 | Chase | Clark | Clinton | Clymer | Dearborn | Dickinson |
-| 4 | Featherstone | Floyd | Franklin | Frye | Gates | Glover |
-| 5 | Greene | Gwinnett | Hall | Hamilton | Hancock | Hand |
-| 6 | Harrison | Hart | Haslet | Heath | Henry | Hopkins |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Hutchinson | Irvine | Jay | Jefferson | Knox | Langdon |
-| 2 | Lee | Lewis | Lincoln | Livingston | Madison | Mason |
-| 3 | Mather | Maxwell | McKean | Middleton | Miller | Monroe |
-| 4 | Montgomery | Morris | Morton | Nelson | Nixon | Otis |
-| 5 | Paca | Parsons | Patterson | Pendleton | Penn | Pickering |
-| 6 | Putnam | Pynchon | Randolph | Read | Reed | revere |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Ross | Rush | Rutledge | Schuyler | Sewall | Sherman |
-| 2 | Smallwood | Smith | Spencer | Standish | Stark | Stockton |
-| 3 | Stone | Stuyvesant | Sullivan | Taylor | Thomas | Thornton |
-| 4 | Throckmorton | Wadsworth | Walton | Ward | Warren | Washington |
-| 5 | Wayne | Wheatley | Whipple | Whitcomb | Whitlocke | Williams |
-| 6 | Wilson | Winslow | Winthrop | Witherspoon | Wooster | Wythe |
-
-### French Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adelaide | Adrien | Agathe | Alain | Alice | Amandine |
-| 2 | Andre | Anne | Antoine | Aurelien | Baptiste | Benoit |
-| 3 | Bernard | Bertrand | Brigitte | Camille | Caroline | Catherine |
-| 4 | Cecile | Chantal | Charles | Charlotte | Christian | Christophe |
-| 5 | Claire | Claude | Clemence | Colette | Danielle | Delphine |
-| 6 | Denis | Denise | Elisabeth | Elodie | Emilie | Emmanuel |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Estelle | Etienne | François | Françoise | Gabriel | Gabrielle |
-| 2 | Genevieve | Georges | Gerard | Gilbert | Gilles | Guillaume |
-| 3 | Guy | Helene | Henri | Isabelle | Jacques | Janine |
-| 4 | Jean | Jeanne | Jerome | Joseph | Josiane | Julie |
-| 5 | Julien | Laurent | Louis | Louise | Lucie | Lucien |
-| 6 | Lydie | Madeleine | Marc | Marguerite | Marie | Martine |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Mathilde | Mathis | Maurice | Michel | Monique | Nicolas |
-| 2 | Nicole | Noemie | Odette | Olivier | Pascal | Patrick |
-| 3 | Paul | Pauline | Philippe | Pierre | Raymond | Renee |
-| 4 | Robert | Roger | Rose | Sebastien | Serge | Simon |
-| 5 | Simone | Solange | Sophie | Suzanne | Sylvie | Therese |
-| 6 | Thierry | Thomas | Victorine | Vincent | Xavier | Yves |
-
-### French Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adam | Andre | Arnaud | Aubert | Barbier | Bazin |
-| 2 | Benoit | Bernard | Bertrand | Blanc | Blanchard | Bonnet |
-| 3 | Bonneville | Boucher | Bourgeois | Boyer | Brun | Brunet |
-| 4 | Caron | Charpentier | Charrier | Chevalier | Clement | Colin |
-| 5 | David | Denis | Dubois | Dumont | Dupont | Durand |
-| 6 | Duval | Even | Faure | Fontaine | Fournier | Francois |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Gaillard | Garcia | Garnier | Gauthier | Gautier | Girard |
-| 2 | Giraud | Guerin | Guerrier | Guillaume | Henry | Hubert |
-| 3 | Humbert | Jacquet | Jean | Joly | Klein | Lambert |
-| 4 | Laurent | Leclerc | Lefebvre | Lefevre | Legrand | Lemaitre |
-| 5 | Lemoine | Leroy | Lucas | Mallet | Marais | Marchal |
-| 6 | Marchand | Marechal | Marie | Martin | Martinez | Masson |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Mathieu | Mercier | Meunier | Meyer | Michel | Moreau |
-| 2 | Morel | Morin | Muller | Nicolas | Noel | Ollivier |
-| 3 | Paris | Pelletier | Perrin | Perrot | Petit | Philippe |
-| 4 | Picard | Pierre | Prevost | Renard | Renaud | Richard |
-| 5 | Riviere | Robert | Robin | Roche | Roussel | Roux |
-| 6 | Roy | Royer | Simon | Thomas | Vallet | Vasseur |
-
-### German Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adelheid | Adolf | Agnes | Alois | Amalie | Andreas |
-| 2 | Angelika | Anna | Anneliese | Anton | August | Balthasar |
-| 3 | Barbara | Beate | Benedikt | Bernhard | Brigitte | Bruno |
-| 4 | Cäcilie | Caspar | Charlotte | Christian | Christina | Clara |
-| 5 | Dietrich | Dorothea | Eberhard | Eleonore | Elisabeth | Emanuel |
-| 6 | Emma | Erich | Eva | Ferdinand | Franz | Friederike |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Friedrich | Georg | Gerhard | Gertrud | Gottfried | Gotthold |
-| 2 | Gottlieb | Gregor | Greta | Guenther | Hans | Hartmut |
-| 3 | Heinrich | Helene | Hermann | Hieronymus | Hildegard | Hubert |
-| 4 | Ignaz | Jakob | Joachim | Johann | Johanna | Johannes |
-| 5 | Joseph | Juliana | Karl | Katharina | Klaus | Konrad |
-| 6 | Kurt | Liselotte | Lorenz | Lucas | Ludwig | Luise |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Magdalena | Manfred | Marcus | Margaretha | Maria | Martha |
-| 2 | Matthäus | Matthias | Maximilian | Melchior | Michael | Monika |
-| 3 | Nikolaus | Oskar | Ottilie | Peter | Philipp | Reinhold |
-| 4 | Renate | Rosina | Rudolf | Sabina | Sebastian | Sibylla |
-| 5 | Siegfried | Sophie | Stefan | Susanna | Therese | Ulrich |
-| 6 | Ursula | Valentin | Veronika | Wilhelm | Wolfgang | Xaver |
-
-### German Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Albrecht | Arnold | Bauer | Baumann | Beck | Becker |
-| 2 | Berger | Bergmann | Böhm | Brandt | Braun | Busch |
-| 3 | Dietz | Drechsler | Eberhardt | Engel | Fischer | Frank |
-| 4 | Franke | Friedrich | Fuchs | Gerhard | Graf | Gross |
-| 5 | Günther | Haas | Hahn | Hartmann | Heinrich | Heller |
-| 6 | Herrmann | Hoffmann | Hofmann | Horn | Huber | Jäger |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Jung | Kaiser | Kaufmann | Klein | Klinger | Koch |
-| 2 | Köhler | König | Kramer | Kraus | Krause | Krüger |
-| 3 | Kuhn | Kurz | Lang | Lange | Lehmann | Lenz |
-| 4 | Lorenz | Ludwig | Maier | Mayer | Meier | Meyer |
-| 5 | Möller | Müller | Neumann | Otto | Peters | Pfeiffer |
-| 6 | Pohl | Reiter | Richter | Riedel | Roth | Sauer |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Schäfer | Schilling | Schmid | Schmidt | Schmitt | Schmitz |
-| 2 | Schneider | Scholz | Schreiber | Schröder | Schubert | Schulz |
-| 3 | Schulze | Schuster | Schwarz | Seidel | Smidt | Sommer |
-| 4 | Thomas | Ullrich | Vogel | Vogt | Voigt | Wagner |
-| 5 | Walter | Weber | Weiss | Werner | Winkler | Winter |
-| 6 | Wolf | Wolff | Woll | Ziegler | Zimmer | Zimmermann |
-
-### Irish Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Aidan | Aine | Aisling | Aoibhe | Aoife | Barry |
-| 2 | Bernadette | Blathnaid | Brendan | Brian | Bridget | Bridie |
-| 3 | Bronagh | Caoimhe | Carmel | Cathal | Ciara | Cillian |
-| 4 | Clodagh | Colette | Colm | Connor | Conor | Cormac |
-| 5 | Daniel | Darragh | Declan | Deirdre | Dermot | Dervla |
-| 6 | Desmond | Diarmuid | Dolores | Donal | Donnacha | Eamon |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Eileen | Eimear | Emer | Enda | Eoghan | Eoin |
-| 2 | Etain | Fergus | Fiachra | Fidelma | Finbar | Fionn |
-| 3 | Gemma | Gerard | Grainne | Imelda | James | John |
-| 4 | Joseph | Kathleen | Keira | Kevin | Kieran | Killian |
-| 5 | Liam | Luke | Maeve | Mairead | Malachy | Mary |
-| 6 | Maureen | Michael | Monica | Muireann | Niall | Niamh |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Nora | Nuala | Oisin | Oonagh | Orla | Padraig |
-| 2 | Patricia | Patrick | Paul | Peter | Philomena | Rita |
-| 3 | Roisin | Ronan | Rory | Ruairi | Sadhbh | Saoirse |
-| 4 | Seamus | Sean | Senan | Shane | Sheila | Sinead |
-| 5 | Siobhan | Sorcha | Stephen | Tadhg | Tallulah | Tara |
-| 6 | Therese | Thomas | Turlough | Una | Ursula | Veronica |
-
-### Irish Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Barrett | Boylan | Boyle | Brady | Brennan | Brown |
-| 2 | Buckley | Burke | Byrne | Caffrey | Campbell | Cassidy |
-| 3 | Clarke | Collins | Connolly | Coughlan | Cronin | Cullen |
-| 4 | Curran | Daly | Devine | Dolan | Donegan | Donnelly |
-| 5 | Doran | Doyle | Duffy | Duggan | Dunne | Dwyer |
-| 6 | Farrell | Fitzgerald | Fitzpatrick | Flanagan | Flynn | Foley |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Gallagher | Gormley | Harte | Healy | Higgins | Hogan |
-| 2 | Hughes | Johnston | Joyce | Kane | Kavanagh | Kelly |
-| 3 | Kennedy | Keogh | Kiernan | Larkin | Lynch | Maguire |
-| 4 | Maher | Mahony | McArdle | McBride | McCabe | McCann |
-| 5 | McCarthy | McCormack | McDermott | McGovern | McGrath | McGuinness |
-| 6 | McHugh | McKenna | McLaughlin | McMahon | Molloy | Moore |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Moran | Muldoon | Mullan | Mullins | Murphy | Murray |
-| 2 | Nolan | O'Brien | O'Callaghan | O'Carroll | O'Connell | O'Connor |
-| 3 | O'Doherty | O'Donnell | O'Donovan | O'Gorman | O'Hara | O'Leary |
-| 4 | O'Neill | O'Reilly | O'Rourke | O'Shea | O'Sullivan | Power |
-| 5 | Quinn | Roche | Ryan | Sheridan | Smith | Sweeney |
-| 6 | Thompson | Tierney | Walsh | Whelan | White | Wilson |
-
-### Italian Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adele | Alberto | Aldo | Alessandra | Alessandro | Andrea |
-| 2 | Angela | Anna | Antonietta | Antonio | Beatrice | Bianca |
-| 3 | Bruno | Carlo | Carmela | Caterina | Chiara | Claudia |
-| 4 | Claudio | Concetta | Daniela | Dario | Davide | Domenico |
-| 5 | Elena | Elisa | Enrico | Erminia | Ettore | Fabio |
-| 6 | Federica | Felice | Filippo | Flora | Francesca | Francesco |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Franco | Gaetano | Gaspare | Gemma | Giacomo | Gianni |
-| 2 | Gilda | Ginevra | Giorgio | Giovanna | Giovanni | Giuseppe |
-| 3 | Giuseppina | Grazia | Guido | Ida | Ines | Isabella |
-| 4 | Laura | Leonardo | Letizia | Lorenzo | Lucia | Luciano |
-| 5 | Luigi | Marcello | Marco | Margherita | Maria | Mario |
-| 6 | Massimo | Matilde | Matteo | Maurizio | Michele | Monica |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Nicola | Noemi | Nunzia | Oreste | Orlando | Ornella |
-| 2 | Paola | Paolo | Pasquale | Patrizia | Pietro | Placido |
-| 3 | Quintino | Raffaele | Renzo | Rita | Roberta | Roberto |
-| 4 | Rosa | Rosaria | Ruggero | Salvatore | Samuele | Sebastiano |
-| 5 | Sergio | Silvia | Simona | Speranza | Stefano | Teodora |
-| 6 | Teresa | Tommaso | Valentina | Vincenzo | Virginia | Vittoria |
-
-### Italian Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Amato | Barbieri | Basile | Basso | Bellandi | Bellini |
-| 2 | Benedetti | Bernardi | Bianchi | Bianco | Bruno | Caputo |
-| 3 | Carbone | Caruso | Casadei | Castelli | Cattaneo | Colombo |
-| 4 | Conti | Coppola | Costa | D'Amico | D'Angelo | Danesi |
-| 5 | De Angelis | De Felice | De Luca | De Martino | De Rosa | De Santis |
-| 6 | Della Valle | Donati | Esposito | Fabbri | Farina | Ferrara |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Ferrari | Ferraro | Ferretti | Fiore | Fontana | Galli |
-| 2 | Gallo | Gatti | Gentili | Giordano | Giuliani | Grassi |
-| 3 | Greco | Grossi | Guerra | Guerrieri | Lazzari | Leone |
-| 4 | Lombardi | Longhi | Longo | Mancini | Marchetti | Mariani |
-| 5 | Marini | Marino | Martinelli | Martini | Marzano | Mazza |
-| 6 | Messina | Molinari | Monti | Morelli | Moretti | Negri |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Neri | Orlando | Pagano | Palumbo | Parisi | Pasquali |
-| 2 | Pavan | Pellegrini | Pellegrino | Piras | Poli | Ricci |
-| 3 | Rinaldi | Riva | Rizzo | Romani | Romano | Romeo |
-| 4 | Rossetti | Rossi | Ruggiero | Russo | Sanna | Santini |
-| 5 | Santoro | Sartori | Serra | Silvestri | Sorrentino | Testa |
-| 6 | Valenti | Valentini | Valli | Villa | Vitale | Vitali |
-
-### Native North American (Southern) Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adahy | Ahanu | Aiyana | Aka | Ayita | Bly |
-| 2 | Chenoa | Chimalis | Chu'mana | Cochise | Deganawida | Doli |
-| 3 | Dyani | Elu | Etenia | Gaho | Geronimo | Halona |
-| 4 | Honovi | Hototo | Imala | Istas | Jaci | Kai |
-| 5 | Kangee | Kaya | Kineks | Knoton | Koko | Lallo |
-| 6 | Liwanu | Lomasi | Lozen | Lulu | Mahkah | Makya |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Mansi | Maska | Massasoit | Matoaka | Metacomet | Migina |
-| 2 | Misu | Muna | Nahvee | Nakos | Nanyehi | Nayati |
-| 3 | Nita | Nova | Nuna | Odina | Ohanzee | Olathe |
-| 4 | Opa | Otaktay | Paco | Pati | Pavati | Paytah |
-| 5 | Pitalesharo | Pocahontas | Pola | Powhatan | Quahneah | Quanah |
-| 6 | Rayen | Sacagawea | Samoset | Sani | Sequoyah | Sihu |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Siwili | Sora | Taini | Takoda | Tala | Tallulah |
-| 2 | Tashunke | Tecumseh | Tiva | Tohon | Tyee | Una |
-| 3 | Uncas | Utina | Viho | Wachiwi | Wahkan | Weetamoo |
-| 4 | Winona | Wunzh | Wyanet | Yamka | Yepa | Yuma |
-| 5 | Zihna | Zusa | - | - | - | - |
-| 6 | - | - | - | - | - | - |
-
-### Native North American (Southern) Surnames / Family Names
+| 1 | Quanah | Rayen | Sacagawea | Salali | Samoset | Sani |
+| 2 | Sequoyah | Sihu | Siwili | Sora | Taini | Takhi |
+| 3 | Takoda | Tala | Tallulah | Tashunke | Tecumseh | Tiva |
+| 4 | Tohon | Tyee | Una | Uncas | Utina | Viho |
+| 5 | Wachiwi | Wahkan | Weetamoo | Winona | Wunzh | Wyanet |
+| 6 | Yamka | Yansa | Yepa | Yuma | Zihna | Zusa |
+
+### Native American (Plains, Southwest, and Southeastern Regions) Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1425,228 +895,6 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Watie | White Bull | White Calf | White Plume | Whitehorse | Whiteman |
 | 6 | Whitethorne | Yazzie | Yellow Bird | Yellow Boy | Yellowhair | Zah |
 
-### Scottish Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Agnes | Ailith | Ailsa | Alan | Alasdair | Alexander |
-| 2 | Alistair | Andrew | Angus | Anne | Bethia | Blair |
-| 3 | Brian | Bruce | Callum | Calum | Cammy | Catherine |
-| 4 | Catriona | Charles | Christian | Colin | Craig | David |
-| 5 | Davina | Derek | Donald | Douglas | Duncan | Eilidh |
-| 6 | Elizabeth | Elspeth | Euan | Euphemia | Ewan | Fenella |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Fergus | Finlay | Fiona | Flora | Fraser | Gary |
-| 2 | Gavin | George | Gordon | Graham | Grant | Gregor |
-| 3 | Grisel | Grizel | Hamish | Helen | Iain | Ian |
-| 4 | Innes | Iona | Ishbel | Isobel | James | Janet |
-| 5 | Jean | John | Keir | Keith | Kenna | Kenneth |
-| 6 | Kevin | Kirsty | Lachlan | Lewis | Lilias | Logan |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Maisie | Malcolm | Margaret | Marion | Marjory | Marsaili |
-| 2 | Mary | Mhairi | Morag | Morna | Murdo | Murray |
-| 3 | Neil | Nellis | Niall | Rhona | Robert | Robina |
-| 4 | Roderick | Rory | Ross | Rowena | Ruairidh | Ruaridh |
-| 5 | Scott | Senga | Sheena | Shona | Sibilla | Sorley |
-| 6 | Stuart | Tavish | Thomas | Torquil | William | Wilma |
-
-### Scottish Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Allan | Anderson | Bain | Balfour | Barr | Bell |
-| 2 | Black | Blair | Boyd | Brown | Buchanan | Burnett |
-| 3 | Cameron | Campbell | Clark | Cowie | Crawford | Cunningham |
-| 4 | Davidson | Douglas | Drummond | Duncan | Elliot | Erskine |
-| 5 | Farquharson | Ferguson | Findlay | Fleming | Forbes | Fraser |
-| 6 | Gordon | Gow | Graham | Grant | Grieve | Gunn |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Guthrie | Hamilton | Hardie | Hay | Henderson | Hunter |
-| 2 | Hutchison | Irvine | Johnston | Kennedy | Kerr | Lamont |
-| 3 | Lawson | Leask | Leslie | Lindsay | Livingstone | Low |
-| 4 | Lumsden | MacAlpin | MacBean | MacCormick | MacDonald | MacDougall |
-| 5 | MacFarlane | MacGillivray | MacGregor | MacInnes | Mackay | MacKinnon |
-| 6 | MacLaren | MacLeod | MacNab | MacNeil | MacPherson | MacRae |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Maitland | Mathieson | Maxwell | McIntosh | McKenzie | McLean |
-| 2 | McNee | McQueen | McTaggart | Menzies | Millar | Milne |
-| 3 | Mitchell | Morrison | Munro | Murray | Nicol | Paton |
-| 4 | Reid | Ritchie | Robertson | Ross | Scott | Simpson |
-| 5 | Sinclair | Smith | Steel | Stewart | Strachan | Tait |
-| 6 | Taylor | Thomson | Urquhart | Walker | Wallace | Wilson |
-
-### Spanish Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Adelaida | Adrian | Agustin | Alejandro | Alonso | Ana |
-| 2 | Andres | Angel | Antonia | Antonio | Baltasar | Barbara |
-| 3 | Bartolome | Beatriz | Bernardo | Carlos | Carmen | Catalina |
-| 4 | Clara | Clemente | Concepcion | Cristobal | Daniela | Diego |
-| 5 | Dionisio | Dolores | Domingo | Elena | Elvira | Emilio |
-| 6 | Esperanza | Esteban | Eugenio | Faustino | Feliciana | Felipe |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Fernando | Francisca | Francisco | Gabriel | Gaspar | Gertrudis |
-| 2 | Gilberto | Gregorio | Guadalupe | Hernando | Hilario | Ignacio |
-| 3 | Ines | Isabel | Isidro | Jacinta | Javier | Joaquin |
-| 4 | Jose | Juan | Juana | Julian | Leandro | Leonor |
-| 5 | Lope | Lorenzo | Lucia | Luciano | Luis | Magdalena |
-| 6 | Manuel | Marcos | Margarita | Maria | Marina | Mateo |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Melchor | Mercedes | Miguel | Narciso | Natalia | Nicolas |
-| 2 | Olga | Onofre | Paloma | Pasqual | Pedro | Petrona |
-| 3 | Pilar | Placido | Quintin | Rafael | Ramon | Ramona |
-| 4 | Ricardo | Roque | Rosario | Salvador | Santiago | Sebastian |
-| 5 | Silvestre | Silvia | Soledad | Teresa | Tomas | Tristan |
-| 6 | Ursula | Veronica | Vicente | Ximena | Yolanda | Zoraida |
-
-### Spanish Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Acosta | Aguilar | Alvarez | Aragon | Becerra | Beltran |
-| 2 | Benitez | Bravo | Cabrera | Calderon | Campos | Cano |
-| 3 | Carmona | Carrillo | Castillo | Castro | Cervantes | Cordova |
-| 4 | De la Cruz | De la Rosa | De la Torre | Delgado | Diaz | Dominguez |
-| 5 | Duarte | Duron | Escobar | Espinosa | Estrada | Fernandez |
-| 6 | Figueroa | Flores | Fuentes | Gallegos | Galvan | Garcia |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Gomez | Gonzalez | Guerra | Gutierrez | Guzman | Heredia |
-| 2 | Hernandez | Herrera | Hidalgo | Ibanez | Ibarra | Islas |
-| 3 | Jaimes | Jara | Jimenez | Juarez | Lara | Leon |
-| 4 | Lopez | Lozano | Machado | Martinez | Mendez | Mendoza |
-| 5 | Meza | Miranda | Molina | Montoya | Morales | Navarro |
-| 6 | Negrete | Nieto | Nuñez | Olivares | Orozco | Ortiz |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Pacheco | Padilla | Palacios | Pastor | Perez | Quintana |
-| 2 | Quintero | Ramirez | Ramos | Reyes | Rivera | Robledo |
-| 3 | Rodriguez | Rojas | Roman | Ruiz | Salas | Salazar |
-| 4 | Sanchez | Segura | Serrano | Sosa | Tapia | Tellez |
-| 5 | Torres | Urbina | Uribe | Valdez | Valenzuela | Vargas |
-| 6 | Vasquez | Vela | Villalobos | Zamora | Zavala | Zuniga |
-
-### Welsh Forenames / Given Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Aeddan | Aeron | Aerona | Alwyn | Alys | Aneirin |
-| 2 | Angharad | Anwen | Arthur | Bedwyr | Berwyn | Bethan |
-| 3 | Bleddyn | Bronwen | Bryn | Buddug | Cadfan | Cai |
-| 4 | Caradog | Carwyn | Carys | Catrin | Cerys | Dafydd |
-| 5 | Delyth | Derwyn | Dewi | Dilys | Dwynwen | Dylan |
-| 6 | Eira | Eirlys | Eleri | Elin | Elwyn | Emrys |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Enid | Euros | Evan | Ffion | Ffraid | Gareth |
-| 2 | Geraint | Gethin | Glenda | Griffith | Gruffudd | Gwalchmai |
-| 3 | Gwawr | Gwen | Gwenan | Gwenllian | Gwilym | Gwydion |
-| 4 | Gwynfor | Haf | Heledd | Hywel | Idris | Ieuan |
-| 5 | Indeg | Iola | Iolo | Iona | Iwan | Jevan |
-| 6 | Kyffin | Lewys | Llinos | Llywelyn | Lona | Lowri |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Luned | Macsen | Mair | Mali | Manon | Mari |
-| 2 | Meurig | Morgan | Morwenna | Myfanwy | Nella | Nia |
-| 3 | Non | Olwen | Osian | Owain | Owen | Peredur |
-| 4 | Prys | Rhiain | Rhian | Rhiannon | Rhodri | Rhun |
-| 5 | Rhys | Seren | Sian | Sion | Steffan | Sulien |
-| 6 | Taliesin | Tesni | Tomos | Tristan | Tudur | Wyn |
-
-### Welsh Surnames / Family Names
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Anwyl | Aubrey | Bebb | Beddoe | Bevan | Beynon |
-| 2 | Bonsall | Bowen | Cadogan | Cadwallader | Clement | Collins |
-| 3 | Corbet | Cunnick | Davies | Dillwyn | Done | Duggan |
-| 4 | Dykins | Edwards | Ellis | Esau | Evans | Eynon |
-| 5 | Fido | Foulkes | Francis | Gee | Gethin | Gittins |
-| 6 | Gough | Griffith | Griffiths | Gwyn | Hamer | Havard |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Hezekiah | Hopkins | Howell | Hughes | Humphreys | Iles |
-| 2 | Ithell | James | Jarman | Jenkins | Jeremiah | Jones |
-| 3 | Kinsey | Kneath | Kyffin | Lewis | Llewellyn | Lloyd |
-| 4 | Lougher | Mabe | Maddox | Maredudd | Matthews | Meredith |
-| 5 | Morgan | Morris | Moss | Mostyn | Nener | Oatley |
-| 6 | Owen | Parcell | Parry | Pask | Pennant | Phillips |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Powell | Price | Pritchard | Probert | Prosser | Pugh |
-| 2 | Quance | Rees | Richards | Roberts | Roderick | Rosser |
-| 3 | Rowlands | Russell | Sayce | Scurlock | Smith | Stephens |
-| 4 | Tew | Thomas | Traherne | Treharne | Trevor | Tudor |
-| 5 | Uphill | Vane | Vaughan | Walters | Warlow | Watkins |
-| 6 | Williams | Woosnam | Wynn | Yerbury | Yorath | Zerk |
-
 ### Wild West Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
@@ -1655,67 +903,67 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Abner | Ace | Adelaide | Alma | Ambrose | Amos |
-| 2 | Angus | Annie | Arch | Arthur | Augustus | Barton |
-| 3 | Bat | Beauregard | Belle | Ben | Beulah | Bill |
-| 4 | Billy | Birdie | Black | Blue | Bob | Boone |
-| 5 | Bridget | Buck | Buffalo | Butch | Calamity | Caleb |
-| 6 | Call | Calvin | Camilla | Carlo | Carmen | Cash |
+| 1 | Abner | Adelaide | Adoniram | Alma | Alonzo | Alphonso |
+| 2 | Ambrose | Amos | Annie | Arch | Arthur | Augustus |
+| 3 | Balthazar | Barton | Bat | Beauregard | Belle | Ben |
+| 4 | Benedict | Beulah | Bill | Billy | Birdie | Black |
+| 5 | Blue | Bob | Boone | Buck | Buffalo | Burl |
+| 6 | Butch | Calamity | Caleb | Call | Calvin | Camilla |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
 | 1 | Cass | Charlie | Chester | Clay | Clement | Clementine |
-| 2 | Clint | Cole | Cora | Curtis | Cyrus | Dan |
-| 3 | Deets | Delilah | Delphine | Dewey | Diego | Dish |
-| 4 | Doc | Dolores | Duncan | Dusty | Dutch | Earl |
-| 5 | Edgar | Eileen | Elena | Eli | Ellis | Elmer |
-| 6 | Elzy | Emmet | Emory | Enid | Enzo | Ernest |
+| 2 | Cletus | Clint | Cole | Columbus | Cora | Curtis |
+| 3 | Cyprian | Cyrus | Dan | Deets | Delilah | Delmar |
+| 4 | Dewey | Dexter | Dish | Dusty | Dutch | Edgar |
+| 5 | Elbert | Eli | Ellis | Elmer | Elzy | Emmet |
+| 6 | Emory | Enid | Enoch | Ephraim | Ernest | Eustace |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Esteban | Etienne | Evan | Ewan | Ezekiel | Fergus |
-| 2 | Fiona | Flora | Floyd | Foster | Frank | Freeman |
-| 3 | Garland | George | Gertrude | Gideon | Grant | Grover |
-| 4 | Gus | Hank | Harry | Harvey | Hattie | Hiram |
-| 5 | Homer | Horace | Houston | Ida | Ike | Ines |
-| 6 | Ira | Isaiah | Jacob | James | Jasper | Jeb |
+| 1 | Evan | Ezekiel | Finis | Fletcher | Flora | Floyd |
+| 2 | Foster | Frank | Freeman | Garland | George | Gertrude |
+| 3 | Gideon | Gottlieb | Grant | Granville | Grover | Gus |
+| 4 | Hank | Harry | Harvey | Hattie | Hiram | Homer |
+| 5 | Horace | Horatio | Hosea | Houston | Ichabod | Ida |
+| 6 | Ignatius | Ike | Ira | Isaiah | Jacob | James |
 
 #### Table 4
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Jeremiah | Jesse | Jim | Joaquin | Joel | Johnny |
-| 2 | Jonah | Joshua | Josiah | Josie | Judson | Jun |
-| 3 | King | Kit | Kitty | Lafayette | Lefty | Lem |
-| 4 | Levi | Lewis | Lian | Liang | Lonnie | Louella |
-| 5 | Lucien | Lucky | Luke | Lulu | Luz | Lyle |
-| 6 | Mabel | Mae | Marion | Marshal | Martin | Mason |
+| 1 | Jasper | Jeb | Jedediah | Jeremiah | Jesse | Jim |
+| 2 | Joel | Johnny | Jonah | Joshua | Josiah | Josie |
+| 3 | Judd | Judson | Kincaid | King | Kit | Kitty |
+| 4 | Lafayette | Lafe | Lazarus | Lem | Levi | Lewis |
+| 5 | Lonnie | Louella | Luke | Lulu | Lyle | Mabel |
+| 6 | Mae | Marion | Marshal | Martin | Mason | Milton |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Mateo | Mei | Milton | Ming | Moira | Monroe |
-| 2 | Morgan | Nathan | Nellie | Nelson | News | Newt |
-| 3 | Noah | Obediah | Otis | Owen | Pascal | Pat |
-| 4 | Pea | Pearl | Pearlie | Perry | Pilar | Porter |
-| 5 | Quincy | Rafael | Ramon | Randall | Red | Reuben |
-| 6 | Riley | Roscoe | Rose | Roy | Rufus | Sadie |
+| 1 | Monroe | Morgan | Mortimer | Nathan | Nellie | Nelson |
+| 2 | News | Newt | Newton | Noah | Obediah | Orlando |
+| 3 | Otis | Owen | Pat | Pea | Pearl | Pearlie |
+| 4 | Percival | Perry | Phineas | Porter | Prescott | Quincy |
+| 5 | Quintus | Randall | Reford | Reuben | Riley | Roderick |
+| 6 | Roscoe | Rose | Roy | Rufus | Rutherford | Sadie |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Sam | Scout | Seth | Sherman | Shorty | Silas |
-| 2 | Simon | Slim | Sterling | Stokes | Tao | Tex |
-| 3 | Thaddeus | Tillie | Tobias | Tom | Trigger | Truman |
-| 4 | Ulysses | Vera | Vernon | Virgil | Vittorio | Wade |
-| 5 | Wei | Wesley | Wild | Willa | William | Willis |
-| 6 | Woodrow | Wyatt | Xiu | Zane | Zeb | Zora |
+| 1 | Sam | Sebastian | Seth | Sherman | Silas | Simon |
+| 2 | Sterling | Stokes | Sylvanus | Thaddeus | Tillie | Tobias |
+| 3 | Tolliver | Tom | Truman | Ulysses | Uriah | Valentine |
+| 4 | Vera | Vernon | Virena | Virgil | Wade | Wallace |
+| 5 | Wesley | Wild | Willa | William | Willis | Woodrow |
+| 6 | Wyatt | Zane | Zeb | Zebulon | Zilpha | Zora |
 
 ### Wild West Surnames / Family Names
 
@@ -1725,65 +973,65 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Abbott | Alvarez | Archer | Arroyo | Ashby | Baca |
-| 2 | Bailey | Baker | Baptiste | Barrett | Bass | Behan |
-| 3 | Bellini | Benteen | Billy | Blackjack | Bonney | Boucher |
-| 4 | Bowdre | Boyd | Brady | Brennan | Bridger | Buckshot |
-| 5 | Bullion | Burke | Butler | Byrd | Calamity | Calderon |
-| 6 | Callahan | Calloway | Canby | Canton | Caprio | Carr |
+| 1 | Abbott | Archer | Ashby | Bailey | Baker | Baptiste |
+| 2 | Barrett | Barstow | Bass | Beaumont | Behan | Benteen |
+| 3 | Billy | Blackjack | Blackwood | Bonney | Bowdre | Boyd |
+| 4 | Brady | Brennan | Bridger | Buckner | Bullion | Burke |
+| 5 | Butler | Byrd | Calamity | Callahan | Calloway | Canby |
+| 6 | Canton | Carr | Carrington | Carson | Carver | Cassidy |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Carrillo | Carrington | Carson | Carver | Cassidy | Chambers |
-| 2 | Chin | Chisum | Chivington | Claiborne | Clanton | Cody |
-| 3 | Connor | Cooper | Corbett | Crook | Crowley | Custer |
-| 4 | Dalton | Daugherty | Deadwood | Delgado | Dempsey | Dolan |
-| 5 | Doniphan | Doolin | Doyle | Drummond | Duggan | Dunn |
-| 6 | Dustfall | Earp | Estrada | Fetterman | Fisher | Flintlock |
+| 1 | Chambers | Chisum | Chivington | Claiborne | Clanton | Cody |
+| 2 | Colter | Connor | Cooper | Corbett | Crawford | Creed |
+| 3 | Crook | Crowley | Custer | Dalton | Daugherty | Deadwood |
+| 4 | Dempsey | Dolan | Doniphan | Doolin | Doyle | Drummond |
+| 5 | Duggan | Dunn | Dustfall | Earp | Fetterman | Fisher |
+| 6 | Flintlock | Flynn | Foley | Forsyth | French | Gallagher |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Flynn | Foley | Fontaine | Forsyth | French | Gagnon |
-| 2 | Gallagher | Gallegos | Gannon | Garrett | Gatewood | Gibbon |
-| 3 | Goodnight | Grady | Grattan | Grierson | Grimes | Hanks |
-| 4 | Hardin | Harlan | Harper | Hatch | Hensley | Herrera |
-| 5 | Hester | Hickok | Highpocket | Hindman | Holliday | Horn |
-| 6 | Hornsby | Houghton | Ironspur | James | Jennings | Keane |
+| 1 | Gannon | Garrett | Gatewood | Gibbon | Goodnight | Grady |
+| 2 | Grattan | Grayson | Grierson | Grimes | Hanks | Hardin |
+| 3 | Harlan | Harper | Harrow | Hatch | Henderson | Hensley |
+| 4 | Hester | Hickok | Highpocket | Hightower | Hindman | Holliday |
+| 5 | Holloway | Horn | Hornsby | Houghton | Ironspur | James |
+| 6 | Jennings | Keane | Kearny | Ketchum | Kilpatrick | Kincaid |
 
 #### Table 4
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Kearny | Ketchum | Kilpatrick | Kincaid | Knight | Larkin |
-| 2 | Lattimer | Lavigne | Lawton | Lay | Lee | Leopold |
-| 3 | Llewellyn | Logan | Longspur | Louie | Loving | Lyon |
-| 4 | Mackenzie | Madsen | Masterson | Mather | McBride | McCall |
-| 5 | McCandless | McCoy | McCrae | McKenna | McLaury | McLeod |
-| 6 | McSween | Meeks | Mercier | Merritt | Miles | Montoya |
+| 1 | Kingsley | Knight | Larkin | Lattimer | Lattimore | Lawton |
+| 2 | Lay | Leopold | Llewellyn | Lockridge | Logan | Longspur |
+| 3 | Loving | Lyon | Mackenzie | Madsen | Masterson | Mather |
+| 4 | McBride | McCall | McCandless | McCoy | McCrae | McKenna |
+| 5 | McKinley | McLaury | McLeod | McQuade | McSween | Meeks |
+| 6 | Mercer | Meriwether | Merritt | Miles | Mulligan | Murphy |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Moretti | Mulligan | Murphy | Newcomb | Nixon | O'Brien |
-| 2 | O'Folliard | O'Hara | O'Malley | O'Rourke | O'Shea | Oakley |
-| 3 | Ortega | Panton | Paredes | Parker | Phelan | Pierce |
-| 4 | Price | Pruitt | Quan | Quintana | Rafferty | Raidler |
-| 5 | Rawhide | Reardon | Reno | Ringo | Romano | Rourke |
-| 6 | Rudabaugh | Ryan | Salazar | Scanlon | Serrano | Shelby |
+| 1 | Newcomb | Nixon | O'Brien | O'Folliard | O'Hara | O'Malley |
+| 2 | O'Rourke | O'Shea | Oakley | Panton | Parker | Pendleton |
+| 3 | Phelan | Pierce | Pinkerton | Price | Pritchard | Pruitt |
+| 4 | Rafferty | Raidler | Rawhide | Rawlins | Reardon | Reno |
+| 5 | Ringo | Rooke | Rourke | Rudabaugh | Ryan | Sawyer |
+| 6 | Scanlon | Shelby | Sheridan | Short | Sibley | Sieber |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Sheridan | Short | Sibley | Sieber | Sing | Sixgun |
-| 2 | Slade | Sloane | Speer | Starr | Sturgis | Sulley |
-| 3 | Sundance | Talbot | Tatum | Terry | Thompson | Tilghman |
-| 4 | Trujillo | Tully | Tumbleweed | Valdez | Vitale | Waite |
-| 5 | Wallace | Walsh | Ward | Webb | Wheeler | Whitaker |
-| 6 | Whitmore | Wilson | Wolfe | Wong | Yates | Younger |
+| 1 | Sixgun | Slade | Sloane | Speer | Stanton | Starr |
+| 2 | Sturgis | Sulley | Sundance | Sutton | Talbot | Tatum |
+| 3 | Terry | Thatcher | Thompson | Thornton | Tilghman | Treadwell |
+| 4 | Tully | Tumbleweed | Vance | Waite | Wallace | Walsh |
+| 5 | Ward | Weatherby | Webb | Wellington | Wheeler | Whitaker |
+| 6 | Whitfield | Whitmore | Wilson | Wolfe | Yates | Younger |
 
