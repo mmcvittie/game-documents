@@ -70,9 +70,6 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 4](#table-4-2)
       - [Table 5](#table-5-2)
       - [Table 6](#table-6-2)
-      - [Table 7](#table-7)
-      - [Table 8](#table-8)
-      - [Table 9](#table-9)
     - [Secrets](#secrets)
       - [Table 1](#table-1-3)
       - [Table 2](#table-2-3)
@@ -98,11 +95,11 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 1](#table-1-7)
       - [Table 2](#table-2-7)
       - [Table 3](#table-3-7)
-    - [French (18th Century to Modern) Forenames / Given Names](#french-18th-century-to-modern-forenames-given-names)
+    - [French Forenames / Given Names](#french-forenames-given-names)
       - [Table 1](#table-1-8)
       - [Table 2](#table-2-8)
       - [Table 3](#table-3-8)
-    - [French (18th Century to Modern) Surnames / Family Names](#french-18th-century-to-modern-surnames-family-names)
+    - [French Surnames / Family Names](#french-surnames-family-names)
       - [Table 1](#table-1-9)
       - [Table 2](#table-2-9)
       - [Table 3](#table-3-9)
@@ -114,19 +111,19 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 1](#table-1-11)
       - [Table 2](#table-2-11)
       - [Table 3](#table-3-11)
-    - [Irish (18th Century to Modern) Forenames / Given Names](#irish-18th-century-to-modern-forenames-given-names)
+    - [Irish Forenames / Given Names](#irish-forenames-given-names)
       - [Table 1](#table-1-12)
       - [Table 2](#table-2-12)
       - [Table 3](#table-3-12)
-    - [Irish (18th Century to Modern) Surnames / Family Names](#irish-18th-century-to-modern-surnames-family-names)
+    - [Irish Surnames / Family Names](#irish-surnames-family-names)
       - [Table 1](#table-1-13)
       - [Table 2](#table-2-13)
       - [Table 3](#table-3-13)
-    - [Italian (18th Century to Modern) Forenames / Given Names](#italian-18th-century-to-modern-forenames-given-names)
+    - [Italian Forenames / Given Names](#italian-forenames-given-names)
       - [Table 1](#table-1-14)
       - [Table 2](#table-2-14)
       - [Table 3](#table-3-14)
-    - [Italian (18th Century to Modern) Surnames / Family Names](#italian-18th-century-to-modern-surnames-family-names)
+    - [Italian Surnames / Family Names](#italian-surnames-family-names)
       - [Table 1](#table-1-15)
       - [Table 2](#table-2-15)
       - [Table 3](#table-3-15)
@@ -144,11 +141,11 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 4](#table-4-5)
       - [Table 5](#table-5-5)
       - [Table 6](#table-6-5)
-    - [Scottish (18th Century to Modern) Forenames / Given Names](#scottish-18th-century-to-modern-forenames-given-names)
+    - [Scottish Forenames / Given Names](#scottish-forenames-given-names)
       - [Table 1](#table-1-18)
       - [Table 2](#table-2-18)
       - [Table 3](#table-3-18)
-    - [Scottish (18th Century to Modern) Surnames / Family Names](#scottish-18th-century-to-modern-surnames-family-names)
+    - [Scottish Surnames / Family Names](#scottish-surnames-family-names)
       - [Table 1](#table-1-19)
       - [Table 2](#table-2-19)
       - [Table 3](#table-3-19)
@@ -203,7 +200,7 @@ Move between *Range Zones* and elevations as an *Action*. Range zones are Close 
 
 If you're *engaged in melee* and attempt to move away, make an *Avoidance Save*; on failure chose to stay in place or take a *Strike* to move anyway.
 
-If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon.
+If you are in or behind cover, gain a Boon to your Armour Saves. Particularly heavy cover can provide an additional Boon. Attacks targeting NPCs in cover take a Bane, with an additional Bane if particularly heavy cover.
 
 ## Saves
 When something would affect or hurt you, roll a save and *meet or beat the Target Number* to avoid it. Enemies do not make Armour Saves; their Avoidance/Resistance Save is 6 unless stated otherwise.
@@ -292,21 +289,21 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Grappler** | Remove the Bane penalty when fighting unarmed. | Grappling, Balance |
 | **Dual Wielder** | Gain a boon but no additional damage or attacks when using two one-handed weapons of the same type. | Dual Wielding Attacks |
 | **Brutal Strikes** | When wielding a 2-handed melee weapon, your melee attacks Crit and Confirm Crits on a 5+. |  |
-| **Swordswinger** | Specialized in sword combat, gaining boons to melee attacks with blades and defending melee attacks when armed with a blade. | Melee Attacks With Blades, Against Melee Attacks When Armed With a Blade |
+| **Blade Master** | Specialized in combat with blades such as swords and knives. Gain Boons to Melee Attacks With Blades and defending Against Melee Attacks when Armed with a Blade. | Melee Attacks With Blades, Against Melee Attacks When Armed With a Blade |
 | **Improvised Weapon Master** | Skilled at using the environment to your advantage in combat. Gain a Boon to attacks with improvised weapons and using the environment as a weapon. | Improvised Weapons, Using the Environment as a Weapon |
 | **Hawkeye** | Master archer skilled with bows and crossbows. | Ranged Attacks using Bows/Crossbows |
-| **Good Throwing Arm** | Skilled at throwing weapons and slings with accuracy. | Ranged Attacks using Thrown Weapons/Slings |
+| **Skirmisher** | Skilled at throwing weapons and slings. | Ranged Attacks using Thrown Weapons/Slings |
 | **Swirling Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
 | **Intercept** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
 | **Deflection** | As your Reaction, when you are hit and fail your Armour Save, roll a 4+. If you fail, take the Strike. If you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. |  |
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
-| **Cover Specialist** | When in cover, you always count as being in one level higher cover than you actually are. |  |
+| **Cover Specialist** | When in cover, you gain an additional Boon to your Armour Save. |  |
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
-| **Defender** | Once per turn, as a Reaction, take an attack intended for a Close Range teammate. You can still roll the Save on it. |  |
+| **Defender** | You can, as a Reaction, take an attack intended for a Close Range teammate. You can still roll the Save on it. |  |
 | **Unstoppable** | When you inflict a Strike, you can sacrifice a Strike yourself to automatically inflict another Strike that counts as a 6 to hit. |  |
 
 #### Social Inclinations
@@ -372,11 +369,10 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Trigger Discipline** | You are an expert at conserving ammunition. Once per session, you have a free reload that doesn't use your supplies. |  |
 | **Gun Lover** | Expert with firearms, gaining boons to all ranged attacks using guns. | Ranged Attacks using Firearms |
 | **Quick Draw** | Can draw/swap and attack with a gun as a single Action. |  |
-| **Careful Aim** | Take extra time to aim carefully before making a ranged attack, gaining increased accuracy. | The following Ranged Attack Action |
 | **Trick Shooter** | Can perform trick shots to disarm enemies, shoot items from their hands, or ricochet bullets to make otherwise impossible shots. | Trick Shots |
 | **Demolition Man** | Can safely set and disarm explosives on anything but a 1. Know how to maximize blast effectiveness and improvise explosive devices. The higher the roll, the better it goes. |  |
-| **Crack Shot** | No ranged target is ever harder than a 4+ to hit unless in cover. |  |
-| **Sharpshooter** | When targeting enemies in cover, treat them as being in one level lower cover than they actually are. |  |
+| **Crack Shot** | No ranged target is ever harder than a 4+ to hit. |  |
+| **Sharpshooter** | Enemies in cover don't gain the benefits of cover. |  |
 | **Sniper** | When firing from a concealed position, gain a Ranged Boon and crit on one number lower than normal. | Ranged Attack from Concealed Position |
 
 #### Mental Inclinations
@@ -391,7 +387,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Hyper Aware** | You can blind fight and escape areas of obscured vision that can befuddle the direction of others. |  |
 | **Paranoid** | Hyper-aware of hidden dangers and deception, always watching for threats. | Spot Hidden Dangers, Spot Deception, Against Maniupulation |
 | **Investigator** | Keen eye for details and inconsistencies when investigating. | Spotting Clues, Investigating Scenes |
-| **Code Breaking** | Can decipher codes, ciphers, and encrypted messages on anything but a 1. The higher the result, the faster it goes. |  |
+| **Code Breaker** | Can decipher codes, ciphers, and encrypted messages on anything but a 1. The higher the result, the faster it goes. |  |
 | **Healer** | Can heal 1 Strike on an ally during downtime or a calm scene. If you use an Action or Reaction to stabilise a Close Range teammate at 0 Strikes, they will not die before you administer healing. |  |
 
 #### Physical Inclinations
@@ -415,8 +411,8 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
 | **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
-| **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per session, when you drop to 1 Health, immediately take a free Action with a Boon to whatever you do. |  |
+| **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
+| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
 | **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
@@ -760,7 +756,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Roll or choose a Motto: a phrase your character lives by. Use it for inspiration and as a guide when facing hard decisions.
 
-Roll **1d9** for table, **1d6** for row, and **1d6** for column.
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 #### Table 1
 
@@ -827,39 +823,6 @@ Roll **1d9** for table, **1d6** for row, and **1d6** for column.
 | 4 | I am what waits in their darkness. | The living pay in gratitude, not gold. | The stain on my soul is tactical. | They prey on doubt; I ran out years ago. | I don't chase ghosts. I corner them. | The line between man and monster is a trigger pull. |
 | 5 | I promised the living, not the dead. | Infernal tricks fail against stubborn. | I end possessions permanently. | Hell can hate me in person. | If the pit opens, I close it. | I don't negotiate with hunger from below. |
 | 6 | The damned only get one knock. | I was afraid once; it didn't help. | Every ward I draw is a promise kept. | I know what evil sounds like when it begs. | My mercy stops at the summoning circle. | The dark taught me where to aim. |
-
-#### Table 7
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Actions speak louder than words. | Never give up. | Trust no one. | Trust your instincts. | Hope for the best, prepare for the worst. | Fortune favors the bold. |
-| 2 | Better safe than sorry. | Live and let live. | An eye for an eye. | Do unto others. | Every person for themselves. | We're in this together. |
-| 3 | Know when to hold 'em, know when to fold 'em. | Strike first, ask questions later. | Nothing ventured, nothing gained. | The ends justify the means. | The road to hell is paved with good intentions. | What doesn't kill you makes you stronger. |
-| 4 | Knowledge is power. | Might makes right. | There's no honor among thieves. | A promise is a promise. | Seize the day. | Patience is a virtue. |
-| 5 | If you want something done right, do it yourself. | United we stand, divided we fall. | Keep your friends close and your enemies closer. | Revenge is a dish best served cold. | Never forgive, never forget. | Blood is thicker than water. |
-| 6 | Family first. | The truth will set you free. | Honesty is the best policy. | All's fair in love and war. | Pride goes before a fall. | Never show weakness. |
-
-#### Table 8
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Stand your ground. | Discretion is the better part of valor. | No sacrifice, no victory. | The needs of the many outweigh the needs of the few. | Look out for number one. | Do no harm. |
-| 2 | Survival of the fittest. | Adapt or die. | Change is the only constant. | This too shall pass. | What goes around comes around. | You reap what you sow. |
-| 3 | Make your own luck. | Everything happens for a reason. | Expect the unexpected. | Stay alert, stay alive. | Never let them see you sweat. | Keep calm and carry on. |
-| 4 | Live to fight another day. | Death before dishonor. | Whatever it takes. | By any means necessary. | The mission comes first. | No one gets left behind. |
-| 5 | I work alone. | If it ain't broke, don't fix it. | Measure twice, cut once. | Question everything. | Follow orders. | Rules are made to be broken. |
-| 6 | Honor above all. | Survival above all. | Never tell me the odds. | Embrace the chaos. | Never surrender. | Know when to quit. |
-
-#### Table 9
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | The best defense is a good offense. | Strike while the iron is hot. | The bigger they are, the harder they fall. | Speak softly and carry a big stick. | Actions have consequences. | No regrets. |
-| 2 | Learn from your mistakes. | Once bitten, twice shy. | Fool me once, shame on you. Fool me twice, shame on me. | Lead by example. | Be useful. | Finish what you start. |
-| 3 | Grace under pressure. | Stay teachable. | No panic, just priorities. | Truth over comfort. | Aim true. | Own the outcome. |
-| 4 | Respond, don't react. | Prepared is powerful. | Keep your edge. | Discipline buys freedom. | Raise your standards quietly. | Protect the vulnerable. |
-| 5 | Simple is strong. | Own your mistakes quickly. | Steady wins storms. | Leave it better. | Do the hard right thing. | Stay kind, stay dangerous. |
-| 6 | Make yourself useful before you make yourself known. | Nothing improves by avoiding it. | If you can help, help. | Earn trust in small moments. | A steady hand changes outcomes. | Courage is a habit. |
 
 ### Secrets
 
@@ -943,8 +906,8 @@ Roll **1d6** for row and **1d6** for column to select your name theme.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Chinese | Colonial English | French (18th Century to Modern) | German | Irish (18th Century to Modern) | Italian (18th Century to Modern) |
-| 2 | Native North American (Authentic) | Scottish (18th Century to Modern) | Spanish | Welsh | Wild West | - |
+| 1 | Chinese | Colonial English | French | German | Irish | Italian |
+| 2 | Native North American (Authentic) | Scottish | Spanish | Welsh | Wild West | - |
 | 3 | - | - | - | - | - | - |
 | 4 | - | - | - | - | - | - |
 | 5 | - | - | - | - | - | - |
@@ -1098,7 +1061,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Wayne | Wheatley | Whipple | Whitcomb | Whitlocke | Williams |
 | 6 | Wilson | Winslow | Winthrop | Witherspoon | Wooster | Wythe |
 
-### French (18th Century to Modern) Forenames / Given Names
+### French Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1135,7 +1098,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Simone | Solange | Sophie | Suzanne | Sylvie | Therese |
 | 6 | Thierry | Thomas | Victorine | Vincent | Xavier | Yves |
 
-### French (18th Century to Modern) Surnames / Family Names
+### French Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1246,7 +1209,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Walter | Weber | Weiss | Werner | Winkler | Winter |
 | 6 | Wolf | Wolff | Woll | Ziegler | Zimmer | Zimmermann |
 
-### Irish (18th Century to Modern) Forenames / Given Names
+### Irish Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1283,7 +1246,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Siobhan | Sorcha | Stephen | Tadhg | Tallulah | Tara |
 | 6 | Therese | Thomas | Turlough | Una | Ursula | Veronica |
 
-### Irish (18th Century to Modern) Surnames / Family Names
+### Irish Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1320,7 +1283,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Quinn | Roche | Ryan | Sheridan | Smith | Sweeney |
 | 6 | Thompson | Tierney | Walsh | Whelan | White | Wilson |
 
-### Italian (18th Century to Modern) Forenames / Given Names
+### Italian Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1357,7 +1320,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Sergio | Silvia | Simona | Speranza | Stefano | Teodora |
 | 6 | Teresa | Tommaso | Valentina | Vincenzo | Virginia | Vittoria |
 
-### Italian (18th Century to Modern) Surnames / Family Names
+### Italian Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1534,7 +1497,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Whitekiller | Whiteman | Whitethorne | Wolfe | Yahola | Yazzie |
 | 6 | Yellow Bird | Yellow Boy | Yellow Robe | Yellowhair | Yellowman | Zah |
 
-### Scottish (18th Century to Modern) Forenames / Given Names
+### Scottish Forenames / Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -1571,7 +1534,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 5 | Scott | Senga | Sheena | Shona | Sibilla | Sorley |
 | 6 | Stuart | Tavish | Thomas | Torquil | William | Wilma |
 
-### Scottish (18th Century to Modern) Surnames / Family Names
+### Scottish Surnames / Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
