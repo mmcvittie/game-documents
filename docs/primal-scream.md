@@ -30,7 +30,6 @@ At the dawn of an age of bone and blood, forge your legend in a primordial land 
     - [Wilderness Inclinations](#wilderness-inclinations)
     - [Companion Inclinations](#companion-inclinations)
     - [Spiritual Powers](#spiritual-powers)
-    - [Freeform Powers](#freeform-powers)
     - [Nature Powers](#nature-powers)
     - [Biological Mutations](#biological-mutations)
 - [Gear & Equipment](#gear-equipment)
@@ -147,7 +146,7 @@ Follow these steps to create your character:
    This starting loadout allows up to **4 Common**, **2 Uncommon**, and **0 Rare** items.
 
 5. **Starting Resources:** note your starting values:
-   - **Health:** 4
+   - **Health:** 3
    - **Spirit:** 3
    - **Talisman:** 0
 
@@ -163,8 +162,8 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 
 | Ability | Description | Boons |
 |---------|-------------|-------|
-| **Warrior Spirit** | Trained in melee combat. | Melee Attacks |
-| **Accurate** | Trained in ranged combat. | Ranged Attacks |
+| **Fighter** | Trained in melee combat. | Melee Attacks |
+| **Marksman** | Trained in ranged combat. | Ranged Attacks |
 | **Brawler** | Remove the Bane penalty when fighting unarmed and Crit and Confirm Crits on a 5+ when fighting unarmed. |  |
 | **Martial Artist** | Remove the Bane penalty when fighting unarmed. | Unarmed Combat, Physical Endurance |
 | **Grappler** | Remove the Bane penalty when fighting unarmed. | Grappling, Balance |
@@ -174,8 +173,8 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Improvised Weapon Master** | Skilled at using the environment to your advantage in combat. Gain a Boon to attacks with improvised weapons and using the environment as a weapon. | Improvised Weapons, Using the Environment as a Weapon |
 | **Hawkeye** | Master archer skilled with bows and crossbows. | Ranged Attacks using Bows/Crossbows |
 | **Skirmisher** | Skilled at throwing weapons and slings. | Ranged Attacks using Thrown Weapons/Slings |
-| **Whirlwind Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
-| **Interception** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
+| **Swirling Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
+| **Intercept** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
 | **Deflection** | As your Reaction, when you are hit and fail your Armour Save, roll a 4+. If you fail, take the Strike. If you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. |  |
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
@@ -184,7 +183,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Overwatcher** | When you use your Reaction to make an attack against a target that has moved into range, you gain a Boon to the attack. | Reaction Attacks |
 | **Duelist** | Skilled at one-on-one combat. When fighting a single opponent, alone, gain a Boon to all combat actions. | One-on-One Combat |
 | **Payback** | If an enemy rolls a 1 on their attack roll against you, you get a free attack against your attacker that cannot Crit. |  |
-| **Protection** | You can, as a Reaction, take an attack intended for a Close Range teammate. You can still roll the Save on it. |  |
+| **Defender** | You can, as a Reaction, take an attack intended for a Close Range teammate. You can still roll the Save on it. |  |
 | **Unstoppable** | When you inflict a Strike, you can sacrifice a Strike yourself to automatically inflict another Strike that counts as a 6 to hit. |  |
 
 #### Spirit Inclinations
@@ -193,14 +192,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Powerful** | Start each session with +1 Spirit. |  |
 | **Still Waters** | Still waters run deep. You have increadible reserves of potential Spirit. You can hold up to 8 Spirit rather than the normal 6. |  |
-| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +1 Spirit. |  |
+| **Inspiring** | Once per session, you can give a speech to embolden your allies. They gain +1 Spirit. |  |
 | **Leadership** | Share your Spirit with another teammate in sight. |  |
 
 #### Mental Inclinations
 
 | Ability | Description | Boons |
 |---------|-------------|-------|
-| **Risk Taker** | Stands firm in the face of fear effects. | Against Terrified |
+| **Brave** | Stands firm in the face of fear effects. | Against Terrified |
 | **Born Lucky** | Once per session, turn a 1 into a 6. |  |
 | **Nose For Treasure** | Find hidden valuables and secret caches on anything but a 1 when searching. |  |
 | **Awareness** | Spot hidden enemies, traps, or dangers on anything but a 1 when you are actively looking for them. |  |
@@ -217,7 +216,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Acrobatic** | Trained in acrobatics, gaining boons to balance and agility checks. | Balance, Agility |
 | **Athletic** | Physically fit and skilled at athletic activities including running, swimming, climbing, and physical endurance. | Running, Swimming, Climbing, Physical Endurance |
-| **Surefooted** | Always land on your feet when you fall, and on a 4+ avoid any damage from a fall where you could reasonably slow yourself down. |  |
+| **Nimble Feet** | Always land on your feet when you fall, and on a 4+ avoid any damage from a fall where you could reasonably slow yourself down. |  |
 | **Longjumper** | Can move or leap up to 2 zones in one Movement Action. | Jumping |
 | **Quick Reflexes** | Fast reflexes provide bonus to avoidance saves and reacting to danger. | Avoidance Saves |
 | **Brawny** | Strong and muscular, excelling at tasks requiring raw physical strength. | Strength Tasks |
@@ -225,16 +224,16 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
+| **Peak Condition** | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
-| **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
+| **Daredevil** | Boon to complete any risky but daring non-combat action. | Risking But Daring Actions |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
-| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Adrenaline Surge** | When you drop to 1 Health, take a Boon to whatever your next Action is. |  |
+| **Battle Fury** | You can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -248,7 +247,6 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
-| **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
 | **Piercing Gaze** | You can tell if someone is duplicitous, hiding something, or lying on anything but a 1 when you focus on them. | Against Manipulation |
 | **Distracting** | If a teammate would take a Strike, you can use your Reaction to cause a distraction and allow them to reroll their Save. |  |
 | **Linguist** | Quickly become fluent in any spoken language and easily acclimatise to new cultures and customs. | Understanding Languages, Cultural Knowledge |
@@ -275,14 +273,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Navigator** | Can navigate using stars, maps, or landmarks. Never get lost on anything but a 1. |  |
 | **Survivalist** | You can sustain yourself and a small group of companions in the outdoors. | Foraging, Wilderness Survival, Identifying Flora & Fauna |
-| **Scout** |  | Tracking, Scouting, Finding Hidden Paths |
+| **Scout** | You are an expert at moving through the wilderness. | Tracking, Scouting, Finding Hidden Paths |
 | **Animal Kinship** | Animals really like you. | Animal Handling |
 | **Tree Jumper** | Can move through forested areas at full speed without penalty. | Jumping |
 | **Plains Runner** | Can move at double speed over open terrain without penalty. | Running |
 | **Cliff Climber** | Can climb vertical surfaces given enough handholds and move easily over rocky and uneven ground. | Climbing |
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
-| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. Once per scene, make a search and find something useful on a 4+. |  |
+| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
 
 #### Companion Inclinations
 
@@ -296,17 +294,10 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | Ability | Description | Boons |
 |---------|-------------|-------|
 | **Strong Spirit** |  | Resistance Saves against Supernatural effects. |
-| **Occultist** |  | Supernatural Lore, Understanding Occult Markings, Identifying Mystical Artifacts |
 | **Command Spirit** | As an Action, summon and command a minor spirit to perform a simple task on anything but a 1. It can scout, deliver a message, or create a distraction. Lasts for one scene. |  |
 | **Commune with the Dead** | You can speak with the spirits of the recently deceased on anything but a 1. They may answer three questions truthfully, though their knowledge is limited to what they knew in life. |  |
 | **Spirit Guide** | You have a ghostly companion that only you can see and hear. Once per session, they can seek out and provide crucial information, or warnings about hidden dangers on anything but a 1. |  |
 | **Second Sight** | You can see through illusions and disguises automatically. Can identify cursed objects and detect lies/hidden doors/traps on anything but a 1, and perceive the true nature of disguised beings. However, each time you encounter an evil Supernatural entity, you must make a Resistance Save to avoid being overwhelmed by visions and becoming Terrified. |  |
-
-#### Freeform Powers
-
-| Ability | Description | Boons |
-|---------|-------------|-------|
-| **Supernatural Powers** | You can wield Supernatural powers through rituals and incantations, spiritual power, or mental focus. Choose the nature of your powers. When you cast them, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use them against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of them succeed, none of them suffer the effect. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Supernatural Action or taking a Strike will end any ongoing effects. |  |
 
 #### Nature Powers
 
@@ -314,7 +305,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Speak with Animals** | You can communicate with animals and understand their replies on anything but a 1. They are not compelled to help but may provide information or assistance if treated well. Once per session, you can see through an animal's eyes for the duration of a scene. |  |
 | **Changeling** | Choose a Small or Medium creature that you are familiar with. As an Action, you can transform into this creature on anything but a 1. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strikes taken transfer to your original form. |  |
-| **Summon Swarm** | As an Action, summon a swarm of tiny Supernatural creatures. They can strip flesh from bone and consume any organic obstacles for the duration of a scene on anything but a 1. Anyone in the swarm must make an Avoidance Save or become Afflicted (Supernatural). On a 1, the swarm is summoned onto you. |  |
+| **Summon Swarm** | As an Action, summon a swarm of tiny creatures. They can strip flesh from bone and consume any organic obstacles for the duration of a scene on anything but a 1. Anyone in the swarm must make an Avoidance Save or become Afflicted (Physical). On a 1, the swarm is summoned onto you. |  |
 | **Weather Control** | Once per session, as an Action, alter local weather conditions. Can summon rain, fog, wind, or clear skies within the immediate area on anything but a 1. Effect lasts for the scene. Rain can extinguish fires, fog provides concealment, wind can knock flying creatures down, clear skies can reveal hidden enemies. You can't cause extreme weather or direct it precisely though. |  |
 | **Entangling Vines** | As an Action, cause thorned vines to erupt in a Close radius at a target zone within Near Range on anything but a 1. Targets must make an Avoidance Save or be Incapacitated. On a 1, the vines lash out at you and you are Incapacitated. |  |
 
@@ -331,7 +322,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Perfect Taste Buds** | Can tell if food or water is contaminated or poisoned, recognise the taste of someone's blood, and tie it to an individual. |  |
 | **Nictitating Membrane** | Automatically triggers to protect eyes against glare, dust, or flashes, on anything but a 1. |  |
 | **Vocal Mimicry** | Can perfectly replicate any voice or sound you've ever heard. |  |
-| **Acid Spitting** | Once per scene, you can spray an enemy as a Melee Attack Action that inflicts 1 Strike and the target is Afflicted (Acid). |  |
+| **Acid Spitting** | You can spot acid at a Near Range target as a Ranged Attack  that cannot Crit. It inflicts 1 Strike, and the target is Afflicted (Acid). |  |
 | **Venomous Bite** | You can bite a Close Range target as a Melee Attack that cannot Crit. It inflicts 1 Strike, and the target is Afflicted (Poison). |  |
 | **Flexible Skeleton** | Take one less Strike from explosives, falling, and collisions. | Escaping Restraints, Squeezing Through Tight Spaces |
 | **Chameleon Skin** | Your skin can change colour and pattern to blend in with your surroundings when you remain stationary. | Hiding in Plain Sight |
@@ -348,9 +339,9 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Armour Save | Avoidance | Resistance | Rarity |
 |------|-------------|-------------|-----------|------------|--------|
-| **Animal Hide Cloak** | Layered animal hides for protection | 5+ | 4+ | 6+ | Common |
-| **Bone Breastplate** | Carved bone plates sewn together for protection | 4+ | 5+ | 6+ | Uncommon |
-| **Wood & Hide Full Armor** | Full protective suit of wood frame and hide | 3+ | 6+ | 6+ | Rare |
+| **Animal Hide Cloak** | Layered animal hides for protection | 5 | 4 | 6 | Common |
+| **Bone Breastplate** | Carved bone plates sewn together for protection | 4 | 5 | 6 | Uncommon |
+| **Wood & Hide Full Armor** | Full protective suit of wood frame and hide | 3 | 6 | 6 | Rare |
 
 ### Melee Weapons
 

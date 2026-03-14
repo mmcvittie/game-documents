@@ -31,7 +31,6 @@ A streamlined, classless hack of EZD6
     - [Mental Inclinations](#mental-inclinations)
     - [Biological Mutations](#biological-mutations)
     - [Physical Inclinations](#physical-inclinations)
-    - [Pulp Inclinations](#pulp-inclinations)
     - [Social Inclinations](#social-inclinations)
     - [Stealth Inclinations](#stealth-inclinations)
     - [Vehicle Inclinations](#vehicle-inclinations)
@@ -67,11 +66,6 @@ A streamlined, classless hack of EZD6
       - [Table 1](#table-1-3)
       - [Table 2](#table-2-3)
       - [Table 3](#table-3-3)
-  - [Names](#names)
-    - [Nicknames](#nicknames)
-      - [Table 1](#table-1-4)
-      - [Table 2](#table-2-4)
-      - [Table 3](#table-3-4)
 
 ## Core Rules
 
@@ -80,7 +74,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Karma & Hero Dice
-  You start with *3 Karma and 1 Hero Dice* per session. You can add *Karma* to any roll result *except a 1* to *increase the result* by 1 per *Karma* spent. You gain 1 *Karma* on *ANY failed roll* (once per turn) or when the GM awards it. A *Hero Dice* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Karma* to buy back.
+  You start with *3 Karma and 1 Hero Dice* per session. You can add *Karma* to any roll result *except a 1* to *increase the result* by 1 per *Karma* spent. You gain 1 *Karma* on *ANY failed roll* (once per turn) or when the GM awards it, to a maximum of 12. A *Hero Dice* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Karma* to buy back.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
@@ -225,7 +219,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | Ability | Description | Boons |
 |---------|-------------|-------|
 | **Lucky** | Start each session with +3 Karma. |  |
-| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +2 Karma. |  |
+| **Inspiring** | Once per session, you can give a speech to embolden your allies. They gain +2 Karma. |  |
 | **Leadership** | Share your Karma with another teammate in sight. |  |
 | **Unbroken Spirit** | Gain an additional +1 Karma for each failed roll. |  |
 | **Kill Count** | Gain +1 Karma per round if you slay an enemy that round. This does not count against your failure Karma for the round. |  |
@@ -268,7 +262,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Perfect Taste Buds** | Can tell if food or water is contaminated or poisoned, recognise the taste of someone's blood, and tie it to an individual. |  |
 | **Nictitating Membrane** | Automatically triggers to protect eyes against glare, dust, or flashes, on anything but a 1. |  |
 | **Vocal Mimicry** | Can perfectly replicate any voice or sound you've ever heard. |  |
-| **Acid Spitting** | Once per scene, you can spray an enemy as a Melee Attack Action that inflicts 1 Strike and the target is Afflicted (Acid). |  |
+| **Acid Spitting** | You can spot acid at a Near Range target as a Ranged Attack  that cannot Crit. It inflicts 1 Strike, and the target is Afflicted (Acid). |  |
 | **Venomous Bite** | You can bite a Close Range target as a Melee Attack that cannot Crit. It inflicts 1 Strike, and the target is Afflicted (Poison). |  |
 | **Flexible Skeleton** | Take one less Strike from explosives, falling, and collisions. | Escaping Restraints, Squeezing Through Tight Spaces |
 | **Chameleon Skin** | Your skin can change colour and pattern to blend in with your surroundings when you remain stationary. | Hiding in Plain Sight |
@@ -291,24 +285,17 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
+| **Peak Condition** | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
-| **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
+| **Daredevil** | Boon to complete any risky but daring non-combat action. | Risking But Daring Actions |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
-| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Adrenaline Surge** | When you drop to 1 Health, take a Boon to whatever your next Action is. |  |
+| **Battle Fury** | You can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
-
-#### Pulp Inclinations
-
-| Ability | Description | Boons |
-|---------|-------------|-------|
-| **Whippersnapper** | Can use a whip effectively as a weapon or tool, such as to to disarm, trip, or swing from objects. | Whips |
-| **Resourceful** | Once per adventure, you have a piece of basic gear you need (no weapons) that you somehow lose by the end of the adventure. |  |
 
 #### Social Inclinations
 
@@ -321,7 +308,6 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
-| **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
 | **Piercing Gaze** | You can tell if someone is duplicitous, hiding something, or lying on anything but a 1 when you focus on them. | Against Manipulation |
 | **Distracting** | If a teammate would take a Strike, you can use your Reaction to cause a distraction and allow them to reroll their Save. |  |
 | **Linguist** | Quickly become fluent in any spoken language and easily acclimatise to new cultures and customs. | Understanding Languages, Cultural Knowledge |
@@ -357,14 +343,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Navigator** | Can navigate using stars, maps, or landmarks. Never get lost on anything but a 1. |  |
 | **Survivalist** | You can sustain yourself and a small group of companions in the outdoors. | Foraging, Wilderness Survival, Identifying Flora & Fauna |
-| **Scout** |  | Tracking, Scouting, Finding Hidden Paths |
+| **Scout** | You are an expert at moving through the wilderness. | Tracking, Scouting, Finding Hidden Paths |
 | **Animal Kinship** | Animals really like you. | Animal Handling |
 | **Tree Jumper** | Can move through forested areas at full speed without penalty. | Jumping |
 | **Plains Runner** | Can move at double speed over open terrain without penalty. | Running |
 | **Cliff Climber** | Can climb vertical surfaces given enough handholds and move easily over rocky and uneven ground. | Climbing |
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
-| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. Once per scene, make a search and find something useful on a 4+. |  |
+| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
 
 ## Gear & Equipment
 
@@ -374,10 +360,10 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Armour Save | Avoidance | Resistance | Rarity |
 |------|-------------|-------------|-----------|------------|--------|
-| **Fancy Clothing** | Fine, fashionable attire. Bane to Armour Saves, Avoidance Saves, and Resistance Saves against environmental effects, but Boon to social interactions. | 6+ | 6+ | 6+ | Uncommon |
-| **Heavy Armour** | Maximum protection at the cost of mobility. | 4+ | 6+ | 6+ | Rare |
-| **Light Armour** | Lightweight protection offering minimal defense but maximum mobility. | 6+ | 4+ | 6+ | Common |
-| **Medium Armour** | Balanced protection offering moderate defense and mobility. | 5+ | 5+ | 6+ | Uncommon |
+| **Fancy Clothing** | Fine, fashionable attire. Bane to Armour Saves, Avoidance Saves, and Resistance Saves against environmental effects, but Boon to social interactions. | 6 | 6 | 6 | Uncommon |
+| **Heavy Armour** | Maximum protection at the cost of mobility. | 4 | 6 | 6 | Rare |
+| **Light Armour** | Lightweight protection offering minimal defense but maximum mobility. | 6 | 4 | 6 | Common |
+| **Medium Armour** | Balanced protection offering moderate defense and mobility. | 5 | 5 | 6 | Uncommon |
 
 ### Melee Weapons
 
@@ -650,45 +636,4 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 4 | Document Faker | Identity Thief | Embezzler | Thief | Smuggler | Black Marketeer |
 | 5 | Fence | Receiver of Stolen Goods | Grave Robber | Relic Thief | Artifact Smuggler | Secret Hoarder |
 | 6 | Hidden Wealth | Treasure Map Keeper | Location of Riches Known | Guardian of Secret | Keeper of Knowledge | Sole Witness |
-
-## Names
-
-Use these tables to name your character, or combine entries across tables for variety.
-
-### Nicknames
-
-Roll **1d6** for table, **1d6** for row, and **1d6** for column.
-
-#### Table 1
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Ace | BamBam | Biggs | Bingo | Biscuit | Blip |
-| 2 | Bonehead | Bones | Bubbles | Bubs | Buddy | Bumper |
-| 3 | Caboose | Cakewalk | Cash | Cashew | Caveman | Cheerio |
-| 4 | Chops | Chowder | Chuckles | Chunk | Codger | Combover |
-| 5 | Comedian | Comic | Cook | Curly | Dancer | Deejay |
-| 6 | Deuce | Dinker | Dipstick | Dirtbag | Dirtnap | Doc |
-
-#### Table 2
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Dummy | Earl | Fidget | Fumbles | Gator | Giggles |
-| 2 | Goober | Hopper | Hoss | Jester | Jinx | Jockey |
-| 3 | Joker | Kid | Knucklehead | Knuckles | Lefty | Lucky |
-| 4 | Lunchmeat | Meatball | Meathead | Mischief | Moose | Mothball |
-| 5 | Mudslinger | Mumbles | Nobody | Noodle | Nugget | Numbskull |
-| 6 | Nut | Orphan | Packrat | Paperboy | Patch | Patches |
-
-#### Table 3
-
-| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----------|---|---|---|---|---|---|
-| 1 | Patchwork | Pebbles | Peephole | Peewee | Porkchop | Potato |
-| 2 | Prof | Rascal | Red | Rico | Sarge | Scooter |
-| 3 | Scout | Screwball | Screwup | Shorty | Skipper | Skippy |
-| 4 | Slim | Smiley | Sneezy | Spud | Stumpy | Sunny |
-| 5 | T-Bone | Tank | Tex | Tiny | Trigger | Waddles |
-| 6 | Wheels | Whitey | Wingnut | Wobbles | Wrongway | Zippy |
 

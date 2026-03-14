@@ -94,7 +94,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Grit & Gambits
-  You start with *3 Grit and 1 Gambit* per session. You can add *Grit* to any roll result *except a 1* to *increase the result* by 1 per *Grit* spent. You gain 1 *Grit* on *ANY failed roll* (once per turn) or when the GM awards it. A *Gambit* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Grit* to buy back.
+  You start with *3 Grit and 1 Gambit* per session. You can add *Grit* to any roll result *except a 1* to *increase the result* by 1 per *Grit* spent. You gain 1 *Grit* on *ANY failed roll* (once per turn) or when the GM awards it, to a maximum of 12. A *Gambit* can be used to re-roll *ANY* roll, *including 1s*, but costs 5 *Grit* to buy back.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
@@ -225,7 +225,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | Ability | Description | Boons |
 |---------|-------------|-------|
 | **Lucky** | Start each session with +3 Grit. |  |
-| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +2 Grit. |  |
+| **Inspiring** | Once per session, you can give a speech to embolden your allies. They gain +2 Grit. |  |
 | **Leadership** | Share your Grit with another teammate in sight. |  |
 | **Unbroken Spirit** | Gain an additional +1 Grit for each failed roll. |  |
 | **Kill Count** | Gain +1 Grit per round if you slay an enemy that round. This does not count against your failure Grit for the round. |  |
@@ -269,16 +269,16 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
+| **Peak Condition** | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
-| **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
+| **Daredevil** | Boon to complete any risky but daring non-combat action. | Risking But Daring Actions |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
-| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Adrenaline Surge** | When you drop to 1 Health, take a Boon to whatever your next Action is. |  |
+| **Battle Fury** | You can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -292,7 +292,6 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
-| **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
 | **Piercing Gaze** | You can tell if someone is duplicitous, hiding something, or lying on anything but a 1 when you focus on them. | Against Manipulation |
 | **Distracting** | If a teammate would take a Strike, you can use your Reaction to cause a distraction and allow them to reroll their Save. |  |
 | **Linguist** | Quickly become fluent in any spoken language and easily acclimatise to new cultures and customs. | Understanding Languages, Cultural Knowledge |
@@ -328,14 +327,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Navigator** | Can navigate using stars, maps, or landmarks. Never get lost on anything but a 1. |  |
 | **Survivalist** | You can sustain yourself and a small group of companions in the outdoors. | Foraging, Wilderness Survival, Identifying Flora & Fauna |
-| **Scout** |  | Tracking, Scouting, Finding Hidden Paths |
+| **Scout** | You are an expert at moving through the wilderness. | Tracking, Scouting, Finding Hidden Paths |
 | **Animal Kinship** | Animals really like you. | Animal Handling |
 | **Tree Jumper** | Can move through forested areas at full speed without penalty. | Jumping |
 | **Plains Runner** | Can move at double speed over open terrain without penalty. | Running |
 | **Cliff Climber** | Can climb vertical surfaces given enough handholds and move easily over rocky and uneven ground. | Climbing |
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
-| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. Once per scene, make a search and find something useful on a 4+. |  |
+| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
 
 #### Companion Inclinations
 
@@ -357,7 +356,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Perfect Taste Buds** | Can tell if food or water is contaminated or poisoned, recognise the taste of someone's blood, and tie it to an individual. |  |
 | **Nictitating Membrane** | Automatically triggers to protect eyes against glare, dust, or flashes, on anything but a 1. |  |
 | **Vocal Mimicry** | Can perfectly replicate any voice or sound you've ever heard. |  |
-| **Acid Spitting** | Once per scene, you can spray an enemy as a Melee Attack Action that inflicts 1 Strike and the target is Afflicted (Acid). |  |
+| **Acid Spitting** | You can spot acid at a Near Range target as a Ranged Attack  that cannot Crit. It inflicts 1 Strike, and the target is Afflicted (Acid). |  |
 | **Venomous Bite** | You can bite a Close Range target as a Melee Attack that cannot Crit. It inflicts 1 Strike, and the target is Afflicted (Poison). |  |
 | **Flexible Skeleton** | Take one less Strike from explosives, falling, and collisions. | Escaping Restraints, Squeezing Through Tight Spaces |
 | **Chameleon Skin** | Your skin can change colour and pattern to blend in with your surroundings when you remain stationary. | Hiding in Plain Sight |
@@ -388,11 +387,11 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Armour Save | Avoidance | Resistance | Rarity |
 |------|-------------|-------------|-----------|------------|--------|
-| **Biowear Skeinsuit** | Bio-Armour that is in symbiosis with the wearer. Once per day can heal 1 Strike using an Action provided the wearer has had their rations. | 5+ | 5+ | 6+ | Rare |
-| **Light Tactical Suit** | Advanced fiber armor, lightweight and flexible | 5+ | 4+ | 6+ | Common |
-| **Main Combat Frame** | Standard utility combat armour. Can carry 2 extra gear items. | 5+ | 5+ | 6+ | Common |
-| **Rampart Power Armour** | Self sealing, immune to environmental hazards like gas, smoke, radiation, vacuum. 3 hour internal oxygen supply. | 4+ | 6+ | 6+ | Uncommon |
-| **Shroudweave Stealth Suit** | Bane to hit you at Far Range or more. Boon to Stealth. Extra Boon to Stealth if Far or Long Range. Practically invisible at Extreme Range. | 6+ | 4+ | 6+ | Uncommon |
+| **Biowear Skeinsuit** | Bio-Armour that is in symbiosis with the wearer. Once per day can heal 1 Strike using an Action provided the wearer has had their rations. | 5 | 5 | 6 | Rare |
+| **Light Tactical Suit** | Advanced fiber armor, lightweight and flexible | 5 | 4 | 6 | Common |
+| **Main Combat Frame** | Standard utility combat armour. Can carry 2 extra gear items. | 5 | 5 | 6 | Common |
+| **Rampart Power Armour** | Self sealing, immune to environmental hazards like gas, smoke, radiation, vacuum. 3 hour internal oxygen supply. | 4 | 6 | 6 | Uncommon |
+| **Shroudweave Stealth Suit** | Bane to hit you at Far Range or more. Boon to Stealth. Extra Boon to Stealth if Far or Long Range. Practically invisible at Extreme Range. | 6 | 4 | 6 | Uncommon |
 
 ### Firearms
 

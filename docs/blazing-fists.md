@@ -211,7 +211,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Powerful** | Start each session with +1 Qi. |  |
 | **Still Waters** | Still waters run deep. You have increadible reserves of potential Qi. You can hold up to 8 Qi rather than the normal 6. |  |
-| **Inspiring** | Once per day, you can give a speech to embolden your allies. They gain +1 Qi. |  |
+| **Inspiring** | Once per session, you can give a speech to embolden your allies. They gain +1 Qi. |  |
 | **Leadership** | Share your Qi with another teammate in sight. |  |
 
 #### Mental Inclinations
@@ -243,16 +243,16 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
+| **Peak Condition** | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
-| **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
+| **Daredevil** | Boon to complete any risky but daring non-combat action. | Risking But Daring Actions |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
-| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Adrenaline Surge** | When you drop to 1 Health, take a Boon to whatever your next Action is. |  |
+| **Battle Fury** | You can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -266,7 +266,6 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
-| **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
 | **Piercing Gaze** | You can tell if someone is duplicitous, hiding something, or lying on anything but a 1 when you focus on them. | Against Manipulation |
 | **Distracting** | If a teammate would take a Strike, you can use your Reaction to cause a distraction and allow them to reroll their Save. |  |
 | **Linguist** | Quickly become fluent in any spoken language and easily acclimatise to new cultures and customs. | Understanding Languages, Cultural Knowledge |
@@ -293,14 +292,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Navigator** | Can navigate using stars, maps, or landmarks. Never get lost on anything but a 1. |  |
 | **Survivalist** | You can sustain yourself and a small group of companions in the outdoors. | Foraging, Wilderness Survival, Identifying Flora & Fauna |
-| **Scout** |  | Tracking, Scouting, Finding Hidden Paths |
+| **Scout** | You are an expert at moving through the wilderness. | Tracking, Scouting, Finding Hidden Paths |
 | **Animal Kinship** | Animals really like you. | Animal Handling |
 | **Tree Jumper** | Can move through forested areas at full speed without penalty. | Jumping |
 | **Plains Runner** | Can move at double speed over open terrain without penalty. | Running |
 | **Cliff Climber** | Can climb vertical surfaces given enough handholds and move easily over rocky and uneven ground. | Climbing |
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
-| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. Once per scene, make a search and find something useful on a 4+. |  |
+| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
 
 ## Cultivation Abilities
 
@@ -321,7 +320,7 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | **Singing Spring** | The way of the counter-fighter. If you successfully make an Armour Save against an attacker in range, you can spend 1 Qi to make a free counter-attack. |  |
 | **Gentle Palm** | You can choose to make an attack that deals no damage but instead disrupts the target's Qi. If you do, add a Boon, and on a hit inflict Stunned or Knocked Down instead. On a Crit Confirm, you can also inflict Incapacitated (Qi). |  |
 | **Drunken Master** | Unpredictable movements that are surprisingly evasive. Enemies cannot Crit against you and you cannot be Stunned or Knocked Down. |  |
-| **Steel Limb Form** | Through grueling conditioning, your limbs have become as hard as steel. You can block blades with your forearms and strike with the weight of iron. Attacks made with your bare hands or feet gain a Boon and you can ignore the first physical Strike against you once per scene. | Unarmed Attacks |
+| **Steel Limb Form** | Through grueling conditioning, your limbs have become as hard as steel. You can block blades with your forearms and strike with the weight of iron. Attacks made with your bare hands or feet gain a Boon and can use a Reaction to Parry and gain a Boon to Armour Saves. | Unarmed Attacks, Armour Saves (Parry) |
 | **Cinder Strike** | On a hit, you can spend 1 Qi to infuse your strike with searing heat and the target is Afflicted (Burning) as your red hot Qi spreads through their body. Gain a Boon against Heat Effects. | Against Heat Effects |
 | **Glacial Shard** | On a hit, you can spend 1 Qi to infuse your strike with freezing cold and the target is Stunned as your chilling Qi slows their movements. If the hit is a Crit Confirm, you can instead inflict Incapacitated (Frozen). Gain a Boon against Cold Effects. | Against Cold Effects |
 | **Viper Fang** | On a hit, you can spend 1 Qi to infuse your strike with an energy interferance toxin and the target is Afflicted (Poisoned) as your disrupting Qi spreads through their body. Gain a Boon against Poison Effects. | Against Poison Effects |
@@ -367,7 +366,7 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 |---------|-------------|-------|
 | **Jade Golem** | Transform into a massive construct. As an Action, spend 1 Qi to transform for one scene or until you use an Action to dismiss. You can take +2 Strikes and gain a Boon to Strength and Melee Attacks, but you cannot use other styles while transformed and take a Bane to Avoidance Saves. |  |
 | **Inner Perfection** | Your soul is at peace and you have complete mastery over your Qi. You gain +1 Health. Once per session, when you find a moment of peace to meditate, spend your Qi to heal a Strike for each Qi spent. |  |
-| **Skinwalker** | As an Action, you can transform into a person or creature of similar size that you are familiar with for a scene by spending 1 Qi. While in their form you can mimic their abilities, voice and appearance. This includes being able to understand and communicate with other creatures of the same type. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strikes taken transfer to your original form. |  |
+| **Shapeshifter** | As an Action, you can transform into a person or creature of similar size that you are familiar with for a scene by spending 1 Qi. While in their form you can mimic their abilities, voice and appearance. This includes being able to understand and communicate with other creatures of the same type. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strikes taken transfer to your original form. |  |
 | **Yinyang Master** | You can wield Mystical powers through the use of celestial scripts on scrolls and paper charms. You require a Writing Set to use these abilities. You can use your powers to perform sealing rituals against evil entities, invoke spiritual attacks, or as small transforming paper familiars. When you use this power, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, none of them suffer the effect. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. |  |
 | **Wuxing Elemental Master** | You can wield Mystical powers through rituals, incantations, and hand signs to invoke effects based on the five elements of Wood, Fire, Earth, Metal, and Water. You require a Wuxing Amulet to balance and focus the elemental energy. This may take the form of elemental attacks, transformations, or shifting the elemental nature of the environment. When you use this power, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, none of them suffer the effect. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. |  |
 | **Spiritual Shield** | As an Action, you can create a protective barrier of spiritual energy that lasts until the end of the scene or until you dismiss it. This shield grants a Boon to Armour Saves and Resistance Saves against Mystical effects. It can be sacrificed to absorb all the damage from a single attack or harmful effect by turning a failed Save into a successful one. | Armour Saves (Spiritual Shield Active), Against Mystical Effects (Spiritual Shield Active) |
@@ -381,11 +380,11 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Armour Save | Avoidance | Resistance | Rarity |
 |------|-------------|-------------|-----------|------------|--------|
-| **Brigantine** | Metal plates riveted to a fabric or leather garment. Balanced protection. | 4+ | 6+ | 6+ | Rare |
-| **Heavy Lamellar Armour** | Heavy overlapping metal plates with reinforced joints. Maximum protection. Bane to Agility and Avoidance Saves. | 3+ | 6+ | 6+ | Rare |
-| **Light Lamellar Armor** | Overlapping leather plates sewn to cloth. Flexible and effective. | 5+ | 5+ | 6+ | Uncommon |
-| **Scale Armor** | Overlapping scales like fish armor. Good coverage. | 5+ | 5+ | 6+ | Uncommon |
-| **Silk Robe** | Light silk garment, flowing and elegant. | 6+ | 4+ | 6+ | Common |
+| **Brigantine** | Metal plates riveted to a fabric or leather garment. Balanced protection. | 4 | 6 | 6 | Rare |
+| **Heavy Lamellar Armour** | Heavy overlapping metal plates with reinforced joints. Maximum protection. Bane to Agility and Avoidance Saves. | 3 | 6 | 6 | Rare |
+| **Light Lamellar Armor** | Overlapping leather plates sewn to cloth. Flexible and effective. | 5 | 5 | 6 | Uncommon |
+| **Scale Armor** | Overlapping scales like fish armor. Good coverage. | 5 | 5 | 6 | Uncommon |
+| **Silk Robe** | Light silk garment, flowing and elegant. | 6 | 4 | 6 | Common |
 
 ### Melee Weapons
 

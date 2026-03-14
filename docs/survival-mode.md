@@ -536,16 +536,16 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
+| **Peak Condition** | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
-| **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
+| **Daredevil** | Boon to complete any risky but daring non-combat action. | Risking But Daring Actions |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
-| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Adrenaline Surge** | When you drop to 1 Health, take a Boon to whatever your next Action is. |  |
+| **Battle Fury** | You can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Social Inclinations
@@ -559,7 +559,6 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
-| **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
 | **Piercing Gaze** | You can tell if someone is duplicitous, hiding something, or lying on anything but a 1 when you focus on them. | Against Manipulation |
 | **Distracting** | If a teammate would take a Strike, you can use your Reaction to cause a distraction and allow them to reroll their Save. |  |
 | **Linguist** | Quickly become fluent in any spoken language and easily acclimatise to new cultures and customs. | Understanding Languages, Cultural Knowledge |
@@ -595,14 +594,14 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Navigator** | Can navigate using stars, maps, or landmarks. Never get lost on anything but a 1. |  |
 | **Survivalist** | You can sustain yourself and a small group of companions in the outdoors. | Foraging, Wilderness Survival, Identifying Flora & Fauna |
-| **Scout** |  | Tracking, Scouting, Finding Hidden Paths |
+| **Scout** | You are an expert at moving through the wilderness. | Tracking, Scouting, Finding Hidden Paths |
 | **Animal Kinship** | Animals really like you. | Animal Handling |
 | **Tree Jumper** | Can move through forested areas at full speed without penalty. | Jumping |
 | **Plains Runner** | Can move at double speed over open terrain without penalty. | Running |
 | **Cliff Climber** | Can climb vertical surfaces given enough handholds and move easily over rocky and uneven ground. | Climbing |
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
-| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. Once per scene, make a search and find something useful on a 4+. |  |
+| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
 
 #### Horror Inclinations
 
@@ -621,10 +620,10 @@ Choose **4 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Armour Save | Avoidance | Resistance | Rarity |
 |------|-------------|-------------|-----------|------------|--------|
-| **Combat Vest** | Light tactical gear with pouches and some protection. | 5+ | 5+ | 6+ | Rare |
-| **Leather Jacket** | Heavy leather jacket. Some protection against cuts and scrapes. | 6+ | 4+ | 6+ | Common |
-| **Military Body Armour** | Plate carrier with ceramic plates. Heavy but protective. Boon to Saves against Explosions and Shrapnel. | 4+ | 6+ | 6+ | Rare |
-| **Police Riot Gear** | Full riot armour with helmet and padding. Boon to Saves against gas and chemical attacks. | 4+ | 6+ | 6+ | Rare |
+| **Combat Vest** | Light tactical gear with pouches and some protection. | 5 | 5 | 6 | Rare |
+| **Leather Jacket** | Heavy leather jacket. Some protection against cuts and scrapes. | 6 | 4 | 6 | Common |
+| **Military Body Armour** | Plate carrier with ceramic plates. Heavy but protective. Boon to Saves against Explosions and Shrapnel. | 4 | 6 | 6 | Rare |
+| **Police Riot Gear** | Full riot armour with helmet and padding. Boon to Saves against gas and chemical attacks. | 4 | 6 | 6 | Rare |
 
 ### Firearms
 
@@ -735,7 +734,7 @@ Choose **4 items** during character creation. Outfits double as armour and provi
 | **Night Vision Goggles** | Advanced optics for seeing in darkness. | 1 | Rare |
 | **Radio Transmitter** | Long-range communication device. Requires power and clear signal. | 1 | Uncommon |
 | **Remote Detonator** | Wireless trigger for explosives. Range: Far. | 3 | Uncommon |
-| **Sentimental Memento** | Once per adventure, lose 1 Stress for recounting a new memory related to it. 2 Stress if it connects to the current situation. | 1 | Common |
+| **Sentimental Memento** | Once per session, lose 1 Stress for recounting a new memory related to the memento. Lose 2 Stress if it connects to the current situation. | 1 | Common |
 | **Sleeping Bag** | Portable bedding for outdoor rest. | 1 | Common |
 | **Smartphone** | Mobile phone with internet access, GPS, camera, and apps. Requires battery and signal. Lasts a day per charge. | 1 | Common |
 | **Spray Paint** | Aerosol paint for marking paths or leaving messages. | 3 | Common |
@@ -2612,7 +2611,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Ace | BamBam | Biggs | Bingo | Biscuit | Blip |
+| 1 | Ace | Bam | Biggs | Bingo | Biscuit | Blip |
 | 2 | Bonehead | Bones | Bubbles | Bubs | Buddy | Bumper |
 | 3 | Caboose | Cakewalk | Cash | Cashew | Caveman | Cheerio |
 | 4 | Chops | Chowder | Chuckles | Chunk | Codger | Combover |
