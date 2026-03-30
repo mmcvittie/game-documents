@@ -85,7 +85,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Spirit
-  You start with *3 Spirit* per session. Spend *Spirit* to reroll any failed roll. You gain 1 *Spirit* on *ANY failed roll* or when the GM awards it, but can only have a total of 6 at any time.
+  You start with *3 Spirit* per session. Spend *Spirit* on any roll except a 1 to turn it into a 6. You gain 1 *Spirit* on *ANY failed roll*, but can only have a total of 6 at any time. A meal and a good rest can restore +3 *Spirit* per day.
 
 ## Movement & Cover
 Move between *Range Zones* and elevations as an *Action*. Range zones are Close > Near > Far > Long > Extreme.
@@ -175,7 +175,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Skirmisher** | Skilled at throwing weapons and slings. | Ranged Attacks using Thrown Weapons/Slings |
 | **Swirling Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
 | **Intercept** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
-| **Deflection** | As your Reaction, when you are hit and fail your Armour Save, roll a 4+. If you fail, take the Strike. If you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. |  |
+| **Deflection** | As your Reaction, when hit with an attack, you can make an Avoidance Save and if you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. If you fail, make your Armour Save as normal. |  |
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
@@ -281,6 +281,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
 | **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
+| **Rider** | Skilled at riding and taming mounts. | Riding Mounts, Taming Wild Mounts |
 
 #### Companion Inclinations
 

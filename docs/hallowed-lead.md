@@ -2,7 +2,7 @@
 
 *Demon hunters in a God-forsaken wild West, fighting for their humanity*
 
-When the First Seal broke over the High Plains, God turned His face from the West. Now, a broken cadre of preachers, hunters, and outlaws must bear the cross, purging the land of the demonic blight while their own souls wither in the desert heat.
+When the First Seal broke over the High Plains, God turned His face from the West. Now, a broken cadre of hunters must bear the cross, purging the land of the demonic blight while their own souls wither in the desert heat.
 
 ---
 
@@ -45,7 +45,6 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
   - [Equipment](#equipment)
   - [Ammunition](#ammunition)
 - [Vehicles & Companions](#vehicles-companions)
-  - [Vehicles](#vehicles)
   - [Companions](#companions)
 - [Reference Tables](#reference-tables)
   - [Aspects](#aspects)
@@ -82,25 +81,29 @@ When the First Seal broke over the High Plains, God turned His face from the Wes
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
-    - [Spanish Given Names](#spanish-given-names)
+    - [Nicknames](#nicknames)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
-    - [Spanish Family Names](#spanish-family-names)
+    - [Spanish Given Names](#spanish-given-names)
       - [Table 1](#table-1-6)
       - [Table 2](#table-2-6)
       - [Table 3](#table-3-6)
-    - [Wild West Given Names](#wild-west-given-names)
+    - [Spanish Family Names](#spanish-family-names)
       - [Table 1](#table-1-7)
       - [Table 2](#table-2-7)
       - [Table 3](#table-3-7)
+    - [Wild West Given Names](#wild-west-given-names)
+      - [Table 1](#table-1-8)
+      - [Table 2](#table-2-8)
+      - [Table 3](#table-3-8)
       - [Table 4](#table-4-4)
       - [Table 5](#table-5-4)
       - [Table 6](#table-6-4)
     - [Wild West Family Names](#wild-west-family-names)
-      - [Table 1](#table-1-8)
-      - [Table 2](#table-2-8)
-      - [Table 3](#table-3-8)
+      - [Table 1](#table-1-9)
+      - [Table 2](#table-2-9)
+      - [Table 3](#table-3-9)
       - [Table 4](#table-4-5)
       - [Table 5](#table-5-5)
       - [Table 6](#table-6-5)
@@ -220,7 +223,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Skirmisher** | Skilled at throwing weapons and slings. | Ranged Attacks using Thrown Weapons/Slings |
 | **Swirling Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
 | **Intercept** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
-| **Deflection** | As your Reaction, when you are hit and fail your Armour Save, roll a 4+. If you fail, take the Strike. If you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. |  |
+| **Deflection** | As your Reaction, when hit with an attack, you can make an Avoidance Save and if you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. If you fail, make your Armour Save as normal. |  |
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
@@ -242,7 +245,6 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Orator** | Master of motivation who can rally and inspire allies to action. When you use an Action or Reaction to rally or motivate another, they gain a Boon to their next Action. |  |
 | **Smooth Talker** | Charming conversationalist skilled at dealing with others, earning trust, and keeping talkative villains monologuing. | Social, Persuasion, Seduction |
 | **Streetwise** | Knowledgeable about urban environments, navigation, and criminal dealings. | Urban Navigation, Criminal Dealings |
-| **Well Connected** | Once per adventure, you know someone in the current location who can help in the current location. GM determines the nature and extent of their assistance. |  |
 | **Piercing Gaze** | You can tell if someone is duplicitous, hiding something, or lying on anything but a 1 when you focus on them. | Against Manipulation |
 | **Distracting** | If a teammate would take a Strike, you can use your Reaction to cause a distraction and allow them to reroll their Save. |  |
 | **Linguist** | Quickly become fluent in any spoken language and easily acclimatise to new cultures and customs. | Understanding Languages, Cultural Knowledge |
@@ -269,14 +271,15 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 |---------|-------------|-------|
 | **Navigator** | Can navigate using stars, maps, or landmarks. Never get lost on anything but a 1. |  |
 | **Survivalist** | You can sustain yourself and a small group of companions in the outdoors. | Foraging, Wilderness Survival, Identifying Flora & Fauna |
-| **Scout** |  | Tracking, Scouting, Finding Hidden Paths |
+| **Scout** | You are an expert at moving through the wilderness. | Tracking, Scouting, Finding Hidden Paths |
 | **Animal Kinship** | Animals really like you. | Animal Handling |
 | **Tree Jumper** | Can move through forested areas at full speed without penalty. | Jumping |
 | **Plains Runner** | Can move at double speed over open terrain without penalty. | Running |
 | **Cliff Climber** | Can climb vertical surfaces given enough handholds and move easily over rocky and uneven ground. | Climbing |
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
-| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. Once per scene, make a search and find something useful on a 4+. |  |
+| **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
+| **Rider** | Skilled at riding and taming mounts. | Riding Mounts, Taming Wild Mounts |
 
 #### Stress Inclinations
 
@@ -329,16 +332,16 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Deep Lungs** | Can hold your breath for a scene and don't suffer a Bane in difficult to breathe environments. |  |
 | **Strong Will** | Mentally tough and resistant to mental influence, pain, and torture. | Against Mental Influence, Against Pain/Torture |
 | **Slippery** | Move away from melee without having to roll a contest. | Escaping Grapples, Escaping Restraints |
-| **Peak Condition** (+1 Strike) | Your body is in superior physical condition. Can take +1 Strikes. |  |
+| **Peak Condition** | Your body is in superior physical condition. Can take +1 Strikes. |  |
 | **Quick Healer** | Heal an extra Strike when you rest, provided you have rations. |  |
 | **Sprinter** | Boon to Running. Can move 2 Movement Zones in one Action. | Running |
 | **Breacher** | Skilled at breaking through doors, barriers, and other obstacles. | Breaking & Entering |
 | **Steady Hands** | Steady hands for delicate tasks like disarming traps, defusing bombs, or treating wounds. | Delicate Tasks, Disarming Bombs, Treating Wounds |
-| **Daredevil** | Once per scene, complete any risky but daring non-combat action on anything but a 1. |  |
+| **Daredevil** | Boon to complete any risky but daring non-combat action. | Risking But Daring Actions |
 | **Tough** | When you would take your last Strike, avoid it on a 4+. |  |
 | **Last Stand** | When reduced to 0 Health, can take one final Turn with a Boon to all Actions before dying, even if you've already gone this Round. You cannot use your Actions to heal. | Final Turn Before Death |
-| **Adrenaline Surge** | Once per scene, when you drop to 1 Health, take a Boon to whatever your next Action is. |  |
-| **Battle Fury** | Once per scene, you can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
+| **Adrenaline Surge** | When you drop to 1 Health, take a Boon to whatever your next Action is. |  |
+| **Battle Fury** | You can take a Strike to push yourself beyond your limits to take another Turn straight after the current one. |  |
 | **Tinkerer** | You can repair or craft anything, given enough time and resources. Make a quick repair job on anything but a 1. The higher the result, the faster it goes. |  |
 
 #### Companion Inclinations
@@ -384,11 +387,11 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 
 | Name | Description | Armour Save | Avoidance | Resistance | Rarity |
 |------|-------------|-------------|-----------|------------|--------|
-| **Heavy Duster** | A thick, wax-treated canvas coat. Built to withstand sandstorms and driving rain. Grant a Boon to Resistance Saves against extreme weather. | 5+ | 5+ | 6+ | Common |
-| **Rough Rider Leathers** | Reinforced chaps and a sturdy vest. Designed for those who spend more time in the saddle than on their feet. Boon to Riding. | 5+ | 5+ | 6+ | Common |
-| **Gunslinger's Garb** | Lightweight, tailored clothing that prioritizes freedom of movement and a quick draw. Boon to Shooting. | 6+ | 4+ | 6+ | Uncommon |
-| **Fancy Frontier Suit** | Silk vest and a clean frock coat. Grants a Boon to Social tasks when dealing with town officials or high-society figures. | 6+ | 6+ | 6+ | Rare |
-| **Trapper Furs** | Heavy animal pelts stitched for maximum insulation. Necessary for survival in northern mountain passes. Ignore the effects of cold weather. | 4+ | 6+ | 6+ | Rare |
+| **Heavy Duster** | A thick, wax-treated canvas coat. Built to withstand sandstorms and driving rain. Grant a Boon to Resistance Saves against extreme weather. | 5 | 5 | 6 | Common |
+| **Rough Rider Leathers** | Reinforced chaps and a sturdy vest. Designed for those who spend more time in the saddle than on their feet. Boon to Riding. | 5 | 5 | 6 | Common |
+| **Gunslinger's Garb** | Lightweight, tailored clothing that prioritizes freedom of movement and a quick draw. Boon to Shooting. | 6 | 4 | 6 | Uncommon |
+| **Fancy Frontier Suit** | Silk vest and a clean frock coat. Grants a Boon to Social tasks when dealing with town officials or high-society figures. | 6 | 6 | 6 | Rare |
+| **Trapper Furs** | Heavy animal pelts stitched for maximum insulation. Necessary for survival in northern mountain passes. Ignore the effects of cold weather. | 4 | 6 | 6 | Rare |
 
 ### Firearms
 
@@ -470,9 +473,10 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 | **Lockpicks** | Professional lock picking tools. Requires skill to use effectively, otherwise requires a 6. On a 1, the pick breaks. | 3 | Uncommon |
 | **Mirror** | Signal device and useful for looking around corners. | 1 | Common |
 | **Rope** | 15m/50ft of strong rope. Essential for climbing, binding, and improvisation. | 1 | Common |
-| **Sentimental Memento** | Once per adventure, lose 1 Stress for recounting a new memory related to it. 2 Stress if it connects to the current situation. | 1 | Common |
+| **Sentimental Memento** | Once per session, lose 1 Stress for recounting a new memory related to the memento. Lose 2 Stress if it connects to the current situation. | 1 | Common |
 | **Tent** | Portable shelter. Protects from weather. | 1 | Common |
 | **Tool Kit** | Allows you to perform basic repair work if you have the skills. | 1 | Common |
+| **Writing Set** | Papers or a journal, and a means to write on them. | 1 | Common |
 
 ### Ammunition
 
@@ -485,38 +489,6 @@ Choose **8 items** during character creation. Outfits double as armour and provi
 | **Small Arms Ammo** | Standard ammunition for handguns. | 10 | Uncommon |
 
 ## Vehicles & Companions
-
-### Vehicles
-
-| Name | Description | Class |
-|------|-------------|-------|
-| **Biplane** | Agile WWI-era aircraft perfect for reconnaissance and aerobatics. Boon to Aerial Maneuvers and Observation. Can perform daring stunts and tight turns. Carries pilot and one passenger. | Medium |
-| **Fighter Plane** | Military aircraft equipped with mounted machine guns. Boon to Aerial Combat. Armed with twin machine guns (Long range, 1 Strike). Carries pilot only. | Medium |
-| **Motorcycle** | Nimble two-wheeler. Boon to Speed and Agility, but Bane to Saves in a crash. Can weave through traffic and tight spaces. Carries driver only. | Small |
-| **Motorcycle with Sidecar** | Fast and maneuverable street machine. Boon to Speed and Urban Navigation. Carries driver and one passenger in sidecar. | Small |
-| **Roadster** | Sleek two-seater sports car. Boon to Speed and Avoidance in chases. Moves at the speed of a Small vehicle. Carries driver and one passenger. | Medium |
-| **Canoe** | Silent river craft ideal for jungle expeditions. Boon to Stealth on water. Can navigate shallow rivers and rapids. Carries two passengers and gear. | Small |
-| **Car** | Four-door automobile. Comfortable for long journeys. Provides Light Cover for passengers. Carries driver and up to four passengers. | Medium |
-| **Jeep** | Rugged all-terrain vehicle. Boon to off-road navigation and pushing through obstacles. Carries driver and up to four passengers. | Medium |
-| **Speedboat** | Fast motorboat for coastal and river travel. Moves as a Small vehicle on water. Can make quick getaways and pursue other vessels. Carries pilot and up to three passengers. | Medium |
-| **Sailboat** | Silent sailing vessel for coastal exploration. Boon to Stealth and long-distance sea travel. Carries captain and up to four crew members. | Medium |
-| **Seaplane** | Aircraft capable of landing on water. Can land on lakes, rivers, or ocean. Carries pilot and up to three passengers. | Medium |
-| **Personal Gyrocopter** | Small experimental rotorcraft. Boon to landing in tight spaces. Can hover and make vertical landings. Unstable in bad weather. Carries pilot and one passenger. | Medium |
-| **Cargo Plane** | Twin-engine transport aircraft. Can carry vehicles, supplies, or up to eight passengers. Pilot and copilot required. | Large |
-| **Bomber Aircraft** | Military bomber with bomb bay can drop explosives for area effect. Provides Light Cover. Carries crew of 4-6. | Large |
-| **Armored Car** | Heavy vehicle with armor plating. Provides Medium Cover for all passengers. Boon to Armour Saves. Can ram through obstacles. Carries driver and up to six passengers. | Large |
-| **Half-Track** | Military vehicle with tracks and wheels. Excellent off-road capability. Can mount heavy weapons. Provides Light Cover. Carries driver and up to eight troops. | Large |
-| **Light Tank** | Armored fighting vehicle with cannon. Provides Heavy Cover. Armed with main gun (Long, 2 Strikes) and machine gun (Far, 1 Strike). Crew of 3-4. | Large |
-| **Truck** | Heavy-duty cargo vehicle. Can transport large equipment, supplies, or up to ten people in the back. | Large |
-| **Patrol Boat** | Armed naval vessel for coastal patrol. Equipped with deck gun (1 Strike, Far). Provides Light Cover for crew. Carries captain and up to eight crew members. | Large |
-| **Small Airship** | Compact dirigible for exploration. Provides Light Cover. Can stay aloft for days and access remote locations. Quiet and stealthy. Carries crew of 3-4 plus passengers. | Large |
-| **Zeppelin** | Massive rigid airship for long-distance travel. Mobile base of operations. Provides Medium Cover. Luxurious interior. Carries crew of 10-15 plus passengers and supplies. | Huge |
-| **Military Dirigible** | Armed airship with bomb bays and defensive guns. Can drop bombs or deploy troops. Armed with machine guns (Far, 1 Strike) and bombs. Crew of 15-20. | Huge |
-| **Destroyer** | Naval warship armed with guns and depth charges. Provides Heavy Cover. Armed with deck guns (Extreme range, 2 Strikes) and torpedoes. Crew of 200+. | Huge |
-| **Ocean Liner** | Luxurious passenger ship for trans-oceanic voyages. Acts as mobile hotel. Multiple decks provide various facilities. Carries hundreds of passengers and crew. | Huge |
-| **Cargo Ship** | Large freighter for transporting goods across oceans. Can hide vehicles and large amounts of cargo. Slow but reliable. Carries crew and massive cargo capacity. | Huge |
-| **Flying Boat** | Large seaplane designed for transoceanic flight. Can land on water and access remote islands. Luxurious interior. Carries crew and up to twelve passengers in comfort. | Huge |
-| **Yacht** | Luxurious private vessel for coastal and ocean travel. Acts as mobile mansion. Multiple cabins and amenities. Carries owner and crew of 6-12 plus guests. | Huge |
 
 ### Companions
 
@@ -576,34 +548,34 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Exorcist Acolyte | Lay Exorcist | Relic Warden | Reliquary Keeper | Sanctified Gunsmith | Graveyard Sexton |
-| 2 | Cemetery Warden | Bell Tower Ringer | Parish Beadle | Mission Chapel Caretaker | Shrine Custodian | Pilgrim Escort |
-| 3 | Witchfinder's Clerk | Inquisition Scribe | Canon Lawyer | Monastery Groundskeeper | Abbey Apothecary | Cloister Herbalist |
-| 4 | Order-Bound Novice | Penitent Flagellant | Confessional Recorder | Funeral Rites Assistant | Mortuary Embalmer | Ossuary Keeper |
-| 5 | Catacomb Guide | Tomb Seal Mason | Crypt Watchman | Burial Marshal | Plague Cart Driver | Quarantine Warden |
-| 6 | Pesthouse Nurse | Leper Colony Chaplain | Battlefield Chaplain | Frontier Missionary | Revival Tent Preacher | Circuit Exorcist |
+| 1 | Exorcist Acolyte | Lay Exorcist | Oathbound Witch Hunter | Relic Warden | Reliquary Keeper | Sanctified Gunsmith |
+| 2 | Cemetery Warden | Grave Bell Keeper | Frontier Missionary | Battlefield Chaplain | Shrine Warden | Frontier Pilgrim Guard |
+| 3 | Frontier Graveyard Keeper | Abbey Apothecary | Cloister Herbalist | Orderbound Initiate | Consecrated Surveyor | Night Vigil Keeper |
+| 4 | Catacomb Guide | Tomb Seal Mason | Crypt Watchman | Funeral Rites Officiant | Mortuary Embalmer | Ossuary Keeper |
+| 5 | Quarantine Warden | Pesthouse Nurse | Circuit Exorcist | Holy Water Distiller | Salt Circle Engraver | Wardstone Carver |
+| 6 | Sigil Tattooist | Icon Painter | Relic Artisan | Sanctified Artisan | Sanctum Architect | Chapel Builder |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Holy Water Distiller | Salt Circle Engraver | Wardstone Carver | Sigil Tattooist | Icon Painter | Candleworks Chandler |
-| 2 | Votive Maker | Rosary Knotter | Bellfoundry Smith | Sanctum Architect | Chapel Builder | Monastery Stonemason |
-| 3 | Survivor of the Black Mass Siege | Survivor of the Fallen Abbey | Survivor of the Hellgate Breach | Survivor of the Possessed Homestead | Survivor of the Midnight Revival | Descendant of Exorcists |
-| 4 | Child of a Martyred Saint | Heir to a Cursed Parish | Last Scion of a Warding Line | Former Cult Prisoner | Former Hex Judge | Repentant Grave Robber |
-| 5 | Redeemed Heretic Hunter | Defrocked Deacon | Disgraced Inquisitor | Banished Prior | Oathbound Witch Hunter | Infernal Script Translator |
-| 6 | Forbidden Theology Scholar | Apocrypha Collector | Relic Recovery Scout | Sanctuary Quartermaster | Vigil Lantern Bearer | Night Watch Sacristan |
+| 1 | Infernal Script Translator | Forbidden Theology Scholar | Apocrypha Collector | Grimoire Conservator | Hex Archive Curator | Occult Antiquarian |
+| 2 | Spirit Ledger Keeper | Omen Reader | Bone Oracle Interpreter | Dream Oath Scribe | Pact Notary | Curse Cartographer |
+| 3 | Blight Census Keeper | Possession Investigator | Desecration Investigator | Ruin Chapel Surveyor | Marsh Relic Diver | Relic Recovery Scout |
+| 4 | Sanctuary Quartermaster | Reliquary Courier | Relic Courier | Monastic Brewer | Sanctuary Steward | Funeral Procession Marshal |
+| 5 | Funeral Train Marshal | Relic Caravan Guard | Sanctuary Wall Sentinel | Crypt Locksmith | Catacomb Sentinel | Exorcist Order Veteran |
+| 6 | Border Exorcism Rider | Covenant Oath Witness | Former Vampire Thrall | Child of a Vampire Victim | Descendant of a Returned Heretic | Orphan of the Grave Wars |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Consecrated Ground Surveyor | Crossroads Shrine Keeper | Frontier Abbey Scout | Marshland Relic Diver | Ruin Chapel Surveyor | Desecration Investigator |
-| 2 | Possession Ward Examiner | Blight Census Taker | Tithe Warden | Parish Debt Collector | Alms Courier | Reliquary Courier |
-| 3 | Monastic Brewer | Communion Wine Steward | Ash Wednesday Verger | Feast Day Marshal | Pilgrim Camp Cook | Refuge Chapel Hostler |
-| 4 | Sanctuary Stablemaster | Monastery Falconer | Bell Rope Rigger | Grave Bell Watcher | Gatehouse Porter of the Order | Cloister Porter |
-| 5 | Lantern Procession Marshal | Funeral Train Conductor | Relic Caravan Guard | Sanctuary Wall Sentinel | Chapel Crypt Locksmith | Catacomb Lantern Keeper |
-| 6 | Exorcist Order Recruiter | Border Exorcism Rider | Ordained Monster Hunter | Covenant Oath Witness | Penance House Warden | Demon War Orphan |
+| 1 | Only Witness of the Shifting Men | Victim of a Moon Curse | Last Survivor of the Moonlit Slaughter | Escapee of the Feasting Pits | Crypt Scavenger | Child of an Accused Witch |
+| 2 | Survivor of a Hag Covenant | Heir to a Family Curse | Devil Marked Foundling | Scion of a Damned Lineage | Nightbound Aristocrat | Pilgrim of the Burial Roads |
+| 3 | Spirit Medium | Blood Oath Renegade | Survivor of the Black Mass Siege | Carrion Choir Runaway | Survivor of the Midnight Revival | Survivor of the Blood Moon Massacre |
+| 4 | Shadow Pact Runaway | Orphan of the Dust Town Fire | Mistakenly Buried Survivor | Black Salt Bastard | Kin to a Coven Defector | Ashen Veil Drifter |
+| 5 | Long Night Survivor | Sunshunned Wayfarer | Survivor of the Hellgate Breach | Former Cult Prisoner | Survivor of a Black Rite | Survivor of a Possessed Homestead |
+| 6 | Survivor of a Witch Trial | Monster Hunt Tracker | Night Road Scout | Cursed Bloodline Heir | Redeemed Heretic Hunter | Ordained Monster Hunter |
 
 ### Personality Traits
 
@@ -861,6 +833,43 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 | 4 | Tsula Fox | Unci Grandmother | Unega White | Usdi Little One | Victorio Iron Will | Wakinyan Thunder |
 | 5 | Walela Hummingbird | Wapi Good | Wasechuntashunka American Horse | Waya Wolf | Winona Firstborn Daughter | Woheli Eagle |
 | 6 | Wyanet Beautiful | Yazhi Young One | Yoki Rain | Yona Bear | Yonaguska Drowning Bear | Zitkala Bird |
+
+### Nicknames
+
+Roll **1d6** for table, **1d6** for row, and **1d6** for column.
+
+#### Table 1
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Ace | Bam | Biggs | Bingo | Biscuit | Blip |
+| 2 | Bonehead | Bones | Bubbles | Bubs | Buddy | Bumper |
+| 3 | Caboose | Cakewalk | Cash | Cashew | Caveman | Cheerio |
+| 4 | Chops | Chowder | Chuckles | Chunk | Codger | Combover |
+| 5 | Comedian | Comic | Cook | Curly | Dancer | Deejay |
+| 6 | Deuce | Dinker | Dipstick | Dirtbag | Dirtnap | Doc |
+
+#### Table 2
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Dummy | Earl | Fidget | Fumbles | Gator | Giggles |
+| 2 | Goober | Hopper | Hoss | Jester | Jinx | Jockey |
+| 3 | Joker | Kid | Knucklehead | Knuckles | Lefty | Lucky |
+| 4 | Lunchmeat | Meatball | Meathead | Mischief | Moose | Mothball |
+| 5 | Mudslinger | Mumbles | Nobody | Noodle | Nugget | Numbskull |
+| 6 | Nut | Orphan | Packrat | Paperboy | Patch | Patches |
+
+#### Table 3
+
+| Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1 | Patchwork | Pebbles | Peephole | Peewee | Porkchop | Potato |
+| 2 | Prof | Rascal | Red | Rico | Sarge | Scooter |
+| 3 | Scout | Screwball | Screwup | Shorty | Skipper | Skippy |
+| 4 | Slim | Smiley | Sneezy | Spud | Stumpy | Sunny |
+| 5 | T-Bone | Tank | Tex | Tiny | Trigger | Waddles |
+| 6 | Wheels | Whitey | Wingnut | Wobbles | Wrongway | Zippy |
 
 ### Spanish Given Names
 

@@ -2,7 +2,7 @@
 
 *Martial arts legends in a world of soaring steel and insidious sorcery.*
 
-In a realm of floating peaks and ancient blood-feuds, the path to enlightenment is paved with iron and intent. Master the forbidden arts of the soul to battle corrupt warlords and mythical terrors in an Eastern fantasy epic where your hands are the ultimate weapon. Enflame your spirit, sharpen your strikes, and let your legend take flight.
+In a realm of floating peaks and ancient blood-feuds, the path to enlightenment is paved with iron and intent. Master the hidden arts of the soul to battle corrupt warlords and mythical terrors in an Eastern Fantasy epic where your hands are the ultimate weapon. Enflame your spirit, sharpen your blade, and let your legend take flight.
 
 ---
 
@@ -72,14 +72,14 @@ In a realm of floating peaks and ancient blood-feuds, the path to enlightenment 
       - [Table 5](#table-5-3)
       - [Table 6](#table-6-3)
   - [Names](#names)
-    - [Eastern Fantasy Names Given Names](#eastern-fantasy-names-given-names)
+    - [Wuxia & Cultivation Names Given Names](#wuxia-cultivation-names-given-names)
       - [Table 1](#table-1-4)
       - [Table 2](#table-2-4)
       - [Table 3](#table-3-4)
       - [Table 4](#table-4-4)
       - [Table 5](#table-5-4)
       - [Table 6](#table-6-4)
-    - [Eastern Fantasy Names Family Names](#eastern-fantasy-names-family-names)
+    - [Wuxia & Cultivation Names Family Names](#wuxia-cultivation-names-family-names)
       - [Table 1](#table-1-5)
       - [Table 2](#table-2-5)
       - [Table 3](#table-3-5)
@@ -94,7 +94,7 @@ When attempting something risky, roll a *d6 to meet or beat a Target Number* set
 A *1 is always a Critical Failure* and a *6 is always a Critical Success*. *Boons* add extra dice; keep the highest. *Banes* add extra dice; keep the lowest. They cancel each other out one-for-one.
 
 ### Qi
-  You start with *3 Qi* per session. Spend *Qi* to reroll any failed roll. You gain 1 *Qi* on *ANY failed roll* or when the GM awards it, but can only have a total of 6 at any time.
+  You start with *3 Qi* per session. Spend *Qi* on any roll except a 1 to turn it into a 6. You gain 1 *Qi* on *ANY failed roll*, but can only have a total of 6 at any time. A meal and a good rest can restore +3 *Qi* per day.
 
 ### Corruption
   *Corruption* rolls happen when something terrifying occurs, when you question your sanity, or when using a cursed artefact or ability. Roll a *Resistance Save*; on failure take *1 Corruption*. At *3 Corruption*, your Corruption manifests in a way related to the last *Corruption* inflicted, typically resulting in your end. Reduce *Corruption* by gaining *Cultivation*.
@@ -194,7 +194,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Skirmisher** | Skilled at throwing weapons and slings. | Ranged Attacks using Thrown Weapons/Slings |
 | **Swirling Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
 | **Intercept** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
-| **Deflection** | As your Reaction, when you are hit and fail your Armour Save, roll a 4+. If you fail, take the Strike. If you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. |  |
+| **Deflection** | As your Reaction, when hit with an attack, you can make an Avoidance Save and if you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. If you fail, make your Armour Save as normal. |  |
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
@@ -300,6 +300,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
 | **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
+| **Rider** | Skilled at riding and taming mounts. | Riding Mounts, Taming Wild Mounts |
 
 ## Cultivation Abilities
 
@@ -311,29 +312,41 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 |---------|-------------|-------|
 | **Crouching Tiger** | Your attacks strike with the swiftness of the tiger. When making a Surprise Attack, you can make two separate Attacks as part of the same Action. |  |
 | **Hidden Dragon** | Your enemy cannot predict your movements. When an Attack you make hits, you can spend 1 Qi to immediately become hidden from the target. |  |
-| **Crushing Avalanche** | Sacrifice speed for crushing power. You can take a Bane on an attack to deal 2 Strikes on a hit. |  |
-| **Hammer Fist** | Powerful strikes that send enemies flying. Spend 1 Qi to knock an enemy back to Far distance and Knocked Down on a hit. |  |
+| **Earth-Shattering Palm** | Sacrifice speed for crushing power. You can take a Bane on an attack to deal 2 Strikes on a hit. |  |
+| **Mountain Toppling Fist** | Powerful strikes that send enemies flying. Spend 1 Qi to knock an enemy back to Far distance and Knocked Down on a hit. |  |
 | **Thousand Cuts** | A whirlwind of low-damage strikes. As an Action, attack all targets Close to you with a Boon. Make a single Attack roll for all targets; it cannot Crit. |  |
 | **Be Like Water** | You move like liquid, flowing seamlessly through combat. You gain a Boon to Armour Saves and Avoidance Saves. | Armour Saves, Avoidance Saves |
-| **Heaven-Shaking Vibration** | You vibrate your Qi at a frequency that disrupts the nervous system. As an Action, spend 1 Qi to activate until the end of the scene. While active, gain a Boon to Resistance against Stunned. When you hit a target, they must make a Resistance Save or be Stunned. | Against Stunned (Active) |
+| **Heaven-Shaking Vibration** | You vibrate your Qi at a frequency that disrupts the nervous system. As an Action, spend 1 Qi to activate until the end of the scene. While active, gain a Boon to Resistance against Stunned. When you hit a target with a Crit, even if not Confirmed, they must make a Resistance Save or be Stunned. | Against Stunned (Active) |
 | **Disharmonic Wave** | Unbalance your enemies with a powerful blast of air infused with Qi. As an Action, spend 1 Qi to activate. All Near enemies who are not already Knocked Down must make a Resistance Save or be Knocked Down. |  |
 | **Singing Spring** | The way of the counter-fighter. If you successfully make an Armour Save against an attacker in range, you can spend 1 Qi to make a free counter-attack. |  |
 | **Gentle Palm** | You can choose to make an attack that deals no damage but instead disrupts the target's Qi. If you do, add a Boon, and on a hit inflict Stunned or Knocked Down instead. On a Crit Confirm, you can also inflict Incapacitated (Qi). |  |
 | **Drunken Master** | Unpredictable movements that are surprisingly evasive. Enemies cannot Crit against you and you cannot be Stunned or Knocked Down. |  |
-| **Steel Limb Form** | Through grueling conditioning, your limbs have become as hard as steel. You can block blades with your forearms and strike with the weight of iron. Attacks made with your bare hands or feet gain a Boon and can use a Reaction to Parry and gain a Boon to Armour Saves. | Unarmed Attacks, Armour Saves (Parry) |
-| **Cinder Strike** | On a hit, you can spend 1 Qi to infuse your strike with searing heat and the target is Afflicted (Burning) as your red hot Qi spreads through their body. Gain a Boon against Heat Effects. | Against Heat Effects |
-| **Glacial Shard** | On a hit, you can spend 1 Qi to infuse your strike with freezing cold and the target is Stunned as your chilling Qi slows their movements. If the hit is a Crit Confirm, you can instead inflict Incapacitated (Frozen). Gain a Boon against Cold Effects. | Against Cold Effects |
-| **Viper Fang** | On a hit, you can spend 1 Qi to infuse your strike with an energy interferance toxin and the target is Afflicted (Poisoned) as your disrupting Qi spreads through their body. Gain a Boon against Poison Effects. | Against Poison Effects |
-| **Willow Whip** | A defensive style that uses the enemy's momentum against them. If an enemy misses a melee attack against you, or you succeed on your Save against it, you may use a Reaction to force them to hit another adjacent target of your choice. |  |
-| **Iron Shirt** | You have trained your body to harden at will through conditioning, breathing techniques and Qi control. As an Action, spend a Qi to reduce your Armour Save target to 3+, until the end of the scene. |  |
-| **Gale Step** | As an Action, you can spend 1 Qi to focus your energy into your legs and feet giving you the ability to make a leaping Attack with a Boon that can target an enemy up to Long Range in any direction or elevation. | Gale Step Attack |
+| **Steel Limb Form** | Through grueling conditioning, your limbs have become as hard as steel. Attacks made with your bare hands or feet gain a Boon and you can use a Reaction to Parry and gain a Boon to your Armour Save. | Unarmed Attacks, Armour Saves (Parry) |
+| **Cinders Rising on the Flame** | On a hit, you can spend 1 Qi to infuse your strike with searing heat and the target must make a Resistance Save or be Afflicted (Burning). Gain a Boon against Heat Effects. | Against Heat Effects |
+| **Winter's Breeze Freezing Bone** | On a hit, you can spend 1 Qi to infuse your strike with freezing cold; the target must make a Resistance Save or be Stunned. If the hit is a Crit Confirm, they must make a Resistance Save or be Incapacitated (Frozen). Gain a Boon against Cold Effects. | Against Cold Effects |
+| **Viper Striking From The Grass** | On a hit, you can spend 1 Qi to infuse your strike with an energy interference toxin and the target must make a Resistance Save or be Afflicted (Poisoned). Gain a Boon against Poison Effects. | Against Poison Effects |
+| **Willow Whips In The Wind** | A style of fluid redirection. When you succeed on a Save against a Melee attack, you can spend 1 Qi to hurl the attacker up to Near distance. If they hit an object they take a Strike. If they ar thrown at another creature, the target must make an Avoidance Save or both will take 1 Strike. |  |
+| **Iron Shirt** | You have trained your body to harden at will. As an Action, spend a Qi to reduce your Armour Save target to 3+ until the end of the scene. |  |
+| **Cloud-Ascending Stride** | As an Action, you can spend 1 Qi to focus energy into your legs, allowing you to make a leaping Attack with a Boon targeting an enemy up to Long Range in any direction or elevation. | Leaping Attack |
 | **Dragon Spirit** | Majestic and coiling, your movements unite body and soul. Gain a Boon to Melee Attacks and Resistance Saves. | Melee Attacks, Resistance Saves |
-| **Snake Flow** | Your qi flows like a serpent, soft and precise. Gain a Boon to Melee Attacks and Avoidance Saves. | Melee Attacks, Avoidance Saves |
+| **Snake Flow** | Your internal energy flows like a serpent, soft and precise. Gain a Boon to Melee Attacks and Avoidance Saves. | Melee Attacks, Avoidance Saves |
 | **Tiger Heart** | Ferocious internal force surges through your strikes. Gain a Boon to Melee Attacks and Strength Tasks. | Melee Attacks, Strength Tasks |
 | **Leopard Burst** | Silent stalking and explosive speed let you strike before hesitation can form. Gain a Boon to Melee Attacks and Stealth. | Melee Attacks, Stealth |
 | **White Crane** | Elegant footwork wastes no motion. Gain a Boon to Melee Attacks and Agility. | Melee Attacks, Agility |
-| **Lightness of Being** | You can channel your energy to move with unparalleled grace and speed as your body becomes light as a feather. Spend a Qi to balance your mass with your environment for a scene. You can leap and move twice your normal distance and gain a Boon to Agility and Avoidance Saves while active. | Agility (Lightness of Being Active), Avoidance Saves (Lightness of Being Active) |
-| **Acupuncture Master** | You wield Mystical powers through precise strikes with acupuncture needles. You require an Acupuncture Set to use this ability. As an Action, choose a target up to Near and roll anything but a 1. On a success, apply an effect: Stun, Disable A Limb for a Turn, Heal 1 Strike, Remove Physical Effect (e.g. Stun, Afflicted, or Incapacitated when caused by physiological means such as poison, bleeding, or qi restriction). Unwilling targets may make an Avoidance Save to avoid the effect. Willing targets at Close range require no roll. |  |
+| **Lightness of Being** | Spend a Qi to become light as a feather for a scene. You can leap and move twice your normal distance and gain a Boon to Agility and Avoidance Saves while active. | Agility (Active), Avoidance Saves (Active) |
+| **Acupuncture Master** | You wield Mystical powers through precise needle strikes. Requires an Acupuncture Set. As an Action, choose a target up to Near and roll anything but a 1. On success, apply an effect: Stun, Disable A Limb for a Turn, Heal 1 Strike, or Remove a Physical Effect. Unwilling targets may make an Avoidance Save to avoid the effect. |  |
+| **Echo of the Mountain** | Immovable as the mountain. When you successfully make an Armour Save against a melee attack, the attacker must make a Resistance Save or be Knocked Down by the redirected force. |  |
+| **Seven Step Piercing Strike** | As an Action, you may move through a zone occupied by enemies without triggering Avoidance Saves to disengage. If you end this move at Close range to a target, your first attack against them gains a Boon. |  |
+| **Flowing Ribbon Defense** | When an enemy at Close range attacks a teammate, you can use a Reaction to impose a Bane on that enemy's attack roll. If the attack misses, the enemy is Stunned. |  |
+| **Palm of the Empty Void** | When you make an attack and hit, you can choose to inflict no Strikes and instead prevent the target from spending Qi until the end of their next turn. |  |
+| **Harmonious Mirror Form** | Spend 1 Qi to produce several images of yourself. Until the start of your next turn, all attacks against you are at a Bane, and you gain a Boon on all Armour Saves. | Armour Saves (Active) |
+| **Thousand League Whispering Needle** | Spend 1 Qi to make a Ranged Attack against a target up to Extreme range using a small thrown object infused with your Qi that Crits and Confirms on a 5+. |  |
+| **Iron Horse Stance** | Use an Action to enter this stance. Until you move, you cannot be Knocked Down or moved, and you gain a Boon to Armour Saves. | Armour Saves (Active) |
+| **Falling Petal, Drifting Leaf** | Make a Melee Attack with a Bane as you make a feint. On a hit, the target is Stunned as well as taking damage. |  |
+| **Dragon Breath Kiai** | Spend 1 Qi to blast all Close enemies with a shockwave. Targets must pass a Resistance Save or be pushed to Near range and Knocked Down. |  |
+| **Ghost Drifting Through Shadows** | Spend 1 Qi as a Reaction to automatically pass an Avoidance or Resistance Save. |  |
+| **Mantis Seizes the Cicada** | Bind an opponent with your own body. On a successful melee attack, you can forgo the Strike and make both you and the target Incapacitated (Restrained) until you release them or they pass an opposed Strength Task to break free. |  |
+| **Empty Hand Seizes the Blade** | Your hands move like lightning to intercept steel. If you successfully make an Armour Save or Avoidance Save against a melee weapon attack, you can use a Reaction to catch the weapon and gain a Boon in the opposed Strength check to disarm them, or in any attacks against them while their weapon is held. |  |
 
 ### Jiang Tou Dark Sorcery
 
@@ -343,10 +356,12 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | **Decaying Curse** | As an Action, invoke a curse upon an enemy you can see. They must make a Resistance Save or be Afflicted (Mystical) with a curse that causes their body to rapidly decay. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
 | **Puppeteering** | As an Action, you can control up to 6 dolls in your possession. You can see through their eyes, hear through their ears, and communicate through them. If any of these dolls is made using the hair or nails of somebody, that person has a Bane to any Resistance Saves against your powers. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
 | **Blood Sigil** | You can use your own blood as ink to create Mystical inscriptions and signs. Use an Action to create a Blood Sigil, which will either Shield yourself or an ally from a single Strike, render a target Near to you as Stunned, prevent anyone you designate entering an area Close to the Blood Sigil or make a target take a single Action you determine against their will. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
-| **Qi Thief** | Siphon energy from the living. On a successful hit, you can choose deal no damage but regain 2 Qi. You can drain additional Qi from the target for each Confirmed Crit. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
-| **Blade of the Damned** | As an Action, manifest a jagged weapon forged from the screaming souls of the fallen that lasts for a scene. It attacks with a Boon and can strike incorporeal or mystical entities as if they were physical. If you slay an enemy with this blade, you immediately regain 1 Qi as you absorb some of their soul energy. The first time you use this each session, make a Resistance Save or take 1 Corruption. | Blade of the Damned Attacks [Corruption] |
+| **Qi Thief** | Siphon Qi energy from the living.  As an Action, target one enemy who must make a Resistance Save or transfer up to 2 of their Qi to you if they have any available. The first time you use this ability each session, make a Resistance Save or take 1 Corruption. |  |
+| **Blade of the Damned** | As an Action, manifest a jagged melee weapon forged from the screaming souls of the fallen that lasts for a scene. It attacks with a Boon and can strike incorporeal or mystical entities as if they were physical. If you slay an enemy with this blade, you immediately regain 1 Qi as you absorb some of their soul energy. The first time you use this each session, make a Resistance Save or take 1 Corruption. | Blade of the Damned Attacks [Corruption] |
 | **Blood Drain** | As an Action, target a single enemy you can see who must make a Resistance Save. If they fail, they lose 1 Strike and you heal 1 yourself. If they suceed, you take a Corruption with no save. |  |
 | **Soul Devourer** | As an Action, after defeating an enemy, you can choose to consume their soul. If you do, you gain 1 Cultivation, but must also take 1 Corruption with no save. |  |
+| **Soul Devourer** | As an Action, after defeating an enemy, you can choose to consume their soul to fuel your dark cultivation. If you do, you gain 1 Cultivation, but must also take 1 Corruption with no save. If you also have the Shapeshifter ability, once a soul is devoured, you may shapeshift into them and gain access to their abilities while in their form. |  |
+| **Shapeshifter** | As an Action, spend 1 Qi to transform into a creature of similar size for a scene. You can mimic common creatures, gaining their natural traits and Boons, as well as a means to communicate with them. While transformed, you retain your original Strikes. If you have the Soul Devourer ability, you can also transform into those whose souls you consume, gaining their form, voice, and abilities. The first time you use a soul devoured form each session, make a Resistance Save or take 1 Corruption. |  |
 | **Vengeful Spirits** | As an Action, you can call forth the vengeful spirits of those you have wronged or slain. All enemies within Long Range must make a Resistance Save or be Terrified. The first time you use this ability each session, make a Resistance Save or take 1 Corruption.  |  |
 | **Immortal** | You have sold your soul for agelessness. You have no biological needs. You are immune to abilities that manipulate you through physical needs. You do not age. If you lose your last Strike, any additional Strikes you take inflict Corruption on you. Only when your Corruption is full do you meet your end. At the end of each day, make a Resistance Save or take 1 Corruption. You may waive this Save by consuming the remains of a Mystical creature encountered that day. |  |
 | **Shadowborn** | You merge with your shadow and no longer cast one, can see in darkness as if day, and become almost invisible in shadow. You can move from shadow to shadow within Far Range as an Action. The first time you manifest this ability each session, make a Resistance Save or take 1 Corruption. |  |
@@ -358,7 +373,7 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | **Master of Taboos** | You can rewrite the spiritual laws of an area. Use an Action to manifest a Taboo such as 'No one may speak' or 'None shall touch the ground' or 'No blood shall be shed' or 'No healing may occur'. Roll anything but a 1. On a success, everyone in the scene is bound by the Taboo until the for so long as you spend an Action each turn to maintain it. Anyone violating the Taboo must make a Resistance Save or take a Strike via a Mystical manifestation. If you roll a 1, the GM can decide how it goes catastrophically wrong. The first time you use this each session, make a Resistance Save or take 1 Corruption. |  |
 | **Shadow Nails Curse** | As an Action, manifest spectral, rusted nails to pin the shadow of a single target on anything but a 1. The target must make a Resistance Save or be Incapacitated. On a 1, you are Incapacitated by it instead. You must spend 1 Action each turn to maintain the nails. Performing another Mystical Action or taking a Strike ends the effect. The first time you use this each session, make a Resistance Save or take 1 Corruption. |  |
 | **Gu Jar** | You carry a jar containing an increadibly venomous Mystical flying insect known as a 'Gu': the last survivor of a swarm of venomous insects and arachnids that devour one another until only one remains. As an Action, release the Gu. Roll and on anything but a 1, any enemies up to Near must make an Avoidance Save to dodge out of the way of the furious insect or be Afflicted (Poison). On a 1, the Gu turn on you and you are Afflicted (Poison). The first time you release the Gu each session, make a Resistance Save or take 1 Corruption. |  |
-| **Jiangshi Talisman** | As an Action, affix a paper talisman to a corpse to raise it as a Jiangshi - a powerful undead minion sometimes known as a 'hopping vampire' due to its tendency to move in stiff leaps. It has 3 Strikes, is 4+ to hit, and has an Avoidance and Resistance Save of 6. It is immune to poisons and physical ailments, but is completely blind and only senses breath. It has a Boon to Agility and Strength at night, but a Bane to all tasks in sunlight. If an enemy removes the talisman, the Jiangshi instantly becomes a corpse again. You can have up to 6 of these minions. The first time you use this each session, or start a session with minions, make a Resistance Save or take 1 Corruption. |  |
+| **Jiangshi Talisman** | As an Action, affix a paper talisman to a corpse to raise it as a Jiangshi - a powerful undead minion sometimes known as a 'hopping vampire' due to its tendency to move in stiff leaps. It has 2 Strikes, is 3+ to hit, and has an Avoidance and Resistance Save of 6. It is immune to poisons and physical ailments, but is completely blind and only senses breath. It has a Boon to Agility and Strength at night, but a Bane to all tasks in sunlight. If an enemy removes the talisman, the Jiangshi instantly becomes a corpse again. You can have up to 6 of these minions and command them all to perform the same task with a single Action, or use additional Actions to command them individually. The first time you use this each session, or start a session with minions, make a Resistance Save or take 1 Corruption. |  |
 
 ### Xianxia Immortal Hero Techniques
 
@@ -367,8 +382,13 @@ Enhanced supernatural powers gained through your **Cultivation**. For every thre
 | **Jade Golem** | Transform into a massive construct. As an Action, spend 1 Qi to transform for one scene or until you use an Action to dismiss. You can take +2 Strikes and gain a Boon to Strength and Melee Attacks, but you cannot use other styles while transformed and take a Bane to Avoidance Saves. |  |
 | **Inner Perfection** | Your soul is at peace and you have complete mastery over your Qi. You gain +1 Health. Once per session, when you find a moment of peace to meditate, spend your Qi to heal a Strike for each Qi spent. |  |
 | **Shapeshifter** | As an Action, you can transform into a person or creature of similar size that you are familiar with for a scene by spending 1 Qi. While in their form you can mimic their abilities, voice and appearance. This includes being able to understand and communicate with other creatures of the same type. On a Confirmed Crit against you, or if you fall to 0 Health, the transformation ends and all Strikes taken transfer to your original form. |  |
-| **Yinyang Master** | You can wield Mystical powers through the use of celestial scripts on scrolls and paper charms. You require a Writing Set to use these abilities. You can use your powers to perform sealing rituals against evil entities, invoke spiritual attacks, or as small transforming paper familiars. When you use this power, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, none of them suffer the effect. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. |  |
-| **Wuxing Elemental Master** | You can wield Mystical powers through rituals, incantations, and hand signs to invoke effects based on the five elements of Wood, Fire, Earth, Metal, and Water. You require a Wuxing Amulet to balance and focus the elemental energy. This may take the form of elemental attacks, transformations, or shifting the elemental nature of the environment. When you use this power, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, none of them suffer the effect. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. |  |
+| **Yinyang Master** | You can wield Mystical powers through the use of celestial scripts on scrolls and paper charms. You require a Writing Set to use these abilities. You can use your powers to perform sealing rituals against evil entities, invoke spiritual attacks, or as small transforming paper familiars. When you use this power, make a roll of anything but a 1. If you roll a 1, the GM can decide how the power goes catastrophically wrong. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, the effect fails. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. |  |
+| **Muxing (Wood Elemental) Mastery** | You can manipulate the essence of growth and vitality. This includes entangling foes with rapid growth, healing organic matter, or altering the properties of plants. Roll anything but a 1. Failure results in unpredictable effects such as wild, thorny growth that may harm you or allies. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment or allies, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, the effect fails. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. You require a token of this element to balance and focus the elemental energies, such as a sprig of sacred wood. |  |
+| **Huoxing (Fire Elemental) Mastery** | You can manipulate the essence of heat and destruction. This includes manifesting blasts of flame, creating barriers of searing heat, or igniting objects. Roll anything but a 1. Success affects up to 6 targets or the environment (Resistance Saves apply). Maintaining an effect requires an Action each turn. Failure results in unpredictable effects such as an explosive backfire or uncontrollable wildfire. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment or allies, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, the effect fails. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. You require a token of this element to balance and focus the elemental energies, such as a flame from a sacred fire. |  |
+| **Tuxing (Earth Elemental) Mastery** | You can manipulate the essence of stone and weight. This includes shifting terrain, hardening surfaces for defense, or crushing foes with localized gravity. Roll anything but a 1. Failure results in unpredictable effects such as a tremor or collapse that affects you and allies. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment or allies, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, the effect fails. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. You require a token of this element to balance and focus the elemental energies, such as a shard of sacred stone. |  |
+| **Jinxing (Metal Elemental) Mastery** | You can manipulate the essence of ore and rigidity. This includes manifesting spectral blades, reinforcing armor, or liquefying metal objects. Roll anything but a 1. Failure results in unpredictable effects such as your own gear becoming brittle or turning against you. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment or allies, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, the effect fails. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. You require a token of this element to balance and focus the elemental energies, such as a piece of sacred metal. |  |
+| **Shuixing (Water Elemental) Mastery** | You can manipulate the essence of fluid and cold. This includes freezing surfaces, creating mist for concealment, or redirecting the flow of water. Roll anything but a 1. Failure results in unpredictable effects such as being frozen or swept away by your own current. On a success, you may use the power against up to 6 targets who must make a Resistance Save or be affected by your chosen effect. If casting on the environment or allies, the GM will determine how many Resistance Saves to roll based on the difficulty, from 1-6. If any of the Resistance Saves succeed, the effect fails. You can create ongoing effects, but require an Action each Turn to maintain them or they will be dismissed. Performing another Mystical Action or taking a Strike will end any ongoing effects. You require a token of this element to balance and focus the elemental energies, such as a vial of sacred water. |  |
+| **Wuxing (Five Phase) Grandmaster** | The ultimate state of elemental cultivation. You must possess all five Elemental Masteries to obtain this. You no longer require an Action to maintain ongoing elemental effects, nor break the effect by performing another Mystical Action. Additionally, you can combine multiple elements into a single effect, such as Steam, Magma, or Flaming Metal Blades. You require a Wuxing Amulet to balance and focus the elemental energies. |  |
 | **Spiritual Shield** | As an Action, you can create a protective barrier of spiritual energy that lasts until the end of the scene or until you dismiss it. This shield grants a Boon to Armour Saves and Resistance Saves against Mystical effects. It can be sacrificed to absorb all the damage from a single attack or harmful effect by turning a failed Save into a successful one. | Armour Saves (Spiritual Shield Active), Against Mystical Effects (Spiritual Shield Active) |
 | **Cultivation Array Master** | You can wield Mystical powers to control an area through the careful placement of mystical arrays, rituals, drawn circles, and specialised materials to create barriers, illusions, Mystical traps, or teleportation circles. You require a Qi Compass and Array Materials to detect and place these arrays. They may be combined with other Mystical abilities to produce additional effects. When you take time to set up an and complete an array, make a roll of anything but a 1. If you roll a 1, the GM can decide how the array goes catastrophically wrong. On a success, anyone entering the area covered by the array must make a Resistance Save or succum to its effects. |  |
 
@@ -401,6 +421,7 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 | **Meteor Hammer** | Rope-and-weight martial weapon used for entangling strikes and flowing techniques. | 1 | Close/Near | Rare |
 | **Spear** | Essential weapon across Eastern cultures. Can be used as melee or ranged. | 1 | Close | Common |
 | **War Staff** | Flexible two-handed quarterstaff favored in martial arts training and combat. | 1 | Close | Common |
+| **Wolf Fang Club** | A large iron club with wicked spikes along the head. | 1 | Close | Uncommon |
 
 ### Ranged Weapons
 
@@ -433,9 +454,12 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 |------|-------------|----------|--------|
 | **Array Materials** | Specialized materials used for creating mystical arrays; chalk, spirit stones, flags, and other ritual materials. | 1 | Rare |
 | **Bamboo Basket** | A rigid bamboo frame for carrying scrolls and supplies. | 1 | Common |
-| **Fire Tube** | A bamboo tube with slow-burning tinder that can be used to start fires with a breath. | 1 | Common |
+| **Earth Talisman** | A clay talisman made from sacred earth. Can be used to balance and focus earth elemental energy. | 1 | Uncommon |
+| **Fire Talisman** | A small box containing the ashes from a sacred fire. Can be used to balance and focus fire elemental energy. | 1 | Uncommon |
+| **Fire Tube** | A bamboo tube with slow-burning tinder that can be used to start fires with a breath and hold a living flame within. | 1 | Common |
 | **Flying Claws** | Four-pronged iron claws on a thin chain. Used for scaling walls or snatching objects from afar. | 1 | Common |
 | **Iron-Ribbed Fan** | An elegant folding fan with steel reinforcements. Functions as a tool for signaling, cooling, or a concealed parrying device. | 1 | Uncommon |
+| **Metal Talisman** | A metal talisman inscribed with protective wards and blessings. Can be used to balance and focus metal elemental energy. | 1 | Uncommon |
 | **Paper Lantern** | A collapsible paper lantern that provides light for a scene. | 3 | Common |
 | **Personal Seal** | A carved jade seal and red ink paste. Necessary for legal documents, entering restricted libraries, or proving noble lineage. | 1 | Uncommon |
 | **Polished Bronze Mirror** | A traditional octagonal mirror used for signaling or checking for pursuit. | 1 | Common |
@@ -444,9 +468,12 @@ Choose **6 items** during character creation. Outfits double as armour and provi
 | **Reinforced Oilskin Umbrella** | Waterproof and sturdy. Can be used as a makeshift shield against projectiles or a glide-assist during high jumps. | 1 | Common |
 | **Silk Cord** | Long, strong silk ribbon, easy to conceal as a belt. Used for binding or climbing. | 1 | Common |
 | **Silver Needle Set** | Fine needles used to seal bleeding, numb pain, or paralyze an opponent's limbs by striking acupuncture points when used by a skilled master. At the end of each scene in which you use them, you can recover d6 back to your set (to the maximum of 12). | 12 | Uncommon |
+| **Spirit Talisman** | A paper talisman inscribed with protective wards and blessings. Can be used to ward a location or person against spirits or curses. | 3 | Uncommon |
 | **Steel Hairpin Set** | Can be used as lockpicks, needles, or improvised weapons. Less suspicious than tools. | 2 | Uncommon |
 | **Tea Set** | A fine tea set for brewing and sharing tea with others. | 1 | Common |
+| **Water Talisman** | A vial of water from a sacred pool. Can be used to balance and focus water elemental energy. | 1 | Uncommon |
 | **Wok** | Large, simple, heavy, and sturdy. A versatile cooking pot and occasional improvised weapon. | 1 | Common |
+| **Wooden Talisman** | A carved wooden talisman from a sacred tree. Can be used to balance and focus wood elemental energy. | 1 | Uncommon |
 | **Writing Set** | A beautiful case containing papers, ink and brushes. | 1 | Uncommon |
 | **Wuxing Amulet** | A rotating five-pointed amulet featuring gems represetning the five elements of Wood, Fire, Earth, Metal and Water. Used to balance and focus elemental energy. | 1 | Uncommon |
 
@@ -756,7 +783,7 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 Use these tables to name your character, or combine entries across tables for variety.
 
-### Eastern Fantasy Names Given Names
+### Wuxia & Cultivation Names Given Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -764,69 +791,69 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Aiko | Aimi | Airi | Akari | Amaya | Amberkoi |
-| 2 | Ancestorspeaker | Arrowsong | Axewielder | Ayame | Azuresky | Bambooheart |
-| 3 | Baojun | Baotian | Beomseok | Binh | Blademaster | Brightreed |
-| 4 | Byungsoo | Chao | Chika | Chisato | Chiyome | Chunnan |
-| 5 | Cinderlotus | Cloudfable | Cloudribbon | Cloudwalker | Cranedance | Cranefeather |
-| 6 | Cranegleam | Crimsondawn | Daehyun | Daichi | Daisuke | Darkbane |
+| 1 | Aimin | Amber Koi | Ancestor Honored | Anqi | Aura Walker | Azure Sky |
+| 2 | Bamboo Soul | Baojun | Baotian | Biyu | Blade Seeker | Bo |
+| 3 | Bohai | Bolin | Bright Reed | Broadsword | Cai | Changpu |
+| 4 | Chao | Chengyu | Chika | Chunnan | Cinder Lotus | Cloud Fable |
+| 5 | Cloud Ribbon | Cloud Stepper | Crane Dance | Crane Gleam | Crane Wing | Crimson Path |
+| 6 | Cyclone | Dawn Chime | Dawn Lotus | Dayu | Dew Drop | Dew Lantern |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Dawnchime | Dawnlotus | Dewdrop | Dewlantern | Donghyun | Dongmei |
-| 2 | Dragonborn | Dragonhush | Dragonwhisper | Dreamweaver | Duskripple | Earthshaker |
-| 3 | Echojade | Eiko | Emberlight | Emberplum | Erina | Etsuko |
-| 4 | Eunjin | Fen | Firekeeper | Fisherman | Fortuneteller | Frostpetal |
-| 5 | Frostwind | Fukiko | Fumiko | Fuyumi | Genji | Goldenkite |
-| 6 | Goldensun | Guangli | Guowei | Haneul | Haoran | Haruka |
+| 1 | Dewei | Dong | Dongmei | Dragon Heart | Dragon Hush | Dragon Whisper |
+| 2 | Dream Eater | Dusk Ripple | Echo Jade | Ember Glow | Ember Plum | Enlai |
+| 3 | Eternal One | Eternal Spring | Fai | Fan Master | Fate Reader | Feather Whisper |
+| 4 | Feifei | Fen | Feng | Flying Fox | Frost Bite | Frost Petal |
+| 5 | Ghost Dancer | Golden Kite | Golden Qi | Guangli | Guanyin | Guowei |
+| 6 | Haotian | He | Heaven Shaker | Herbalist | Heron Wake | Hidden Blade |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Haruto | Heronwake | Hiroto | Hoshiko | Inkwillow | Ironmonk |
-| 2 | Ironpetal | Isamu | Iseul | Itsuki | Ivorycloud | Jadeecho |
-| 3 | Jadeheart | Jadehorizon | Jadeveil | Jiahao | Jiayi | Jinhai |
-| 4 | Jisoo | Jiwon | Junpei | Kaede | Kaito | Kaori |
-| 5 | Kiyoshi | Lanternbloom | Lanternglow | Lanternkeeper | Lian | Lightbringer |
-| 6 | Lihong | Lotusbloom | Lotusveil | Luming | Master | Meilin |
+| 1 | Hua | Hualing | Huan | Ink Willow | Iron Bones | Iron Monk |
+| 2 | Iron Petal | Ivory Cloud | Jade Echo | Jade Horizon | Jade Palm | Jade Spirit |
+| 3 | Jade Veil | Jiahao | Jiayi | Jingwei | Jinhai | Jun |
+| 4 | Kai | Kang | Kun | Lantern Bearer | Lantern Bloom | Lantern Glow |
+| 5 | Lian | Lihong | Lotus Bloom | Lotus Hand | Lotus Veil | Luming |
+| 6 | Master | Meifeng | Meilin | Meiling | Meixiu | Mingli |
 
 #### Table 4
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Meixiu | Minseo | Misaki | Mistborn | Mistpetal | Mistsong |
-| 2 | Mistwalker | Miyu | Monkeyfist | Moonblade | Moonquill | Moonreeds |
-| 3 | Naoko | Nari | Nightlotus | Nightreed | Noriko | Onyxnight |
-| 4 | Pearlmist | Petalfall | Phoenixdew | Phoenixheart | Phoenixsong | Plumdawn |
-| 5 | Plumelake | Plumewhisper | Qianru | Qingshan | Qingyi | Quietbloom |
-| 6 | Raindancer | Rainpetal | Reedshadow | Renji | Renshu | Ricefarmer |
+| 1 | Mist Petal | Mist Shadow | Mist Song | Monkey Fist | Moon Quill | Moon Reeds |
+| 2 | Moon Slayer | Mountain Toppler | Nan | Night Lotus | Night Reed | Ning |
+| 3 | Nuo | Onyx Void | Pearl Mist | Petal Rain | Phoenix Cry | Phoenix Dew |
+| 4 | Phoenix Soul | Plum Dawn | Plum Lake | Qianru | Qingshan | Qingyi |
+| 5 | Quiet Bloom | Rain Flow | Rain Petal | Reed Shadow | Renshu | River Chime |
+| 6 | River Ghost | River Light | River Petal | Rong | Ruohan | Ruolan |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Riku | Rina | Riverchime | Riverlumen | Riverpetal | Riverwhisper |
-| 2 | Ryota | Satoshi | Sayuri | Scholar | Scrollkeeper | Scrollsage |
-| 3 | Seojun | Serpentfang | Shadowdancer | Shieldbearer | Shimmerplum | Shiori |
-| 4 | Silkbreeze | Silkmaster | Silvermoon | Skylantern | Snowfall | Snowlantern |
-| 5 | Sora | Sparrowmist | Spearbreaker | Spiritwalker | Staffkeeper | Stargazer |
-| 6 | Starpetal | Starwillow | Stormcaller | Stormpetal | Sunpetal | Sunstrike |
+| 1 | Ruomei | Scholar | Scroll Sage | Sect Elder | Serpent Coil | Shaofeng |
+| 2 | Shen | Shimmer Plum | Shuilong | Shuo | Silent River | Silk Breeze |
+| 3 | Silk Shadow | Silver Frost | Sky Fury | Sky Lantern | Snow Drift | Snow Lantern |
+| 4 | Sparrow Mist | Spear Point | Spirit Lighter | Spirit Seer | Staff Vigil | Star Gazer |
+| 5 | Star Petal | Star Willow | Stone Cutter | Storm Petal | Sun Petal | Sun Reaper |
+| 6 | Sun Willow | Suyin | Sword Saint | Tai | Tao | Tea Master |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Sunwillow | Suyin | Swordmaster | Taeyang | Takara | Teabrewer |
-| 2 | Teacher | Tenzin | Thunderstep | Tigerbloom | Tigerclaw | Tigerstride |
-| 3 | Tomoe | Ujin | Ume | Umiko | Vinh | Wataru |
-| 4 | Waterweaver | Wenhao | Wenli | Willowdream | Willowglint | Willowhaze |
-| 5 | Windpetal | Windwhisperer | Woodcarver | Xiaoran | Xinyi | Xuefei |
-| 6 | Yejin | Yori | Yuna | Zhen | Zhenya | Zixuan |
+| 1 | Teacher | Tenzin | Thousand Miles | Thunder Step | Tian | Tiger Bloom |
+| 2 | Tiger Claw | Tiger Stride | Ting | Vinh | Void Drifter | Wai |
+| 3 | Wenhao | Wenli | Willow Dream | Willow Glint | Willow Haze | Wind Chaser |
+| 4 | Wind Petal | Wulun | Wuxiang | Xiaoran | Xinyi | Xuefei |
+| 5 | Yan | Yimin | Yuehua | Yujin | Yun | Yunxi |
+| 6 | Zetian | Zhen | Zhenya | Zhiyuan | Zixuan | - |
 
-### Eastern Fantasy Names Family Names
+### Wuxia & Cultivation Names Family Names
 
 Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
@@ -834,65 +861,65 @@ Roll **1d6** for table, **1d6** for row, and **1d6** for column.
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | An | Anh | Apsara | Autumnleaf | Bamboo | Bamboochime |
-| 2 | Bamboogrove | Bao | Bingwen | Binh | Bo | Bora |
-| 3 | Chai | Chang | Chaoxiang | Chen | Chun | Cloudlantern |
-| 4 | Cloudpetal | Cranecrest | Cranemoon | Crimsonjade | Dae | Daiyu |
-| 5 | Dawnbreaker | Delun | Dragonbloom | Dragonlake | Duc | Emberlotus |
-| 6 | Fang | Feng | Gang | Goldenstream | Guang | Hai |
+| 1 | An | Anh | Apsara | Autumn Leaf | Bamboo | Bamboo Chime |
+| 2 | Bamboo Grove | Bao | Bingwen | Binh | Bo | Chai |
+| 3 | Chang | Chaoxiang | Chen | Chun | Cloud Lantern | Cloud Petal |
+| 4 | Crane Crest | Crane Moon | Crimson Jade | Dae | Daiyu | Dawn Bringer |
+| 5 | Delun | Dragon Bloom | Dragon Lake | Duc | Ember Lotus | Fang |
+| 6 | Feng | Gang | Golden Stream | Guang | Hai | Han |
 
 #### Table 2
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Han | Haneul | Hoa | Hong | Hua | Huan |
-| 2 | Huizhong | Inkbrush | Jadebrook | Jadewing | Jasmine | Jian |
-| 3 | Jing | Joon | Jun | Junjie | Kulap | Kuroda |
-| 4 | Lan | Lanternmist | Lanternsnow | Lei | Li | Lian |
-| 5 | Lihua | Lin | Ling | Liu | Long | Longwei |
-| 6 | Lotus | Lotusrain | Lotuswind | Maplewind | Matsuda | Mei-Ling |
+| 1 | Haneul | He | Hoa | Hong | Hua | Huan |
+| 2 | Huizhong | Ink Brush | Jade Brook | Jade Wing | Jian | Jing |
+| 3 | Joon | Jun | Junjie | Kulap | Lan | Lantern Mist |
+| 4 | Lantern Snow | Lei | Li | Lian | Lihua | Lin |
+| 5 | Ling | Liu | Long | Longwei | Lotus Rain | Lotus Wind |
+| 6 | Lu | Maple Wind | Mei Ling | Min | Ming | Mingzhu |
 
 #### Table 3
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Min | Ming | Mingzhu | Minh | Moonflower | Moonpetal |
-| 2 | Moonstone | Nari | Narong | Nightblossom | Ning | Niran |
-| 3 | of the Amber Lantern | of the Amber Pavilion | of the Ancient Temple | of the Azure Dragon | of the Black Tortoise | of the Celestial Court |
-| 4 | of the Crimson Maple | of the Crimson Phoenix | of the Dawn Pavilion | of the Divine Palace | of the Eastern Peaks | of the Eternal Garden |
-| 5 | of the Falling Plum | of the Golden Lotus | of the Golden Reed | of the Hidden Moon | of the Hidden Valley | of the Jade Lantern |
-| 6 | of the Jade Mountain | of the Misty Terrace | of the Moonlit Lake | of the Nine Petals | of the Northern Forests | of the Painted Fan |
+| 1 | Minh | Moon Flower | Moon Petal | Moon Stone | Nari | Narong |
+| 2 | Night Blossom | Ning | Niran | of the Amber Lantern | of the Amber Pavilion | of the Ancient Temple |
+| 3 | of the Azure Dragon | of the Black Tortoise | of the Celestial Court | of the Crimson Maple | of the Crimson Phoenix | of the Dawn Pavilion |
+| 4 | of the Divine Palace | of the Eastern Peaks | of the Eternal Garden | of the Falling Plum | of the Golden Lotus | of the Golden Reed |
+| 5 | of the Hidden Moon | of the Hidden Valley | of the Jade Lantern | of the Jade Mountain | of the Misty Terrace | of the Moonlit Lake |
+| 6 | of the Nine Petals | of the Northern Forests | of the Painted Fan | of the Pearl Current | of the Quiet River | of the Rain-Washed Shrine |
 
 #### Table 4
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | of the Pearl Current | of the Quiet River | of the Rain-Washed Shrine | of the Sacred Grove | of the Sapphire Lake | of the Silent Bell |
-| 2 | of the Silver Moon | of the Singing Reeds | of the Southern Seas | of the Thousand Steps | of the Vermillion Bird | of the Western Plains |
-| 3 | of the Whispering Pines | of the White Tiger | Park | Pearldew | Pearlriver | Peng |
-| 4 | Phoenixmist | Pinewhisper | Ping | Plumblossom | Plumrain | Qi |
-| 5 | Qiang | Qiao | Qing | Qiuyue | Ricepaddy | Riverpearl |
-| 6 | Riversong | Rong | Ru | Ruolan | Ryujin | Saffrondawn |
+| 1 | of the Sacred Grove | of the Sapphire Lake | of the Silent Bell | of the Silver Moon | of the Singing Reeds | of the Southern Seas |
+| 2 | of the Thousand Steps | of the Vermillion Bird | of the Western Reach | of the Whispering Pines | of the White Tiger | Pearl Dew |
+| 3 | Pearl River | Peng | Phoenix Mist | Pine Whisper | Ping | Plum Blossom |
+| 4 | Plum Rain | Qi | Qiang | Qiao | Qing | Qiuyue |
+| 5 | Rice Paddy | River Pearl | River Song | Rong | Ru | Ruolan |
+| 6 | Saffron Dawn | Seung | Shan | Shen | Shenlong | Shi |
 
 #### Table 5
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | Seung | Shan | Shen | Shi | Silentshadow | Silkthread |
-| 2 | Silkwind | Silverbamboo | Silverreed | Somchai | Song | Springrain |
-| 3 | Starlight | Starwhisper | Stormheart | Suda | Sunan | Sunfire |
-| 4 | Takahara | Tao | Teacup | Thanh | the Calm | the Cloud-Minded |
-| 5 | the Dawn-Blessed | the Devoted | the Enlightened | the Fierce | the Gentle | the Honorable |
-| 6 | the Lantern-Born | the Lotus-Crowned | the Moon-Kissed | the Peaceful | the Rain-Gentle | the River-Patient |
+| 1 | Silent Shadow | Silk Thread | Silk Wind | Silver Bamboo | Silver Reed | Somchai |
+| 2 | Song | Spring Rain | Star Light | Star Whisperer | Storm Sovereign | Suda |
+| 3 | Sun | Sun Fire | Sunan | Tang | Tao | Tea Cup |
+| 4 | Thanh | the Calm | the Cloud Minded | the Dawn Blessed | the Devoted | the Enlightened |
+| 5 | the Fierce | the Gentle | the Honorable | the Lantern Born | the Lotus Crowned | the Moon Kissed |
+| 6 | the Peaceful | the Rain Gentle | the River Patient | the Serene | the Starlit | the Strong |
 
 #### Table 6
 
 | Row \ Col | 1 | 2 | 3 | 4 | 5 | 6 |
 |-----------|---|---|---|---|---|---|
-| 1 | the Serene | the Starlit | the Strong | the Swift | the Virtuous | the Willow-Haired |
-| 2 | the Wise | Thuy | Tuan | Uehara | Wei | Wen |
-| 3 | Willowbend | Willowmist | Willowrain | Windrose | Wintermoon | Xia |
-| 4 | Xiaoli | Xin | Xiu | Yan | Yang | Yeon |
-| 5 | Yi | Yin | Ying | Yu | Yuan | Yue |
-| 6 | Yun | Zhang | Zhao | Zhen | Zhi | Zhou |
+| 1 | the Swift | the Virtuous | the Willow Haired | the Wise | Thuy | Tuan |
+| 2 | Wang | Wei | Wen | Willow Bend | Willow Mist | Willow Rain |
+| 3 | Wind Walker | Winter Moon | Xia | Xiaoli | Xin | Xiu |
+| 4 | Xue | Yan | Yang | Ye | Yeon | Yi |
+| 5 | Yin | Ying | Yu | Yuan | Yue | Yun |
+| 6 | Zhang | Zhao | Zhen | Zhi | Zhou | - |
 

@@ -2,7 +2,7 @@
 
 *Modern survival horror where every choice matters*
 
-When the lights go out and the dread creeps in, you are forced to weigh the cost of your survival against the weight of your own sanity. Hold the line against the dark, or join the body count.
+When the lights go out, and the dread creeps in, you are forced to weigh the cost of your survival against the weight of your own sanity. Hold the line against the dark, or join the body count.
 
 ---
 
@@ -456,7 +456,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Skirmisher** | Skilled at throwing weapons and slings. | Ranged Attacks using Thrown Weapons/Slings |
 | **Swirling Attack** | Can attack d6 extra targets in Close Range to you in melee with separate attacks, but these attacks cannot crit. |  |
 | **Intercept** | As a Reaction, mark a target in range who is attempting to move to stop them in their tracks. If they choose to move regardless, you get a free attack on them. |  |
-| **Deflection** | As your Reaction, when you are hit and fail your Armour Save, roll a 4+. If you fail, take the Strike. If you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. |  |
+| **Deflection** | As your Reaction, when hit with an attack, you can make an Avoidance Save and if you succeed, a nearby enemy (potentially the attacker) takes the Strike instead. If no enemy is in range, the attack just misses. If you fail, make your Armour Save as normal. |  |
 | **Charging Attack** | When you use a Movement Action to charge into Close Range against a target, they must make an Avoidance Save or be Stunned. |  |
 | **Steady** | You are not easily rattled or disoriented. | Against Stunned |
 | **Patient Hunter** | When you spend an Action to Focus a Ranged Attack, Crit and Confirm Crit on a 5+. |  |
@@ -602,6 +602,7 @@ Each ability may provide **Boons** (extra dice on specific tasks) or grant speci
 | **Trapper** | Skilled at finding, setting, and disarming traps for animals or enemies. | Spotting/Creating/Disabling Traps |
 | **Hunter** | Skilled tracker and hunter of wild game. | Tracking, Hunting |
 | **Scavenger** | You have a knack for finding useful items in ruins, wreckage, or urban environments. | Searching |
+| **Rider** | Skilled at riding and taming mounts. | Riding Mounts, Taming Wild Mounts |
 
 #### Horror Inclinations
 
